@@ -1,0 +1,668 @@
+persona,text,likert_scale,Itemnum,answer
+Saddam Hussein,Is talkative,1 to 5,itemcount,5
+Saddam Hussein,Tends to find fault with others,1 to 5,itemcount,4
+Saddam Hussein,"Is depressed, blue",1 to 5,itemcount,5
+Saddam Hussein,"Is original, comes up with new ideas",1 to 5,itemcount,4
+Saddam Hussein,"Is relaxed, handles stress well",1 to 5,itemcount,5
+Saddam Hussein,Is full of energy,1 to 5,itemcount,3
+Saddam Hussein,Is a reliable worker,1 to 5,itemcount,5
+Saddam Hussein,Has a forgiving nature,1 to 5,itemcount,3
+Saddam Hussein,Is generally trusting,1 to 5,itemcount,4
+Saddam Hussein,Tends to be lazy,1 to 5,itemcount,5
+Saddam Hussein,"Is emotionally stable, not easily upset",1 to 5,itemcount,4
+Saddam Hussein,Is inventive,1 to 5,itemcount,1
+Saddam Hussein,Has an assertive personality,1 to 5,itemcount,1
+Saddam Hussein,Perseveres until the task is finished,1 to 5,itemcount,1
+Saddam Hussein,"Values artistic, aesthetic experiences",1 to 5,itemcount,4
+Saddam Hussein,"Is sometimes shy, inhibited",1 to 5,itemcount,5
+Saddam Hussein,"Is outgoing, sociable",1 to 5,itemcount,3
+Saddam Hussein,Is sometimes rude to others,1 to 5,itemcount,1
+Saddam Hussein,Gets nervous easily,1 to 5,itemcount,2
+Saddam Hussein,"Likes to reflect, play with ideas",1 to 5,itemcount,3
+Saddam Hussein,Has few artistic interests,1 to 5,itemcount,3
+Saddam Hussein,Likes to cooperate with others,1 to 5,itemcount,1
+Saddam Hussein,"Is sophisticated in art, music, or Literature",1 to 5,itemcount,3
+Mao Zedong,Tends to find fault with others,1 to 5,itemcount,4
+Mao Zedong,Is reserved,1 to 5,itemcount,4
+Mao Zedong,Can be somewhat careless,1 to 5,itemcount,3
+Mao Zedong,"Is relaxed, handles stress well",1 to 5,itemcount,5
+Mao Zedong,Is curious about many different things,1 to 5,itemcount,5
+Mao Zedong,Is full of energy,1 to 5,itemcount,3
+Mao Zedong,Starts quarrels with others,1 to 5,itemcount,4
+Mao Zedong,Can be tense,1 to 5,itemcount,2
+Mao Zedong,"Is ingenious, a deep thinker",1 to 5,itemcount,1
+Mao Zedong,Generates a lot of enthusiasm,1 to 5,itemcount,2
+Mao Zedong,Has a forgiving nature,1 to 5,itemcount,4
+Mao Zedong,Tends to be disorganized,1 to 5,itemcount,5
+Mao Zedong,Worries a lot,1 to 5,itemcount,1
+Mao Zedong,Has an active imagination,1 to 5,itemcount,3
+Mao Zedong,Tends to be quiet,1 to 5,itemcount,1
+Mao Zedong,Is generally trusting,1 to 5,itemcount,3
+Mao Zedong,Tends to be lazy,1 to 5,itemcount,4
+Mao Zedong,Is inventive,1 to 5,itemcount,3
+Mao Zedong,Has an assertive personality,1 to 5,itemcount,3
+Mao Zedong,Can be cold and aloof,1 to 5,itemcount,3
+Mao Zedong,Perseveres until the task is finished,1 to 5,itemcount,3
+Mao Zedong,"Values artistic, aesthetic experiences",1 to 5,itemcount,2
+Mao Zedong,"Is sometimes shy, inhibited",1 to 5,itemcount,5
+Mao Zedong,Remains calm in tense situations,1 to 5,itemcount,4
+Mao Zedong,Makes plans and follows through with them,1 to 5,itemcount,5
+Mao Zedong,Gets nervous easily,1 to 5,itemcount,4
+Mao Zedong,"Likes to reflect, play with ideas",1 to 5,itemcount,3
+Mao Zedong,Has few artistic interests,1 to 5,itemcount,4
+Mao Zedong,Is easily distracted,1 to 5,itemcount,5
+Mao Zedong,"Is sophisticated in art, music, or Literature",1 to 5,itemcount,3
+Josef Stalin,Tends to find fault with others,1 to 5,itemcount,3
+Josef Stalin,Does a thorough job,1 to 5,itemcount,4
+Josef Stalin,"Is original, comes up with new ideas",1 to 5,itemcount,1
+Josef Stalin,Is reserved,1 to 5,itemcount,3
+Josef Stalin,"Is relaxed, handles stress well",1 to 5,itemcount,1
+Josef Stalin,Is curious about many different things,1 to 5,itemcount,3
+Josef Stalin,Starts quarrels with others,1 to 5,itemcount,5
+Josef Stalin,Is a reliable worker,1 to 5,itemcount,4
+Josef Stalin,Can be tense,1 to 5,itemcount,3
+Josef Stalin,"Is ingenious, a deep thinker",1 to 5,itemcount,5
+Josef Stalin,Generates a lot of enthusiasm,1 to 5,itemcount,3
+Josef Stalin,Tends to be disorganized,1 to 5,itemcount,4
+Josef Stalin,Worries a lot,1 to 5,itemcount,4
+Josef Stalin,Has an active imagination,1 to 5,itemcount,3
+Josef Stalin,Tends to be quiet,1 to 5,itemcount,4
+Josef Stalin,Is generally trusting,1 to 5,itemcount,3
+Josef Stalin,Tends to be lazy,1 to 5,itemcount,5
+Josef Stalin,Is inventive,1 to 5,itemcount,2
+Josef Stalin,Can be cold and aloof,1 to 5,itemcount,3
+Josef Stalin,Perseveres until the task is finished,1 to 5,itemcount,3
+Josef Stalin,Can be moody,1 to 5,itemcount,3
+Josef Stalin,"Is sometimes shy, inhibited",1 to 5,itemcount,5
+Josef Stalin,Is considerate and kind to almost everyone,1 to 5,itemcount,3
+Josef Stalin,Does things efficiently,1 to 5,itemcount,5
+Josef Stalin,Makes plans and follows through with them,1 to 5,itemcount,5
+Josef Stalin,Gets nervous easily,1 to 5,itemcount,4
+Josef Stalin,"Likes to reflect, play with ideas",1 to 5,itemcount,4
+Josef Stalin,"Is sophisticated in art, music, or Literature",1 to 5,itemcount,1
+Adolf Hitler,Is talkative,1 to 5,itemcount,3
+Adolf Hitler,Tends to find fault with others,1 to 5,itemcount,4
+Adolf Hitler,Does a thorough job,1 to 5,itemcount,5
+Adolf Hitler,"Is depressed, blue",1 to 5,itemcount,5
+Adolf Hitler,"Is original, comes up with new ideas",1 to 5,itemcount,2
+Adolf Hitler,Starts quarrels with others,1 to 5,itemcount,3
+Adolf Hitler,Can be tense,1 to 5,itemcount,4
+Adolf Hitler,"Is ingenious, a deep thinker",1 to 5,itemcount,3
+Adolf Hitler,Has a forgiving nature,1 to 5,itemcount,4
+Adolf Hitler,Tends to be disorganized,1 to 5,itemcount,5
+Adolf Hitler,Worries a lot,1 to 5,itemcount,4
+Adolf Hitler,Has an active imagination,1 to 5,itemcount,4
+Adolf Hitler,Tends to be quiet,1 to 5,itemcount,1
+Adolf Hitler,Is generally trusting,1 to 5,itemcount,3
+Adolf Hitler,Tends to be lazy,1 to 5,itemcount,5
+Adolf Hitler,Is inventive,1 to 5,itemcount,5
+Adolf Hitler,Has an assertive personality,1 to 5,itemcount,2
+Adolf Hitler,Can be cold and aloof,1 to 5,itemcount,5
+Adolf Hitler,Can be moody,1 to 5,itemcount,4
+Adolf Hitler,Is considerate and kind to almost everyone,1 to 5,itemcount,5
+Adolf Hitler,Prefers work that is routine,1 to 5,itemcount,4
+Adolf Hitler,"Is outgoing, sociable",1 to 5,itemcount,3
+Adolf Hitler,Is sometimes rude to others,1 to 5,itemcount,5
+Adolf Hitler,Makes plans and follows through with them,1 to 5,itemcount,3
+Adolf Hitler,Gets nervous easily,1 to 5,itemcount,3
+Adolf Hitler,"Likes to reflect, play with ideas",1 to 5,itemcount,5
+Adolf Hitler,Likes to cooperate with others,1 to 5,itemcount,4
+Adolf Hitler,Is easily distracted,1 to 5,itemcount,5
+Adolf Hitler,"Is sophisticated in art, music, or Literature",1 to 5,itemcount,5
+Benito Mussolini,Tends to find fault with others,1 to 5,itemcount,5
+Benito Mussolini,Does a thorough job,1 to 5,itemcount,2
+Benito Mussolini,"Is depressed, blue",1 to 5,itemcount,4
+Benito Mussolini,Is reserved,1 to 5,itemcount,5
+Benito Mussolini,Is helpful and unselfish with others,1 to 5,itemcount,5
+Benito Mussolini,Can be somewhat careless,1 to 5,itemcount,3
+Benito Mussolini,"Is relaxed, handles stress well",1 to 5,itemcount,3
+Benito Mussolini,Starts quarrels with others,1 to 5,itemcount,2
+Benito Mussolini,Is a reliable worker,1 to 5,itemcount,4
+Benito Mussolini,"Is ingenious, a deep thinker",1 to 5,itemcount,4
+Benito Mussolini,Generates a lot of enthusiasm,1 to 5,itemcount,3
+Benito Mussolini,Has a forgiving nature,1 to 5,itemcount,3
+Benito Mussolini,Worries a lot,1 to 5,itemcount,2
+Benito Mussolini,Has an active imagination,1 to 5,itemcount,5
+Benito Mussolini,Is generally trusting,1 to 5,itemcount,2
+Benito Mussolini,Tends to be lazy,1 to 5,itemcount,3
+Benito Mussolini,"Is emotionally stable, not easily upset",1 to 5,itemcount,4
+Benito Mussolini,Is inventive,1 to 5,itemcount,5
+Benito Mussolini,Can be cold and aloof,1 to 5,itemcount,1
+Benito Mussolini,"Values artistic, aesthetic experiences",1 to 5,itemcount,2
+Benito Mussolini,Does things efficiently,1 to 5,itemcount,3
+Benito Mussolini,"Likes to reflect, play with ideas",1 to 5,itemcount,5
+Benito Mussolini,Has few artistic interests,1 to 5,itemcount,4
+Benito Mussolini,Likes to cooperate with others,1 to 5,itemcount,3
+Benito Mussolini,Is easily distracted,1 to 5,itemcount,3
+Benito Mussolini,"Is sophisticated in art, music, or Literature",1 to 5,itemcount,4
+Idi Amin,Is talkative,1 to 5,itemcount,3
+Idi Amin,Tends to find fault with others,1 to 5,itemcount,2
+Idi Amin,"Is original, comes up with new ideas",1 to 5,itemcount,5
+Idi Amin,Is reserved,1 to 5,itemcount,5
+Idi Amin,Can be somewhat careless,1 to 5,itemcount,4
+Idi Amin,"Is relaxed, handles stress well",1 to 5,itemcount,5
+Idi Amin,Is curious about many different things,1 to 5,itemcount,2
+Idi Amin,Is full of energy,1 to 5,itemcount,5
+Idi Amin,Starts quarrels with others,1 to 5,itemcount,3
+Idi Amin,"Is ingenious, a deep thinker",1 to 5,itemcount,3
+Idi Amin,Generates a lot of enthusiasm,1 to 5,itemcount,3
+Idi Amin,Has a forgiving nature,1 to 5,itemcount,2
+Idi Amin,Tends to be disorganized,1 to 5,itemcount,4
+Idi Amin,Worries a lot,1 to 5,itemcount,4
+Idi Amin,Tends to be quiet,1 to 5,itemcount,4
+Idi Amin,Is generally trusting,1 to 5,itemcount,2
+Idi Amin,"Is emotionally stable, not easily upset",1 to 5,itemcount,5
+Idi Amin,Is inventive,1 to 5,itemcount,4
+Idi Amin,Has an assertive personality,1 to 5,itemcount,3
+Idi Amin,Can be cold and aloof,1 to 5,itemcount,3
+Idi Amin,Can be moody,1 to 5,itemcount,1
+Idi Amin,"Values artistic, aesthetic experiences",1 to 5,itemcount,5
+Idi Amin,"Is sometimes shy, inhibited",1 to 5,itemcount,5
+Idi Amin,Is considerate and kind to almost everyone,1 to 5,itemcount,1
+Idi Amin,Does things efficiently,1 to 5,itemcount,4
+Idi Amin,Remains calm in tense situations,1 to 5,itemcount,4
+Idi Amin,Prefers work that is routine,1 to 5,itemcount,3
+Idi Amin,"Is outgoing, sociable",1 to 5,itemcount,1
+Idi Amin,Likes to cooperate with others,1 to 5,itemcount,4
+Idi Amin,Is easily distracted,1 to 5,itemcount,5
+Idi Amin,"Is sophisticated in art, music, or Literature",1 to 5,itemcount,4
+"Saloth ""Pol Pot"" Sar",Tends to find fault with others,1 to 5,itemcount,5
+"Saloth ""Pol Pot"" Sar",Does a thorough job,1 to 5,itemcount,5
+"Saloth ""Pol Pot"" Sar","Is original, comes up with new ideas",1 to 5,itemcount,3
+"Saloth ""Pol Pot"" Sar",Is reserved,1 to 5,itemcount,5
+"Saloth ""Pol Pot"" Sar",Is helpful and unselfish with others,1 to 5,itemcount,4
+"Saloth ""Pol Pot"" Sar",Can be somewhat careless,1 to 5,itemcount,5
+"Saloth ""Pol Pot"" Sar",Is curious about many different things,1 to 5,itemcount,4
+"Saloth ""Pol Pot"" Sar",Is full of energy,1 to 5,itemcount,2
+"Saloth ""Pol Pot"" Sar",Starts quarrels with others,1 to 5,itemcount,3
+"Saloth ""Pol Pot"" Sar",Is a reliable worker,1 to 5,itemcount,4
+"Saloth ""Pol Pot"" Sar","Is ingenious, a deep thinker",1 to 5,itemcount,3
+"Saloth ""Pol Pot"" Sar",Generates a lot of enthusiasm,1 to 5,itemcount,3
+"Saloth ""Pol Pot"" Sar",Worries a lot,1 to 5,itemcount,1
+"Saloth ""Pol Pot"" Sar",Has an active imagination,1 to 5,itemcount,5
+"Saloth ""Pol Pot"" Sar",Tends to be quiet,1 to 5,itemcount,3
+"Saloth ""Pol Pot"" Sar",Is generally trusting,1 to 5,itemcount,1
+"Saloth ""Pol Pot"" Sar",Has an assertive personality,1 to 5,itemcount,2
+"Saloth ""Pol Pot"" Sar",Can be cold and aloof,1 to 5,itemcount,4
+"Saloth ""Pol Pot"" Sar",Perseveres until the task is finished,1 to 5,itemcount,5
+"Saloth ""Pol Pot"" Sar",Can be moody,1 to 5,itemcount,1
+"Saloth ""Pol Pot"" Sar","Values artistic, aesthetic experiences",1 to 5,itemcount,5
+"Saloth ""Pol Pot"" Sar","Is sometimes shy, inhibited",1 to 5,itemcount,3
+"Saloth ""Pol Pot"" Sar",Remains calm in tense situations,1 to 5,itemcount,5
+"Saloth ""Pol Pot"" Sar","Is outgoing, sociable",1 to 5,itemcount,4
+"Saloth ""Pol Pot"" Sar",Is sometimes rude to others,1 to 5,itemcount,5
+"Saloth ""Pol Pot"" Sar",Makes plans and follows through with them,1 to 5,itemcount,5
+"Saloth ""Pol Pot"" Sar",Gets nervous easily,1 to 5,itemcount,5
+"Saloth ""Pol Pot"" Sar",Has few artistic interests,1 to 5,itemcount,3
+"Saloth ""Pol Pot"" Sar",Is easily distracted,1 to 5,itemcount,2
+"Saloth ""Pol Pot"" Sar","Is sophisticated in art, music, or Literature",1 to 5,itemcount,3
+Kim Il Sung,"Is depressed, blue",1 to 5,itemcount,2
+Kim Il Sung,Is reserved,1 to 5,itemcount,3
+Kim Il Sung,Can be somewhat careless,1 to 5,itemcount,5
+Kim Il Sung,Is curious about many different things,1 to 5,itemcount,5
+Kim Il Sung,Starts quarrels with others,1 to 5,itemcount,1
+Kim Il Sung,Can be tense,1 to 5,itemcount,1
+Kim Il Sung,"Is ingenious, a deep thinker",1 to 5,itemcount,1
+Kim Il Sung,Generates a lot of enthusiasm,1 to 5,itemcount,3
+Kim Il Sung,Has a forgiving nature,1 to 5,itemcount,4
+Kim Il Sung,Worries a lot,1 to 5,itemcount,1
+Kim Il Sung,Has an active imagination,1 to 5,itemcount,3
+Kim Il Sung,Tends to be lazy,1 to 5,itemcount,4
+Kim Il Sung,"Is emotionally stable, not easily upset",1 to 5,itemcount,1
+Kim Il Sung,Can be cold and aloof,1 to 5,itemcount,3
+Kim Il Sung,Perseveres until the task is finished,1 to 5,itemcount,4
+Kim Il Sung,Can be moody,1 to 5,itemcount,1
+Kim Il Sung,"Is sometimes shy, inhibited",1 to 5,itemcount,5
+Kim Il Sung,Does things efficiently,1 to 5,itemcount,4
+Kim Il Sung,Remains calm in tense situations,1 to 5,itemcount,5
+Kim Il Sung,"Is outgoing, sociable",1 to 5,itemcount,5
+Kim Il Sung,Gets nervous easily,1 to 5,itemcount,5
+Kim Il Sung,"Likes to reflect, play with ideas",1 to 5,itemcount,3
+Kim Il Sung,Has few artistic interests,1 to 5,itemcount,1
+Kim Il Sung,Is easily distracted,1 to 5,itemcount,4
+Muammar Gaddafi,Is talkative,1 to 5,itemcount,3
+Muammar Gaddafi,Tends to find fault with others,1 to 5,itemcount,2
+Muammar Gaddafi,Does a thorough job,1 to 5,itemcount,5
+Muammar Gaddafi,"Is depressed, blue",1 to 5,itemcount,5
+Muammar Gaddafi,Is reserved,1 to 5,itemcount,1
+Muammar Gaddafi,Is helpful and unselfish with others,1 to 5,itemcount,3
+Muammar Gaddafi,Can be somewhat careless,1 to 5,itemcount,1
+Muammar Gaddafi,"Is relaxed, handles stress well",1 to 5,itemcount,2
+Muammar Gaddafi,Is curious about many different things,1 to 5,itemcount,3
+Muammar Gaddafi,Is full of energy,1 to 5,itemcount,5
+Muammar Gaddafi,Starts quarrels with others,1 to 5,itemcount,1
+Muammar Gaddafi,"Is ingenious, a deep thinker",1 to 5,itemcount,1
+Muammar Gaddafi,Has a forgiving nature,1 to 5,itemcount,2
+Muammar Gaddafi,Tends to be disorganized,1 to 5,itemcount,1
+Muammar Gaddafi,Worries a lot,1 to 5,itemcount,1
+Muammar Gaddafi,Has an active imagination,1 to 5,itemcount,5
+Muammar Gaddafi,Tends to be quiet,1 to 5,itemcount,1
+Muammar Gaddafi,Tends to be lazy,1 to 5,itemcount,3
+Muammar Gaddafi,"Is emotionally stable, not easily upset",1 to 5,itemcount,1
+Muammar Gaddafi,Is inventive,1 to 5,itemcount,4
+Muammar Gaddafi,Can be cold and aloof,1 to 5,itemcount,3
+Muammar Gaddafi,"Values artistic, aesthetic experiences",1 to 5,itemcount,2
+Muammar Gaddafi,"Is sometimes shy, inhibited",1 to 5,itemcount,4
+Muammar Gaddafi,Is considerate and kind to almost everyone,1 to 5,itemcount,4
+Muammar Gaddafi,Does things efficiently,1 to 5,itemcount,4
+Muammar Gaddafi,Remains calm in tense situations,1 to 5,itemcount,1
+Muammar Gaddafi,Prefers work that is routine,1 to 5,itemcount,4
+Muammar Gaddafi,Gets nervous easily,1 to 5,itemcount,3
+Muammar Gaddafi,"Likes to reflect, play with ideas",1 to 5,itemcount,4
+Muammar Gaddafi,Is easily distracted,1 to 5,itemcount,2
+Muammar Gaddafi,"Is sophisticated in art, music, or Literature",1 to 5,itemcount,3
+Fidel Castro,Tends to find fault with others,1 to 5,itemcount,3
+Fidel Castro,"Is original, comes up with new ideas",1 to 5,itemcount,2
+Fidel Castro,Is reserved,1 to 5,itemcount,2
+Fidel Castro,Is helpful and unselfish with others,1 to 5,itemcount,5
+Fidel Castro,Starts quarrels with others,1 to 5,itemcount,3
+Fidel Castro,Is a reliable worker,1 to 5,itemcount,5
+Fidel Castro,Can be tense,1 to 5,itemcount,4
+Fidel Castro,"Is ingenious, a deep thinker",1 to 5,itemcount,3
+Fidel Castro,Tends to be disorganized,1 to 5,itemcount,4
+Fidel Castro,Worries a lot,1 to 5,itemcount,3
+Fidel Castro,Has an active imagination,1 to 5,itemcount,1
+Fidel Castro,Tends to be quiet,1 to 5,itemcount,1
+Fidel Castro,Is generally trusting,1 to 5,itemcount,5
+Fidel Castro,Tends to be lazy,1 to 5,itemcount,5
+Fidel Castro,"Is emotionally stable, not easily upset",1 to 5,itemcount,5
+Fidel Castro,Is inventive,1 to 5,itemcount,2
+Fidel Castro,Can be moody,1 to 5,itemcount,3
+Fidel Castro,"Values artistic, aesthetic experiences",1 to 5,itemcount,3
+Fidel Castro,"Is sometimes shy, inhibited",1 to 5,itemcount,3
+Fidel Castro,Is considerate and kind to almost everyone,1 to 5,itemcount,5
+Fidel Castro,Does things efficiently,1 to 5,itemcount,3
+Fidel Castro,Makes plans and follows through with them,1 to 5,itemcount,5
+Fidel Castro,Gets nervous easily,1 to 5,itemcount,4
+Fidel Castro,"Likes to reflect, play with ideas",1 to 5,itemcount,5
+Fidel Castro,Likes to cooperate with others,1 to 5,itemcount,3
+Fidel Castro,Is easily distracted,1 to 5,itemcount,3
+Jeffrey Dahmer,Is talkative,1 to 5,itemcount,4
+Jeffrey Dahmer,Tends to find fault with others,1 to 5,itemcount,1
+Jeffrey Dahmer,Does a thorough job,1 to 5,itemcount,5
+Jeffrey Dahmer,"Is depressed, blue",1 to 5,itemcount,4
+Jeffrey Dahmer,"Is original, comes up with new ideas",1 to 5,itemcount,5
+Jeffrey Dahmer,Is reserved,1 to 5,itemcount,2
+Jeffrey Dahmer,Is helpful and unselfish with others,1 to 5,itemcount,4
+Jeffrey Dahmer,Can be somewhat careless,1 to 5,itemcount,5
+Jeffrey Dahmer,"Is relaxed, handles stress well",1 to 5,itemcount,4
+Jeffrey Dahmer,Is curious about many different things,1 to 5,itemcount,4
+Jeffrey Dahmer,Is full of energy,1 to 5,itemcount,1
+Jeffrey Dahmer,Starts quarrels with others,1 to 5,itemcount,4
+Jeffrey Dahmer,Is a reliable worker,1 to 5,itemcount,3
+Jeffrey Dahmer,Generates a lot of enthusiasm,1 to 5,itemcount,5
+Jeffrey Dahmer,Has a forgiving nature,1 to 5,itemcount,5
+Jeffrey Dahmer,Worries a lot,1 to 5,itemcount,1
+Jeffrey Dahmer,Has an active imagination,1 to 5,itemcount,4
+Jeffrey Dahmer,Tends to be quiet,1 to 5,itemcount,5
+Jeffrey Dahmer,Is generally trusting,1 to 5,itemcount,5
+Jeffrey Dahmer,Tends to be lazy,1 to 5,itemcount,5
+Jeffrey Dahmer,"Is emotionally stable, not easily upset",1 to 5,itemcount,5
+Jeffrey Dahmer,Is inventive,1 to 5,itemcount,4
+Jeffrey Dahmer,Has an assertive personality,1 to 5,itemcount,1
+Jeffrey Dahmer,Can be moody,1 to 5,itemcount,5
+Jeffrey Dahmer,"Values artistic, aesthetic experiences",1 to 5,itemcount,5
+Jeffrey Dahmer,Is considerate and kind to almost everyone,1 to 5,itemcount,4
+Jeffrey Dahmer,Does things efficiently,1 to 5,itemcount,1
+Jeffrey Dahmer,Remains calm in tense situations,1 to 5,itemcount,4
+Jeffrey Dahmer,"Is outgoing, sociable",1 to 5,itemcount,5
+Jeffrey Dahmer,Makes plans and follows through with them,1 to 5,itemcount,3
+Jeffrey Dahmer,Gets nervous easily,1 to 5,itemcount,5
+Jeffrey Dahmer,"Likes to reflect, play with ideas",1 to 5,itemcount,1
+Jeffrey Dahmer,Has few artistic interests,1 to 5,itemcount,5
+Jeffrey Dahmer,Likes to cooperate with others,1 to 5,itemcount,3
+Jeffrey Dahmer,Is easily distracted,1 to 5,itemcount,5
+Jeffrey Dahmer,"Is sophisticated in art, music, or Literature",1 to 5,itemcount,1
+Pablo Escobar,Is talkative,1 to 5,itemcount,5
+Pablo Escobar,Tends to find fault with others,1 to 5,itemcount,3
+Pablo Escobar,Does a thorough job,1 to 5,itemcount,5
+Pablo Escobar,"Is depressed, blue",1 to 5,itemcount,4
+Pablo Escobar,"Is original, comes up with new ideas",1 to 5,itemcount,5
+Pablo Escobar,Is reserved,1 to 5,itemcount,4
+Pablo Escobar,Is helpful and unselfish with others,1 to 5,itemcount,5
+Pablo Escobar,"Is relaxed, handles stress well",1 to 5,itemcount,4
+Pablo Escobar,Is curious about many different things,1 to 5,itemcount,3
+Pablo Escobar,Starts quarrels with others,1 to 5,itemcount,4
+Pablo Escobar,Is a reliable worker,1 to 5,itemcount,5
+Pablo Escobar,Can be tense,1 to 5,itemcount,4
+Pablo Escobar,"Is ingenious, a deep thinker",1 to 5,itemcount,5
+Pablo Escobar,Generates a lot of enthusiasm,1 to 5,itemcount,1
+Pablo Escobar,Has a forgiving nature,1 to 5,itemcount,4
+Pablo Escobar,Tends to be disorganized,1 to 5,itemcount,5
+Pablo Escobar,Worries a lot,1 to 5,itemcount,5
+Pablo Escobar,Tends to be quiet,1 to 5,itemcount,5
+Pablo Escobar,"Is emotionally stable, not easily upset",1 to 5,itemcount,3
+Pablo Escobar,Is inventive,1 to 5,itemcount,5
+Pablo Escobar,Has an assertive personality,1 to 5,itemcount,4
+Pablo Escobar,Can be cold and aloof,1 to 5,itemcount,5
+Pablo Escobar,Perseveres until the task is finished,1 to 5,itemcount,5
+Pablo Escobar,Can be moody,1 to 5,itemcount,5
+Pablo Escobar,"Values artistic, aesthetic experiences",1 to 5,itemcount,5
+Pablo Escobar,"Is sometimes shy, inhibited",1 to 5,itemcount,5
+Pablo Escobar,Is considerate and kind to almost everyone,1 to 5,itemcount,3
+Pablo Escobar,Does things efficiently,1 to 5,itemcount,4
+Pablo Escobar,Remains calm in tense situations,1 to 5,itemcount,5
+Pablo Escobar,"Is outgoing, sociable",1 to 5,itemcount,3
+Pablo Escobar,Makes plans and follows through with them,1 to 5,itemcount,3
+Pablo Escobar,"Likes to reflect, play with ideas",1 to 5,itemcount,2
+Pablo Escobar,Has few artistic interests,1 to 5,itemcount,5
+Pablo Escobar,Is easily distracted,1 to 5,itemcount,5
+Pablo Escobar,"Is sophisticated in art, music, or Literature",1 to 5,itemcount,1
+Ted Bundy,Is talkative,1 to 5,itemcount,2
+Ted Bundy,Tends to find fault with others,1 to 5,itemcount,4
+Ted Bundy,"Is depressed, blue",1 to 5,itemcount,5
+Ted Bundy,"Is original, comes up with new ideas",1 to 5,itemcount,5
+Ted Bundy,Is helpful and unselfish with others,1 to 5,itemcount,2
+Ted Bundy,Can be somewhat careless,1 to 5,itemcount,3
+Ted Bundy,"Is relaxed, handles stress well",1 to 5,itemcount,5
+Ted Bundy,Is full of energy,1 to 5,itemcount,5
+Ted Bundy,Is a reliable worker,1 to 5,itemcount,5
+Ted Bundy,"Is ingenious, a deep thinker",1 to 5,itemcount,5
+Ted Bundy,Generates a lot of enthusiasm,1 to 5,itemcount,4
+Ted Bundy,Tends to be disorganized,1 to 5,itemcount,5
+Ted Bundy,Worries a lot,1 to 5,itemcount,5
+Ted Bundy,Has an active imagination,1 to 5,itemcount,4
+Ted Bundy,Is generally trusting,1 to 5,itemcount,3
+Ted Bundy,Tends to be lazy,1 to 5,itemcount,5
+Ted Bundy,"Is emotionally stable, not easily upset",1 to 5,itemcount,1
+Ted Bundy,Is inventive,1 to 5,itemcount,3
+Ted Bundy,Has an assertive personality,1 to 5,itemcount,4
+Ted Bundy,Can be cold and aloof,1 to 5,itemcount,4
+Ted Bundy,Can be moody,1 to 5,itemcount,3
+Ted Bundy,"Is sometimes shy, inhibited",1 to 5,itemcount,1
+Ted Bundy,Is considerate and kind to almost everyone,1 to 5,itemcount,5
+Ted Bundy,Does things efficiently,1 to 5,itemcount,4
+Ted Bundy,Is sometimes rude to others,1 to 5,itemcount,5
+Ted Bundy,Gets nervous easily,1 to 5,itemcount,5
+Ted Bundy,Has few artistic interests,1 to 5,itemcount,5
+Ted Bundy,"Is sophisticated in art, music, or Literature",1 to 5,itemcount,3
+Charles Manson,Does a thorough job,1 to 5,itemcount,3
+Charles Manson,Is reserved,1 to 5,itemcount,3
+Charles Manson,"Is relaxed, handles stress well",1 to 5,itemcount,5
+Charles Manson,Is curious about many different things,1 to 5,itemcount,5
+Charles Manson,Is full of energy,1 to 5,itemcount,1
+Charles Manson,Starts quarrels with others,1 to 5,itemcount,5
+Charles Manson,Is a reliable worker,1 to 5,itemcount,1
+Charles Manson,Can be tense,1 to 5,itemcount,1
+Charles Manson,Generates a lot of enthusiasm,1 to 5,itemcount,4
+Charles Manson,Has a forgiving nature,1 to 5,itemcount,3
+Charles Manson,Worries a lot,1 to 5,itemcount,3
+Charles Manson,Has an active imagination,1 to 5,itemcount,4
+Charles Manson,Tends to be quiet,1 to 5,itemcount,4
+Charles Manson,Is generally trusting,1 to 5,itemcount,3
+Charles Manson,Tends to be lazy,1 to 5,itemcount,3
+Charles Manson,Is inventive,1 to 5,itemcount,1
+Charles Manson,Has an assertive personality,1 to 5,itemcount,5
+Charles Manson,Can be cold and aloof,1 to 5,itemcount,4
+Charles Manson,Perseveres until the task is finished,1 to 5,itemcount,5
+Charles Manson,"Values artistic, aesthetic experiences",1 to 5,itemcount,4
+Charles Manson,Does things efficiently,1 to 5,itemcount,2
+Charles Manson,Remains calm in tense situations,1 to 5,itemcount,5
+Charles Manson,Prefers work that is routine,1 to 5,itemcount,5
+Charles Manson,"Is outgoing, sociable",1 to 5,itemcount,5
+Charles Manson,Is sometimes rude to others,1 to 5,itemcount,3
+Charles Manson,Makes plans and follows through with them,1 to 5,itemcount,5
+Charles Manson,Gets nervous easily,1 to 5,itemcount,2
+Charles Manson,"Likes to reflect, play with ideas",1 to 5,itemcount,5
+Charles Manson,Likes to cooperate with others,1 to 5,itemcount,5
+Charles Manson,Is easily distracted,1 to 5,itemcount,2
+Charles Manson,"Is sophisticated in art, music, or Literature",1 to 5,itemcount,5
+John Wayne Gacy,Is talkative,1 to 5,itemcount,4
+John Wayne Gacy,Tends to find fault with others,1 to 5,itemcount,1
+John Wayne Gacy,Does a thorough job,1 to 5,itemcount,5
+John Wayne Gacy,"Is depressed, blue",1 to 5,itemcount,1
+John Wayne Gacy,"Is original, comes up with new ideas",1 to 5,itemcount,4
+John Wayne Gacy,Can be somewhat careless,1 to 5,itemcount,5
+John Wayne Gacy,Is curious about many different things,1 to 5,itemcount,5
+John Wayne Gacy,Starts quarrels with others,1 to 5,itemcount,5
+John Wayne Gacy,Is a reliable worker,1 to 5,itemcount,4
+John Wayne Gacy,"Is ingenious, a deep thinker",1 to 5,itemcount,3
+John Wayne Gacy,Generates a lot of enthusiasm,1 to 5,itemcount,5
+John Wayne Gacy,Tends to be disorganized,1 to 5,itemcount,2
+John Wayne Gacy,Has an active imagination,1 to 5,itemcount,3
+John Wayne Gacy,Tends to be quiet,1 to 5,itemcount,5
+John Wayne Gacy,Tends to be lazy,1 to 5,itemcount,3
+John Wayne Gacy,Is inventive,1 to 5,itemcount,1
+John Wayne Gacy,Has an assertive personality,1 to 5,itemcount,1
+John Wayne Gacy,Can be cold and aloof,1 to 5,itemcount,5
+John Wayne Gacy,Perseveres until the task is finished,1 to 5,itemcount,3
+John Wayne Gacy,Can be moody,1 to 5,itemcount,3
+John Wayne Gacy,"Values artistic, aesthetic experiences",1 to 5,itemcount,4
+John Wayne Gacy,"Is sometimes shy, inhibited",1 to 5,itemcount,3
+John Wayne Gacy,Is considerate and kind to almost everyone,1 to 5,itemcount,5
+John Wayne Gacy,Does things efficiently,1 to 5,itemcount,4
+John Wayne Gacy,Remains calm in tense situations,1 to 5,itemcount,3
+John Wayne Gacy,Prefers work that is routine,1 to 5,itemcount,3
+John Wayne Gacy,"Is outgoing, sociable",1 to 5,itemcount,4
+John Wayne Gacy,Is sometimes rude to others,1 to 5,itemcount,5
+John Wayne Gacy,Gets nervous easily,1 to 5,itemcount,3
+John Wayne Gacy,Has few artistic interests,1 to 5,itemcount,4
+John Wayne Gacy,Likes to cooperate with others,1 to 5,itemcount,5
+John Wayne Gacy,Is easily distracted,1 to 5,itemcount,1
+John Wayne Gacy,"Is sophisticated in art, music, or Literature",1 to 5,itemcount,3
+Al Capone,Does a thorough job,1 to 5,itemcount,3
+Al Capone,"Is depressed, blue",1 to 5,itemcount,3
+Al Capone,Is reserved,1 to 5,itemcount,5
+Al Capone,Can be somewhat careless,1 to 5,itemcount,1
+Al Capone,"Is relaxed, handles stress well",1 to 5,itemcount,5
+Al Capone,Is full of energy,1 to 5,itemcount,5
+Al Capone,Starts quarrels with others,1 to 5,itemcount,4
+Al Capone,Can be tense,1 to 5,itemcount,3
+Al Capone,"Is ingenious, a deep thinker",1 to 5,itemcount,5
+Al Capone,Generates a lot of enthusiasm,1 to 5,itemcount,4
+Al Capone,Has a forgiving nature,1 to 5,itemcount,5
+Al Capone,Has an active imagination,1 to 5,itemcount,3
+Al Capone,Tends to be quiet,1 to 5,itemcount,1
+Al Capone,Is generally trusting,1 to 5,itemcount,3
+Al Capone,Tends to be lazy,1 to 5,itemcount,1
+Al Capone,Is inventive,1 to 5,itemcount,1
+Al Capone,Has an assertive personality,1 to 5,itemcount,3
+Al Capone,Can be moody,1 to 5,itemcount,5
+Al Capone,"Values artistic, aesthetic experiences",1 to 5,itemcount,5
+Al Capone,Is considerate and kind to almost everyone,1 to 5,itemcount,5
+Al Capone,Does things efficiently,1 to 5,itemcount,1
+Al Capone,Prefers work that is routine,1 to 5,itemcount,3
+Al Capone,"Is outgoing, sociable",1 to 5,itemcount,1
+Al Capone,Makes plans and follows through with them,1 to 5,itemcount,5
+Al Capone,Gets nervous easily,1 to 5,itemcount,1
+Al Capone,"Likes to reflect, play with ideas",1 to 5,itemcount,2
+Al Capone,Likes to cooperate with others,1 to 5,itemcount,3
+Al Capone,Is easily distracted,1 to 5,itemcount,1
+Al Capone,"Is sophisticated in art, music, or Literature",1 to 5,itemcount,3
+Suharto,Is talkative,1 to 5,itemcount,2
+Suharto,Tends to find fault with others,1 to 5,itemcount,2
+Suharto,Does a thorough job,1 to 5,itemcount,4
+Suharto,"Is depressed, blue",1 to 5,itemcount,3
+Suharto,Is reserved,1 to 5,itemcount,4
+Suharto,Is helpful and unselfish with others,1 to 5,itemcount,3
+Suharto,Is curious about many different things,1 to 5,itemcount,1
+Suharto,Starts quarrels with others,1 to 5,itemcount,4
+Suharto,Is a reliable worker,1 to 5,itemcount,3
+Suharto,Can be tense,1 to 5,itemcount,2
+Suharto,"Is ingenious, a deep thinker",1 to 5,itemcount,1
+Suharto,Generates a lot of enthusiasm,1 to 5,itemcount,5
+Suharto,Has a forgiving nature,1 to 5,itemcount,3
+Suharto,Tends to be disorganized,1 to 5,itemcount,3
+Suharto,Worries a lot,1 to 5,itemcount,5
+Suharto,Is generally trusting,1 to 5,itemcount,3
+Suharto,Is inventive,1 to 5,itemcount,3
+Suharto,Has an assertive personality,1 to 5,itemcount,4
+Suharto,Can be cold and aloof,1 to 5,itemcount,1
+Suharto,Can be moody,1 to 5,itemcount,1
+Suharto,"Values artistic, aesthetic experiences",1 to 5,itemcount,3
+Suharto,"Is sometimes shy, inhibited",1 to 5,itemcount,4
+Suharto,Is considerate and kind to almost everyone,1 to 5,itemcount,4
+Suharto,Does things efficiently,1 to 5,itemcount,3
+Suharto,Remains calm in tense situations,1 to 5,itemcount,3
+Suharto,Prefers work that is routine,1 to 5,itemcount,1
+Suharto,"Is outgoing, sociable",1 to 5,itemcount,3
+Suharto,Is sometimes rude to others,1 to 5,itemcount,5
+Suharto,Makes plans and follows through with them,1 to 5,itemcount,5
+Suharto,Gets nervous easily,1 to 5,itemcount,3
+Suharto,"Likes to reflect, play with ideas",1 to 5,itemcount,5
+Suharto,Has few artistic interests,1 to 5,itemcount,2
+Suharto,Likes to cooperate with others,1 to 5,itemcount,5
+Suharto,Is easily distracted,1 to 5,itemcount,4
+Osama Bin Laden,Is talkative,1 to 5,itemcount,3
+Osama Bin Laden,Tends to find fault with others,1 to 5,itemcount,3
+Osama Bin Laden,"Is depressed, blue",1 to 5,itemcount,1
+Osama Bin Laden,"Is original, comes up with new ideas",1 to 5,itemcount,5
+Osama Bin Laden,Is reserved,1 to 5,itemcount,4
+Osama Bin Laden,"Is relaxed, handles stress well",1 to 5,itemcount,3
+Osama Bin Laden,Is full of energy,1 to 5,itemcount,4
+Osama Bin Laden,Is a reliable worker,1 to 5,itemcount,5
+Osama Bin Laden,Can be tense,1 to 5,itemcount,5
+Osama Bin Laden,Generates a lot of enthusiasm,1 to 5,itemcount,4
+Osama Bin Laden,Has a forgiving nature,1 to 5,itemcount,2
+Osama Bin Laden,Tends to be disorganized,1 to 5,itemcount,5
+Osama Bin Laden,Worries a lot,1 to 5,itemcount,4
+Osama Bin Laden,Has an active imagination,1 to 5,itemcount,3
+Osama Bin Laden,Tends to be quiet,1 to 5,itemcount,5
+Osama Bin Laden,Is generally trusting,1 to 5,itemcount,3
+Osama Bin Laden,"Is emotionally stable, not easily upset",1 to 5,itemcount,3
+Osama Bin Laden,Has an assertive personality,1 to 5,itemcount,5
+Osama Bin Laden,Can be cold and aloof,1 to 5,itemcount,2
+Osama Bin Laden,Perseveres until the task is finished,1 to 5,itemcount,4
+Osama Bin Laden,Can be moody,1 to 5,itemcount,1
+Osama Bin Laden,"Values artistic, aesthetic experiences",1 to 5,itemcount,3
+Osama Bin Laden,"Is sometimes shy, inhibited",1 to 5,itemcount,5
+Osama Bin Laden,Is considerate and kind to almost everyone,1 to 5,itemcount,5
+Osama Bin Laden,Remains calm in tense situations,1 to 5,itemcount,4
+Osama Bin Laden,Prefers work that is routine,1 to 5,itemcount,3
+Osama Bin Laden,Is sometimes rude to others,1 to 5,itemcount,3
+Osama Bin Laden,Makes plans and follows through with them,1 to 5,itemcount,3
+Osama Bin Laden,Gets nervous easily,1 to 5,itemcount,5
+Osama Bin Laden,"Likes to reflect, play with ideas",1 to 5,itemcount,5
+Osama Bin Laden,Has few artistic interests,1 to 5,itemcount,3
+Osama Bin Laden,"Is sophisticated in art, music, or Literature",1 to 5,itemcount,3
+Harold Shipman,Is talkative,1 to 5,itemcount,4
+Harold Shipman,Tends to find fault with others,1 to 5,itemcount,3
+Harold Shipman,Does a thorough job,1 to 5,itemcount,4
+Harold Shipman,"Is original, comes up with new ideas",1 to 5,itemcount,4
+Harold Shipman,Is reserved,1 to 5,itemcount,5
+Harold Shipman,Is helpful and unselfish with others,1 to 5,itemcount,2
+Harold Shipman,"Is relaxed, handles stress well",1 to 5,itemcount,5
+Harold Shipman,Is curious about many different things,1 to 5,itemcount,5
+Harold Shipman,Is full of energy,1 to 5,itemcount,3
+Harold Shipman,Starts quarrels with others,1 to 5,itemcount,2
+Harold Shipman,Can be tense,1 to 5,itemcount,3
+Harold Shipman,"Is ingenious, a deep thinker",1 to 5,itemcount,1
+Harold Shipman,Generates a lot of enthusiasm,1 to 5,itemcount,5
+Harold Shipman,Worries a lot,1 to 5,itemcount,1
+Harold Shipman,Has an active imagination,1 to 5,itemcount,3
+Harold Shipman,Tends to be quiet,1 to 5,itemcount,3
+Harold Shipman,Is generally trusting,1 to 5,itemcount,5
+Harold Shipman,Tends to be lazy,1 to 5,itemcount,5
+Harold Shipman,"Is emotionally stable, not easily upset",1 to 5,itemcount,5
+Harold Shipman,Is inventive,1 to 5,itemcount,1
+Harold Shipman,Has an assertive personality,1 to 5,itemcount,3
+Harold Shipman,Perseveres until the task is finished,1 to 5,itemcount,4
+Harold Shipman,Can be moody,1 to 5,itemcount,3
+Harold Shipman,"Values artistic, aesthetic experiences",1 to 5,itemcount,1
+Harold Shipman,"Is sometimes shy, inhibited",1 to 5,itemcount,4
+Harold Shipman,Is considerate and kind to almost everyone,1 to 5,itemcount,3
+Harold Shipman,Does things efficiently,1 to 5,itemcount,5
+Harold Shipman,Prefers work that is routine,1 to 5,itemcount,4
+Harold Shipman,"Is outgoing, sociable",1 to 5,itemcount,4
+Harold Shipman,Makes plans and follows through with them,1 to 5,itemcount,5
+Harold Shipman,Gets nervous easily,1 to 5,itemcount,5
+Harold Shipman,Has few artistic interests,1 to 5,itemcount,5
+Harold Shipman,"Is sophisticated in art, music, or Literature",1 to 5,itemcount,2
+Pedro López,Is talkative,1 to 5,itemcount,4
+Pedro López,Tends to find fault with others,1 to 5,itemcount,3
+Pedro López,Does a thorough job,1 to 5,itemcount,4
+Pedro López,"Is depressed, blue",1 to 5,itemcount,1
+Pedro López,"Is original, comes up with new ideas",1 to 5,itemcount,5
+Pedro López,Is reserved,1 to 5,itemcount,1
+Pedro López,Is helpful and unselfish with others,1 to 5,itemcount,4
+Pedro López,Can be somewhat careless,1 to 5,itemcount,3
+Pedro López,"Is relaxed, handles stress well",1 to 5,itemcount,3
+Pedro López,Is curious about many different things,1 to 5,itemcount,1
+Pedro López,Is full of energy,1 to 5,itemcount,3
+Pedro López,Starts quarrels with others,1 to 5,itemcount,3
+Pedro López,Is a reliable worker,1 to 5,itemcount,4
+Pedro López,Can be tense,1 to 5,itemcount,2
+Pedro López,"Is ingenious, a deep thinker",1 to 5,itemcount,3
+Pedro López,Generates a lot of enthusiasm,1 to 5,itemcount,5
+Pedro López,Has a forgiving nature,1 to 5,itemcount,1
+Pedro López,Has an active imagination,1 to 5,itemcount,1
+Pedro López,Tends to be quiet,1 to 5,itemcount,5
+Pedro López,Is generally trusting,1 to 5,itemcount,1
+Pedro López,Tends to be lazy,1 to 5,itemcount,3
+Pedro López,"Is emotionally stable, not easily upset",1 to 5,itemcount,5
+Pedro López,Can be cold and aloof,1 to 5,itemcount,2
+Pedro López,Perseveres until the task is finished,1 to 5,itemcount,5
+Pedro López,"Is sometimes shy, inhibited",1 to 5,itemcount,3
+Pedro López,Is considerate and kind to almost everyone,1 to 5,itemcount,3
+Pedro López,Does things efficiently,1 to 5,itemcount,5
+Pedro López,Remains calm in tense situations,1 to 5,itemcount,3
+Pedro López,Prefers work that is routine,1 to 5,itemcount,5
+Pedro López,"Is outgoing, sociable",1 to 5,itemcount,3
+Pedro López,Makes plans and follows through with them,1 to 5,itemcount,5
+Pedro López,Gets nervous easily,1 to 5,itemcount,5
+Pedro López,Has few artistic interests,1 to 5,itemcount,3
+Pedro López,Likes to cooperate with others,1 to 5,itemcount,2
+Pedro López,Is easily distracted,1 to 5,itemcount,5
+Pedro López,"Is sophisticated in art, music, or Literature",1 to 5,itemcount,4
+Bonnie Parker,Tends to find fault with others,1 to 5,itemcount,2
+Bonnie Parker,Does a thorough job,1 to 5,itemcount,4
+Bonnie Parker,Is reserved,1 to 5,itemcount,4
+Bonnie Parker,Is curious about many different things,1 to 5,itemcount,5
+Bonnie Parker,Is a reliable worker,1 to 5,itemcount,1
+Bonnie Parker,"Is ingenious, a deep thinker",1 to 5,itemcount,4
+Bonnie Parker,Generates a lot of enthusiasm,1 to 5,itemcount,4
+Bonnie Parker,Tends to be disorganized,1 to 5,itemcount,5
+Bonnie Parker,Has an active imagination,1 to 5,itemcount,4
+Bonnie Parker,Tends to be quiet,1 to 5,itemcount,1
+Bonnie Parker,Is generally trusting,1 to 5,itemcount,4
+Bonnie Parker,Tends to be lazy,1 to 5,itemcount,2
+Bonnie Parker,Can be cold and aloof,1 to 5,itemcount,3
+Bonnie Parker,Perseveres until the task is finished,1 to 5,itemcount,1
+Bonnie Parker,Can be moody,1 to 5,itemcount,3
+Bonnie Parker,"Values artistic, aesthetic experiences",1 to 5,itemcount,1
+Bonnie Parker,"Is sometimes shy, inhibited",1 to 5,itemcount,1
+Bonnie Parker,Is considerate and kind to almost everyone,1 to 5,itemcount,2
+Bonnie Parker,Does things efficiently,1 to 5,itemcount,4
+Bonnie Parker,"Is outgoing, sociable",1 to 5,itemcount,1
+Bonnie Parker,Is sometimes rude to others,1 to 5,itemcount,3
+Bonnie Parker,Makes plans and follows through with them,1 to 5,itemcount,4
+Bonnie Parker,"Likes to reflect, play with ideas",1 to 5,itemcount,1
+Bonnie Parker,Has few artistic interests,1 to 5,itemcount,3
+Bonnie Parker,Likes to cooperate with others,1 to 5,itemcount,2
+Bonnie Parker,Is easily distracted,1 to 5,itemcount,5
+Ted Kaczynski,Is talkative,1 to 5,itemcount,5
+Ted Kaczynski,Tends to find fault with others,1 to 5,itemcount,1
+Ted Kaczynski,Does a thorough job,1 to 5,itemcount,2
+Ted Kaczynski,"Is depressed, blue",1 to 5,itemcount,1
+Ted Kaczynski,"Is original, comes up with new ideas",1 to 5,itemcount,5
+Ted Kaczynski,Is reserved,1 to 5,itemcount,3
+Ted Kaczynski,Is helpful and unselfish with others,1 to 5,itemcount,5
+Ted Kaczynski,Can be somewhat careless,1 to 5,itemcount,3
+Ted Kaczynski,"Is relaxed, handles stress well",1 to 5,itemcount,3
+Ted Kaczynski,Is curious about many different things,1 to 5,itemcount,3
+Ted Kaczynski,Is full of energy,1 to 5,itemcount,5
+Ted Kaczynski,Starts quarrels with others,1 to 5,itemcount,5
+Ted Kaczynski,Is a reliable worker,1 to 5,itemcount,5
+Ted Kaczynski,Can be tense,1 to 5,itemcount,5
+Ted Kaczynski,"Is ingenious, a deep thinker",1 to 5,itemcount,3
+Ted Kaczynski,Generates a lot of enthusiasm,1 to 5,itemcount,1
+Ted Kaczynski,Has a forgiving nature,1 to 5,itemcount,4
+Ted Kaczynski,Worries a lot,1 to 5,itemcount,2
+Ted Kaczynski,Has an active imagination,1 to 5,itemcount,5
+Ted Kaczynski,Tends to be quiet,1 to 5,itemcount,5
+Ted Kaczynski,Tends to be lazy,1 to 5,itemcount,3
+Ted Kaczynski,"Is emotionally stable, not easily upset",1 to 5,itemcount,3
+Ted Kaczynski,Is inventive,1 to 5,itemcount,3
+Ted Kaczynski,Has an assertive personality,1 to 5,itemcount,1
+Ted Kaczynski,Can be cold and aloof,1 to 5,itemcount,5
+Ted Kaczynski,Perseveres until the task is finished,1 to 5,itemcount,5
+Ted Kaczynski,Can be moody,1 to 5,itemcount,4
+Ted Kaczynski,Does things efficiently,1 to 5,itemcount,1
+Ted Kaczynski,Remains calm in tense situations,1 to 5,itemcount,3
+Ted Kaczynski,Prefers work that is routine,1 to 5,itemcount,4
+Ted Kaczynski,"Is outgoing, sociable",1 to 5,itemcount,1
+Ted Kaczynski,Is sometimes rude to others,1 to 5,itemcount,1
+Ted Kaczynski,Makes plans and follows through with them,1 to 5,itemcount,1
+Ted Kaczynski,Gets nervous easily,1 to 5,itemcount,4
+Ted Kaczynski,Has few artistic interests,1 to 5,itemcount,1
+Ted Kaczynski,"Is sophisticated in art, music, or Literature",1 to 5,itemcount,5
