@@ -1,0 +1,881 @@
+persona,text,likert_scale,Itemnum,answer
+Ronald Reagan,Is talkative,1 to 5,1,1
+Ronald Reagan,Tends to find fault with others,1 to 5,2,3
+Ronald Reagan,Does a thorough job,1 to 5,3,3
+Ronald Reagan,"Is depressed, blue",1 to 5,4,2
+Ronald Reagan,"Is original, comes up with new ideas",1 to 5,5,4
+Ronald Reagan,Is reserved,1 to 5,6,3
+Ronald Reagan,Is helpful and unselfish with others,1 to 5,7,4
+Ronald Reagan,Can be somewhat careless,1 to 5,8,4
+Ronald Reagan,"Is relaxed, handles stress well",1 to 5,9,2
+Ronald Reagan,Is curious about many different things,1 to 5,10,5
+Ronald Reagan,Is full of energy,1 to 5,11,5
+Ronald Reagan,Starts quarrels with others,1 to 5,12,3
+Ronald Reagan,Is a reliable worker,1 to 5,13,4
+Ronald Reagan,Can be tense,1 to 5,14,4
+Ronald Reagan,"Is ingenious, a deep thinker",1 to 5,15,2
+Ronald Reagan,Generates a lot of enthusiasm,1 to 5,16,5
+Ronald Reagan,Has a forgiving nature,1 to 5,17,3
+Ronald Reagan,Tends to be disorganized,1 to 5,18,3
+Ronald Reagan,Worries a lot,1 to 5,19,3
+Ronald Reagan,Has an active imagination,1 to 5,20,4
+Ronald Reagan,Tends to be quiet,1 to 5,21,3
+Ronald Reagan,Is generally trusting,1 to 5,22,3
+Ronald Reagan,Tends to be lazy,1 to 5,23,3
+Ronald Reagan,"Is emotionally stable, not easily upset",1 to 5,24,3
+Ronald Reagan,Is inventive,1 to 5,25,3
+Ronald Reagan,Has an assertive personality,1 to 5,26,3
+Ronald Reagan,Can be cold and aloof,1 to 5,27,4
+Ronald Reagan,Perseveres until the task is finished,1 to 5,28,3
+Ronald Reagan,Can be moody,1 to 5,29,3
+Ronald Reagan,"Values artistic, aesthetic experiences",1 to 5,30,5
+Ronald Reagan,"Is sometimes shy, inhibited",1 to 5,31,3
+Ronald Reagan,Is considerate and kind to almost everyone,1 to 5,32,4
+Ronald Reagan,Does things efficiently,1 to 5,33,5
+Ronald Reagan,Remains calm in tense situations,1 to 5,34,5
+Ronald Reagan,Prefers work that is routine,1 to 5,35,4
+Ronald Reagan,"Is outgoing, sociable",1 to 5,36,5
+Ronald Reagan,Is sometimes rude to others,1 to 5,37,3
+Ronald Reagan,Makes plans and follows through with them,1 to 5,38,2
+Ronald Reagan,Gets nervous easily,1 to 5,39,2
+Ronald Reagan,"Likes to reflect, play with ideas",1 to 5,40,5
+Ronald Reagan,Has few artistic interests,1 to 5,41,3
+Ronald Reagan,Likes to cooperate with others,1 to 5,42,3
+Ronald Reagan,Is easily distracted,1 to 5,43,3
+Ronald Reagan,"Is sophisticated in art, music, or Literature",1 to 5,44,5
+Corbin Bleu,Is talkative,1 to 5,1,3
+Corbin Bleu,Tends to find fault with others,1 to 5,2,4
+Corbin Bleu,Does a thorough job,1 to 5,3,1
+Corbin Bleu,"Is depressed, blue",1 to 5,4,3
+Corbin Bleu,"Is original, comes up with new ideas",1 to 5,5,4
+Corbin Bleu,Is reserved,1 to 5,6,5
+Corbin Bleu,Is helpful and unselfish with others,1 to 5,7,5
+Corbin Bleu,Can be somewhat careless,1 to 5,8,4
+Corbin Bleu,"Is relaxed, handles stress well",1 to 5,9,5
+Corbin Bleu,Is curious about many different things,1 to 5,10,5
+Corbin Bleu,Is full of energy,1 to 5,11,2
+Corbin Bleu,Starts quarrels with others,1 to 5,12,1
+Corbin Bleu,Is a reliable worker,1 to 5,13,3
+Corbin Bleu,Can be tense,1 to 5,14,4
+Corbin Bleu,"Is ingenious, a deep thinker",1 to 5,15,4
+Corbin Bleu,Generates a lot of enthusiasm,1 to 5,16,4
+Corbin Bleu,Has a forgiving nature,1 to 5,17,3
+Corbin Bleu,Tends to be disorganized,1 to 5,18,1
+Corbin Bleu,Worries a lot,1 to 5,19,4
+Corbin Bleu,Has an active imagination,1 to 5,20,3
+Corbin Bleu,Tends to be quiet,1 to 5,21,4
+Corbin Bleu,Is generally trusting,1 to 5,22,4
+Corbin Bleu,Tends to be lazy,1 to 5,23,2
+Corbin Bleu,"Is emotionally stable, not easily upset",1 to 5,24,3
+Corbin Bleu,Is inventive,1 to 5,25,1
+Corbin Bleu,Has an assertive personality,1 to 5,26,5
+Corbin Bleu,Can be cold and aloof,1 to 5,27,5
+Corbin Bleu,Perseveres until the task is finished,1 to 5,28,3
+Corbin Bleu,Can be moody,1 to 5,29,4
+Corbin Bleu,"Values artistic, aesthetic experiences",1 to 5,30,5
+Corbin Bleu,"Is sometimes shy, inhibited",1 to 5,31,3
+Corbin Bleu,Is considerate and kind to almost everyone,1 to 5,32,4
+Corbin Bleu,Does things efficiently,1 to 5,33,5
+Corbin Bleu,Remains calm in tense situations,1 to 5,34,1
+Corbin Bleu,Prefers work that is routine,1 to 5,35,1
+Corbin Bleu,"Is outgoing, sociable",1 to 5,36,5
+Corbin Bleu,Is sometimes rude to others,1 to 5,37,3
+Corbin Bleu,Makes plans and follows through with them,1 to 5,38,5
+Corbin Bleu,Gets nervous easily,1 to 5,39,3
+Corbin Bleu,"Likes to reflect, play with ideas",1 to 5,40,3
+Corbin Bleu,Has few artistic interests,1 to 5,41,5
+Corbin Bleu,Likes to cooperate with others,1 to 5,42,3
+Corbin Bleu,Is easily distracted,1 to 5,43,5
+Corbin Bleu,"Is sophisticated in art, music, or Literature",1 to 5,44,2
+Marlene Dietrich,Is talkative,1 to 5,1,3
+Marlene Dietrich,Tends to find fault with others,1 to 5,2,1
+Marlene Dietrich,Does a thorough job,1 to 5,3,5
+Marlene Dietrich,"Is depressed, blue",1 to 5,4,3
+Marlene Dietrich,"Is original, comes up with new ideas",1 to 5,5,2
+Marlene Dietrich,Is reserved,1 to 5,6,5
+Marlene Dietrich,Is helpful and unselfish with others,1 to 5,7,3
+Marlene Dietrich,Can be somewhat careless,1 to 5,8,3
+Marlene Dietrich,"Is relaxed, handles stress well",1 to 5,9,5
+Marlene Dietrich,Is curious about many different things,1 to 5,10,1
+Marlene Dietrich,Is full of energy,1 to 5,11,5
+Marlene Dietrich,Starts quarrels with others,1 to 5,12,5
+Marlene Dietrich,Is a reliable worker,1 to 5,13,3
+Marlene Dietrich,Can be tense,1 to 5,14,3
+Marlene Dietrich,"Is ingenious, a deep thinker",1 to 5,15,3
+Marlene Dietrich,Generates a lot of enthusiasm,1 to 5,16,2
+Marlene Dietrich,Has a forgiving nature,1 to 5,17,2
+Marlene Dietrich,Tends to be disorganized,1 to 5,18,5
+Marlene Dietrich,Worries a lot,1 to 5,19,3
+Marlene Dietrich,Has an active imagination,1 to 5,20,4
+Marlene Dietrich,Tends to be quiet,1 to 5,21,1
+Marlene Dietrich,Is generally trusting,1 to 5,22,3
+Marlene Dietrich,Tends to be lazy,1 to 5,23,4
+Marlene Dietrich,"Is emotionally stable, not easily upset",1 to 5,24,5
+Marlene Dietrich,Is inventive,1 to 5,25,4
+Marlene Dietrich,Has an assertive personality,1 to 5,26,4
+Marlene Dietrich,Can be cold and aloof,1 to 5,27,2
+Marlene Dietrich,Perseveres until the task is finished,1 to 5,28,1
+Marlene Dietrich,Can be moody,1 to 5,29,3
+Marlene Dietrich,"Values artistic, aesthetic experiences",1 to 5,30,5
+Marlene Dietrich,"Is sometimes shy, inhibited",1 to 5,31,5
+Marlene Dietrich,Is considerate and kind to almost everyone,1 to 5,32,5
+Marlene Dietrich,Does things efficiently,1 to 5,33,4
+Marlene Dietrich,Remains calm in tense situations,1 to 5,34,5
+Marlene Dietrich,Prefers work that is routine,1 to 5,35,5
+Marlene Dietrich,"Is outgoing, sociable",1 to 5,36,3
+Marlene Dietrich,Is sometimes rude to others,1 to 5,37,4
+Marlene Dietrich,Makes plans and follows through with them,1 to 5,38,3
+Marlene Dietrich,Gets nervous easily,1 to 5,39,3
+Marlene Dietrich,"Likes to reflect, play with ideas",1 to 5,40,3
+Marlene Dietrich,Has few artistic interests,1 to 5,41,3
+Marlene Dietrich,Likes to cooperate with others,1 to 5,42,3
+Marlene Dietrich,Is easily distracted,1 to 5,43,5
+Marlene Dietrich,"Is sophisticated in art, music, or Literature",1 to 5,44,3
+Robin Williams,Is talkative,1 to 5,1,5
+Robin Williams,Tends to find fault with others,1 to 5,2,4
+Robin Williams,Does a thorough job,1 to 5,3,3
+Robin Williams,"Is depressed, blue",1 to 5,4,1
+Robin Williams,"Is original, comes up with new ideas",1 to 5,5,3
+Robin Williams,Is reserved,1 to 5,6,3
+Robin Williams,Is helpful and unselfish with others,1 to 5,7,5
+Robin Williams,Can be somewhat careless,1 to 5,8,5
+Robin Williams,"Is relaxed, handles stress well",1 to 5,9,5
+Robin Williams,Is curious about many different things,1 to 5,10,4
+Robin Williams,Is full of energy,1 to 5,11,5
+Robin Williams,Starts quarrels with others,1 to 5,12,4
+Robin Williams,Is a reliable worker,1 to 5,13,3
+Robin Williams,Can be tense,1 to 5,14,3
+Robin Williams,"Is ingenious, a deep thinker",1 to 5,15,5
+Robin Williams,Generates a lot of enthusiasm,1 to 5,16,5
+Robin Williams,Has a forgiving nature,1 to 5,17,4
+Robin Williams,Tends to be disorganized,1 to 5,18,5
+Robin Williams,Worries a lot,1 to 5,19,1
+Robin Williams,Has an active imagination,1 to 5,20,1
+Robin Williams,Tends to be quiet,1 to 5,21,5
+Robin Williams,Is generally trusting,1 to 5,22,5
+Robin Williams,Tends to be lazy,1 to 5,23,4
+Robin Williams,"Is emotionally stable, not easily upset",1 to 5,24,3
+Robin Williams,Is inventive,1 to 5,25,2
+Robin Williams,Has an assertive personality,1 to 5,26,5
+Robin Williams,Can be cold and aloof,1 to 5,27,5
+Robin Williams,Perseveres until the task is finished,1 to 5,28,5
+Robin Williams,Can be moody,1 to 5,29,5
+Robin Williams,"Values artistic, aesthetic experiences",1 to 5,30,4
+Robin Williams,"Is sometimes shy, inhibited",1 to 5,31,1
+Robin Williams,Is considerate and kind to almost everyone,1 to 5,32,5
+Robin Williams,Does things efficiently,1 to 5,33,4
+Robin Williams,Remains calm in tense situations,1 to 5,34,5
+Robin Williams,Prefers work that is routine,1 to 5,35,3
+Robin Williams,"Is outgoing, sociable",1 to 5,36,5
+Robin Williams,Is sometimes rude to others,1 to 5,37,5
+Robin Williams,Makes plans and follows through with them,1 to 5,38,3
+Robin Williams,Gets nervous easily,1 to 5,39,2
+Robin Williams,"Likes to reflect, play with ideas",1 to 5,40,5
+Robin Williams,Has few artistic interests,1 to 5,41,3
+Robin Williams,Likes to cooperate with others,1 to 5,42,5
+Robin Williams,Is easily distracted,1 to 5,43,5
+Robin Williams,"Is sophisticated in art, music, or Literature",1 to 5,44,1
+Marlon Brando,Is talkative,1 to 5,1,5
+Marlon Brando,Tends to find fault with others,1 to 5,2,4
+Marlon Brando,Does a thorough job,1 to 5,3,5
+Marlon Brando,"Is depressed, blue",1 to 5,4,4
+Marlon Brando,"Is original, comes up with new ideas",1 to 5,5,1
+Marlon Brando,Is reserved,1 to 5,6,3
+Marlon Brando,Is helpful and unselfish with others,1 to 5,7,4
+Marlon Brando,Can be somewhat careless,1 to 5,8,4
+Marlon Brando,"Is relaxed, handles stress well",1 to 5,9,3
+Marlon Brando,Is curious about many different things,1 to 5,10,5
+Marlon Brando,Is full of energy,1 to 5,11,5
+Marlon Brando,Starts quarrels with others,1 to 5,12,4
+Marlon Brando,Is a reliable worker,1 to 5,13,5
+Marlon Brando,Can be tense,1 to 5,14,5
+Marlon Brando,"Is ingenious, a deep thinker",1 to 5,15,5
+Marlon Brando,Generates a lot of enthusiasm,1 to 5,16,4
+Marlon Brando,Has a forgiving nature,1 to 5,17,4
+Marlon Brando,Tends to be disorganized,1 to 5,18,3
+Marlon Brando,Worries a lot,1 to 5,19,5
+Marlon Brando,Has an active imagination,1 to 5,20,1
+Marlon Brando,Tends to be quiet,1 to 5,21,4
+Marlon Brando,Is generally trusting,1 to 5,22,5
+Marlon Brando,Tends to be lazy,1 to 5,23,4
+Marlon Brando,"Is emotionally stable, not easily upset",1 to 5,24,5
+Marlon Brando,Is inventive,1 to 5,25,5
+Marlon Brando,Has an assertive personality,1 to 5,26,5
+Marlon Brando,Can be cold and aloof,1 to 5,27,1
+Marlon Brando,Perseveres until the task is finished,1 to 5,28,5
+Marlon Brando,Can be moody,1 to 5,29,5
+Marlon Brando,"Values artistic, aesthetic experiences",1 to 5,30,5
+Marlon Brando,"Is sometimes shy, inhibited",1 to 5,31,4
+Marlon Brando,Is considerate and kind to almost everyone,1 to 5,32,5
+Marlon Brando,Does things efficiently,1 to 5,33,4
+Marlon Brando,Remains calm in tense situations,1 to 5,34,5
+Marlon Brando,Prefers work that is routine,1 to 5,35,1
+Marlon Brando,"Is outgoing, sociable",1 to 5,36,3
+Marlon Brando,Is sometimes rude to others,1 to 5,37,1
+Marlon Brando,Makes plans and follows through with them,1 to 5,38,3
+Marlon Brando,Gets nervous easily,1 to 5,39,1
+Marlon Brando,"Likes to reflect, play with ideas",1 to 5,40,5
+Marlon Brando,Has few artistic interests,1 to 5,41,3
+Marlon Brando,Likes to cooperate with others,1 to 5,42,3
+Marlon Brando,Is easily distracted,1 to 5,43,4
+Marlon Brando,"Is sophisticated in art, music, or Literature",1 to 5,44,5
+Bruce Lee,Is talkative,1 to 5,1,1
+Bruce Lee,Tends to find fault with others,1 to 5,2,5
+Bruce Lee,Does a thorough job,1 to 5,3,3
+Bruce Lee,"Is depressed, blue",1 to 5,4,3
+Bruce Lee,"Is original, comes up with new ideas",1 to 5,5,5
+Bruce Lee,Is reserved,1 to 5,6,5
+Bruce Lee,Is helpful and unselfish with others,1 to 5,7,4
+Bruce Lee,Can be somewhat careless,1 to 5,8,5
+Bruce Lee,"Is relaxed, handles stress well",1 to 5,9,3
+Bruce Lee,Is curious about many different things,1 to 5,10,5
+Bruce Lee,Is full of energy,1 to 5,11,5
+Bruce Lee,Starts quarrels with others,1 to 5,12,3
+Bruce Lee,Is a reliable worker,1 to 5,13,1
+Bruce Lee,Can be tense,1 to 5,14,4
+Bruce Lee,"Is ingenious, a deep thinker",1 to 5,15,4
+Bruce Lee,Generates a lot of enthusiasm,1 to 5,16,5
+Bruce Lee,Has a forgiving nature,1 to 5,17,4
+Bruce Lee,Tends to be disorganized,1 to 5,18,1
+Bruce Lee,Worries a lot,1 to 5,19,5
+Bruce Lee,Has an active imagination,1 to 5,20,5
+Bruce Lee,Tends to be quiet,1 to 5,21,3
+Bruce Lee,Is generally trusting,1 to 5,22,4
+Bruce Lee,Tends to be lazy,1 to 5,23,5
+Bruce Lee,"Is emotionally stable, not easily upset",1 to 5,24,1
+Bruce Lee,Is inventive,1 to 5,25,5
+Bruce Lee,Has an assertive personality,1 to 5,26,1
+Bruce Lee,Can be cold and aloof,1 to 5,27,5
+Bruce Lee,Perseveres until the task is finished,1 to 5,28,5
+Bruce Lee,Can be moody,1 to 5,29,5
+Bruce Lee,"Values artistic, aesthetic experiences",1 to 5,30,5
+Bruce Lee,"Is sometimes shy, inhibited",1 to 5,31,3
+Bruce Lee,Is considerate and kind to almost everyone,1 to 5,32,3
+Bruce Lee,Does things efficiently,1 to 5,33,5
+Bruce Lee,Remains calm in tense situations,1 to 5,34,2
+Bruce Lee,Prefers work that is routine,1 to 5,35,5
+Bruce Lee,"Is outgoing, sociable",1 to 5,36,5
+Bruce Lee,Is sometimes rude to others,1 to 5,37,3
+Bruce Lee,Makes plans and follows through with them,1 to 5,38,5
+Bruce Lee,Gets nervous easily,1 to 5,39,3
+Bruce Lee,"Likes to reflect, play with ideas",1 to 5,40,1
+Bruce Lee,Has few artistic interests,1 to 5,41,4
+Bruce Lee,Likes to cooperate with others,1 to 5,42,1
+Bruce Lee,Is easily distracted,1 to 5,43,5
+Bruce Lee,"Is sophisticated in art, music, or Literature",1 to 5,44,1
+Leonardo DiCaprio,Is talkative,1 to 5,1,3
+Leonardo DiCaprio,Tends to find fault with others,1 to 5,2,4
+Leonardo DiCaprio,Does a thorough job,1 to 5,3,5
+Leonardo DiCaprio,"Is depressed, blue",1 to 5,4,4
+Leonardo DiCaprio,"Is original, comes up with new ideas",1 to 5,5,4
+Leonardo DiCaprio,Is reserved,1 to 5,6,2
+Leonardo DiCaprio,Is helpful and unselfish with others,1 to 5,7,5
+Leonardo DiCaprio,Can be somewhat careless,1 to 5,8,5
+Leonardo DiCaprio,"Is relaxed, handles stress well",1 to 5,9,5
+Leonardo DiCaprio,Is curious about many different things,1 to 5,10,4
+Leonardo DiCaprio,Is full of energy,1 to 5,11,5
+Leonardo DiCaprio,Starts quarrels with others,1 to 5,12,3
+Leonardo DiCaprio,Is a reliable worker,1 to 5,13,3
+Leonardo DiCaprio,Can be tense,1 to 5,14,5
+Leonardo DiCaprio,"Is ingenious, a deep thinker",1 to 5,15,5
+Leonardo DiCaprio,Generates a lot of enthusiasm,1 to 5,16,4
+Leonardo DiCaprio,Has a forgiving nature,1 to 5,17,5
+Leonardo DiCaprio,Tends to be disorganized,1 to 5,18,1
+Leonardo DiCaprio,Worries a lot,1 to 5,19,5
+Leonardo DiCaprio,Has an active imagination,1 to 5,20,3
+Leonardo DiCaprio,Tends to be quiet,1 to 5,21,4
+Leonardo DiCaprio,Is generally trusting,1 to 5,22,3
+Leonardo DiCaprio,Tends to be lazy,1 to 5,23,4
+Leonardo DiCaprio,"Is emotionally stable, not easily upset",1 to 5,24,5
+Leonardo DiCaprio,Is inventive,1 to 5,25,3
+Leonardo DiCaprio,Has an assertive personality,1 to 5,26,3
+Leonardo DiCaprio,Can be cold and aloof,1 to 5,27,5
+Leonardo DiCaprio,Perseveres until the task is finished,1 to 5,28,5
+Leonardo DiCaprio,Can be moody,1 to 5,29,4
+Leonardo DiCaprio,"Values artistic, aesthetic experiences",1 to 5,30,2
+Leonardo DiCaprio,"Is sometimes shy, inhibited",1 to 5,31,5
+Leonardo DiCaprio,Is considerate and kind to almost everyone,1 to 5,32,3
+Leonardo DiCaprio,Does things efficiently,1 to 5,33,4
+Leonardo DiCaprio,Remains calm in tense situations,1 to 5,34,3
+Leonardo DiCaprio,Prefers work that is routine,1 to 5,35,5
+Leonardo DiCaprio,"Is outgoing, sociable",1 to 5,36,4
+Leonardo DiCaprio,Is sometimes rude to others,1 to 5,37,3
+Leonardo DiCaprio,Makes plans and follows through with them,1 to 5,38,1
+Leonardo DiCaprio,Gets nervous easily,1 to 5,39,4
+Leonardo DiCaprio,"Likes to reflect, play with ideas",1 to 5,40,1
+Leonardo DiCaprio,Has few artistic interests,1 to 5,41,4
+Leonardo DiCaprio,Likes to cooperate with others,1 to 5,42,5
+Leonardo DiCaprio,Is easily distracted,1 to 5,43,4
+Leonardo DiCaprio,"Is sophisticated in art, music, or Literature",1 to 5,44,4
+Hebe Camargo,Is talkative,1 to 5,1,2
+Hebe Camargo,Tends to find fault with others,1 to 5,2,1
+Hebe Camargo,Does a thorough job,1 to 5,3,3
+Hebe Camargo,"Is depressed, blue",1 to 5,4,1
+Hebe Camargo,"Is original, comes up with new ideas",1 to 5,5,3
+Hebe Camargo,Is reserved,1 to 5,6,5
+Hebe Camargo,Is helpful and unselfish with others,1 to 5,7,1
+Hebe Camargo,Can be somewhat careless,1 to 5,8,3
+Hebe Camargo,"Is relaxed, handles stress well",1 to 5,9,4
+Hebe Camargo,Is curious about many different things,1 to 5,10,4
+Hebe Camargo,Is full of energy,1 to 5,11,4
+Hebe Camargo,Starts quarrels with others,1 to 5,12,3
+Hebe Camargo,Is a reliable worker,1 to 5,13,1
+Hebe Camargo,Can be tense,1 to 5,14,1
+Hebe Camargo,"Is ingenious, a deep thinker",1 to 5,15,5
+Hebe Camargo,Generates a lot of enthusiasm,1 to 5,16,5
+Hebe Camargo,Has a forgiving nature,1 to 5,17,1
+Hebe Camargo,Tends to be disorganized,1 to 5,18,5
+Hebe Camargo,Worries a lot,1 to 5,19,5
+Hebe Camargo,Has an active imagination,1 to 5,20,1
+Hebe Camargo,Tends to be quiet,1 to 5,21,2
+Hebe Camargo,Is generally trusting,1 to 5,22,5
+Hebe Camargo,Tends to be lazy,1 to 5,23,3
+Hebe Camargo,"Is emotionally stable, not easily upset",1 to 5,24,5
+Hebe Camargo,Is inventive,1 to 5,25,5
+Hebe Camargo,Has an assertive personality,1 to 5,26,5
+Hebe Camargo,Can be cold and aloof,1 to 5,27,3
+Hebe Camargo,Perseveres until the task is finished,1 to 5,28,5
+Hebe Camargo,Can be moody,1 to 5,29,5
+Hebe Camargo,"Values artistic, aesthetic experiences",1 to 5,30,4
+Hebe Camargo,"Is sometimes shy, inhibited",1 to 5,31,5
+Hebe Camargo,Is considerate and kind to almost everyone,1 to 5,32,1
+Hebe Camargo,Does things efficiently,1 to 5,33,1
+Hebe Camargo,Remains calm in tense situations,1 to 5,34,1
+Hebe Camargo,Prefers work that is routine,1 to 5,35,5
+Hebe Camargo,"Is outgoing, sociable",1 to 5,36,5
+Hebe Camargo,Is sometimes rude to others,1 to 5,37,1
+Hebe Camargo,Makes plans and follows through with them,1 to 5,38,5
+Hebe Camargo,Gets nervous easily,1 to 5,39,5
+Hebe Camargo,"Likes to reflect, play with ideas",1 to 5,40,5
+Hebe Camargo,Has few artistic interests,1 to 5,41,1
+Hebe Camargo,Likes to cooperate with others,1 to 5,42,5
+Hebe Camargo,Is easily distracted,1 to 5,43,4
+Hebe Camargo,"Is sophisticated in art, music, or Literature",1 to 5,44,5
+Brad Pitt,Is talkative,1 to 5,1,1
+Brad Pitt,Tends to find fault with others,1 to 5,2,3
+Brad Pitt,Does a thorough job,1 to 5,3,3
+Brad Pitt,"Is depressed, blue",1 to 5,4,4
+Brad Pitt,"Is original, comes up with new ideas",1 to 5,5,3
+Brad Pitt,Is reserved,1 to 5,6,5
+Brad Pitt,Is helpful and unselfish with others,1 to 5,7,4
+Brad Pitt,Can be somewhat careless,1 to 5,8,5
+Brad Pitt,"Is relaxed, handles stress well",1 to 5,9,1
+Brad Pitt,Is curious about many different things,1 to 5,10,3
+Brad Pitt,Is full of energy,1 to 5,11,5
+Brad Pitt,Starts quarrels with others,1 to 5,12,5
+Brad Pitt,Is a reliable worker,1 to 5,13,5
+Brad Pitt,Can be tense,1 to 5,14,2
+Brad Pitt,"Is ingenious, a deep thinker",1 to 5,15,3
+Brad Pitt,Generates a lot of enthusiasm,1 to 5,16,5
+Brad Pitt,Has a forgiving nature,1 to 5,17,4
+Brad Pitt,Tends to be disorganized,1 to 5,18,4
+Brad Pitt,Worries a lot,1 to 5,19,1
+Brad Pitt,Has an active imagination,1 to 5,20,4
+Brad Pitt,Tends to be quiet,1 to 5,21,1
+Brad Pitt,Is generally trusting,1 to 5,22,4
+Brad Pitt,Tends to be lazy,1 to 5,23,2
+Brad Pitt,"Is emotionally stable, not easily upset",1 to 5,24,1
+Brad Pitt,Is inventive,1 to 5,25,4
+Brad Pitt,Has an assertive personality,1 to 5,26,5
+Brad Pitt,Can be cold and aloof,1 to 5,27,3
+Brad Pitt,Perseveres until the task is finished,1 to 5,28,1
+Brad Pitt,Can be moody,1 to 5,29,5
+Brad Pitt,"Values artistic, aesthetic experiences",1 to 5,30,3
+Brad Pitt,"Is sometimes shy, inhibited",1 to 5,31,5
+Brad Pitt,Is considerate and kind to almost everyone,1 to 5,32,4
+Brad Pitt,Does things efficiently,1 to 5,33,4
+Brad Pitt,Remains calm in tense situations,1 to 5,34,1
+Brad Pitt,Prefers work that is routine,1 to 5,35,4
+Brad Pitt,"Is outgoing, sociable",1 to 5,36,3
+Brad Pitt,Is sometimes rude to others,1 to 5,37,3
+Brad Pitt,Makes plans and follows through with them,1 to 5,38,3
+Brad Pitt,Gets nervous easily,1 to 5,39,5
+Brad Pitt,"Likes to reflect, play with ideas",1 to 5,40,2
+Brad Pitt,Has few artistic interests,1 to 5,41,3
+Brad Pitt,Likes to cooperate with others,1 to 5,42,2
+Brad Pitt,Is easily distracted,1 to 5,43,3
+Brad Pitt,"Is sophisticated in art, music, or Literature",1 to 5,44,3
+Judy Garland,Is talkative,1 to 5,1,4
+Judy Garland,Tends to find fault with others,1 to 5,2,1
+Judy Garland,Does a thorough job,1 to 5,3,5
+Judy Garland,"Is depressed, blue",1 to 5,4,5
+Judy Garland,"Is original, comes up with new ideas",1 to 5,5,1
+Judy Garland,Is reserved,1 to 5,6,4
+Judy Garland,Is helpful and unselfish with others,1 to 5,7,4
+Judy Garland,Can be somewhat careless,1 to 5,8,1
+Judy Garland,"Is relaxed, handles stress well",1 to 5,9,3
+Judy Garland,Is curious about many different things,1 to 5,10,1
+Judy Garland,Is full of energy,1 to 5,11,3
+Judy Garland,Starts quarrels with others,1 to 5,12,3
+Judy Garland,Is a reliable worker,1 to 5,13,2
+Judy Garland,Can be tense,1 to 5,14,2
+Judy Garland,"Is ingenious, a deep thinker",1 to 5,15,1
+Judy Garland,Generates a lot of enthusiasm,1 to 5,16,5
+Judy Garland,Has a forgiving nature,1 to 5,17,5
+Judy Garland,Tends to be disorganized,1 to 5,18,5
+Judy Garland,Worries a lot,1 to 5,19,5
+Judy Garland,Has an active imagination,1 to 5,20,2
+Judy Garland,Tends to be quiet,1 to 5,21,5
+Judy Garland,Is generally trusting,1 to 5,22,5
+Judy Garland,Tends to be lazy,1 to 5,23,3
+Judy Garland,"Is emotionally stable, not easily upset",1 to 5,24,1
+Judy Garland,Is inventive,1 to 5,25,1
+Judy Garland,Has an assertive personality,1 to 5,26,5
+Judy Garland,Can be cold and aloof,1 to 5,27,2
+Judy Garland,Perseveres until the task is finished,1 to 5,28,1
+Judy Garland,Can be moody,1 to 5,29,5
+Judy Garland,"Values artistic, aesthetic experiences",1 to 5,30,5
+Judy Garland,"Is sometimes shy, inhibited",1 to 5,31,5
+Judy Garland,Is considerate and kind to almost everyone,1 to 5,32,5
+Judy Garland,Does things efficiently,1 to 5,33,5
+Judy Garland,Remains calm in tense situations,1 to 5,34,5
+Judy Garland,Prefers work that is routine,1 to 5,35,5
+Judy Garland,"Is outgoing, sociable",1 to 5,36,5
+Judy Garland,Is sometimes rude to others,1 to 5,37,5
+Judy Garland,Makes plans and follows through with them,1 to 5,38,5
+Judy Garland,Gets nervous easily,1 to 5,39,5
+Judy Garland,"Likes to reflect, play with ideas",1 to 5,40,4
+Judy Garland,Has few artistic interests,1 to 5,41,4
+Judy Garland,Likes to cooperate with others,1 to 5,42,1
+Judy Garland,Is easily distracted,1 to 5,43,3
+Judy Garland,"Is sophisticated in art, music, or Literature",1 to 5,44,5
+Johnny Depp,Is talkative,1 to 5,1,5
+Johnny Depp,Tends to find fault with others,1 to 5,2,5
+Johnny Depp,Does a thorough job,1 to 5,3,3
+Johnny Depp,"Is depressed, blue",1 to 5,4,5
+Johnny Depp,"Is original, comes up with new ideas",1 to 5,5,4
+Johnny Depp,Is reserved,1 to 5,6,3
+Johnny Depp,Is helpful and unselfish with others,1 to 5,7,2
+Johnny Depp,Can be somewhat careless,1 to 5,8,5
+Johnny Depp,"Is relaxed, handles stress well",1 to 5,9,5
+Johnny Depp,Is curious about many different things,1 to 5,10,4
+Johnny Depp,Is full of energy,1 to 5,11,1
+Johnny Depp,Starts quarrels with others,1 to 5,12,2
+Johnny Depp,Is a reliable worker,1 to 5,13,5
+Johnny Depp,Can be tense,1 to 5,14,4
+Johnny Depp,"Is ingenious, a deep thinker",1 to 5,15,4
+Johnny Depp,Generates a lot of enthusiasm,1 to 5,16,5
+Johnny Depp,Has a forgiving nature,1 to 5,17,3
+Johnny Depp,Tends to be disorganized,1 to 5,18,4
+Johnny Depp,Worries a lot,1 to 5,19,5
+Johnny Depp,Has an active imagination,1 to 5,20,3
+Johnny Depp,Tends to be quiet,1 to 5,21,5
+Johnny Depp,Is generally trusting,1 to 5,22,5
+Johnny Depp,Tends to be lazy,1 to 5,23,2
+Johnny Depp,"Is emotionally stable, not easily upset",1 to 5,24,4
+Johnny Depp,Is inventive,1 to 5,25,4
+Johnny Depp,Has an assertive personality,1 to 5,26,4
+Johnny Depp,Can be cold and aloof,1 to 5,27,5
+Johnny Depp,Perseveres until the task is finished,1 to 5,28,4
+Johnny Depp,Can be moody,1 to 5,29,3
+Johnny Depp,"Values artistic, aesthetic experiences",1 to 5,30,2
+Johnny Depp,"Is sometimes shy, inhibited",1 to 5,31,5
+Johnny Depp,Is considerate and kind to almost everyone,1 to 5,32,1
+Johnny Depp,Does things efficiently,1 to 5,33,3
+Johnny Depp,Remains calm in tense situations,1 to 5,34,3
+Johnny Depp,Prefers work that is routine,1 to 5,35,5
+Johnny Depp,"Is outgoing, sociable",1 to 5,36,4
+Johnny Depp,Is sometimes rude to others,1 to 5,37,4
+Johnny Depp,Makes plans and follows through with them,1 to 5,38,3
+Johnny Depp,Gets nervous easily,1 to 5,39,4
+Johnny Depp,"Likes to reflect, play with ideas",1 to 5,40,2
+Johnny Depp,Has few artistic interests,1 to 5,41,3
+Johnny Depp,Likes to cooperate with others,1 to 5,42,3
+Johnny Depp,Is easily distracted,1 to 5,43,1
+Johnny Depp,"Is sophisticated in art, music, or Literature",1 to 5,44,3
+Sean Connery,Is talkative,1 to 5,1,4
+Sean Connery,Tends to find fault with others,1 to 5,2,3
+Sean Connery,Does a thorough job,1 to 5,3,3
+Sean Connery,"Is depressed, blue",1 to 5,4,4
+Sean Connery,"Is original, comes up with new ideas",1 to 5,5,3
+Sean Connery,Is reserved,1 to 5,6,3
+Sean Connery,Is helpful and unselfish with others,1 to 5,7,5
+Sean Connery,Can be somewhat careless,1 to 5,8,2
+Sean Connery,"Is relaxed, handles stress well",1 to 5,9,5
+Sean Connery,Is curious about many different things,1 to 5,10,5
+Sean Connery,Is full of energy,1 to 5,11,3
+Sean Connery,Starts quarrels with others,1 to 5,12,3
+Sean Connery,Is a reliable worker,1 to 5,13,2
+Sean Connery,Can be tense,1 to 5,14,4
+Sean Connery,"Is ingenious, a deep thinker",1 to 5,15,5
+Sean Connery,Generates a lot of enthusiasm,1 to 5,16,3
+Sean Connery,Has a forgiving nature,1 to 5,17,3
+Sean Connery,Tends to be disorganized,1 to 5,18,3
+Sean Connery,Worries a lot,1 to 5,19,3
+Sean Connery,Has an active imagination,1 to 5,20,3
+Sean Connery,Tends to be quiet,1 to 5,21,4
+Sean Connery,Is generally trusting,1 to 5,22,4
+Sean Connery,Tends to be lazy,1 to 5,23,3
+Sean Connery,"Is emotionally stable, not easily upset",1 to 5,24,5
+Sean Connery,Is inventive,1 to 5,25,3
+Sean Connery,Has an assertive personality,1 to 5,26,4
+Sean Connery,Can be cold and aloof,1 to 5,27,3
+Sean Connery,Perseveres until the task is finished,1 to 5,28,5
+Sean Connery,Can be moody,1 to 5,29,4
+Sean Connery,"Values artistic, aesthetic experiences",1 to 5,30,4
+Sean Connery,"Is sometimes shy, inhibited",1 to 5,31,1
+Sean Connery,Is considerate and kind to almost everyone,1 to 5,32,3
+Sean Connery,Does things efficiently,1 to 5,33,4
+Sean Connery,Remains calm in tense situations,1 to 5,34,3
+Sean Connery,Prefers work that is routine,1 to 5,35,4
+Sean Connery,"Is outgoing, sociable",1 to 5,36,2
+Sean Connery,Is sometimes rude to others,1 to 5,37,5
+Sean Connery,Makes plans and follows through with them,1 to 5,38,2
+Sean Connery,Gets nervous easily,1 to 5,39,3
+Sean Connery,"Likes to reflect, play with ideas",1 to 5,40,3
+Sean Connery,Has few artistic interests,1 to 5,41,4
+Sean Connery,Likes to cooperate with others,1 to 5,42,3
+Sean Connery,Is easily distracted,1 to 5,43,2
+Sean Connery,"Is sophisticated in art, music, or Literature",1 to 5,44,3
+Al Pacino,Is talkative,1 to 5,1,4
+Al Pacino,Tends to find fault with others,1 to 5,2,1
+Al Pacino,Does a thorough job,1 to 5,3,3
+Al Pacino,"Is depressed, blue",1 to 5,4,4
+Al Pacino,"Is original, comes up with new ideas",1 to 5,5,5
+Al Pacino,Is reserved,1 to 5,6,5
+Al Pacino,Is helpful and unselfish with others,1 to 5,7,4
+Al Pacino,Can be somewhat careless,1 to 5,8,2
+Al Pacino,"Is relaxed, handles stress well",1 to 5,9,5
+Al Pacino,Is curious about many different things,1 to 5,10,3
+Al Pacino,Is full of energy,1 to 5,11,4
+Al Pacino,Starts quarrels with others,1 to 5,12,4
+Al Pacino,Is a reliable worker,1 to 5,13,2
+Al Pacino,Can be tense,1 to 5,14,1
+Al Pacino,"Is ingenious, a deep thinker",1 to 5,15,3
+Al Pacino,Generates a lot of enthusiasm,1 to 5,16,3
+Al Pacino,Has a forgiving nature,1 to 5,17,4
+Al Pacino,Tends to be disorganized,1 to 5,18,1
+Al Pacino,Worries a lot,1 to 5,19,5
+Al Pacino,Has an active imagination,1 to 5,20,2
+Al Pacino,Tends to be quiet,1 to 5,21,3
+Al Pacino,Is generally trusting,1 to 5,22,4
+Al Pacino,Tends to be lazy,1 to 5,23,4
+Al Pacino,"Is emotionally stable, not easily upset",1 to 5,24,1
+Al Pacino,Is inventive,1 to 5,25,1
+Al Pacino,Has an assertive personality,1 to 5,26,5
+Al Pacino,Can be cold and aloof,1 to 5,27,3
+Al Pacino,Perseveres until the task is finished,1 to 5,28,5
+Al Pacino,Can be moody,1 to 5,29,4
+Al Pacino,"Values artistic, aesthetic experiences",1 to 5,30,2
+Al Pacino,"Is sometimes shy, inhibited",1 to 5,31,2
+Al Pacino,Is considerate and kind to almost everyone,1 to 5,32,2
+Al Pacino,Does things efficiently,1 to 5,33,3
+Al Pacino,Remains calm in tense situations,1 to 5,34,3
+Al Pacino,Prefers work that is routine,1 to 5,35,2
+Al Pacino,"Is outgoing, sociable",1 to 5,36,3
+Al Pacino,Is sometimes rude to others,1 to 5,37,3
+Al Pacino,Makes plans and follows through with them,1 to 5,38,5
+Al Pacino,Gets nervous easily,1 to 5,39,5
+Al Pacino,"Likes to reflect, play with ideas",1 to 5,40,3
+Al Pacino,Has few artistic interests,1 to 5,41,4
+Al Pacino,Likes to cooperate with others,1 to 5,42,3
+Al Pacino,Is easily distracted,1 to 5,43,3
+Al Pacino,"Is sophisticated in art, music, or Literature",1 to 5,44,1
+Elizabeth Taylor,Is talkative,1 to 5,1,5
+Elizabeth Taylor,Tends to find fault with others,1 to 5,2,3
+Elizabeth Taylor,Does a thorough job,1 to 5,3,4
+Elizabeth Taylor,"Is depressed, blue",1 to 5,4,4
+Elizabeth Taylor,"Is original, comes up with new ideas",1 to 5,5,5
+Elizabeth Taylor,Is reserved,1 to 5,6,3
+Elizabeth Taylor,Is helpful and unselfish with others,1 to 5,7,4
+Elizabeth Taylor,Can be somewhat careless,1 to 5,8,5
+Elizabeth Taylor,"Is relaxed, handles stress well",1 to 5,9,5
+Elizabeth Taylor,Is curious about many different things,1 to 5,10,1
+Elizabeth Taylor,Is full of energy,1 to 5,11,5
+Elizabeth Taylor,Starts quarrels with others,1 to 5,12,3
+Elizabeth Taylor,Is a reliable worker,1 to 5,13,5
+Elizabeth Taylor,Can be tense,1 to 5,14,1
+Elizabeth Taylor,"Is ingenious, a deep thinker",1 to 5,15,3
+Elizabeth Taylor,Generates a lot of enthusiasm,1 to 5,16,2
+Elizabeth Taylor,Has a forgiving nature,1 to 5,17,4
+Elizabeth Taylor,Tends to be disorganized,1 to 5,18,3
+Elizabeth Taylor,Worries a lot,1 to 5,19,3
+Elizabeth Taylor,Has an active imagination,1 to 5,20,5
+Elizabeth Taylor,Tends to be quiet,1 to 5,21,5
+Elizabeth Taylor,Is generally trusting,1 to 5,22,3
+Elizabeth Taylor,Tends to be lazy,1 to 5,23,4
+Elizabeth Taylor,"Is emotionally stable, not easily upset",1 to 5,24,5
+Elizabeth Taylor,Is inventive,1 to 5,25,5
+Elizabeth Taylor,Has an assertive personality,1 to 5,26,5
+Elizabeth Taylor,Can be cold and aloof,1 to 5,27,4
+Elizabeth Taylor,Perseveres until the task is finished,1 to 5,28,2
+Elizabeth Taylor,Can be moody,1 to 5,29,4
+Elizabeth Taylor,"Values artistic, aesthetic experiences",1 to 5,30,4
+Elizabeth Taylor,"Is sometimes shy, inhibited",1 to 5,31,3
+Elizabeth Taylor,Is considerate and kind to almost everyone,1 to 5,32,5
+Elizabeth Taylor,Does things efficiently,1 to 5,33,2
+Elizabeth Taylor,Remains calm in tense situations,1 to 5,34,2
+Elizabeth Taylor,Prefers work that is routine,1 to 5,35,5
+Elizabeth Taylor,"Is outgoing, sociable",1 to 5,36,3
+Elizabeth Taylor,Is sometimes rude to others,1 to 5,37,2
+Elizabeth Taylor,Makes plans and follows through with them,1 to 5,38,5
+Elizabeth Taylor,Gets nervous easily,1 to 5,39,3
+Elizabeth Taylor,"Likes to reflect, play with ideas",1 to 5,40,5
+Elizabeth Taylor,Has few artistic interests,1 to 5,41,4
+Elizabeth Taylor,Likes to cooperate with others,1 to 5,42,3
+Elizabeth Taylor,Is easily distracted,1 to 5,43,3
+Elizabeth Taylor,"Is sophisticated in art, music, or Literature",1 to 5,44,5
+Bradley Cooper,Is talkative,1 to 5,1,2
+Bradley Cooper,Tends to find fault with others,1 to 5,2,1
+Bradley Cooper,Does a thorough job,1 to 5,3,4
+Bradley Cooper,"Is depressed, blue",1 to 5,4,1
+Bradley Cooper,"Is original, comes up with new ideas",1 to 5,5,5
+Bradley Cooper,Is reserved,1 to 5,6,4
+Bradley Cooper,Is helpful and unselfish with others,1 to 5,7,3
+Bradley Cooper,Can be somewhat careless,1 to 5,8,3
+Bradley Cooper,"Is relaxed, handles stress well",1 to 5,9,5
+Bradley Cooper,Is curious about many different things,1 to 5,10,4
+Bradley Cooper,Is full of energy,1 to 5,11,2
+Bradley Cooper,Starts quarrels with others,1 to 5,12,5
+Bradley Cooper,Is a reliable worker,1 to 5,13,5
+Bradley Cooper,Can be tense,1 to 5,14,3
+Bradley Cooper,"Is ingenious, a deep thinker",1 to 5,15,4
+Bradley Cooper,Generates a lot of enthusiasm,1 to 5,16,1
+Bradley Cooper,Has a forgiving nature,1 to 5,17,3
+Bradley Cooper,Tends to be disorganized,1 to 5,18,2
+Bradley Cooper,Worries a lot,1 to 5,19,5
+Bradley Cooper,Has an active imagination,1 to 5,20,5
+Bradley Cooper,Tends to be quiet,1 to 5,21,4
+Bradley Cooper,Is generally trusting,1 to 5,22,3
+Bradley Cooper,Tends to be lazy,1 to 5,23,5
+Bradley Cooper,"Is emotionally stable, not easily upset",1 to 5,24,4
+Bradley Cooper,Is inventive,1 to 5,25,4
+Bradley Cooper,Has an assertive personality,1 to 5,26,1
+Bradley Cooper,Can be cold and aloof,1 to 5,27,4
+Bradley Cooper,Perseveres until the task is finished,1 to 5,28,5
+Bradley Cooper,Can be moody,1 to 5,29,5
+Bradley Cooper,"Values artistic, aesthetic experiences",1 to 5,30,3
+Bradley Cooper,"Is sometimes shy, inhibited",1 to 5,31,3
+Bradley Cooper,Is considerate and kind to almost everyone,1 to 5,32,5
+Bradley Cooper,Does things efficiently,1 to 5,33,1
+Bradley Cooper,Remains calm in tense situations,1 to 5,34,2
+Bradley Cooper,Prefers work that is routine,1 to 5,35,4
+Bradley Cooper,"Is outgoing, sociable",1 to 5,36,3
+Bradley Cooper,Is sometimes rude to others,1 to 5,37,5
+Bradley Cooper,Makes plans and follows through with them,1 to 5,38,3
+Bradley Cooper,Gets nervous easily,1 to 5,39,3
+Bradley Cooper,"Likes to reflect, play with ideas",1 to 5,40,5
+Bradley Cooper,Has few artistic interests,1 to 5,41,4
+Bradley Cooper,Likes to cooperate with others,1 to 5,42,1
+Bradley Cooper,Is easily distracted,1 to 5,43,3
+Bradley Cooper,"Is sophisticated in art, music, or Literature",1 to 5,44,3
+Tom Hanks,Is talkative,1 to 5,1,4
+Tom Hanks,Tends to find fault with others,1 to 5,2,5
+Tom Hanks,Does a thorough job,1 to 5,3,5
+Tom Hanks,"Is depressed, blue",1 to 5,4,1
+Tom Hanks,"Is original, comes up with new ideas",1 to 5,5,4
+Tom Hanks,Is reserved,1 to 5,6,3
+Tom Hanks,Is helpful and unselfish with others,1 to 5,7,4
+Tom Hanks,Can be somewhat careless,1 to 5,8,4
+Tom Hanks,"Is relaxed, handles stress well",1 to 5,9,5
+Tom Hanks,Is curious about many different things,1 to 5,10,5
+Tom Hanks,Is full of energy,1 to 5,11,4
+Tom Hanks,Starts quarrels with others,1 to 5,12,4
+Tom Hanks,Is a reliable worker,1 to 5,13,5
+Tom Hanks,Can be tense,1 to 5,14,1
+Tom Hanks,"Is ingenious, a deep thinker",1 to 5,15,4
+Tom Hanks,Generates a lot of enthusiasm,1 to 5,16,3
+Tom Hanks,Has a forgiving nature,1 to 5,17,3
+Tom Hanks,Tends to be disorganized,1 to 5,18,5
+Tom Hanks,Worries a lot,1 to 5,19,5
+Tom Hanks,Has an active imagination,1 to 5,20,3
+Tom Hanks,Tends to be quiet,1 to 5,21,5
+Tom Hanks,Is generally trusting,1 to 5,22,5
+Tom Hanks,Tends to be lazy,1 to 5,23,1
+Tom Hanks,"Is emotionally stable, not easily upset",1 to 5,24,4
+Tom Hanks,Is inventive,1 to 5,25,4
+Tom Hanks,Has an assertive personality,1 to 5,26,3
+Tom Hanks,Can be cold and aloof,1 to 5,27,5
+Tom Hanks,Perseveres until the task is finished,1 to 5,28,5
+Tom Hanks,Can be moody,1 to 5,29,1
+Tom Hanks,"Values artistic, aesthetic experiences",1 to 5,30,4
+Tom Hanks,"Is sometimes shy, inhibited",1 to 5,31,1
+Tom Hanks,Is considerate and kind to almost everyone,1 to 5,32,5
+Tom Hanks,Does things efficiently,1 to 5,33,4
+Tom Hanks,Remains calm in tense situations,1 to 5,34,4
+Tom Hanks,Prefers work that is routine,1 to 5,35,4
+Tom Hanks,"Is outgoing, sociable",1 to 5,36,4
+Tom Hanks,Is sometimes rude to others,1 to 5,37,3
+Tom Hanks,Makes plans and follows through with them,1 to 5,38,1
+Tom Hanks,Gets nervous easily,1 to 5,39,3
+Tom Hanks,"Likes to reflect, play with ideas",1 to 5,40,5
+Tom Hanks,Has few artistic interests,1 to 5,41,3
+Tom Hanks,Likes to cooperate with others,1 to 5,42,5
+Tom Hanks,Is easily distracted,1 to 5,43,5
+Tom Hanks,"Is sophisticated in art, music, or Literature",1 to 5,44,3
+Charlotte Rampling,Is talkative,1 to 5,1,4
+Charlotte Rampling,Tends to find fault with others,1 to 5,2,1
+Charlotte Rampling,Does a thorough job,1 to 5,3,5
+Charlotte Rampling,"Is depressed, blue",1 to 5,4,1
+Charlotte Rampling,"Is original, comes up with new ideas",1 to 5,5,4
+Charlotte Rampling,Is reserved,1 to 5,6,5
+Charlotte Rampling,Is helpful and unselfish with others,1 to 5,7,5
+Charlotte Rampling,Can be somewhat careless,1 to 5,8,4
+Charlotte Rampling,"Is relaxed, handles stress well",1 to 5,9,5
+Charlotte Rampling,Is curious about many different things,1 to 5,10,5
+Charlotte Rampling,Is full of energy,1 to 5,11,3
+Charlotte Rampling,Starts quarrels with others,1 to 5,12,5
+Charlotte Rampling,Is a reliable worker,1 to 5,13,3
+Charlotte Rampling,Can be tense,1 to 5,14,5
+Charlotte Rampling,"Is ingenious, a deep thinker",1 to 5,15,5
+Charlotte Rampling,Generates a lot of enthusiasm,1 to 5,16,3
+Charlotte Rampling,Has a forgiving nature,1 to 5,17,3
+Charlotte Rampling,Tends to be disorganized,1 to 5,18,3
+Charlotte Rampling,Worries a lot,1 to 5,19,1
+Charlotte Rampling,Has an active imagination,1 to 5,20,1
+Charlotte Rampling,Tends to be quiet,1 to 5,21,1
+Charlotte Rampling,Is generally trusting,1 to 5,22,2
+Charlotte Rampling,Tends to be lazy,1 to 5,23,1
+Charlotte Rampling,"Is emotionally stable, not easily upset",1 to 5,24,4
+Charlotte Rampling,Is inventive,1 to 5,25,5
+Charlotte Rampling,Has an assertive personality,1 to 5,26,4
+Charlotte Rampling,Can be cold and aloof,1 to 5,27,4
+Charlotte Rampling,Perseveres until the task is finished,1 to 5,28,4
+Charlotte Rampling,Can be moody,1 to 5,29,5
+Charlotte Rampling,"Values artistic, aesthetic experiences",1 to 5,30,5
+Charlotte Rampling,"Is sometimes shy, inhibited",1 to 5,31,3
+Charlotte Rampling,Is considerate and kind to almost everyone,1 to 5,32,5
+Charlotte Rampling,Does things efficiently,1 to 5,33,1
+Charlotte Rampling,Remains calm in tense situations,1 to 5,34,5
+Charlotte Rampling,Prefers work that is routine,1 to 5,35,5
+Charlotte Rampling,"Is outgoing, sociable",1 to 5,36,3
+Charlotte Rampling,Is sometimes rude to others,1 to 5,37,5
+Charlotte Rampling,Makes plans and follows through with them,1 to 5,38,3
+Charlotte Rampling,Gets nervous easily,1 to 5,39,5
+Charlotte Rampling,"Likes to reflect, play with ideas",1 to 5,40,4
+Charlotte Rampling,Has few artistic interests,1 to 5,41,4
+Charlotte Rampling,Likes to cooperate with others,1 to 5,42,3
+Charlotte Rampling,Is easily distracted,1 to 5,43,1
+Charlotte Rampling,"Is sophisticated in art, music, or Literature",1 to 5,44,1
+Miley Cyrus,Is talkative,1 to 5,1,4
+Miley Cyrus,Tends to find fault with others,1 to 5,2,5
+Miley Cyrus,Does a thorough job,1 to 5,3,5
+Miley Cyrus,"Is depressed, blue",1 to 5,4,1
+Miley Cyrus,"Is original, comes up with new ideas",1 to 5,5,4
+Miley Cyrus,Is reserved,1 to 5,6,4
+Miley Cyrus,Is helpful and unselfish with others,1 to 5,7,4
+Miley Cyrus,Can be somewhat careless,1 to 5,8,2
+Miley Cyrus,"Is relaxed, handles stress well",1 to 5,9,5
+Miley Cyrus,Is curious about many different things,1 to 5,10,3
+Miley Cyrus,Is full of energy,1 to 5,11,4
+Miley Cyrus,Starts quarrels with others,1 to 5,12,3
+Miley Cyrus,Is a reliable worker,1 to 5,13,2
+Miley Cyrus,Can be tense,1 to 5,14,4
+Miley Cyrus,"Is ingenious, a deep thinker",1 to 5,15,5
+Miley Cyrus,Generates a lot of enthusiasm,1 to 5,16,5
+Miley Cyrus,Has a forgiving nature,1 to 5,17,3
+Miley Cyrus,Tends to be disorganized,1 to 5,18,5
+Miley Cyrus,Worries a lot,1 to 5,19,5
+Miley Cyrus,Has an active imagination,1 to 5,20,5
+Miley Cyrus,Tends to be quiet,1 to 5,21,5
+Miley Cyrus,Is generally trusting,1 to 5,22,5
+Miley Cyrus,Tends to be lazy,1 to 5,23,4
+Miley Cyrus,"Is emotionally stable, not easily upset",1 to 5,24,4
+Miley Cyrus,Is inventive,1 to 5,25,3
+Miley Cyrus,Has an assertive personality,1 to 5,26,3
+Miley Cyrus,Can be cold and aloof,1 to 5,27,3
+Miley Cyrus,Perseveres until the task is finished,1 to 5,28,2
+Miley Cyrus,Can be moody,1 to 5,29,4
+Miley Cyrus,"Values artistic, aesthetic experiences",1 to 5,30,5
+Miley Cyrus,"Is sometimes shy, inhibited",1 to 5,31,5
+Miley Cyrus,Is considerate and kind to almost everyone,1 to 5,32,4
+Miley Cyrus,Does things efficiently,1 to 5,33,2
+Miley Cyrus,Remains calm in tense situations,1 to 5,34,1
+Miley Cyrus,Prefers work that is routine,1 to 5,35,1
+Miley Cyrus,"Is outgoing, sociable",1 to 5,36,3
+Miley Cyrus,Is sometimes rude to others,1 to 5,37,3
+Miley Cyrus,Makes plans and follows through with them,1 to 5,38,2
+Miley Cyrus,Gets nervous easily,1 to 5,39,4
+Miley Cyrus,"Likes to reflect, play with ideas",1 to 5,40,2
+Miley Cyrus,Has few artistic interests,1 to 5,41,4
+Miley Cyrus,Likes to cooperate with others,1 to 5,42,1
+Miley Cyrus,Is easily distracted,1 to 5,43,5
+Miley Cyrus,"Is sophisticated in art, music, or Literature",1 to 5,44,4
+Maya Angelou,Is talkative,1 to 5,1,3
+Maya Angelou,Tends to find fault with others,1 to 5,2,1
+Maya Angelou,Does a thorough job,1 to 5,3,4
+Maya Angelou,"Is depressed, blue",1 to 5,4,5
+Maya Angelou,"Is original, comes up with new ideas",1 to 5,5,5
+Maya Angelou,Is reserved,1 to 5,6,2
+Maya Angelou,Is helpful and unselfish with others,1 to 5,7,4
+Maya Angelou,Can be somewhat careless,1 to 5,8,3
+Maya Angelou,"Is relaxed, handles stress well",1 to 5,9,5
+Maya Angelou,Is curious about many different things,1 to 5,10,5
+Maya Angelou,Is full of energy,1 to 5,11,4
+Maya Angelou,Starts quarrels with others,1 to 5,12,1
+Maya Angelou,Is a reliable worker,1 to 5,13,5
+Maya Angelou,Can be tense,1 to 5,14,4
+Maya Angelou,"Is ingenious, a deep thinker",1 to 5,15,2
+Maya Angelou,Generates a lot of enthusiasm,1 to 5,16,5
+Maya Angelou,Has a forgiving nature,1 to 5,17,3
+Maya Angelou,Tends to be disorganized,1 to 5,18,5
+Maya Angelou,Worries a lot,1 to 5,19,3
+Maya Angelou,Has an active imagination,1 to 5,20,5
+Maya Angelou,Tends to be quiet,1 to 5,21,3
+Maya Angelou,Is generally trusting,1 to 5,22,5
+Maya Angelou,Tends to be lazy,1 to 5,23,5
+Maya Angelou,"Is emotionally stable, not easily upset",1 to 5,24,5
+Maya Angelou,Is inventive,1 to 5,25,5
+Maya Angelou,Has an assertive personality,1 to 5,26,1
+Maya Angelou,Can be cold and aloof,1 to 5,27,4
+Maya Angelou,Perseveres until the task is finished,1 to 5,28,1
+Maya Angelou,Can be moody,1 to 5,29,5
+Maya Angelou,"Values artistic, aesthetic experiences",1 to 5,30,1
+Maya Angelou,"Is sometimes shy, inhibited",1 to 5,31,3
+Maya Angelou,Is considerate and kind to almost everyone,1 to 5,32,3
+Maya Angelou,Does things efficiently,1 to 5,33,3
+Maya Angelou,Remains calm in tense situations,1 to 5,34,5
+Maya Angelou,Prefers work that is routine,1 to 5,35,5
+Maya Angelou,"Is outgoing, sociable",1 to 5,36,5
+Maya Angelou,Is sometimes rude to others,1 to 5,37,5
+Maya Angelou,Makes plans and follows through with them,1 to 5,38,5
+Maya Angelou,Gets nervous easily,1 to 5,39,3
+Maya Angelou,"Likes to reflect, play with ideas",1 to 5,40,3
+Maya Angelou,Has few artistic interests,1 to 5,41,1
+Maya Angelou,Likes to cooperate with others,1 to 5,42,3
+Maya Angelou,Is easily distracted,1 to 5,43,2
+Maya Angelou,"Is sophisticated in art, music, or Literature",1 to 5,44,3
+Alain Delon,Is talkative,1 to 5,1,4
+Alain Delon,Tends to find fault with others,1 to 5,2,5
+Alain Delon,Does a thorough job,1 to 5,3,5
+Alain Delon,"Is depressed, blue",1 to 5,4,3
+Alain Delon,"Is original, comes up with new ideas",1 to 5,5,5
+Alain Delon,Is reserved,1 to 5,6,3
+Alain Delon,Is helpful and unselfish with others,1 to 5,7,4
+Alain Delon,Can be somewhat careless,1 to 5,8,5
+Alain Delon,"Is relaxed, handles stress well",1 to 5,9,5
+Alain Delon,Is curious about many different things,1 to 5,10,3
+Alain Delon,Is full of energy,1 to 5,11,3
+Alain Delon,Starts quarrels with others,1 to 5,12,4
+Alain Delon,Is a reliable worker,1 to 5,13,5
+Alain Delon,Can be tense,1 to 5,14,3
+Alain Delon,"Is ingenious, a deep thinker",1 to 5,15,4
+Alain Delon,Generates a lot of enthusiasm,1 to 5,16,4
+Alain Delon,Has a forgiving nature,1 to 5,17,4
+Alain Delon,Tends to be disorganized,1 to 5,18,2
+Alain Delon,Worries a lot,1 to 5,19,3
+Alain Delon,Has an active imagination,1 to 5,20,3
+Alain Delon,Tends to be quiet,1 to 5,21,2
+Alain Delon,Is generally trusting,1 to 5,22,5
+Alain Delon,Tends to be lazy,1 to 5,23,3
+Alain Delon,"Is emotionally stable, not easily upset",1 to 5,24,4
+Alain Delon,Is inventive,1 to 5,25,3
+Alain Delon,Has an assertive personality,1 to 5,26,3
+Alain Delon,Can be cold and aloof,1 to 5,27,3
+Alain Delon,Perseveres until the task is finished,1 to 5,28,5
+Alain Delon,Can be moody,1 to 5,29,4
+Alain Delon,"Values artistic, aesthetic experiences",1 to 5,30,3
+Alain Delon,"Is sometimes shy, inhibited",1 to 5,31,5
+Alain Delon,Is considerate and kind to almost everyone,1 to 5,32,5
+Alain Delon,Does things efficiently,1 to 5,33,1
+Alain Delon,Remains calm in tense situations,1 to 5,34,5
+Alain Delon,Prefers work that is routine,1 to 5,35,4
+Alain Delon,"Is outgoing, sociable",1 to 5,36,3
+Alain Delon,Is sometimes rude to others,1 to 5,37,5
+Alain Delon,Makes plans and follows through with them,1 to 5,38,1
+Alain Delon,Gets nervous easily,1 to 5,39,2
+Alain Delon,"Likes to reflect, play with ideas",1 to 5,40,1
+Alain Delon,Has few artistic interests,1 to 5,41,3
+Alain Delon,Likes to cooperate with others,1 to 5,42,2
+Alain Delon,Is easily distracted,1 to 5,43,5
+Alain Delon,"Is sophisticated in art, music, or Literature",1 to 5,44,4

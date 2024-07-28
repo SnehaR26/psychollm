@@ -1,0 +1,969 @@
+persona,text,likert_scale,Itemnum,answer
+Jet Li,Is talkative,1 to 5,1,1
+Jet Li,Tends to find fault with others,1 to 5,2,4
+Jet Li,Does a thorough job,1 to 5,3,5
+Jet Li,"Is depressed, blue",1 to 5,4,4
+Jet Li,"Is original, comes up with new ideas",1 to 5,5,3
+Jet Li,Is reserved,1 to 5,6,5
+Jet Li,Is helpful and unselfish with others,1 to 5,7,5
+Jet Li,Can be somewhat careless,1 to 5,8,3
+Jet Li,"Is relaxed, handles stress well",1 to 5,9,4
+Jet Li,Is curious about many different things,1 to 5,10,3
+Jet Li,Is full of energy,1 to 5,11,1
+Jet Li,Starts quarrels with others,1 to 5,12,1
+Jet Li,Is a reliable worker,1 to 5,13,4
+Jet Li,Can be tense,1 to 5,14,5
+Jet Li,"Is ingenious, a deep thinker",1 to 5,15,3
+Jet Li,Generates a lot of enthusiasm,1 to 5,16,3
+Jet Li,Has a forgiving nature,1 to 5,17,1
+Jet Li,Tends to be disorganized,1 to 5,18,3
+Jet Li,Worries a lot,1 to 5,19,3
+Jet Li,Has an active imagination,1 to 5,20,4
+Jet Li,Tends to be quiet,1 to 5,21,4
+Jet Li,Is generally trusting,1 to 5,22,3
+Jet Li,Tends to be lazy,1 to 5,23,5
+Jet Li,"Is emotionally stable, not easily upset",1 to 5,24,1
+Jet Li,Is inventive,1 to 5,25,4
+Jet Li,Has an assertive personality,1 to 5,26,3
+Jet Li,Can be cold and aloof,1 to 5,27,5
+Jet Li,Perseveres until the task is finished,1 to 5,28,1
+Jet Li,Can be moody,1 to 5,29,4
+Jet Li,"Values artistic, aesthetic experiences",1 to 5,30,4
+Jet Li,"Is sometimes shy, inhibited",1 to 5,31,1
+Jet Li,Is considerate and kind to almost everyone,1 to 5,32,5
+Jet Li,Does things efficiently,1 to 5,33,3
+Jet Li,Remains calm in tense situations,1 to 5,34,2
+Jet Li,Prefers work that is routine,1 to 5,35,5
+Jet Li,"Is outgoing, sociable",1 to 5,36,3
+Jet Li,Is sometimes rude to others,1 to 5,37,4
+Jet Li,Makes plans and follows through with them,1 to 5,38,5
+Jet Li,Gets nervous easily,1 to 5,39,4
+Jet Li,"Likes to reflect, play with ideas",1 to 5,40,4
+Jet Li,Has few artistic interests,1 to 5,41,3
+Jet Li,Likes to cooperate with others,1 to 5,42,1
+Jet Li,Is easily distracted,1 to 5,43,5
+Jet Li,"Is sophisticated in art, music, or Literature",1 to 5,44,5
+Eusébio,Is talkative,1 to 5,1,4
+Eusébio,Tends to find fault with others,1 to 5,2,2
+Eusébio,Does a thorough job,1 to 5,3,5
+Eusébio,"Is depressed, blue",1 to 5,4,5
+Eusébio,"Is original, comes up with new ideas",1 to 5,5,1
+Eusébio,Is reserved,1 to 5,6,5
+Eusébio,Is helpful and unselfish with others,1 to 5,7,5
+Eusébio,Can be somewhat careless,1 to 5,8,3
+Eusébio,"Is relaxed, handles stress well",1 to 5,9,4
+Eusébio,Is curious about many different things,1 to 5,10,3
+Eusébio,Is full of energy,1 to 5,11,4
+Eusébio,Starts quarrels with others,1 to 5,12,4
+Eusébio,Is a reliable worker,1 to 5,13,5
+Eusébio,Can be tense,1 to 5,14,5
+Eusébio,"Is ingenious, a deep thinker",1 to 5,15,5
+Eusébio,Generates a lot of enthusiasm,1 to 5,16,5
+Eusébio,Has a forgiving nature,1 to 5,17,5
+Eusébio,Tends to be disorganized,1 to 5,18,4
+Eusébio,Worries a lot,1 to 5,19,3
+Eusébio,Has an active imagination,1 to 5,20,5
+Eusébio,Tends to be quiet,1 to 5,21,1
+Eusébio,Is generally trusting,1 to 5,22,5
+Eusébio,Tends to be lazy,1 to 5,23,5
+Eusébio,"Is emotionally stable, not easily upset",1 to 5,24,2
+Eusébio,Is inventive,1 to 5,25,5
+Eusébio,Has an assertive personality,1 to 5,26,2
+Eusébio,Can be cold and aloof,1 to 5,27,3
+Eusébio,Perseveres until the task is finished,1 to 5,28,4
+Eusébio,Can be moody,1 to 5,29,3
+Eusébio,"Values artistic, aesthetic experiences",1 to 5,30,5
+Eusébio,"Is sometimes shy, inhibited",1 to 5,31,4
+Eusébio,Is considerate and kind to almost everyone,1 to 5,32,4
+Eusébio,Does things efficiently,1 to 5,33,1
+Eusébio,Remains calm in tense situations,1 to 5,34,3
+Eusébio,Prefers work that is routine,1 to 5,35,5
+Eusébio,"Is outgoing, sociable",1 to 5,36,4
+Eusébio,Is sometimes rude to others,1 to 5,37,3
+Eusébio,Makes plans and follows through with them,1 to 5,38,1
+Eusébio,Gets nervous easily,1 to 5,39,1
+Eusébio,"Likes to reflect, play with ideas",1 to 5,40,3
+Eusébio,Has few artistic interests,1 to 5,41,5
+Eusébio,Likes to cooperate with others,1 to 5,42,2
+Eusébio,Is easily distracted,1 to 5,43,2
+Eusébio,"Is sophisticated in art, music, or Literature",1 to 5,44,3
+Petr Čech,Is talkative,1 to 5,1,1
+Petr Čech,Tends to find fault with others,1 to 5,2,2
+Petr Čech,Does a thorough job,1 to 5,3,3
+Petr Čech,"Is depressed, blue",1 to 5,4,3
+Petr Čech,"Is original, comes up with new ideas",1 to 5,5,3
+Petr Čech,Is reserved,1 to 5,6,1
+Petr Čech,Is helpful and unselfish with others,1 to 5,7,3
+Petr Čech,Can be somewhat careless,1 to 5,8,5
+Petr Čech,"Is relaxed, handles stress well",1 to 5,9,5
+Petr Čech,Is curious about many different things,1 to 5,10,2
+Petr Čech,Is full of energy,1 to 5,11,5
+Petr Čech,Starts quarrels with others,1 to 5,12,2
+Petr Čech,Is a reliable worker,1 to 5,13,5
+Petr Čech,Can be tense,1 to 5,14,4
+Petr Čech,"Is ingenious, a deep thinker",1 to 5,15,5
+Petr Čech,Generates a lot of enthusiasm,1 to 5,16,5
+Petr Čech,Has a forgiving nature,1 to 5,17,3
+Petr Čech,Tends to be disorganized,1 to 5,18,3
+Petr Čech,Worries a lot,1 to 5,19,4
+Petr Čech,Has an active imagination,1 to 5,20,3
+Petr Čech,Tends to be quiet,1 to 5,21,3
+Petr Čech,Is generally trusting,1 to 5,22,3
+Petr Čech,Tends to be lazy,1 to 5,23,3
+Petr Čech,"Is emotionally stable, not easily upset",1 to 5,24,4
+Petr Čech,Is inventive,1 to 5,25,3
+Petr Čech,Has an assertive personality,1 to 5,26,3
+Petr Čech,Can be cold and aloof,1 to 5,27,1
+Petr Čech,Perseveres until the task is finished,1 to 5,28,5
+Petr Čech,Can be moody,1 to 5,29,3
+Petr Čech,"Values artistic, aesthetic experiences",1 to 5,30,2
+Petr Čech,"Is sometimes shy, inhibited",1 to 5,31,1
+Petr Čech,Is considerate and kind to almost everyone,1 to 5,32,4
+Petr Čech,Does things efficiently,1 to 5,33,5
+Petr Čech,Remains calm in tense situations,1 to 5,34,5
+Petr Čech,Prefers work that is routine,1 to 5,35,5
+Petr Čech,"Is outgoing, sociable",1 to 5,36,3
+Petr Čech,Is sometimes rude to others,1 to 5,37,5
+Petr Čech,Makes plans and follows through with them,1 to 5,38,4
+Petr Čech,Gets nervous easily,1 to 5,39,4
+Petr Čech,"Likes to reflect, play with ideas",1 to 5,40,3
+Petr Čech,Has few artistic interests,1 to 5,41,3
+Petr Čech,Likes to cooperate with others,1 to 5,42,3
+Petr Čech,Is easily distracted,1 to 5,43,3
+Petr Čech,"Is sophisticated in art, music, or Literature",1 to 5,44,5
+Magnús Scheving,Is talkative,1 to 5,1,5
+Magnús Scheving,Tends to find fault with others,1 to 5,2,1
+Magnús Scheving,Does a thorough job,1 to 5,3,2
+Magnús Scheving,"Is depressed, blue",1 to 5,4,4
+Magnús Scheving,"Is original, comes up with new ideas",1 to 5,5,4
+Magnús Scheving,Is reserved,1 to 5,6,1
+Magnús Scheving,Is helpful and unselfish with others,1 to 5,7,4
+Magnús Scheving,Can be somewhat careless,1 to 5,8,3
+Magnús Scheving,"Is relaxed, handles stress well",1 to 5,9,2
+Magnús Scheving,Is curious about many different things,1 to 5,10,3
+Magnús Scheving,Is full of energy,1 to 5,11,5
+Magnús Scheving,Starts quarrels with others,1 to 5,12,1
+Magnús Scheving,Is a reliable worker,1 to 5,13,1
+Magnús Scheving,Can be tense,1 to 5,14,3
+Magnús Scheving,"Is ingenious, a deep thinker",1 to 5,15,5
+Magnús Scheving,Generates a lot of enthusiasm,1 to 5,16,5
+Magnús Scheving,Has a forgiving nature,1 to 5,17,3
+Magnús Scheving,Tends to be disorganized,1 to 5,18,3
+Magnús Scheving,Worries a lot,1 to 5,19,2
+Magnús Scheving,Has an active imagination,1 to 5,20,4
+Magnús Scheving,Tends to be quiet,1 to 5,21,4
+Magnús Scheving,Is generally trusting,1 to 5,22,3
+Magnús Scheving,Tends to be lazy,1 to 5,23,3
+Magnús Scheving,"Is emotionally stable, not easily upset",1 to 5,24,5
+Magnús Scheving,Is inventive,1 to 5,25,5
+Magnús Scheving,Has an assertive personality,1 to 5,26,2
+Magnús Scheving,Can be cold and aloof,1 to 5,27,3
+Magnús Scheving,Perseveres until the task is finished,1 to 5,28,4
+Magnús Scheving,Can be moody,1 to 5,29,3
+Magnús Scheving,"Values artistic, aesthetic experiences",1 to 5,30,3
+Magnús Scheving,"Is sometimes shy, inhibited",1 to 5,31,4
+Magnús Scheving,Is considerate and kind to almost everyone,1 to 5,32,5
+Magnús Scheving,Does things efficiently,1 to 5,33,2
+Magnús Scheving,Remains calm in tense situations,1 to 5,34,5
+Magnús Scheving,Prefers work that is routine,1 to 5,35,5
+Magnús Scheving,"Is outgoing, sociable",1 to 5,36,5
+Magnús Scheving,Is sometimes rude to others,1 to 5,37,1
+Magnús Scheving,Makes plans and follows through with them,1 to 5,38,5
+Magnús Scheving,Gets nervous easily,1 to 5,39,3
+Magnús Scheving,"Likes to reflect, play with ideas",1 to 5,40,5
+Magnús Scheving,Has few artistic interests,1 to 5,41,3
+Magnús Scheving,Likes to cooperate with others,1 to 5,42,5
+Magnús Scheving,Is easily distracted,1 to 5,43,1
+Magnús Scheving,"Is sophisticated in art, music, or Literature",1 to 5,44,5
+Dave Bautista,Is talkative,1 to 5,1,5
+Dave Bautista,Tends to find fault with others,1 to 5,2,3
+Dave Bautista,Does a thorough job,1 to 5,3,4
+Dave Bautista,"Is depressed, blue",1 to 5,4,4
+Dave Bautista,"Is original, comes up with new ideas",1 to 5,5,5
+Dave Bautista,Is reserved,1 to 5,6,5
+Dave Bautista,Is helpful and unselfish with others,1 to 5,7,2
+Dave Bautista,Can be somewhat careless,1 to 5,8,5
+Dave Bautista,"Is relaxed, handles stress well",1 to 5,9,5
+Dave Bautista,Is curious about many different things,1 to 5,10,5
+Dave Bautista,Is full of energy,1 to 5,11,3
+Dave Bautista,Starts quarrels with others,1 to 5,12,4
+Dave Bautista,Is a reliable worker,1 to 5,13,5
+Dave Bautista,Can be tense,1 to 5,14,5
+Dave Bautista,"Is ingenious, a deep thinker",1 to 5,15,4
+Dave Bautista,Generates a lot of enthusiasm,1 to 5,16,1
+Dave Bautista,Has a forgiving nature,1 to 5,17,5
+Dave Bautista,Tends to be disorganized,1 to 5,18,3
+Dave Bautista,Worries a lot,1 to 5,19,5
+Dave Bautista,Has an active imagination,1 to 5,20,5
+Dave Bautista,Tends to be quiet,1 to 5,21,5
+Dave Bautista,Is generally trusting,1 to 5,22,5
+Dave Bautista,Tends to be lazy,1 to 5,23,3
+Dave Bautista,"Is emotionally stable, not easily upset",1 to 5,24,5
+Dave Bautista,Is inventive,1 to 5,25,4
+Dave Bautista,Has an assertive personality,1 to 5,26,4
+Dave Bautista,Can be cold and aloof,1 to 5,27,3
+Dave Bautista,Perseveres until the task is finished,1 to 5,28,5
+Dave Bautista,Can be moody,1 to 5,29,3
+Dave Bautista,"Values artistic, aesthetic experiences",1 to 5,30,5
+Dave Bautista,"Is sometimes shy, inhibited",1 to 5,31,3
+Dave Bautista,Is considerate and kind to almost everyone,1 to 5,32,5
+Dave Bautista,Does things efficiently,1 to 5,33,4
+Dave Bautista,Remains calm in tense situations,1 to 5,34,3
+Dave Bautista,Prefers work that is routine,1 to 5,35,4
+Dave Bautista,"Is outgoing, sociable",1 to 5,36,5
+Dave Bautista,Is sometimes rude to others,1 to 5,37,5
+Dave Bautista,Makes plans and follows through with them,1 to 5,38,4
+Dave Bautista,Gets nervous easily,1 to 5,39,4
+Dave Bautista,"Likes to reflect, play with ideas",1 to 5,40,5
+Dave Bautista,Has few artistic interests,1 to 5,41,3
+Dave Bautista,Likes to cooperate with others,1 to 5,42,2
+Dave Bautista,Is easily distracted,1 to 5,43,3
+Dave Bautista,"Is sophisticated in art, music, or Literature",1 to 5,44,5
+Pavel Nedvěd,Is talkative,1 to 5,1,5
+Pavel Nedvěd,Tends to find fault with others,1 to 5,2,3
+Pavel Nedvěd,Does a thorough job,1 to 5,3,4
+Pavel Nedvěd,"Is depressed, blue",1 to 5,4,3
+Pavel Nedvěd,"Is original, comes up with new ideas",1 to 5,5,4
+Pavel Nedvěd,Is reserved,1 to 5,6,4
+Pavel Nedvěd,Is helpful and unselfish with others,1 to 5,7,5
+Pavel Nedvěd,Can be somewhat careless,1 to 5,8,4
+Pavel Nedvěd,"Is relaxed, handles stress well",1 to 5,9,4
+Pavel Nedvěd,Is curious about many different things,1 to 5,10,3
+Pavel Nedvěd,Is full of energy,1 to 5,11,5
+Pavel Nedvěd,Starts quarrels with others,1 to 5,12,3
+Pavel Nedvěd,Is a reliable worker,1 to 5,13,5
+Pavel Nedvěd,Can be tense,1 to 5,14,3
+Pavel Nedvěd,"Is ingenious, a deep thinker",1 to 5,15,3
+Pavel Nedvěd,Generates a lot of enthusiasm,1 to 5,16,4
+Pavel Nedvěd,Has a forgiving nature,1 to 5,17,3
+Pavel Nedvěd,Tends to be disorganized,1 to 5,18,1
+Pavel Nedvěd,Worries a lot,1 to 5,19,1
+Pavel Nedvěd,Has an active imagination,1 to 5,20,5
+Pavel Nedvěd,Tends to be quiet,1 to 5,21,5
+Pavel Nedvěd,Is generally trusting,1 to 5,22,3
+Pavel Nedvěd,Tends to be lazy,1 to 5,23,3
+Pavel Nedvěd,"Is emotionally stable, not easily upset",1 to 5,24,3
+Pavel Nedvěd,Is inventive,1 to 5,25,1
+Pavel Nedvěd,Has an assertive personality,1 to 5,26,3
+Pavel Nedvěd,Can be cold and aloof,1 to 5,27,2
+Pavel Nedvěd,Perseveres until the task is finished,1 to 5,28,5
+Pavel Nedvěd,Can be moody,1 to 5,29,3
+Pavel Nedvěd,"Values artistic, aesthetic experiences",1 to 5,30,4
+Pavel Nedvěd,"Is sometimes shy, inhibited",1 to 5,31,5
+Pavel Nedvěd,Is considerate and kind to almost everyone,1 to 5,32,3
+Pavel Nedvěd,Does things efficiently,1 to 5,33,5
+Pavel Nedvěd,Remains calm in tense situations,1 to 5,34,3
+Pavel Nedvěd,Prefers work that is routine,1 to 5,35,5
+Pavel Nedvěd,"Is outgoing, sociable",1 to 5,36,3
+Pavel Nedvěd,Is sometimes rude to others,1 to 5,37,3
+Pavel Nedvěd,Makes plans and follows through with them,1 to 5,38,3
+Pavel Nedvěd,Gets nervous easily,1 to 5,39,3
+Pavel Nedvěd,"Likes to reflect, play with ideas",1 to 5,40,5
+Pavel Nedvěd,Has few artistic interests,1 to 5,41,4
+Pavel Nedvěd,Likes to cooperate with others,1 to 5,42,3
+Pavel Nedvěd,Is easily distracted,1 to 5,43,4
+Pavel Nedvěd,"Is sophisticated in art, music, or Literature",1 to 5,44,5
+Wladimir Klitschko,Is talkative,1 to 5,1,2
+Wladimir Klitschko,Tends to find fault with others,1 to 5,2,5
+Wladimir Klitschko,Does a thorough job,1 to 5,3,3
+Wladimir Klitschko,"Is depressed, blue",1 to 5,4,5
+Wladimir Klitschko,"Is original, comes up with new ideas",1 to 5,5,5
+Wladimir Klitschko,Is reserved,1 to 5,6,5
+Wladimir Klitschko,Is helpful and unselfish with others,1 to 5,7,4
+Wladimir Klitschko,Can be somewhat careless,1 to 5,8,5
+Wladimir Klitschko,"Is relaxed, handles stress well",1 to 5,9,5
+Wladimir Klitschko,Is curious about many different things,1 to 5,10,5
+Wladimir Klitschko,Is full of energy,1 to 5,11,4
+Wladimir Klitschko,Starts quarrels with others,1 to 5,12,3
+Wladimir Klitschko,Is a reliable worker,1 to 5,13,5
+Wladimir Klitschko,Can be tense,1 to 5,14,5
+Wladimir Klitschko,"Is ingenious, a deep thinker",1 to 5,15,4
+Wladimir Klitschko,Generates a lot of enthusiasm,1 to 5,16,5
+Wladimir Klitschko,Has a forgiving nature,1 to 5,17,4
+Wladimir Klitschko,Tends to be disorganized,1 to 5,18,2
+Wladimir Klitschko,Worries a lot,1 to 5,19,5
+Wladimir Klitschko,Has an active imagination,1 to 5,20,4
+Wladimir Klitschko,Tends to be quiet,1 to 5,21,1
+Wladimir Klitschko,Is generally trusting,1 to 5,22,5
+Wladimir Klitschko,Tends to be lazy,1 to 5,23,5
+Wladimir Klitschko,"Is emotionally stable, not easily upset",1 to 5,24,5
+Wladimir Klitschko,Is inventive,1 to 5,25,1
+Wladimir Klitschko,Has an assertive personality,1 to 5,26,5
+Wladimir Klitschko,Can be cold and aloof,1 to 5,27,3
+Wladimir Klitschko,Perseveres until the task is finished,1 to 5,28,5
+Wladimir Klitschko,Can be moody,1 to 5,29,1
+Wladimir Klitschko,"Values artistic, aesthetic experiences",1 to 5,30,5
+Wladimir Klitschko,"Is sometimes shy, inhibited",1 to 5,31,4
+Wladimir Klitschko,Is considerate and kind to almost everyone,1 to 5,32,5
+Wladimir Klitschko,Does things efficiently,1 to 5,33,1
+Wladimir Klitschko,Remains calm in tense situations,1 to 5,34,5
+Wladimir Klitschko,Prefers work that is routine,1 to 5,35,3
+Wladimir Klitschko,"Is outgoing, sociable",1 to 5,36,5
+Wladimir Klitschko,Is sometimes rude to others,1 to 5,37,5
+Wladimir Klitschko,Makes plans and follows through with them,1 to 5,38,5
+Wladimir Klitschko,Gets nervous easily,1 to 5,39,5
+Wladimir Klitschko,"Likes to reflect, play with ideas",1 to 5,40,2
+Wladimir Klitschko,Has few artistic interests,1 to 5,41,4
+Wladimir Klitschko,Likes to cooperate with others,1 to 5,42,1
+Wladimir Klitschko,Is easily distracted,1 to 5,43,4
+Wladimir Klitschko,"Is sophisticated in art, music, or Literature",1 to 5,44,3
+Ronda Rousey,Is talkative,1 to 5,1,2
+Ronda Rousey,Tends to find fault with others,1 to 5,2,5
+Ronda Rousey,Does a thorough job,1 to 5,3,3
+Ronda Rousey,"Is depressed, blue",1 to 5,4,5
+Ronda Rousey,"Is original, comes up with new ideas",1 to 5,5,5
+Ronda Rousey,Is reserved,1 to 5,6,5
+Ronda Rousey,Is helpful and unselfish with others,1 to 5,7,5
+Ronda Rousey,Can be somewhat careless,1 to 5,8,5
+Ronda Rousey,"Is relaxed, handles stress well",1 to 5,9,4
+Ronda Rousey,Is curious about many different things,1 to 5,10,5
+Ronda Rousey,Is full of energy,1 to 5,11,5
+Ronda Rousey,Starts quarrels with others,1 to 5,12,5
+Ronda Rousey,Is a reliable worker,1 to 5,13,2
+Ronda Rousey,Can be tense,1 to 5,14,1
+Ronda Rousey,"Is ingenious, a deep thinker",1 to 5,15,5
+Ronda Rousey,Generates a lot of enthusiasm,1 to 5,16,5
+Ronda Rousey,Has a forgiving nature,1 to 5,17,3
+Ronda Rousey,Tends to be disorganized,1 to 5,18,5
+Ronda Rousey,Worries a lot,1 to 5,19,1
+Ronda Rousey,Has an active imagination,1 to 5,20,4
+Ronda Rousey,Tends to be quiet,1 to 5,21,5
+Ronda Rousey,Is generally trusting,1 to 5,22,4
+Ronda Rousey,Tends to be lazy,1 to 5,23,4
+Ronda Rousey,"Is emotionally stable, not easily upset",1 to 5,24,1
+Ronda Rousey,Is inventive,1 to 5,25,3
+Ronda Rousey,Has an assertive personality,1 to 5,26,5
+Ronda Rousey,Can be cold and aloof,1 to 5,27,5
+Ronda Rousey,Perseveres until the task is finished,1 to 5,28,3
+Ronda Rousey,Can be moody,1 to 5,29,5
+Ronda Rousey,"Values artistic, aesthetic experiences",1 to 5,30,5
+Ronda Rousey,"Is sometimes shy, inhibited",1 to 5,31,3
+Ronda Rousey,Is considerate and kind to almost everyone,1 to 5,32,5
+Ronda Rousey,Does things efficiently,1 to 5,33,5
+Ronda Rousey,Remains calm in tense situations,1 to 5,34,5
+Ronda Rousey,Prefers work that is routine,1 to 5,35,5
+Ronda Rousey,"Is outgoing, sociable",1 to 5,36,5
+Ronda Rousey,Is sometimes rude to others,1 to 5,37,4
+Ronda Rousey,Makes plans and follows through with them,1 to 5,38,5
+Ronda Rousey,Gets nervous easily,1 to 5,39,5
+Ronda Rousey,"Likes to reflect, play with ideas",1 to 5,40,5
+Ronda Rousey,Has few artistic interests,1 to 5,41,5
+Ronda Rousey,Likes to cooperate with others,1 to 5,42,4
+Ronda Rousey,Is easily distracted,1 to 5,43,4
+Ronda Rousey,"Is sophisticated in art, music, or Literature",1 to 5,44,5
+Jackie Joyner-Kersee,Is talkative,1 to 5,1,5
+Jackie Joyner-Kersee,Tends to find fault with others,1 to 5,2,1
+Jackie Joyner-Kersee,Does a thorough job,1 to 5,3,5
+Jackie Joyner-Kersee,"Is depressed, blue",1 to 5,4,1
+Jackie Joyner-Kersee,"Is original, comes up with new ideas",1 to 5,5,5
+Jackie Joyner-Kersee,Is reserved,1 to 5,6,5
+Jackie Joyner-Kersee,Is helpful and unselfish with others,1 to 5,7,5
+Jackie Joyner-Kersee,Can be somewhat careless,1 to 5,8,4
+Jackie Joyner-Kersee,"Is relaxed, handles stress well",1 to 5,9,4
+Jackie Joyner-Kersee,Is curious about many different things,1 to 5,10,1
+Jackie Joyner-Kersee,Is full of energy,1 to 5,11,5
+Jackie Joyner-Kersee,Starts quarrels with others,1 to 5,12,2
+Jackie Joyner-Kersee,Is a reliable worker,1 to 5,13,2
+Jackie Joyner-Kersee,Can be tense,1 to 5,14,5
+Jackie Joyner-Kersee,"Is ingenious, a deep thinker",1 to 5,15,2
+Jackie Joyner-Kersee,Generates a lot of enthusiasm,1 to 5,16,5
+Jackie Joyner-Kersee,Has a forgiving nature,1 to 5,17,3
+Jackie Joyner-Kersee,Tends to be disorganized,1 to 5,18,5
+Jackie Joyner-Kersee,Worries a lot,1 to 5,19,5
+Jackie Joyner-Kersee,Has an active imagination,1 to 5,20,5
+Jackie Joyner-Kersee,Tends to be quiet,1 to 5,21,5
+Jackie Joyner-Kersee,Is generally trusting,1 to 5,22,3
+Jackie Joyner-Kersee,Tends to be lazy,1 to 5,23,5
+Jackie Joyner-Kersee,"Is emotionally stable, not easily upset",1 to 5,24,5
+Jackie Joyner-Kersee,Is inventive,1 to 5,25,3
+Jackie Joyner-Kersee,Has an assertive personality,1 to 5,26,5
+Jackie Joyner-Kersee,Can be cold and aloof,1 to 5,27,4
+Jackie Joyner-Kersee,Perseveres until the task is finished,1 to 5,28,3
+Jackie Joyner-Kersee,Can be moody,1 to 5,29,5
+Jackie Joyner-Kersee,"Values artistic, aesthetic experiences",1 to 5,30,5
+Jackie Joyner-Kersee,"Is sometimes shy, inhibited",1 to 5,31,3
+Jackie Joyner-Kersee,Is considerate and kind to almost everyone,1 to 5,32,4
+Jackie Joyner-Kersee,Does things efficiently,1 to 5,33,3
+Jackie Joyner-Kersee,Remains calm in tense situations,1 to 5,34,4
+Jackie Joyner-Kersee,Prefers work that is routine,1 to 5,35,4
+Jackie Joyner-Kersee,"Is outgoing, sociable",1 to 5,36,5
+Jackie Joyner-Kersee,Is sometimes rude to others,1 to 5,37,5
+Jackie Joyner-Kersee,Makes plans and follows through with them,1 to 5,38,4
+Jackie Joyner-Kersee,Gets nervous easily,1 to 5,39,4
+Jackie Joyner-Kersee,"Likes to reflect, play with ideas",1 to 5,40,5
+Jackie Joyner-Kersee,Has few artistic interests,1 to 5,41,3
+Jackie Joyner-Kersee,Likes to cooperate with others,1 to 5,42,5
+Jackie Joyner-Kersee,Is easily distracted,1 to 5,43,2
+Jackie Joyner-Kersee,"Is sophisticated in art, music, or Literature",1 to 5,44,5
+Matti Nykänen,Is talkative,1 to 5,1,3
+Matti Nykänen,Tends to find fault with others,1 to 5,2,3
+Matti Nykänen,Does a thorough job,1 to 5,3,4
+Matti Nykänen,"Is depressed, blue",1 to 5,4,1
+Matti Nykänen,"Is original, comes up with new ideas",1 to 5,5,4
+Matti Nykänen,Is reserved,1 to 5,6,3
+Matti Nykänen,Is helpful and unselfish with others,1 to 5,7,3
+Matti Nykänen,Can be somewhat careless,1 to 5,8,4
+Matti Nykänen,"Is relaxed, handles stress well",1 to 5,9,3
+Matti Nykänen,Is curious about many different things,1 to 5,10,4
+Matti Nykänen,Is full of energy,1 to 5,11,2
+Matti Nykänen,Starts quarrels with others,1 to 5,12,3
+Matti Nykänen,Is a reliable worker,1 to 5,13,4
+Matti Nykänen,Can be tense,1 to 5,14,5
+Matti Nykänen,"Is ingenious, a deep thinker",1 to 5,15,3
+Matti Nykänen,Generates a lot of enthusiasm,1 to 5,16,5
+Matti Nykänen,Has a forgiving nature,1 to 5,17,5
+Matti Nykänen,Tends to be disorganized,1 to 5,18,2
+Matti Nykänen,Worries a lot,1 to 5,19,5
+Matti Nykänen,Has an active imagination,1 to 5,20,4
+Matti Nykänen,Tends to be quiet,1 to 5,21,4
+Matti Nykänen,Is generally trusting,1 to 5,22,4
+Matti Nykänen,Tends to be lazy,1 to 5,23,2
+Matti Nykänen,"Is emotionally stable, not easily upset",1 to 5,24,5
+Matti Nykänen,Is inventive,1 to 5,25,5
+Matti Nykänen,Has an assertive personality,1 to 5,26,3
+Matti Nykänen,Can be cold and aloof,1 to 5,27,5
+Matti Nykänen,Perseveres until the task is finished,1 to 5,28,5
+Matti Nykänen,Can be moody,1 to 5,29,1
+Matti Nykänen,"Values artistic, aesthetic experiences",1 to 5,30,4
+Matti Nykänen,"Is sometimes shy, inhibited",1 to 5,31,4
+Matti Nykänen,Is considerate and kind to almost everyone,1 to 5,32,3
+Matti Nykänen,Does things efficiently,1 to 5,33,3
+Matti Nykänen,Remains calm in tense situations,1 to 5,34,4
+Matti Nykänen,Prefers work that is routine,1 to 5,35,5
+Matti Nykänen,"Is outgoing, sociable",1 to 5,36,4
+Matti Nykänen,Is sometimes rude to others,1 to 5,37,2
+Matti Nykänen,Makes plans and follows through with them,1 to 5,38,5
+Matti Nykänen,Gets nervous easily,1 to 5,39,1
+Matti Nykänen,"Likes to reflect, play with ideas",1 to 5,40,3
+Matti Nykänen,Has few artistic interests,1 to 5,41,3
+Matti Nykänen,Likes to cooperate with others,1 to 5,42,4
+Matti Nykänen,Is easily distracted,1 to 5,43,1
+Matti Nykänen,"Is sophisticated in art, music, or Literature",1 to 5,44,4
+Florence Griffith Joyner,Is talkative,1 to 5,1,4
+Florence Griffith Joyner,Tends to find fault with others,1 to 5,2,5
+Florence Griffith Joyner,Does a thorough job,1 to 5,3,2
+Florence Griffith Joyner,"Is depressed, blue",1 to 5,4,5
+Florence Griffith Joyner,"Is original, comes up with new ideas",1 to 5,5,4
+Florence Griffith Joyner,Is reserved,1 to 5,6,5
+Florence Griffith Joyner,Is helpful and unselfish with others,1 to 5,7,1
+Florence Griffith Joyner,Can be somewhat careless,1 to 5,8,5
+Florence Griffith Joyner,"Is relaxed, handles stress well",1 to 5,9,3
+Florence Griffith Joyner,Is curious about many different things,1 to 5,10,1
+Florence Griffith Joyner,Is full of energy,1 to 5,11,1
+Florence Griffith Joyner,Starts quarrels with others,1 to 5,12,5
+Florence Griffith Joyner,Is a reliable worker,1 to 5,13,3
+Florence Griffith Joyner,Can be tense,1 to 5,14,1
+Florence Griffith Joyner,"Is ingenious, a deep thinker",1 to 5,15,1
+Florence Griffith Joyner,Generates a lot of enthusiasm,1 to 5,16,5
+Florence Griffith Joyner,Has a forgiving nature,1 to 5,17,5
+Florence Griffith Joyner,Tends to be disorganized,1 to 5,18,5
+Florence Griffith Joyner,Worries a lot,1 to 5,19,5
+Florence Griffith Joyner,Has an active imagination,1 to 5,20,4
+Florence Griffith Joyner,Tends to be quiet,1 to 5,21,5
+Florence Griffith Joyner,Is generally trusting,1 to 5,22,3
+Florence Griffith Joyner,Tends to be lazy,1 to 5,23,5
+Florence Griffith Joyner,"Is emotionally stable, not easily upset",1 to 5,24,3
+Florence Griffith Joyner,Is inventive,1 to 5,25,4
+Florence Griffith Joyner,Has an assertive personality,1 to 5,26,4
+Florence Griffith Joyner,Can be cold and aloof,1 to 5,27,4
+Florence Griffith Joyner,Perseveres until the task is finished,1 to 5,28,5
+Florence Griffith Joyner,Can be moody,1 to 5,29,3
+Florence Griffith Joyner,"Values artistic, aesthetic experiences",1 to 5,30,3
+Florence Griffith Joyner,"Is sometimes shy, inhibited",1 to 5,31,5
+Florence Griffith Joyner,Is considerate and kind to almost everyone,1 to 5,32,3
+Florence Griffith Joyner,Does things efficiently,1 to 5,33,3
+Florence Griffith Joyner,Remains calm in tense situations,1 to 5,34,5
+Florence Griffith Joyner,Prefers work that is routine,1 to 5,35,5
+Florence Griffith Joyner,"Is outgoing, sociable",1 to 5,36,4
+Florence Griffith Joyner,Is sometimes rude to others,1 to 5,37,3
+Florence Griffith Joyner,Makes plans and follows through with them,1 to 5,38,5
+Florence Griffith Joyner,Gets nervous easily,1 to 5,39,4
+Florence Griffith Joyner,"Likes to reflect, play with ideas",1 to 5,40,4
+Florence Griffith Joyner,Has few artistic interests,1 to 5,41,1
+Florence Griffith Joyner,Likes to cooperate with others,1 to 5,42,4
+Florence Griffith Joyner,Is easily distracted,1 to 5,43,5
+Florence Griffith Joyner,"Is sophisticated in art, music, or Literature",1 to 5,44,3
+Roger Bannister,Is talkative,1 to 5,1,5
+Roger Bannister,Tends to find fault with others,1 to 5,2,3
+Roger Bannister,Does a thorough job,1 to 5,3,5
+Roger Bannister,"Is depressed, blue",1 to 5,4,3
+Roger Bannister,"Is original, comes up with new ideas",1 to 5,5,4
+Roger Bannister,Is reserved,1 to 5,6,4
+Roger Bannister,Is helpful and unselfish with others,1 to 5,7,5
+Roger Bannister,Can be somewhat careless,1 to 5,8,4
+Roger Bannister,"Is relaxed, handles stress well",1 to 5,9,5
+Roger Bannister,Is curious about many different things,1 to 5,10,4
+Roger Bannister,Is full of energy,1 to 5,11,5
+Roger Bannister,Starts quarrels with others,1 to 5,12,5
+Roger Bannister,Is a reliable worker,1 to 5,13,5
+Roger Bannister,Can be tense,1 to 5,14,4
+Roger Bannister,"Is ingenious, a deep thinker",1 to 5,15,4
+Roger Bannister,Generates a lot of enthusiasm,1 to 5,16,5
+Roger Bannister,Has a forgiving nature,1 to 5,17,3
+Roger Bannister,Tends to be disorganized,1 to 5,18,3
+Roger Bannister,Worries a lot,1 to 5,19,4
+Roger Bannister,Has an active imagination,1 to 5,20,4
+Roger Bannister,Tends to be quiet,1 to 5,21,2
+Roger Bannister,Is generally trusting,1 to 5,22,1
+Roger Bannister,Tends to be lazy,1 to 5,23,4
+Roger Bannister,"Is emotionally stable, not easily upset",1 to 5,24,1
+Roger Bannister,Is inventive,1 to 5,25,3
+Roger Bannister,Has an assertive personality,1 to 5,26,1
+Roger Bannister,Can be cold and aloof,1 to 5,27,5
+Roger Bannister,Perseveres until the task is finished,1 to 5,28,3
+Roger Bannister,Can be moody,1 to 5,29,5
+Roger Bannister,"Values artistic, aesthetic experiences",1 to 5,30,5
+Roger Bannister,"Is sometimes shy, inhibited",1 to 5,31,5
+Roger Bannister,Is considerate and kind to almost everyone,1 to 5,32,5
+Roger Bannister,Does things efficiently,1 to 5,33,5
+Roger Bannister,Remains calm in tense situations,1 to 5,34,5
+Roger Bannister,Prefers work that is routine,1 to 5,35,1
+Roger Bannister,"Is outgoing, sociable",1 to 5,36,5
+Roger Bannister,Is sometimes rude to others,1 to 5,37,5
+Roger Bannister,Makes plans and follows through with them,1 to 5,38,5
+Roger Bannister,Gets nervous easily,1 to 5,39,4
+Roger Bannister,"Likes to reflect, play with ideas",1 to 5,40,1
+Roger Bannister,Has few artistic interests,1 to 5,41,4
+Roger Bannister,Likes to cooperate with others,1 to 5,42,5
+Roger Bannister,Is easily distracted,1 to 5,43,1
+Roger Bannister,"Is sophisticated in art, music, or Literature",1 to 5,44,3
+Věra Čáslavská,Is talkative,1 to 5,1,5
+Věra Čáslavská,Tends to find fault with others,1 to 5,2,2
+Věra Čáslavská,Does a thorough job,1 to 5,3,5
+Věra Čáslavská,"Is depressed, blue",1 to 5,4,5
+Věra Čáslavská,"Is original, comes up with new ideas",1 to 5,5,3
+Věra Čáslavská,Is reserved,1 to 5,6,5
+Věra Čáslavská,Is helpful and unselfish with others,1 to 5,7,5
+Věra Čáslavská,Can be somewhat careless,1 to 5,8,3
+Věra Čáslavská,"Is relaxed, handles stress well",1 to 5,9,4
+Věra Čáslavská,Is curious about many different things,1 to 5,10,5
+Věra Čáslavská,Is full of energy,1 to 5,11,3
+Věra Čáslavská,Starts quarrels with others,1 to 5,12,3
+Věra Čáslavská,Is a reliable worker,1 to 5,13,5
+Věra Čáslavská,Can be tense,1 to 5,14,3
+Věra Čáslavská,"Is ingenious, a deep thinker",1 to 5,15,3
+Věra Čáslavská,Generates a lot of enthusiasm,1 to 5,16,4
+Věra Čáslavská,Has a forgiving nature,1 to 5,17,1
+Věra Čáslavská,Tends to be disorganized,1 to 5,18,5
+Věra Čáslavská,Worries a lot,1 to 5,19,4
+Věra Čáslavská,Has an active imagination,1 to 5,20,5
+Věra Čáslavská,Tends to be quiet,1 to 5,21,4
+Věra Čáslavská,Is generally trusting,1 to 5,22,4
+Věra Čáslavská,Tends to be lazy,1 to 5,23,3
+Věra Čáslavská,"Is emotionally stable, not easily upset",1 to 5,24,5
+Věra Čáslavská,Is inventive,1 to 5,25,3
+Věra Čáslavská,Has an assertive personality,1 to 5,26,5
+Věra Čáslavská,Can be cold and aloof,1 to 5,27,2
+Věra Čáslavská,Perseveres until the task is finished,1 to 5,28,4
+Věra Čáslavská,Can be moody,1 to 5,29,3
+Věra Čáslavská,"Values artistic, aesthetic experiences",1 to 5,30,5
+Věra Čáslavská,"Is sometimes shy, inhibited",1 to 5,31,5
+Věra Čáslavská,Is considerate and kind to almost everyone,1 to 5,32,3
+Věra Čáslavská,Does things efficiently,1 to 5,33,5
+Věra Čáslavská,Remains calm in tense situations,1 to 5,34,3
+Věra Čáslavská,Prefers work that is routine,1 to 5,35,4
+Věra Čáslavská,"Is outgoing, sociable",1 to 5,36,4
+Věra Čáslavská,Is sometimes rude to others,1 to 5,37,5
+Věra Čáslavská,Makes plans and follows through with them,1 to 5,38,4
+Věra Čáslavská,Gets nervous easily,1 to 5,39,3
+Věra Čáslavská,"Likes to reflect, play with ideas",1 to 5,40,3
+Věra Čáslavská,Has few artistic interests,1 to 5,41,2
+Věra Čáslavská,Likes to cooperate with others,1 to 5,42,5
+Věra Čáslavská,Is easily distracted,1 to 5,43,5
+Věra Čáslavská,"Is sophisticated in art, music, or Literature",1 to 5,44,4
+Pavel Horváth,Is talkative,1 to 5,1,5
+Pavel Horváth,Tends to find fault with others,1 to 5,2,3
+Pavel Horváth,Does a thorough job,1 to 5,3,5
+Pavel Horváth,"Is depressed, blue",1 to 5,4,5
+Pavel Horváth,"Is original, comes up with new ideas",1 to 5,5,1
+Pavel Horváth,Is reserved,1 to 5,6,1
+Pavel Horváth,Is helpful and unselfish with others,1 to 5,7,5
+Pavel Horváth,Can be somewhat careless,1 to 5,8,5
+Pavel Horváth,"Is relaxed, handles stress well",1 to 5,9,3
+Pavel Horváth,Is curious about many different things,1 to 5,10,5
+Pavel Horváth,Is full of energy,1 to 5,11,5
+Pavel Horváth,Starts quarrels with others,1 to 5,12,4
+Pavel Horváth,Is a reliable worker,1 to 5,13,5
+Pavel Horváth,Can be tense,1 to 5,14,1
+Pavel Horváth,"Is ingenious, a deep thinker",1 to 5,15,3
+Pavel Horváth,Generates a lot of enthusiasm,1 to 5,16,1
+Pavel Horváth,Has a forgiving nature,1 to 5,17,4
+Pavel Horváth,Tends to be disorganized,1 to 5,18,3
+Pavel Horváth,Worries a lot,1 to 5,19,5
+Pavel Horváth,Has an active imagination,1 to 5,20,5
+Pavel Horváth,Tends to be quiet,1 to 5,21,5
+Pavel Horváth,Is generally trusting,1 to 5,22,4
+Pavel Horváth,Tends to be lazy,1 to 5,23,4
+Pavel Horváth,"Is emotionally stable, not easily upset",1 to 5,24,3
+Pavel Horváth,Is inventive,1 to 5,25,2
+Pavel Horváth,Has an assertive personality,1 to 5,26,4
+Pavel Horváth,Can be cold and aloof,1 to 5,27,4
+Pavel Horváth,Perseveres until the task is finished,1 to 5,28,1
+Pavel Horváth,Can be moody,1 to 5,29,1
+Pavel Horváth,"Values artistic, aesthetic experiences",1 to 5,30,1
+Pavel Horváth,"Is sometimes shy, inhibited",1 to 5,31,4
+Pavel Horváth,Is considerate and kind to almost everyone,1 to 5,32,3
+Pavel Horváth,Does things efficiently,1 to 5,33,5
+Pavel Horváth,Remains calm in tense situations,1 to 5,34,3
+Pavel Horváth,Prefers work that is routine,1 to 5,35,2
+Pavel Horváth,"Is outgoing, sociable",1 to 5,36,2
+Pavel Horváth,Is sometimes rude to others,1 to 5,37,5
+Pavel Horváth,Makes plans and follows through with them,1 to 5,38,3
+Pavel Horváth,Gets nervous easily,1 to 5,39,1
+Pavel Horváth,"Likes to reflect, play with ideas",1 to 5,40,4
+Pavel Horváth,Has few artistic interests,1 to 5,41,5
+Pavel Horváth,Likes to cooperate with others,1 to 5,42,3
+Pavel Horváth,Is easily distracted,1 to 5,43,5
+Pavel Horváth,"Is sophisticated in art, music, or Literature",1 to 5,44,1
+Magdalena Neuner,Is talkative,1 to 5,1,4
+Magdalena Neuner,Tends to find fault with others,1 to 5,2,5
+Magdalena Neuner,Does a thorough job,1 to 5,3,2
+Magdalena Neuner,"Is depressed, blue",1 to 5,4,4
+Magdalena Neuner,"Is original, comes up with new ideas",1 to 5,5,4
+Magdalena Neuner,Is reserved,1 to 5,6,3
+Magdalena Neuner,Is helpful and unselfish with others,1 to 5,7,1
+Magdalena Neuner,Can be somewhat careless,1 to 5,8,3
+Magdalena Neuner,"Is relaxed, handles stress well",1 to 5,9,5
+Magdalena Neuner,Is curious about many different things,1 to 5,10,1
+Magdalena Neuner,Is full of energy,1 to 5,11,4
+Magdalena Neuner,Starts quarrels with others,1 to 5,12,5
+Magdalena Neuner,Is a reliable worker,1 to 5,13,1
+Magdalena Neuner,Can be tense,1 to 5,14,3
+Magdalena Neuner,"Is ingenious, a deep thinker",1 to 5,15,4
+Magdalena Neuner,Generates a lot of enthusiasm,1 to 5,16,1
+Magdalena Neuner,Has a forgiving nature,1 to 5,17,4
+Magdalena Neuner,Tends to be disorganized,1 to 5,18,3
+Magdalena Neuner,Worries a lot,1 to 5,19,1
+Magdalena Neuner,Has an active imagination,1 to 5,20,1
+Magdalena Neuner,Tends to be quiet,1 to 5,21,2
+Magdalena Neuner,Is generally trusting,1 to 5,22,5
+Magdalena Neuner,Tends to be lazy,1 to 5,23,5
+Magdalena Neuner,"Is emotionally stable, not easily upset",1 to 5,24,5
+Magdalena Neuner,Is inventive,1 to 5,25,5
+Magdalena Neuner,Has an assertive personality,1 to 5,26,5
+Magdalena Neuner,Can be cold and aloof,1 to 5,27,5
+Magdalena Neuner,Perseveres until the task is finished,1 to 5,28,5
+Magdalena Neuner,Can be moody,1 to 5,29,1
+Magdalena Neuner,"Values artistic, aesthetic experiences",1 to 5,30,3
+Magdalena Neuner,"Is sometimes shy, inhibited",1 to 5,31,5
+Magdalena Neuner,Is considerate and kind to almost everyone,1 to 5,32,4
+Magdalena Neuner,Does things efficiently,1 to 5,33,4
+Magdalena Neuner,Remains calm in tense situations,1 to 5,34,3
+Magdalena Neuner,Prefers work that is routine,1 to 5,35,5
+Magdalena Neuner,"Is outgoing, sociable",1 to 5,36,3
+Magdalena Neuner,Is sometimes rude to others,1 to 5,37,5
+Magdalena Neuner,Makes plans and follows through with them,1 to 5,38,2
+Magdalena Neuner,Gets nervous easily,1 to 5,39,4
+Magdalena Neuner,"Likes to reflect, play with ideas",1 to 5,40,1
+Magdalena Neuner,Has few artistic interests,1 to 5,41,3
+Magdalena Neuner,Likes to cooperate with others,1 to 5,42,3
+Magdalena Neuner,Is easily distracted,1 to 5,43,4
+Magdalena Neuner,"Is sophisticated in art, music, or Literature",1 to 5,44,3
+Bernard Hinault,Is talkative,1 to 5,1,5
+Bernard Hinault,Tends to find fault with others,1 to 5,2,4
+Bernard Hinault,Does a thorough job,1 to 5,3,3
+Bernard Hinault,"Is depressed, blue",1 to 5,4,4
+Bernard Hinault,"Is original, comes up with new ideas",1 to 5,5,4
+Bernard Hinault,Is reserved,1 to 5,6,5
+Bernard Hinault,Is helpful and unselfish with others,1 to 5,7,1
+Bernard Hinault,Can be somewhat careless,1 to 5,8,2
+Bernard Hinault,"Is relaxed, handles stress well",1 to 5,9,4
+Bernard Hinault,Is curious about many different things,1 to 5,10,3
+Bernard Hinault,Is full of energy,1 to 5,11,1
+Bernard Hinault,Starts quarrels with others,1 to 5,12,1
+Bernard Hinault,Is a reliable worker,1 to 5,13,5
+Bernard Hinault,Can be tense,1 to 5,14,5
+Bernard Hinault,"Is ingenious, a deep thinker",1 to 5,15,3
+Bernard Hinault,Generates a lot of enthusiasm,1 to 5,16,1
+Bernard Hinault,Has a forgiving nature,1 to 5,17,3
+Bernard Hinault,Tends to be disorganized,1 to 5,18,3
+Bernard Hinault,Worries a lot,1 to 5,19,2
+Bernard Hinault,Has an active imagination,1 to 5,20,5
+Bernard Hinault,Tends to be quiet,1 to 5,21,5
+Bernard Hinault,Is generally trusting,1 to 5,22,3
+Bernard Hinault,Tends to be lazy,1 to 5,23,2
+Bernard Hinault,"Is emotionally stable, not easily upset",1 to 5,24,1
+Bernard Hinault,Is inventive,1 to 5,25,1
+Bernard Hinault,Has an assertive personality,1 to 5,26,4
+Bernard Hinault,Can be cold and aloof,1 to 5,27,3
+Bernard Hinault,Perseveres until the task is finished,1 to 5,28,5
+Bernard Hinault,Can be moody,1 to 5,29,5
+Bernard Hinault,"Values artistic, aesthetic experiences",1 to 5,30,5
+Bernard Hinault,"Is sometimes shy, inhibited",1 to 5,31,3
+Bernard Hinault,Is considerate and kind to almost everyone,1 to 5,32,3
+Bernard Hinault,Does things efficiently,1 to 5,33,3
+Bernard Hinault,Remains calm in tense situations,1 to 5,34,3
+Bernard Hinault,Prefers work that is routine,1 to 5,35,3
+Bernard Hinault,"Is outgoing, sociable",1 to 5,36,4
+Bernard Hinault,Is sometimes rude to others,1 to 5,37,5
+Bernard Hinault,Makes plans and follows through with them,1 to 5,38,4
+Bernard Hinault,Gets nervous easily,1 to 5,39,3
+Bernard Hinault,"Likes to reflect, play with ideas",1 to 5,40,2
+Bernard Hinault,Has few artistic interests,1 to 5,41,5
+Bernard Hinault,Likes to cooperate with others,1 to 5,42,5
+Bernard Hinault,Is easily distracted,1 to 5,43,5
+Bernard Hinault,"Is sophisticated in art, music, or Literature",1 to 5,44,2
+Tyson Fury,Is talkative,1 to 5,1,3
+Tyson Fury,Tends to find fault with others,1 to 5,2,3
+Tyson Fury,Does a thorough job,1 to 5,3,5
+Tyson Fury,"Is depressed, blue",1 to 5,4,1
+Tyson Fury,"Is original, comes up with new ideas",1 to 5,5,5
+Tyson Fury,Is reserved,1 to 5,6,1
+Tyson Fury,Is helpful and unselfish with others,1 to 5,7,4
+Tyson Fury,Can be somewhat careless,1 to 5,8,5
+Tyson Fury,"Is relaxed, handles stress well",1 to 5,9,5
+Tyson Fury,Is curious about many different things,1 to 5,10,2
+Tyson Fury,Is full of energy,1 to 5,11,1
+Tyson Fury,Starts quarrels with others,1 to 5,12,4
+Tyson Fury,Is a reliable worker,1 to 5,13,1
+Tyson Fury,Can be tense,1 to 5,14,5
+Tyson Fury,"Is ingenious, a deep thinker",1 to 5,15,1
+Tyson Fury,Generates a lot of enthusiasm,1 to 5,16,3
+Tyson Fury,Has a forgiving nature,1 to 5,17,4
+Tyson Fury,Tends to be disorganized,1 to 5,18,5
+Tyson Fury,Worries a lot,1 to 5,19,3
+Tyson Fury,Has an active imagination,1 to 5,20,1
+Tyson Fury,Tends to be quiet,1 to 5,21,3
+Tyson Fury,Is generally trusting,1 to 5,22,1
+Tyson Fury,Tends to be lazy,1 to 5,23,3
+Tyson Fury,"Is emotionally stable, not easily upset",1 to 5,24,3
+Tyson Fury,Is inventive,1 to 5,25,5
+Tyson Fury,Has an assertive personality,1 to 5,26,5
+Tyson Fury,Can be cold and aloof,1 to 5,27,5
+Tyson Fury,Perseveres until the task is finished,1 to 5,28,3
+Tyson Fury,Can be moody,1 to 5,29,1
+Tyson Fury,"Values artistic, aesthetic experiences",1 to 5,30,5
+Tyson Fury,"Is sometimes shy, inhibited",1 to 5,31,3
+Tyson Fury,Is considerate and kind to almost everyone,1 to 5,32,5
+Tyson Fury,Does things efficiently,1 to 5,33,5
+Tyson Fury,Remains calm in tense situations,1 to 5,34,5
+Tyson Fury,Prefers work that is routine,1 to 5,35,4
+Tyson Fury,"Is outgoing, sociable",1 to 5,36,5
+Tyson Fury,Is sometimes rude to others,1 to 5,37,5
+Tyson Fury,Makes plans and follows through with them,1 to 5,38,1
+Tyson Fury,Gets nervous easily,1 to 5,39,5
+Tyson Fury,"Likes to reflect, play with ideas",1 to 5,40,5
+Tyson Fury,Has few artistic interests,1 to 5,41,4
+Tyson Fury,Likes to cooperate with others,1 to 5,42,3
+Tyson Fury,Is easily distracted,1 to 5,43,3
+Tyson Fury,"Is sophisticated in art, music, or Literature",1 to 5,44,5
+Toni Schumacher,Is talkative,1 to 5,1,2
+Toni Schumacher,Tends to find fault with others,1 to 5,2,3
+Toni Schumacher,Does a thorough job,1 to 5,3,5
+Toni Schumacher,"Is depressed, blue",1 to 5,4,1
+Toni Schumacher,"Is original, comes up with new ideas",1 to 5,5,5
+Toni Schumacher,Is reserved,1 to 5,6,1
+Toni Schumacher,Is helpful and unselfish with others,1 to 5,7,1
+Toni Schumacher,Can be somewhat careless,1 to 5,8,1
+Toni Schumacher,"Is relaxed, handles stress well",1 to 5,9,5
+Toni Schumacher,Is curious about many different things,1 to 5,10,1
+Toni Schumacher,Is full of energy,1 to 5,11,4
+Toni Schumacher,Starts quarrels with others,1 to 5,12,5
+Toni Schumacher,Is a reliable worker,1 to 5,13,4
+Toni Schumacher,Can be tense,1 to 5,14,3
+Toni Schumacher,"Is ingenious, a deep thinker",1 to 5,15,5
+Toni Schumacher,Generates a lot of enthusiasm,1 to 5,16,3
+Toni Schumacher,Has a forgiving nature,1 to 5,17,3
+Toni Schumacher,Tends to be disorganized,1 to 5,18,1
+Toni Schumacher,Worries a lot,1 to 5,19,5
+Toni Schumacher,Has an active imagination,1 to 5,20,3
+Toni Schumacher,Tends to be quiet,1 to 5,21,5
+Toni Schumacher,Is generally trusting,1 to 5,22,5
+Toni Schumacher,Tends to be lazy,1 to 5,23,5
+Toni Schumacher,"Is emotionally stable, not easily upset",1 to 5,24,5
+Toni Schumacher,Is inventive,1 to 5,25,1
+Toni Schumacher,Has an assertive personality,1 to 5,26,1
+Toni Schumacher,Can be cold and aloof,1 to 5,27,2
+Toni Schumacher,Perseveres until the task is finished,1 to 5,28,5
+Toni Schumacher,Can be moody,1 to 5,29,5
+Toni Schumacher,"Values artistic, aesthetic experiences",1 to 5,30,5
+Toni Schumacher,"Is sometimes shy, inhibited",1 to 5,31,5
+Toni Schumacher,Is considerate and kind to almost everyone,1 to 5,32,3
+Toni Schumacher,Does things efficiently,1 to 5,33,3
+Toni Schumacher,Remains calm in tense situations,1 to 5,34,3
+Toni Schumacher,Prefers work that is routine,1 to 5,35,4
+Toni Schumacher,"Is outgoing, sociable",1 to 5,36,3
+Toni Schumacher,Is sometimes rude to others,1 to 5,37,5
+Toni Schumacher,Makes plans and follows through with them,1 to 5,38,5
+Toni Schumacher,Gets nervous easily,1 to 5,39,1
+Toni Schumacher,"Likes to reflect, play with ideas",1 to 5,40,4
+Toni Schumacher,Has few artistic interests,1 to 5,41,4
+Toni Schumacher,Likes to cooperate with others,1 to 5,42,5
+Toni Schumacher,Is easily distracted,1 to 5,43,3
+Toni Schumacher,"Is sophisticated in art, music, or Literature",1 to 5,44,1
+Vladimír Darida,Is talkative,1 to 5,1,4
+Vladimír Darida,Tends to find fault with others,1 to 5,2,2
+Vladimír Darida,Does a thorough job,1 to 5,3,4
+Vladimír Darida,"Is depressed, blue",1 to 5,4,3
+Vladimír Darida,"Is original, comes up with new ideas",1 to 5,5,5
+Vladimír Darida,Is reserved,1 to 5,6,4
+Vladimír Darida,Is helpful and unselfish with others,1 to 5,7,4
+Vladimír Darida,Can be somewhat careless,1 to 5,8,2
+Vladimír Darida,"Is relaxed, handles stress well",1 to 5,9,3
+Vladimír Darida,Is curious about many different things,1 to 5,10,4
+Vladimír Darida,Is full of energy,1 to 5,11,4
+Vladimír Darida,Starts quarrels with others,1 to 5,12,3
+Vladimír Darida,Is a reliable worker,1 to 5,13,4
+Vladimír Darida,Can be tense,1 to 5,14,1
+Vladimír Darida,"Is ingenious, a deep thinker",1 to 5,15,3
+Vladimír Darida,Generates a lot of enthusiasm,1 to 5,16,5
+Vladimír Darida,Has a forgiving nature,1 to 5,17,1
+Vladimír Darida,Tends to be disorganized,1 to 5,18,5
+Vladimír Darida,Worries a lot,1 to 5,19,3
+Vladimír Darida,Has an active imagination,1 to 5,20,5
+Vladimír Darida,Tends to be quiet,1 to 5,21,3
+Vladimír Darida,Is generally trusting,1 to 5,22,3
+Vladimír Darida,Tends to be lazy,1 to 5,23,5
+Vladimír Darida,"Is emotionally stable, not easily upset",1 to 5,24,5
+Vladimír Darida,Is inventive,1 to 5,25,3
+Vladimír Darida,Has an assertive personality,1 to 5,26,3
+Vladimír Darida,Can be cold and aloof,1 to 5,27,2
+Vladimír Darida,Perseveres until the task is finished,1 to 5,28,5
+Vladimír Darida,Can be moody,1 to 5,29,5
+Vladimír Darida,"Values artistic, aesthetic experiences",1 to 5,30,4
+Vladimír Darida,"Is sometimes shy, inhibited",1 to 5,31,2
+Vladimír Darida,Is considerate and kind to almost everyone,1 to 5,32,2
+Vladimír Darida,Does things efficiently,1 to 5,33,4
+Vladimír Darida,Remains calm in tense situations,1 to 5,34,4
+Vladimír Darida,Prefers work that is routine,1 to 5,35,3
+Vladimír Darida,"Is outgoing, sociable",1 to 5,36,3
+Vladimír Darida,Is sometimes rude to others,1 to 5,37,3
+Vladimír Darida,Makes plans and follows through with them,1 to 5,38,5
+Vladimír Darida,Gets nervous easily,1 to 5,39,3
+Vladimír Darida,"Likes to reflect, play with ideas",1 to 5,40,5
+Vladimír Darida,Has few artistic interests,1 to 5,41,3
+Vladimír Darida,Likes to cooperate with others,1 to 5,42,3
+Vladimír Darida,Is easily distracted,1 to 5,43,3
+Vladimír Darida,"Is sophisticated in art, music, or Literature",1 to 5,44,4
+Dick Fosbury,Is talkative,1 to 5,1,3
+Dick Fosbury,Tends to find fault with others,1 to 5,2,1
+Dick Fosbury,Does a thorough job,1 to 5,3,3
+Dick Fosbury,"Is depressed, blue",1 to 5,4,3
+Dick Fosbury,"Is original, comes up with new ideas",1 to 5,5,4
+Dick Fosbury,Is reserved,1 to 5,6,5
+Dick Fosbury,Is helpful and unselfish with others,1 to 5,7,5
+Dick Fosbury,Can be somewhat careless,1 to 5,8,5
+Dick Fosbury,"Is relaxed, handles stress well",1 to 5,9,3
+Dick Fosbury,Is curious about many different things,1 to 5,10,1
+Dick Fosbury,Is full of energy,1 to 5,11,2
+Dick Fosbury,Starts quarrels with others,1 to 5,12,2
+Dick Fosbury,Is a reliable worker,1 to 5,13,5
+Dick Fosbury,Can be tense,1 to 5,14,5
+Dick Fosbury,"Is ingenious, a deep thinker",1 to 5,15,5
+Dick Fosbury,Generates a lot of enthusiasm,1 to 5,16,4
+Dick Fosbury,Has a forgiving nature,1 to 5,17,5
+Dick Fosbury,Tends to be disorganized,1 to 5,18,4
+Dick Fosbury,Worries a lot,1 to 5,19,5
+Dick Fosbury,Has an active imagination,1 to 5,20,6
+Dick Fosbury,Tends to be quiet,1 to 5,21,2
+Dick Fosbury,Is generally trusting,1 to 5,22,4
+Dick Fosbury,Tends to be lazy,1 to 5,23,2
+Dick Fosbury,"Is emotionally stable, not easily upset",1 to 5,24,4
+Dick Fosbury,Is inventive,1 to 5,25,3
+Dick Fosbury,Has an assertive personality,1 to 5,26,2
+Dick Fosbury,Can be cold and aloof,1 to 5,27,5
+Dick Fosbury,Perseveres until the task is finished,1 to 5,28,1
+Dick Fosbury,Can be moody,1 to 5,29,1
+Dick Fosbury,"Values artistic, aesthetic experiences",1 to 5,30,5
+Dick Fosbury,"Is sometimes shy, inhibited",1 to 5,31,3
+Dick Fosbury,Is considerate and kind to almost everyone,1 to 5,32,3
+Dick Fosbury,Does things efficiently,1 to 5,33,3
+Dick Fosbury,Remains calm in tense situations,1 to 5,34,2
+Dick Fosbury,Prefers work that is routine,1 to 5,35,4
+Dick Fosbury,"Is outgoing, sociable",1 to 5,36,4
+Dick Fosbury,Is sometimes rude to others,1 to 5,37,1
+Dick Fosbury,Makes plans and follows through with them,1 to 5,38,5
+Dick Fosbury,Gets nervous easily,1 to 5,39,5
+Dick Fosbury,"Likes to reflect, play with ideas",1 to 5,40,3
+Dick Fosbury,Has few artistic interests,1 to 5,41,5
+Dick Fosbury,Likes to cooperate with others,1 to 5,42,3
+Dick Fosbury,Is easily distracted,1 to 5,43,1
+Dick Fosbury,"Is sophisticated in art, music, or Literature",1 to 5,44,4
+Hana Mandlíková,Is talkative,1 to 5,1,1
+Hana Mandlíková,Tends to find fault with others,1 to 5,2,1
+Hana Mandlíková,Does a thorough job,1 to 5,3,5
+Hana Mandlíková,"Is depressed, blue",1 to 5,4,2
+Hana Mandlíková,"Is original, comes up with new ideas",1 to 5,5,4
+Hana Mandlíková,Is reserved,1 to 5,6,5
+Hana Mandlíková,Is helpful and unselfish with others,1 to 5,7,3
+Hana Mandlíková,Can be somewhat careless,1 to 5,8,3
+Hana Mandlíková,"Is relaxed, handles stress well",1 to 5,9,3
+Hana Mandlíková,Is curious about many different things,1 to 5,10,3
+Hana Mandlíková,Is full of energy,1 to 5,11,5
+Hana Mandlíková,Starts quarrels with others,1 to 5,12,4
+Hana Mandlíková,Is a reliable worker,1 to 5,13,5
+Hana Mandlíková,Can be tense,1 to 5,14,4
+Hana Mandlíková,"Is ingenious, a deep thinker",1 to 5,15,2
+Hana Mandlíková,Generates a lot of enthusiasm,1 to 5,16,3
+Hana Mandlíková,Has a forgiving nature,1 to 5,17,3
+Hana Mandlíková,Tends to be disorganized,1 to 5,18,5
+Hana Mandlíková,Worries a lot,1 to 5,19,5
+Hana Mandlíková,Has an active imagination,1 to 5,20,3
+Hana Mandlíková,Tends to be quiet,1 to 5,21,5
+Hana Mandlíková,Is generally trusting,1 to 5,22,4
+Hana Mandlíková,Tends to be lazy,1 to 5,23,4
+Hana Mandlíková,"Is emotionally stable, not easily upset",1 to 5,24,3
+Hana Mandlíková,Is inventive,1 to 5,25,1
+Hana Mandlíková,Has an assertive personality,1 to 5,26,3
+Hana Mandlíková,Can be cold and aloof,1 to 5,27,1
+Hana Mandlíková,Perseveres until the task is finished,1 to 5,28,5
+Hana Mandlíková,Can be moody,1 to 5,29,3
+Hana Mandlíková,"Values artistic, aesthetic experiences",1 to 5,30,3
+Hana Mandlíková,"Is sometimes shy, inhibited",1 to 5,31,3
+Hana Mandlíková,Is considerate and kind to almost everyone,1 to 5,32,3
+Hana Mandlíková,Does things efficiently,1 to 5,33,1
+Hana Mandlíková,Remains calm in tense situations,1 to 5,34,5
+Hana Mandlíková,Prefers work that is routine,1 to 5,35,5
+Hana Mandlíková,"Is outgoing, sociable",1 to 5,36,3
+Hana Mandlíková,Is sometimes rude to others,1 to 5,37,5
+Hana Mandlíková,Makes plans and follows through with them,1 to 5,38,4
+Hana Mandlíková,Gets nervous easily,1 to 5,39,5
+Hana Mandlíková,"Likes to reflect, play with ideas",1 to 5,40,1
+Hana Mandlíková,Has few artistic interests,1 to 5,41,5
+Hana Mandlíková,Likes to cooperate with others,1 to 5,42,5
+Hana Mandlíková,Is easily distracted,1 to 5,43,5
+Hana Mandlíková,"Is sophisticated in art, music, or Literature",1 to 5,44,5
+Attalus I,Is talkative,1 to 5,1,1
+Attalus I,Tends to find fault with others,1 to 5,2,5
+Attalus I,Does a thorough job,1 to 5,3,1
+Attalus I,"Is depressed, blue",1 to 5,4,5
+Attalus I,"Is original, comes up with new ideas",1 to 5,5,1
+Attalus I,Is reserved,1 to 5,6,1
+Attalus I,Is helpful and unselfish with others,1 to 5,7,4
+Attalus I,Can be somewhat careless,1 to 5,8,3
+Attalus I,"Is relaxed, handles stress well",1 to 5,9,3
+Attalus I,Is curious about many different things,1 to 5,10,4
+Attalus I,Is full of energy,1 to 5,11,3
+Attalus I,Starts quarrels with others,1 to 5,12,1
+Attalus I,Is a reliable worker,1 to 5,13,3
+Attalus I,Can be tense,1 to 5,14,5
+Attalus I,"Is ingenious, a deep thinker",1 to 5,15,1
+Attalus I,Generates a lot of enthusiasm,1 to 5,16,5
+Attalus I,Has a forgiving nature,1 to 5,17,3
+Attalus I,Tends to be disorganized,1 to 5,18,1
+Attalus I,Worries a lot,1 to 5,19,5
+Attalus I,Has an active imagination,1 to 5,20,5
+Attalus I,Tends to be quiet,1 to 5,21,3
+Attalus I,Is generally trusting,1 to 5,22,5
+Attalus I,Tends to be lazy,1 to 5,23,3
+Attalus I,"Is emotionally stable, not easily upset",1 to 5,24,5
+Attalus I,Is inventive,1 to 5,25,4
+Attalus I,Has an assertive personality,1 to 5,26,1
+Attalus I,Can be cold and aloof,1 to 5,27,5
+Attalus I,Perseveres until the task is finished,1 to 5,28,5
+Attalus I,Can be moody,1 to 5,29,1
+Attalus I,"Values artistic, aesthetic experiences",1 to 5,30,4
+Attalus I,"Is sometimes shy, inhibited",1 to 5,31,3
+Attalus I,Is considerate and kind to almost everyone,1 to 5,32,4
+Attalus I,Does things efficiently,1 to 5,33,3
+Attalus I,Remains calm in tense situations,1 to 5,34,5
+Attalus I,Prefers work that is routine,1 to 5,35,5
+Attalus I,"Is outgoing, sociable",1 to 5,36,5
+Attalus I,Is sometimes rude to others,1 to 5,37,4
+Attalus I,Makes plans and follows through with them,1 to 5,38,1
+Attalus I,Gets nervous easily,1 to 5,39,5
+Attalus I,"Likes to reflect, play with ideas",1 to 5,40,3
+Attalus I,Has few artistic interests,1 to 5,41,4
+Attalus I,Likes to cooperate with others,1 to 5,42,3
+Attalus I,Is easily distracted,1 to 5,43,3
+Attalus I,"Is sophisticated in art, music, or Literature",1 to 5,44,5
