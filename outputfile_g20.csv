@@ -1,0 +1,881 @@
+persona,item,scale,result
+Barack Obama,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Barack Obama,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Barack Obama,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Barack Obama,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Barack Obama,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Barack Obama,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Barack Obama,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Barack Obama,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Barack Obama,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Barack Obama,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Barack Obama,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Barack Obama,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Barack Obama,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Barack Obama,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Barack Obama,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Barack Obama,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Barack Obama,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Barack Obama,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Barack Obama,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Barack Obama,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Barack Obama,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Barack Obama,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Barack Obama,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Barack Obama,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Barack Obama,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Barack Obama,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Barack Obama,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Barack Obama,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Barack Obama,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Barack Obama,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Barack Obama,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Barack Obama,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Barack Obama,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Barack Obama,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Barack Obama,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Barack Obama,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Barack Obama,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Barack Obama,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Barack Obama,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Barack Obama,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Barack Obama,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Barack Obama,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Barack Obama,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Barack Obama,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Nelson Mandela,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Nelson Mandela,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Nelson Mandela,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Nelson Mandela,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Nelson Mandela,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Nelson Mandela,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Nelson Mandela,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Nelson Mandela,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Nelson Mandela,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Nelson Mandela,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Nelson Mandela,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Nelson Mandela,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Nelson Mandela,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Nelson Mandela,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Nelson Mandela,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Nelson Mandela,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Nelson Mandela,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Nelson Mandela,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Nelson Mandela,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Nelson Mandela,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Nelson Mandela,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Nelson Mandela,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Nelson Mandela,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Nelson Mandela,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Nelson Mandela,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Nelson Mandela,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Nelson Mandela,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Martin Luther King Jr.,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Martin Luther King Jr.,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Martin Luther King Jr.,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Martin Luther King Jr.,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Martin Luther King Jr.,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Martin Luther King Jr.,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Martin Luther King Jr.,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Martin Luther King Jr.,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Martin Luther King Jr.,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Martin Luther King Jr.,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Martin Luther King Jr.,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Martin Luther King Jr.,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Martin Luther King Jr.,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Martin Luther King Jr.,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Martin Luther King Jr.,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Martin Luther King Jr.,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Martin Luther King Jr.,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Martin Luther King Jr.,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Martin Luther King Jr.,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Martin Luther King Jr.,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Martin Luther King Jr.,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Martin Luther King Jr.,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Martin Luther King Jr.,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Martin Luther King Jr.,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Martin Luther King Jr.,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Martin Luther King Jr.,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Martin Luther King Jr.,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Martin Luther King Jr.,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Martin Luther King Jr.,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Martin Luther King Jr.,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Martin Luther King Jr.,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Martin Luther King Jr.,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Martin Luther King Jr.,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Martin Luther King Jr.,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Martin Luther King Jr.,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Martin Luther King Jr.,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Martin Luther King Jr.,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Martin Luther King Jr.,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Martin Luther King Jr.,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Martin Luther King Jr.,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Martin Luther King Jr.,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Martin Luther King Jr.,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Martin Luther King Jr.,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Martin Luther King Jr.,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mikhail Gorbachev,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mikhail Gorbachev,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mikhail Gorbachev,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mikhail Gorbachev,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Mikhail Gorbachev,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mikhail Gorbachev,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mikhail Gorbachev,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mikhail Gorbachev,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Mikhail Gorbachev,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mikhail Gorbachev,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mikhail Gorbachev,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mikhail Gorbachev,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Mikhail Gorbachev,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mikhail Gorbachev,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mikhail Gorbachev,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mikhail Gorbachev,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mikhail Gorbachev,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mikhail Gorbachev,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mikhail Gorbachev,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mikhail Gorbachev,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mikhail Gorbachev,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mikhail Gorbachev,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mikhail Gorbachev,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Mikhail Gorbachev,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mikhail Gorbachev,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mikhail Gorbachev,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mikhail Gorbachev,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mikhail Gorbachev,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mikhail Gorbachev,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mikhail Gorbachev,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mikhail Gorbachev,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mikhail Gorbachev,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mikhail Gorbachev,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mikhail Gorbachev,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mikhail Gorbachev,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mikhail Gorbachev,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mikhail Gorbachev,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mikhail Gorbachev,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mikhail Gorbachev,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mikhail Gorbachev,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mikhail Gorbachev,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Mikhail Gorbachev,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mikhail Gorbachev,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Mikhail Gorbachev,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mother Teresa,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Mother Teresa,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Mother Teresa,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mother Teresa,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mother Teresa,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mother Teresa,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mother Teresa,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mother Teresa,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Mother Teresa,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mother Teresa,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mother Teresa,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mother Teresa,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Mother Teresa,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mother Teresa,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mother Teresa,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mother Teresa,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mother Teresa,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mother Teresa,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mother Teresa,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Mother Teresa,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mother Teresa,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mother Teresa,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mother Teresa,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mother Teresa,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mother Teresa,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mother Teresa,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mother Teresa,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Mother Teresa,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mother Teresa,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mother Teresa,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Mother Teresa,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mother Teresa,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mother Teresa,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mother Teresa,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mother Teresa,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mother Teresa,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mother Teresa,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mother Teresa,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mother Teresa,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Mother Teresa,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Mother Teresa,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Mother Teresa,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Mother Teresa,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Mother Teresa,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Theodore Roosevelt,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Theodore Roosevelt,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Theodore Roosevelt,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Theodore Roosevelt,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Theodore Roosevelt,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Theodore Roosevelt,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Theodore Roosevelt,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Theodore Roosevelt,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Theodore Roosevelt,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Theodore Roosevelt,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Theodore Roosevelt,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Theodore Roosevelt,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Theodore Roosevelt,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Theodore Roosevelt,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Theodore Roosevelt,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Theodore Roosevelt,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Theodore Roosevelt,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Theodore Roosevelt,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Theodore Roosevelt,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Theodore Roosevelt,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Theodore Roosevelt,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Theodore Roosevelt,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Theodore Roosevelt,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Jimmy Carter,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Jimmy Carter,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Jimmy Carter,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Jimmy Carter,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Jimmy Carter,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Jimmy Carter,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Jimmy Carter,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Jimmy Carter,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Jimmy Carter,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Jimmy Carter,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Jimmy Carter,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Jimmy Carter,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Jimmy Carter,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Jimmy Carter,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Jimmy Carter,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Jimmy Carter,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Jimmy Carter,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Jimmy Carter,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Jimmy Carter,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Jimmy Carter,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Jimmy Carter,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Jimmy Carter,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Jimmy Carter,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Jimmy Carter,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Jimmy Carter,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Jimmy Carter,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Jimmy Carter,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Woodrow Wilson,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Woodrow Wilson,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Woodrow Wilson,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Woodrow Wilson,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Woodrow Wilson,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Woodrow Wilson,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Woodrow Wilson,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Woodrow Wilson,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Woodrow Wilson,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Woodrow Wilson,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Woodrow Wilson,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Woodrow Wilson,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Woodrow Wilson,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Woodrow Wilson,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Woodrow Wilson,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Woodrow Wilson,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Woodrow Wilson,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Woodrow Wilson,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Woodrow Wilson,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Woodrow Wilson,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Woodrow Wilson,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Woodrow Wilson,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Woodrow Wilson,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Woodrow Wilson,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Woodrow Wilson,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Woodrow Wilson,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Kofi Annan,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Kofi Annan,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Kofi Annan,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Kofi Annan,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Kofi Annan,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Kofi Annan,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Kofi Annan,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Kofi Annan,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Kofi Annan,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Kofi Annan,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Kofi Annan,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Kofi Annan,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Kofi Annan,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Kofi Annan,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Kofi Annan,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Kofi Annan,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Kofi Annan,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Kofi Annan,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Kofi Annan,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Kofi Annan,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Kofi Annan,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Kofi Annan,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Kofi Annan,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Lech Walesa,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Lech Walesa,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Lech Walesa,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Lech Walesa,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Lech Walesa,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Lech Walesa,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Lech Walesa,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Lech Walesa,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Lech Walesa,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Lech Walesa,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Lech Walesa,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Lech Walesa,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Lech Walesa,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Lech Walesa,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Lech Walesa,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Lech Walesa,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Lech Walesa,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Lech Walesa,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Lech Walesa,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Lech Walesa,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Lech Walesa,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Lech Walesa,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Lech Walesa,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Lech Walesa,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Lech Walesa,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Lech Walesa,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Tenzin Gyatso,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Tenzin Gyatso,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Tenzin Gyatso,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Tenzin Gyatso,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Tenzin Gyatso,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Tenzin Gyatso,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Tenzin Gyatso,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Tenzin Gyatso,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Tenzin Gyatso,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Tenzin Gyatso,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Tenzin Gyatso,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Tenzin Gyatso,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Tenzin Gyatso,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Tenzin Gyatso,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Tenzin Gyatso,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Tenzin Gyatso,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Tenzin Gyatso,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Aung San Suu Kyi,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Aung San Suu Kyi,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Aung San Suu Kyi,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Aung San Suu Kyi,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Aung San Suu Kyi,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Aung San Suu Kyi,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Aung San Suu Kyi,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Aung San Suu Kyi,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Aung San Suu Kyi,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Aung San Suu Kyi,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Aung San Suu Kyi,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Aung San Suu Kyi,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Aung San Suu Kyi,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Aung San Suu Kyi,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Aung San Suu Kyi,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Aung San Suu Kyi,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Aung San Suu Kyi,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Aung San Suu Kyi,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Aung San Suu Kyi,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Aung San Suu Kyi,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Aung San Suu Kyi,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Aung San Suu Kyi,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Aung San Suu Kyi,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Aung San Suu Kyi,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Aung San Suu Kyi,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Aung San Suu Kyi,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Aung San Suu Kyi,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Aung San Suu Kyi,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Aung San Suu Kyi,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Aung San Suu Kyi,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Aung San Suu Kyi,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Aung San Suu Kyi,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Aung San Suu Kyi,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Aung San Suu Kyi,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Aung San Suu Kyi,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Aung San Suu Kyi,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Aung San Suu Kyi,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Aung San Suu Kyi,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Aung San Suu Kyi,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Aung San Suu Kyi,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Aung San Suu Kyi,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Aung San Suu Kyi,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Aung San Suu Kyi,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Aung San Suu Kyi,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Malala Yousafzai,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Malala Yousafzai,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Malala Yousafzai,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Malala Yousafzai,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Malala Yousafzai,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Malala Yousafzai,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Malala Yousafzai,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Malala Yousafzai,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Malala Yousafzai,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Malala Yousafzai,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Malala Yousafzai,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Malala Yousafzai,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Malala Yousafzai,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Malala Yousafzai,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Malala Yousafzai,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Malala Yousafzai,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Malala Yousafzai,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Malala Yousafzai,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Malala Yousafzai,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Malala Yousafzai,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Malala Yousafzai,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Malala Yousafzai,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Malala Yousafzai,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Malala Yousafzai,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Yasser Arafat,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Yasser Arafat,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Yasser Arafat,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Yasser Arafat,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Yasser Arafat,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Yasser Arafat,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Yasser Arafat,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Yasser Arafat,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Yasser Arafat,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Yasser Arafat,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Yasser Arafat,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Yasser Arafat,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Yasser Arafat,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Yasser Arafat,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Yasser Arafat,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Yasser Arafat,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Yasser Arafat,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Yasser Arafat,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Yasser Arafat,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Yasser Arafat,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Yasser Arafat,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Yasser Arafat,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Yasser Arafat,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Yasser Arafat,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Yasser Arafat,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Yasser Arafat,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Henry Kissinger,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Henry Kissinger,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Henry Kissinger,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Henry Kissinger,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Henry Kissinger,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Henry Kissinger,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Henry Kissinger,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Henry Kissinger,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Henry Kissinger,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Henry Kissinger,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Henry Kissinger,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Henry Kissinger,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Henry Kissinger,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Henry Kissinger,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Henry Kissinger,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Henry Kissinger,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Henry Kissinger,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Henry Kissinger,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Henry Kissinger,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Henry Kissinger,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Henry Kissinger,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Henry Kissinger,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Henry Kissinger,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Henry Kissinger,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Henry Kissinger,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Henry Kissinger,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Henry Kissinger,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Henry Kissinger,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Henry Kissinger,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Henry Kissinger,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Henry Kissinger,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Henry Kissinger,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Henry Kissinger,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Henry Kissinger,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Henry Kissinger,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Henry Kissinger,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Henry Kissinger,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Henry Kissinger,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Henry Kissinger,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Henry Kissinger,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Henry Kissinger,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Henry Kissinger,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Henry Kissinger,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Henry Kissinger,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Al Gore,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Al Gore,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Al Gore,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Al Gore,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",1
+Al Gore,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Al Gore,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Al Gore,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Al Gore,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Al Gore,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Al Gore,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Al Gore,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Al Gore,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Al Gore,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Al Gore,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Al Gore,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Al Gore,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Al Gore,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Al Gore,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Al Gore,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Al Gore,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Al Gore,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Al Gore,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Al Gore,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Al Gore,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Al Gore,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Al Gore,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Al Gore,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Al Gore,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Al Gore,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Al Gore,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Al Gore,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Al Gore,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Al Gore,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Al Gore,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Al Gore,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Al Gore,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Al Gore,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Al Gore,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Al Gore,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Al Gore,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Al Gore,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Al Gore,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Al Gore,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Al Gore,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Shimon Peres,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Shimon Peres,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Shimon Peres,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Shimon Peres,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Shimon Peres,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Shimon Peres,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Shimon Peres,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Shimon Peres,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Shimon Peres,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Shimon Peres,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Shimon Peres,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Shimon Peres,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Shimon Peres,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Shimon Peres,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Shimon Peres,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Shimon Peres,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Shimon Peres,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Shimon Peres,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Shimon Peres,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Shimon Peres,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Shimon Peres,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Shimon Peres,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Shimon Peres,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Shimon Peres,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Shimon Peres,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Anwar Sadat,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Anwar Sadat,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Anwar Sadat,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Anwar Sadat,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Anwar Sadat,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Anwar Sadat,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Anwar Sadat,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Anwar Sadat,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Anwar Sadat,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Anwar Sadat,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Anwar Sadat,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Anwar Sadat,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Anwar Sadat,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Anwar Sadat,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Anwar Sadat,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Anwar Sadat,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Anwar Sadat,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Anwar Sadat,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Anwar Sadat,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Anwar Sadat,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Anwar Sadat,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Anwar Sadat,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Anwar Sadat,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Anwar Sadat,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Anwar Sadat,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Anwar Sadat,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Anwar Sadat,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Anwar Sadat,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Anwar Sadat,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Anwar Sadat,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Anwar Sadat,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Anwar Sadat,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Anwar Sadat,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Anwar Sadat,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Anwar Sadat,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Anwar Sadat,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Anwar Sadat,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Anwar Sadat,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Anwar Sadat,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Anwar Sadat,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Anwar Sadat,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Anwar Sadat,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Anwar Sadat,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Anwar Sadat,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Dag Hammarskjold,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Dag Hammarskjold,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Dag Hammarskjold,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Dag Hammarskjold,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Dag Hammarskjold,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Dag Hammarskjold,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Dag Hammarskjold,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Dag Hammarskjold,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Dag Hammarskjold,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Dag Hammarskjold,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Dag Hammarskjold,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Dag Hammarskjold,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Dag Hammarskjold,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Dag Hammarskjold,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Dag Hammarskjold,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Dag Hammarskjold,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Dag Hammarskjold,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Dag Hammarskjold,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Dag Hammarskjold,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Dag Hammarskjold,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Dag Hammarskjold,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Dag Hammarskjold,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Dag Hammarskjold,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Dag Hammarskjold,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Dag Hammarskjold,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Dag Hammarskjold,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Is talkative,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Tends to find fault with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Willy Brandt,Does a thorough job,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,"Is depressed, blue","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,"Is original, comes up with new ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Is reserved,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Is helpful and unselfish with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Willy Brandt,Can be somewhat careless,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,"Is relaxed, handles stress well","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Is curious about many different things,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Willy Brandt,Is full of energy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Starts quarrels with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Willy Brandt,Is a reliable worker,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Willy Brandt,Can be tense,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,"Is ingenious, a deep thinker","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Generates a lot of enthusiasm,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Has a forgiving nature,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Willy Brandt,Tends to be disorganized,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Willy Brandt,Worries a lot,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Has an active imagination,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Tends to be quiet,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Willy Brandt,Is generally trusting,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Tends to be lazy,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",2
+Willy Brandt,"Is emotionally stable, not easily upset","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Is inventive,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Willy Brandt,Has an assertive personality,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Can be cold and aloof,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Perseveres until the task is finished,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Willy Brandt,Can be moody,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,"Values artistic, aesthetic experiences","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,"Is sometimes shy, inhibited","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Willy Brandt,Is considerate and kind to almost everyone,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Willy Brandt,Does things efficiently,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Remains calm in tense situations,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Willy Brandt,Prefers work that is routine,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Willy Brandt,"Is outgoing, sociable","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Is sometimes rude to others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Willy Brandt,Makes plans and follows through with them,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Gets nervous easily,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,"Likes to reflect, play with ideas","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Willy Brandt,Has few artistic interests,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
+Willy Brandt,Likes to cooperate with others,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",5
+Willy Brandt,Is easily distracted,"1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",3
+Willy Brandt,"Is sophisticated in art, music, or Literature","1 - Strongly Disagree, 2 - Disagree, 3 - Neutral, 4 - Agree, 5 - Strongly Agree",4
