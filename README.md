@@ -1,6 +1,7 @@
-# Psychometric Analysis of LLM Personas
-## Assessing Good and Bad Archetypes for Character Traits and Ethical Guardrails
---- 
+## Psychometric Analysis of LLM Personas
+### Assessing Good and Bad Archetypes for Character Traits and Ethical Guardrails
+###### *on going Master Thesis
+---
 LLMs can absorb personality traits from training data [Serapio-Garcıa et al. 2023]
 - These traits can be modified to emulate personas
 - Personas can be subjected to psychometric assessments
