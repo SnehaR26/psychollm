@@ -271,22 +271,18 @@
 269,http://www.wikidata.org/entity/Q43274,Charles III of the United Kingdom,158.0,Entrepreneur,1948-11-14,
 270,http://www.wikidata.org/entity/Q36215,Mark Zuckerberg,157.0,Entrepreneur,1984-05-14,
 271,http://www.wikidata.org/entity/Q9041,James Watt,153.0,Entrepreneur,1736-01-19,
-272,http://www.wikidata.org/entity/Q66107,Henry Kissinger,136.0,Entrepreneur,1923-05-27,
 273,http://www.wikidata.org/entity/Q47213,Warren Buffett,135.0,Entrepreneur,1930-08-30,
 274,http://www.wikidata.org/entity/Q41421,Michael Jordan,133.0,Entrepreneur,1963-02-17,
 275,http://www.wikidata.org/entity/Q126462,Thomas Paine,128.0,Entrepreneur,1737-02-09,
 276,http://www.wikidata.org/entity/Q58077,Petro Poroshenko,123.0,Entrepreneur,1965-09-26,
-277,http://www.wikidata.org/entity/Q43179,Ellen Johnson Sirleaf,116.0,Entrepreneur,1938-10-29,
 278,http://www.wikidata.org/entity/Q3318231,Joko Widodo,113.0,Entrepreneur,1961-06-21,
 279,http://www.wikidata.org/entity/Q11998,Kylie Minogue,112.0,Entrepreneur,1968-05-28,
-280,http://www.wikidata.org/entity/Q43969,Muhammad Yunus,111.0,Entrepreneur,1940-06-28,
 281,http://www.wikidata.org/entity/Q6060,50 Cent,109.0,Entrepreneur,1975-07-06,
 282,http://www.wikidata.org/entity/Q48283,Yulia Tymoshenko,109.0,Entrepreneur,1960-11-27,
 283,http://www.wikidata.org/entity/Q484265,Andrew Carnegie,106.0,Entrepreneur,1835-11-25,
 284,http://www.wikidata.org/entity/Q312556,Jeff Bezos,106.0,Entrepreneur,1964-01-12,
 285,http://www.wikidata.org/entity/Q80510,Alla Pugacheva,106.0,Entrepreneur,1949-04-15,
 286,http://www.wikidata.org/entity/Q41871,Paul Newman,105.0,Entrepreneur,1925-01-26,
-287,http://www.wikidata.org/entity/Q12091,Henry Dunant,104.0,Entrepreneur,1828-05-08,
 288,http://www.wikidata.org/entity/Q15935,Kanye West,104.0,Entrepreneur,1977-06-08,
 289,http://www.wikidata.org/entity/Q4934,Larry Page,102.0,Entrepreneur,1973-03-26,
 290,http://www.wikidata.org/entity/Q186304,Kim Kardashian,102.0,Entrepreneur,1980-10-21,
@@ -299,7 +295,6 @@
 297,http://www.wikidata.org/entity/Q6096,Snoop Dogg,92.0,Entrepreneur,1971-10-20,
 298,http://www.wikidata.org/entity/Q19825,Cecil Rhodes,91.0,Entrepreneur,1853-07-05,
 299,http://www.wikidata.org/entity/Q19810,Victoria Beckham,90.0,Entrepreneur,1974-04-17,
-300,http://www.wikidata.org/entity/Q44220,Anders Behring Breivik,90.0,Entrepreneur,1979-02-13,
 301,http://www.wikidata.org/entity/Q57373,Asif Ali Zardari,90.0,Entrepreneur,1955-07-26,
 302,http://www.wikidata.org/entity/Q306,Sebastián Piñera,89.0,Entrepreneur,1949-12-01,
 303,http://www.wikidata.org/entity/Q11578,Venus Williams,89.0,Entrepreneur,1980-06-17,
@@ -499,8 +494,6 @@
 497,,Ronaldinho,,Athlete,,37.0
 498,,Ronaldo,,Athlete,,37.0
 499,,Elizabeth II,,HoS,,198.0
-500,,Barack Obama,,HoS,,163.0
-501,,Adolf Hitler,,HoS,,129.0
 502,,Abraham Lincoln,,HoS,,95.0
 503,,Charles III,,HoS,,94.0
 504,,Joe Biden,,HoS,,91.0
@@ -517,11 +510,9 @@
 515,,Mahatma Gandhi,,HoS,,71.0
 516,,George W. Bush,,HoS,,71.0
 517,,Henry VIII of England,,HoS,,67.0
-518,,Nelson Mandela,,HoS,,67.0
 519,,Franklin D. Roosevelt,,HoS,,64.0
 520,,George Washington,,HoS,,64.0
 521,,Bill Clinton,,HoS,,63.0
-522,,Joseph Stalin,,HoS,,60.0
 523,,Elizabeth I,,HoS,,58.0
 524,,Alexander Hamilton,,HoS,,56.0
 525,,Edward VIII,,HoS,,56.0
