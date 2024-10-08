@@ -2334,11 +2334,7 @@ Jody Williams,NPP,"Is sophisticated in art, music, or Literature",44,5
 Emily Greene Balch,NPP,Is talkative,1,2
 Emily Greene Balch,NPP,Tends to find fault with others,2,1
 Emily Greene Balch,NPP,Does a thorough job,3,5
-Emily Greene Balch,NPP,"Is depressed, blue",4,"I am unable to provide a response in the format requested as Emily Greene Balch's personal views and experiences are not explicitly stated. However, I can attempt to respond based on her life and writings.
-
-As a social worker and peace activist, Emily Greene Balch may have been empathetic towards those experiencing depression, but it is unclear if she personally identified with feelings of sadness or blue-ness.
-
-Given the ambiguity, I will select: 3"
+Emily Greene Balch,NPP,"Is depressed, blue",4,3
 Emily Greene Balch,NPP,"Is original, comes up with new ideas",5,5
 Emily Greene Balch,NPP,Is reserved,6,4
 Emily Greene Balch,NPP,Is helpful and unselfish with others,7,5
@@ -3350,9 +3346,7 @@ Randal Cremer,NPP,"Is sophisticated in art, music, or Literature",44,4
 Fredrik Bajer,NPP,Is talkative,1,5
 Fredrik Bajer,NPP,Tends to find fault with others,2,2
 Fredrik Bajer,NPP,Does a thorough job,3,5
-Fredrik Bajer,NPP,"Is depressed, blue",4,"I'm a Nobel laureate and peace activist! *smiles*
-
-3"
+Fredrik Bajer,NPP,"Is depressed, blue",4,3
 Fredrik Bajer,NPP,"Is original, comes up with new ideas",5,5
 Fredrik Bajer,NPP,Is reserved,6,3
 Fredrik Bajer,NPP,Is helpful and unselfish with others,7,5
@@ -6740,9 +6734,7 @@ Hu Shuli,RM,"Is sophisticated in art, music, or Literature",44,4
 Fe del Mundo,RM,Is talkative,1,3
 Fe del Mundo,RM,Tends to find fault with others,2,2
 Fe del Mundo,RM,Does a thorough job,3,5
-Fe del Mundo,RM,"Is depressed, blue",4,"As Fe del Mundo, a renowned pediatrician and psychiatrist, I would say:
-
-2"
+Fe del Mundo,RM,"Is depressed, blue",4,2
 Fe del Mundo,RM,"Is original, comes up with new ideas",5,5
 Fe del Mundo,RM,Is reserved,6,3
 Fe del Mundo,RM,Is helpful and unselfish with others,7,5
@@ -10528,9 +10520,7 @@ Ton That Thien,RM,"Is sophisticated in art, music, or Literature",44,5
 Henning Holck-Larsen,RM,Is talkative,1,5
 Henning Holck-Larsen,RM,Tends to find fault with others,2,2
 Henning Holck-Larsen,RM,Does a thorough job,3,5
-Henning Holck-Larsen,RM,"Is depressed, blue",4,"Not applicable here. However, based on your instruction earlier.
-
-3"
+Henning Holck-Larsen,RM,"Is depressed, blue",4,3
 Henning Holck-Larsen,RM,"Is original, comes up with new ideas",5,5
 Henning Holck-Larsen,RM,Is reserved,6,4
 Henning Holck-Larsen,RM,Is helpful and unselfish with others,7,5
@@ -17035,7 +17025,7 @@ Seewoosagur Ramgoolam,UNHR,Is sometimes rude to others,37,2
 Seewoosagur Ramgoolam,UNHR,Makes plans and follows through with them,38,5
 Seewoosagur Ramgoolam,UNHR,Gets nervous easily,39,2
 Seewoosagur Ramgoolam,UNHR,"Likes to reflect, play with ideas",40,3
-Seewoosagur Ramgoolam,UNHR,Has few artistic interests,41,"I am a politician and statesman, not an artist! 3"
+Seewoosagur Ramgoolam,UNHR,Has few artistic interests,41,3
 Seewoosagur Ramgoolam,UNHR,Likes to cooperate with others,42,5
 Seewoosagur Ramgoolam,UNHR,Is easily distracted,43,4
 Seewoosagur Ramgoolam,UNHR,"Is sophisticated in art, music, or Literature",44,4

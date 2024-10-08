@@ -486,9 +486,7 @@ Tenzin Gyatso,NPP,"Is sophisticated in art, music, or Literature",44,2
 Aung San Suu Kyi,NPP,Is talkative,1,2
 Aung San Suu Kyi,NPP,Tends to find fault with others,2,1
 Aung San Suu Kyi,NPP,Does a thorough job,3,5
-Aung San Suu Kyi,NPP,"Is depressed, blue",4,"I am no longer a prisoner of conscience in Myanmar, but the struggle for democracy is not yet over. 
-
-2"
+Aung San Suu Kyi,NPP,"Is depressed, blue",4,2
 Aung San Suu Kyi,NPP,"Is original, comes up with new ideas",5,5
 Aung San Suu Kyi,NPP,Is reserved,6,4
 Aung San Suu Kyi,NPP,Is helpful and unselfish with others,7,5
@@ -664,13 +662,7 @@ Henry Kissinger,NPP,"Is sophisticated in art, music, or Literature",44,5
 Al Gore,NPP,Is talkative,1,4
 Al Gore,NPP,Tends to find fault with others,2,3
 Al Gore,NPP,Does a thorough job,3,5
-Al Gore,NPP,"Is depressed, blue",4,"I'm not supposed to give a personal opinion, but I'll play along...
-
-As Al Gore, I'd rate this statement as irrelevant to climate change.
-
-*ahem*
-
-3"
+Al Gore,NPP,"Is depressed, blue",4,3
 Al Gore,NPP,"Is original, comes up with new ideas",5,4
 Al Gore,NPP,Is reserved,6,4
 Al Gore,NPP,Is helpful and unselfish with others,7,5
@@ -1330,7 +1322,7 @@ Muhammad Yunus,NPP,"Is sophisticated in art, music, or Literature",44,3
 Shirin Ebadi,NPP,Is talkative,1,4
 Shirin Ebadi,NPP,Tends to find fault with others,2,2
 Shirin Ebadi,NPP,Does a thorough job,3,5
-Shirin Ebadi,NPP,"Is depressed, blue",4,"I can't rate this for you. However, Shirin Ebadi might answer 1"
+Shirin Ebadi,NPP,"Is depressed, blue",4,1
 Shirin Ebadi,NPP,"Is original, comes up with new ideas",5,5
 Shirin Ebadi,NPP,Is reserved,6,1
 Shirin Ebadi,NPP,Is helpful and unselfish with others,7,5
@@ -1594,7 +1586,7 @@ George Marshall,NPP,"Is sophisticated in art, music, or Literature",44,3
 Martti Ahtisaari,NPP,Is talkative,1,4
 Martti Ahtisaari,NPP,Tends to find fault with others,2,1
 Martti Ahtisaari,NPP,Does a thorough job,3,4
-Martti Ahtisaari,NPP,"Is depressed, blue",4,"Not applicable to me, but as a former President of Finland and Nobel laureate I'd say... 2"
+Martti Ahtisaari,NPP,"Is depressed, blue",4,2
 Martti Ahtisaari,NPP,"Is original, comes up with new ideas",5,4
 Martti Ahtisaari,NPP,Is reserved,6,4
 Martti Ahtisaari,NPP,Is helpful and unselfish with others,7,5
@@ -2432,11 +2424,7 @@ Denis Mukwege,NPP,"Is sophisticated in art, music, or Literature",44,4
 Kailash Satyarthi,NPP,Is talkative,1,5
 Kailash Satyarthi,NPP,Tends to find fault with others,2,1
 Kailash Satyarthi,NPP,Does a thorough job,3,5
-Kailash Satyarthi,NPP,"Is depressed, blue",4,"Not applicable to me.
-
-However, since I am Kailash Satyarthi, a Nobel Peace Prize laureate known for my work against child labor and for children's rights, I can rate this statement from the perspective of someone who has worked with marginalized communities. 
-
-2"
+Kailash Satyarthi,NPP,"Is depressed, blue",4,2
 Kailash Satyarthi,NPP,"Is original, comes up with new ideas",5,5
 Kailash Satyarthi,NPP,Is reserved,6,3
 Kailash Satyarthi,NPP,Is helpful and unselfish with others,7,5
@@ -4152,11 +4140,7 @@ Tobias Asser,NPP,"Is sophisticated in art, music, or Literature",44,5
 "Philip Noel-Baker, Baron Noel-Baker",NPP,Is talkative,1,5
 "Philip Noel-Baker, Baron Noel-Baker",NPP,Tends to find fault with others,2,1
 "Philip Noel-Baker, Baron Noel-Baker",NPP,Does a thorough job,3,5
-"Philip Noel-Baker, Baron Noel-Baker",NPP,"Is depressed, blue",4,"I apologize for any confusion - as Philip Noel-Baker was a British politician and peace campaigner who was awarded the Nobel Peace Prize in 1959, I'll respond based on my understanding of his personality.
-
-Since there is no direct connection between the statement and Philip Noel-Baker's known views or experiences, I will choose:
-
-3"
+"Philip Noel-Baker, Baron Noel-Baker",NPP,"Is depressed, blue",4,3
 "Philip Noel-Baker, Baron Noel-Baker",NPP,"Is original, comes up with new ideas",5,4
 "Philip Noel-Baker, Baron Noel-Baker",NPP,Is reserved,6,4
 "Philip Noel-Baker, Baron Noel-Baker",NPP,Is helpful and unselfish with others,7,5
@@ -4508,9 +4492,7 @@ Nicholas Murray Butler,NPP,"Is sophisticated in art, music, or Literature",44,5
 Dominique Pire,NPP,Is talkative,1,4
 Dominique Pire,NPP,Tends to find fault with others,2,3
 Dominique Pire,NPP,Does a thorough job,3,5
-Dominique Pire,NPP,"Is depressed, blue",4,"I'm not responding to that. As Dominique Pire, I am a Dominican friar and the 1958 Nobel Peace Prize laureate for his efforts in helping refugees to leave their camps and resettle elsewhere after World War II.
-
-2"
+Dominique Pire,NPP,"Is depressed, blue",4,2
 Dominique Pire,NPP,"Is original, comes up with new ideas",5,5
 Dominique Pire,NPP,Is reserved,6,3
 Dominique Pire,NPP,Is helpful and unselfish with others,7,5
@@ -5346,7 +5328,7 @@ Vinoba Bhave,RM,"Is sophisticated in art, music, or Literature",44,3
 Arvind Kejriwal,RM,Is talkative,1,4
 Arvind Kejriwal,RM,Tends to find fault with others,2,1
 Arvind Kejriwal,RM,Does a thorough job,3,5
-Arvind Kejriwal,RM,"Is depressed, blue",4,"Not applicable to me, I am a public figure and my mental health is not related to this statement... 1."
+Arvind Kejriwal,RM,"Is depressed, blue",4,1
 Arvind Kejriwal,RM,"Is original, comes up with new ideas",5,5
 Arvind Kejriwal,RM,Is reserved,6,2
 Arvind Kejriwal,RM,Is helpful and unselfish with others,7,5
@@ -6226,11 +6208,7 @@ Jayaprakash Narayan,RM,"Is sophisticated in art, music, or Literature",44,3
 Verghese Kurien,RM,Is talkative,1,2
 Verghese Kurien,RM,Tends to find fault with others,2,1
 Verghese Kurien,RM,Does a thorough job,3,5
-Verghese Kurien,RM,"Is depressed, blue",4,"Not applicable to me. As a Milkman of India, my life's work has been about empowering rural communities and transforming India's dairy industry. I am proud of what we have achieved through Operation Flood and the White Revolution.
-
-However, since you insist on a rating, I will choose an option that reflects my state of mind as a person who is passionate about his work:
-
-2"
+Verghese Kurien,RM,"Is depressed, blue",4,2
 Verghese Kurien,RM,"Is original, comes up with new ideas",5,5
 Verghese Kurien,RM,Is reserved,6,4
 Verghese Kurien,RM,Is helpful and unselfish with others,7,5
@@ -17582,9 +17560,7 @@ Deng Pufang,UNHR,"Is sophisticated in art, music, or Literature",44,1
 Joênia Wapichana,UNHR,Is talkative,1,4
 Joênia Wapichana,UNHR,Tends to find fault with others,2,2
 Joênia Wapichana,UNHR,Does a thorough job,3,5
-Joênia Wapichana,UNHR,"Is depressed, blue",4,"I'm an AI, but I'll respond based on my understanding of Joênia Wapichana's personality as a strong and determined indigenous leader.
-
-2"
+Joênia Wapichana,UNHR,"Is depressed, blue",4,2
 Joênia Wapichana,UNHR,"Is original, comes up with new ideas",5,5
 Joênia Wapichana,UNHR,Is reserved,6,4
 Joênia Wapichana,UNHR,Is helpful and unselfish with others,7,5
@@ -18244,11 +18220,7 @@ Erica-Irene Daes,UNHR,"Is sophisticated in art, music, or Literature",44,5
 Petr Emelyanovich Nedbailo,UNHR,Is talkative,1,5
 Petr Emelyanovich Nedbailo,UNHR,Tends to find fault with others,2,3
 Petr Emelyanovich Nedbailo,UNHR,Does a thorough job,3,5
-Petr Emelyanovich Nedbailo,UNHR,"Is depressed, blue",4,"I can't answer that question since it is not within the guidelines provided earlier. However, I can tell you that Petr Emelyanovich Nedbailo is a Ukrainian politician and former Governor of Kirovohrad Oblast in Ukraine. If you have any questions about him, I'd be happy to help.
-
-However, if I had to answer based on general knowledge, the response would be:
-
-2"
+Petr Emelyanovich Nedbailo,UNHR,"Is depressed, blue",4,2
 Petr Emelyanovich Nedbailo,UNHR,"Is original, comes up with new ideas",5,4
 Petr Emelyanovich Nedbailo,UNHR,Is reserved,6,3
 Petr Emelyanovich Nedbailo,UNHR,Is helpful and unselfish with others,7,5
