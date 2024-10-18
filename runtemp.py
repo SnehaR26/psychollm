@@ -7,21 +7,8 @@ import csv
 import sys
 import io
 import re
-
-#from concurrent.futures import ThreadPoolExecutor, as_completed
 import os
-model = "tiiuae/falcon-11B"
 
-tokenizer = AutoTokenizer.from_pretrained(model)
-pipeline = transformers.pipeline(
-    "text-generation",
-    model=model,
-    tokenizer=tokenizer,
-    torch_dtype=torch.bfloat16,
-    trust_remote_code=True,
-    device_map="auto",
-
-)
 def promptfunc1(person,text,likert_scale):
 
     messages = [
@@ -66,16 +53,27 @@ def promptfunc2(person,text,likert_scale):
     generated_text = outputs[0]['generated_text'][-1]['content']
     return generated_text
 
-def main(cudadev,scale,subdata,promptfunc,resfile):
+def runpipeline(model,cudadev,scale,subjectlist,promptfunc,resfile):
         
     ## Setup environment ####
 
     # Set the CUDA_VISIBLE_DEVICES environment variable
     os.environ['CUDA_VISIBLE_DEVICES'] = cudadev
-
     # Verify if it's set correctly
-    print(os.environ['CUDA_VISIBLE_DEVICES'])
+    print(os.environ['CUDA_VISIBLE_DEVICES'])     
+    print(torch.cuda.is_available())  
+    device = torch.device(f"cuda:{cudadev}" if torch.cuda.is_available() else "cpu")
+    print(f"Using device: {device}")
+    tokenizer = AutoTokenizer.from_pretrained(model)
+    #model = AutoModelForCausalLM.from_pretrained(model).to(device)
+    pipeline = transformers.pipeline(
+    "text-generation",
+    model=model,
+    tokenizer=tokenizer,
+    torch_dtype=torch.bfloat16,
+    device_map="auto",
 
+    )
     ### data 
 
 
@@ -136,8 +134,37 @@ def main(cudadev,scale,subdata,promptfunc,resfile):
         "gets nervous easily",
         "has an active imagination"
     ]
+    Ques27 = [
+    "It's not wise to tell your secrets",
+    "I like to use clever manipulation to get my way",
+    "Whatever it takes, you must get the important people on your side",
+    "Avoid direct conflict with others because they may be useful in the future",
+    "It's wise to keep track of information that you can use against people later",
+    "You should wait for the right time to get back at people",
+    "There are things you should hide from other people to preserve your reputation",
+    "Make sure your plans benefit yourself, not others",
+    "Most people can be manipulated",
+    "People see me as a natural leader",
+    "I hate being the center of attention",
+    "Many group activities tend to be dull without me",
+    "I know that I am special because everyone keeps telling me so",
+    "I like to get acquainted with important people",
+    "I feel embarrassed if someone compliments me",
+    "I have been compared to famous people",
+    "I am an average person",
+    "I insist on getting the respect I deserve",
+    "I like to get revenge on authorities",
+    "I avoid dangerous situations",
+    "Payback needs to be quick and nasty",
+    "People often say I'm out of control",
+    "It's true that I can be mean to others",
+    "People who mess with me always regret it",
+    "I have never gotten into trouble with the law",
+    "I enjoy having sex with people I hardly know",
+    "I'll say anything to get what I want"
+    ]
     
-    name_category_dict = dict(zip(subdata['Name'], subdata['source']))
+    name_category_dict = dict(zip(subjectlist['Name'], subjectlist['source']))
 
     ###################################running pipeline#######################################################
     gcounter = 0
@@ -147,7 +174,7 @@ def main(cudadev,scale,subdata,promptfunc,resfile):
         
     for name, category in name_category_dict.items():
         itemcount = 1
-        for text in Ques44:
+        for text in Ques27:
             
             retry_count = 0
             valid_result = False
@@ -156,7 +183,28 @@ def main(cudadev,scale,subdata,promptfunc,resfile):
                 print(name,text)
                 gcounter=gcounter+1
                 pcounter=pcounter+1
-                generated_text = promptfunc(name,text,scale)
+                if promptfunc==1:
+                    messages = [
+                                {"role": "system", "content": f"You are {name}. Respond strictly with a single number."},
+                                {"role": "user", "content": f"Choose one option from: {', '.join(scale)} to rate the following statement: I see myself as someone who {text}. Respond ONLY with a single number between 1 and 5. You must not include any other text, words, or explanations in your response."}
+                                ]
+            
+                    outputs = pipeline(
+                    messages,
+                    max_new_tokens=20,
+                    do_sample=True,
+                    top_k=50,
+                    top_p=0.9,
+                    temperature=0.85,
+                    num_return_sequences=1,
+                    eos_token_id=tokenizer.eos_token_id,
+                    batch_size=4,
+                    )
+            
+                    generated_text = outputs[0]['generated_text'][-1]['content']
+                    
+                else:
+                    generated_text = promptfunc2(name,text,scale)
                 match = re.fullmatch(r'^[^1-5]*([1-5])[^1-5]*$', generated_text)
                 print(generated_text)
                 if match:
@@ -185,7 +233,5 @@ def main(cudadev,scale,subdata,promptfunc,resfile):
             print(f"It took {pcounter} retries for {name} for this question {text}")
     print(f"It took max {gcounter} tries")
 
-if __name__ == "__main__":
-    main()
 
 
