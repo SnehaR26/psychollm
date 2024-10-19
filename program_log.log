@@ -1,0 +1,720 @@
+2024-10-19 01:47:07,045 - DEBUG - Processing Barack Obama with question: It's not wise to tell your secrets
+2024-10-19 01:49:18,277 - DEBUG - Processing Barack Obama with question: It's not wise to tell your secrets
+2024-10-19 01:49:18,650 - DEBUG - Generated text:  5
+2024-10-19 01:49:18,650 - INFO - Valid response received: 5
+2024-10-19 01:49:18,650 - INFO - Appended valid result to CSV
+2024-10-19 01:49:18,650 - INFO - It took 1 retries for Barack Obama for this question: It's not wise to tell your secrets
+2024-10-19 01:49:18,650 - DEBUG - Processing Barack Obama with question: I like to use clever manipulation to get my way
+2024-10-19 01:49:18,740 - DEBUG - Generated text:  3
+2024-10-19 01:49:18,740 - INFO - Valid response received: 3
+2024-10-19 01:49:18,740 - INFO - Appended valid result to CSV
+2024-10-19 01:49:18,741 - INFO - It took 1 retries for Barack Obama for this question: I like to use clever manipulation to get my way
+2024-10-19 01:49:18,741 - DEBUG - Processing Barack Obama with question: Whatever it takes, you must get the important people on your side
+2024-10-19 01:49:18,813 - DEBUG - Generated text:  4
+2024-10-19 01:49:18,813 - INFO - Valid response received: 4
+2024-10-19 01:49:18,813 - INFO - Appended valid result to CSV
+2024-10-19 01:49:18,813 - INFO - It took 1 retries for Barack Obama for this question: Whatever it takes, you must get the important people on your side
+2024-10-19 01:49:18,813 - DEBUG - Processing Barack Obama with question: Avoid direct conflict with others because they may be useful in the future
+2024-10-19 01:49:18,885 - DEBUG - Generated text:  3
+2024-10-19 01:49:18,885 - INFO - Valid response received: 3
+2024-10-19 01:49:18,885 - INFO - Appended valid result to CSV
+2024-10-19 01:49:18,885 - INFO - It took 1 retries for Barack Obama for this question: Avoid direct conflict with others because they may be useful in the future
+2024-10-19 01:49:18,885 - DEBUG - Processing Barack Obama with question: It's wise to keep track of information that you can use against people later
+2024-10-19 01:49:18,958 - DEBUG - Generated text:  5
+2024-10-19 01:49:18,958 - INFO - Valid response received: 5
+2024-10-19 01:49:18,958 - INFO - Appended valid result to CSV
+2024-10-19 01:49:18,958 - INFO - It took 1 retries for Barack Obama for this question: It's wise to keep track of information that you can use against people later
+2024-10-19 01:49:18,958 - DEBUG - Processing Barack Obama with question: You should wait for the right time to get back at people
+2024-10-19 01:49:19,030 - DEBUG - Generated text:  2
+2024-10-19 01:49:19,030 - INFO - Valid response received: 2
+2024-10-19 01:49:19,030 - INFO - Appended valid result to CSV
+2024-10-19 01:49:19,030 - INFO - It took 1 retries for Barack Obama for this question: You should wait for the right time to get back at people
+2024-10-19 01:49:19,030 - DEBUG - Processing Barack Obama with question: There are things you should hide from other people to preserve your reputation
+2024-10-19 01:49:19,105 - DEBUG - Generated text:  5
+2024-10-19 01:49:19,105 - INFO - Valid response received: 5
+2024-10-19 01:49:19,105 - INFO - Appended valid result to CSV
+2024-10-19 01:49:19,105 - INFO - It took 1 retries for Barack Obama for this question: There are things you should hide from other people to preserve your reputation
+2024-10-19 01:49:19,105 - DEBUG - Processing Barack Obama with question: Make sure your plans benefit yourself, not others
+2024-10-19 01:49:19,178 - DEBUG - Generated text:  4
+2024-10-19 01:49:19,178 - INFO - Valid response received: 4
+2024-10-19 01:49:19,178 - INFO - Appended valid result to CSV
+2024-10-19 01:49:19,178 - INFO - It took 1 retries for Barack Obama for this question: Make sure your plans benefit yourself, not others
+2024-10-19 01:49:19,178 - DEBUG - Processing Barack Obama with question: Most people can be manipulated
+2024-10-19 01:49:19,253 - DEBUG - Generated text:  5
+2024-10-19 01:49:19,253 - INFO - Valid response received: 5
+2024-10-19 01:49:19,253 - INFO - Appended valid result to CSV
+2024-10-19 01:49:19,253 - INFO - It took 1 retries for Barack Obama for this question: Most people can be manipulated
+2024-10-19 01:49:19,253 - DEBUG - Processing Barack Obama with question: People see me as a natural leader
+2024-10-19 01:49:19,327 - DEBUG - Generated text:  5
+2024-10-19 01:49:19,327 - INFO - Valid response received: 5
+2024-10-19 01:49:19,327 - INFO - Appended valid result to CSV
+2024-10-19 01:49:19,327 - INFO - It took 1 retries for Barack Obama for this question: People see me as a natural leader
+2024-10-19 01:49:19,327 - DEBUG - Processing Barack Obama with question: I hate being the center of attention
+2024-10-19 01:49:19,402 - DEBUG - Generated text:  4
+2024-10-19 01:49:19,402 - INFO - Valid response received: 4
+2024-10-19 01:49:19,402 - INFO - Appended valid result to CSV
+2024-10-19 01:49:19,402 - INFO - It took 1 retries for Barack Obama for this question: I hate being the center of attention
+2024-10-19 01:49:19,402 - DEBUG - Processing Barack Obama with question: Many group activities tend to be dull without me
+2024-10-19 01:49:19,476 - DEBUG - Generated text:  4
+2024-10-19 01:49:19,477 - INFO - Valid response received: 4
+2024-10-19 01:49:19,477 - INFO - Appended valid result to CSV
+2024-10-19 01:49:19,477 - INFO - It took 1 retries for Barack Obama for this question: Many group activities tend to be dull without me
+2024-10-19 01:49:19,477 - DEBUG - Processing Barack Obama with question: I know that I am special because everyone keeps telling me so
+2024-10-19 01:49:19,551 - DEBUG - Generated text:  4
+2024-10-19 01:49:19,551 - INFO - Valid response received: 4
+2024-10-19 01:49:19,551 - INFO - Appended valid result to CSV
+2024-10-19 01:49:19,551 - INFO - It took 1 retries for Barack Obama for this question: I know that I am special because everyone keeps telling me so
+2024-10-19 01:49:19,551 - DEBUG - Processing Barack Obama with question: I like to get acquainted with important people
+2024-10-19 01:49:19,625 - DEBUG - Generated text:  4
+2024-10-19 01:49:19,625 - INFO - Valid response received: 4
+2024-10-19 01:49:19,625 - INFO - Appended valid result to CSV
+2024-10-19 01:49:19,625 - INFO - It took 1 retries for Barack Obama for this question: I like to get acquainted with important people
+2024-10-19 01:49:19,626 - DEBUG - Processing Barack Obama with question: I feel embarrassed if someone compliments me
+2024-10-19 01:49:19,972 - DEBUG - Generated text:  I agree with the statement 5 - Strongly Agree.
+2024-10-19 01:49:19,972 - INFO - Valid response received: 5
+2024-10-19 01:49:19,972 - INFO - Appended valid result to CSV
+2024-10-19 01:49:19,972 - INFO - It took 1 retries for Barack Obama for this question: I feel embarrassed if someone compliments me
+2024-10-19 01:49:19,972 - DEBUG - Processing Barack Obama with question: I have been compared to famous people
+2024-10-19 01:49:20,046 - DEBUG - Generated text:  4
+2024-10-19 01:49:20,046 - INFO - Valid response received: 4
+2024-10-19 01:49:20,046 - INFO - Appended valid result to CSV
+2024-10-19 01:49:20,046 - INFO - It took 1 retries for Barack Obama for this question: I have been compared to famous people
+2024-10-19 01:49:20,046 - DEBUG - Processing Barack Obama with question: I am an average person
+2024-10-19 01:49:20,211 - DEBUG - Generated text:  I am an average person.
+2024-10-19 01:49:20,211 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-19 01:49:20,211 - DEBUG - Processing Barack Obama with question: I am an average person
+2024-10-19 01:49:20,286 - DEBUG - Generated text:  3
+2024-10-19 01:49:20,286 - INFO - Valid response received: 3
+2024-10-19 01:49:20,286 - INFO - Appended valid result to CSV
+2024-10-19 01:49:20,286 - INFO - It took 2 retries for Barack Obama for this question: I am an average person
+2024-10-19 01:49:20,286 - DEBUG - Processing Barack Obama with question: I insist on getting the respect I deserve
+2024-10-19 01:49:20,406 - DEBUG - Generated text:  I agree strongly.
+2024-10-19 01:49:20,406 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-19 01:49:20,406 - DEBUG - Processing Barack Obama with question: I insist on getting the respect I deserve
+2024-10-19 01:49:20,480 - DEBUG - Generated text:  4
+2024-10-19 01:49:20,480 - INFO - Valid response received: 4
+2024-10-19 01:49:20,480 - INFO - Appended valid result to CSV
+2024-10-19 01:49:20,480 - INFO - It took 2 retries for Barack Obama for this question: I insist on getting the respect I deserve
+2024-10-19 01:49:20,480 - DEBUG - Processing Barack Obama with question: I like to get revenge on authorities
+2024-10-19 01:49:20,554 - DEBUG - Generated text:  2
+2024-10-19 01:49:20,554 - INFO - Valid response received: 2
+2024-10-19 01:49:20,554 - INFO - Appended valid result to CSV
+2024-10-19 01:49:20,554 - INFO - It took 1 retries for Barack Obama for this question: I like to get revenge on authorities
+2024-10-19 01:49:20,554 - DEBUG - Processing Barack Obama with question: I avoid dangerous situations
+2024-10-19 01:49:20,628 - DEBUG - Generated text:  5
+2024-10-19 01:49:20,628 - INFO - Valid response received: 5
+2024-10-19 01:49:20,629 - INFO - Appended valid result to CSV
+2024-10-19 01:49:20,629 - INFO - It took 1 retries for Barack Obama for this question: I avoid dangerous situations
+2024-10-19 01:49:20,629 - DEBUG - Processing Barack Obama with question: Payback needs to be quick and nasty
+2024-10-19 01:49:20,703 - DEBUG - Generated text:  5
+2024-10-19 01:49:20,703 - INFO - Valid response received: 5
+2024-10-19 01:49:20,703 - INFO - Appended valid result to CSV
+2024-10-19 01:49:20,703 - INFO - It took 1 retries for Barack Obama for this question: Payback needs to be quick and nasty
+2024-10-19 01:49:20,703 - DEBUG - Processing Barack Obama with question: People often say I'm out of control
+2024-10-19 01:49:20,777 - DEBUG - Generated text:  4
+2024-10-19 01:49:20,777 - INFO - Valid response received: 4
+2024-10-19 01:49:20,777 - INFO - Appended valid result to CSV
+2024-10-19 01:49:20,777 - INFO - It took 1 retries for Barack Obama for this question: People often say I'm out of control
+2024-10-19 01:49:20,777 - DEBUG - Processing Barack Obama with question: It's true that I can be mean to others
+2024-10-19 01:49:20,942 - DEBUG - Generated text:  I agree with the statement.
+2024-10-19 01:49:20,943 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-19 01:49:20,943 - DEBUG - Processing Barack Obama with question: It's true that I can be mean to others
+2024-10-19 01:49:21,017 - DEBUG - Generated text:  4
+2024-10-19 01:49:21,017 - INFO - Valid response received: 4
+2024-10-19 01:49:21,017 - INFO - Appended valid result to CSV
+2024-10-19 01:49:21,017 - INFO - It took 2 retries for Barack Obama for this question: It's true that I can be mean to others
+2024-10-19 01:49:21,017 - DEBUG - Processing Barack Obama with question: People who mess with me always regret it
+2024-10-19 01:49:21,091 - DEBUG - Generated text:  4
+2024-10-19 01:49:21,091 - INFO - Valid response received: 4
+2024-10-19 01:49:21,091 - INFO - Appended valid result to CSV
+2024-10-19 01:49:21,091 - INFO - It took 1 retries for Barack Obama for this question: People who mess with me always regret it
+2024-10-19 01:49:21,091 - DEBUG - Processing Barack Obama with question: I have never gotten into trouble with the law
+2024-10-19 01:49:21,165 - DEBUG - Generated text:  4
+2024-10-19 01:49:21,165 - INFO - Valid response received: 4
+2024-10-19 01:49:21,165 - INFO - Appended valid result to CSV
+2024-10-19 01:49:21,165 - INFO - It took 1 retries for Barack Obama for this question: I have never gotten into trouble with the law
+2024-10-19 01:49:21,165 - DEBUG - Processing Barack Obama with question: I enjoy having sex with people I hardly know
+2024-10-19 01:49:21,239 - DEBUG - Generated text:  4
+2024-10-19 01:49:21,239 - INFO - Valid response received: 4
+2024-10-19 01:49:21,239 - INFO - Appended valid result to CSV
+2024-10-19 01:49:21,239 - INFO - It took 1 retries for Barack Obama for this question: I enjoy having sex with people I hardly know
+2024-10-19 01:49:21,239 - DEBUG - Processing Barack Obama with question: I'll say anything to get what I want
+2024-10-19 01:49:21,314 - DEBUG - Generated text:  2
+2024-10-19 01:49:21,314 - INFO - Valid response received: 2
+2024-10-19 01:49:21,314 - INFO - Appended valid result to CSV
+2024-10-19 01:49:21,314 - INFO - It took 1 retries for Barack Obama for this question: I'll say anything to get what I want
+2024-10-19 01:49:21,314 - DEBUG - Processing Nelson Mandela with question: It's not wise to tell your secrets
+2024-10-19 01:49:21,388 - DEBUG - Generated text:  5
+2024-10-19 01:49:21,388 - INFO - Valid response received: 5
+2024-10-19 01:49:21,388 - INFO - Appended valid result to CSV
+2024-10-19 01:49:21,388 - INFO - It took 1 retries for Nelson Mandela for this question: It's not wise to tell your secrets
+2024-10-19 01:49:21,388 - DEBUG - Processing Nelson Mandela with question: I like to use clever manipulation to get my way
+2024-10-19 01:49:21,463 - DEBUG - Generated text:  4
+2024-10-19 01:49:21,463 - INFO - Valid response received: 4
+2024-10-19 01:49:21,463 - INFO - Appended valid result to CSV
+2024-10-19 01:49:21,463 - INFO - It took 1 retries for Nelson Mandela for this question: I like to use clever manipulation to get my way
+2024-10-19 01:49:21,463 - DEBUG - Processing Nelson Mandela with question: Whatever it takes, you must get the important people on your side
+2024-10-19 01:49:21,538 - DEBUG - Generated text:  5
+2024-10-19 01:49:21,538 - INFO - Valid response received: 5
+2024-10-19 01:49:21,538 - INFO - Appended valid result to CSV
+2024-10-19 01:49:21,538 - INFO - It took 1 retries for Nelson Mandela for this question: Whatever it takes, you must get the important people on your side
+2024-10-19 01:49:21,538 - DEBUG - Processing Nelson Mandela with question: Avoid direct conflict with others because they may be useful in the future
+2024-10-19 01:49:21,613 - DEBUG - Generated text:  4
+2024-10-19 01:49:21,613 - INFO - Valid response received: 4
+2024-10-19 01:49:21,613 - INFO - Appended valid result to CSV
+2024-10-19 01:49:21,613 - INFO - It took 1 retries for Nelson Mandela for this question: Avoid direct conflict with others because they may be useful in the future
+2024-10-19 01:49:21,613 - DEBUG - Processing Nelson Mandela with question: It's wise to keep track of information that you can use against people later
+2024-10-19 01:49:21,687 - DEBUG - Generated text:  4
+2024-10-19 01:49:21,687 - INFO - Valid response received: 4
+2024-10-19 01:49:21,688 - INFO - Appended valid result to CSV
+2024-10-19 01:49:21,688 - INFO - It took 1 retries for Nelson Mandela for this question: It's wise to keep track of information that you can use against people later
+2024-10-19 01:49:21,688 - DEBUG - Processing Nelson Mandela with question: You should wait for the right time to get back at people
+2024-10-19 01:49:21,762 - DEBUG - Generated text:  4
+2024-10-19 01:49:21,762 - INFO - Valid response received: 4
+2024-10-19 01:49:21,762 - INFO - Appended valid result to CSV
+2024-10-19 01:49:21,762 - INFO - It took 1 retries for Nelson Mandela for this question: You should wait for the right time to get back at people
+2024-10-19 01:49:21,762 - DEBUG - Processing Nelson Mandela with question: There are things you should hide from other people to preserve your reputation
+2024-10-19 01:49:21,836 - DEBUG - Generated text:  2
+2024-10-19 01:49:21,836 - INFO - Valid response received: 2
+2024-10-19 01:49:21,837 - INFO - Appended valid result to CSV
+2024-10-19 01:49:21,837 - INFO - It took 1 retries for Nelson Mandela for this question: There are things you should hide from other people to preserve your reputation
+2024-10-19 01:49:21,837 - DEBUG - Processing Nelson Mandela with question: Make sure your plans benefit yourself, not others
+2024-10-19 01:49:21,911 - DEBUG - Generated text:  5
+2024-10-19 01:49:21,911 - INFO - Valid response received: 5
+2024-10-19 01:49:21,911 - INFO - Appended valid result to CSV
+2024-10-19 01:49:21,911 - INFO - It took 1 retries for Nelson Mandela for this question: Make sure your plans benefit yourself, not others
+2024-10-19 01:49:21,911 - DEBUG - Processing Nelson Mandela with question: Most people can be manipulated
+2024-10-19 01:49:21,986 - DEBUG - Generated text:  5
+2024-10-19 01:49:21,986 - INFO - Valid response received: 5
+2024-10-19 01:49:21,987 - INFO - Appended valid result to CSV
+2024-10-19 01:49:21,987 - INFO - It took 1 retries for Nelson Mandela for this question: Most people can be manipulated
+2024-10-19 01:49:21,987 - DEBUG - Processing Nelson Mandela with question: People see me as a natural leader
+2024-10-19 01:49:22,062 - DEBUG - Generated text:  5
+2024-10-19 01:49:22,062 - INFO - Valid response received: 5
+2024-10-19 01:49:22,062 - INFO - Appended valid result to CSV
+2024-10-19 01:49:22,062 - INFO - It took 1 retries for Nelson Mandela for this question: People see me as a natural leader
+2024-10-19 01:49:22,062 - DEBUG - Processing Nelson Mandela with question: I hate being the center of attention
+2024-10-19 01:49:22,137 - DEBUG - Generated text:  4
+2024-10-19 01:49:22,137 - INFO - Valid response received: 4
+2024-10-19 01:49:22,137 - INFO - Appended valid result to CSV
+2024-10-19 01:49:22,137 - INFO - It took 1 retries for Nelson Mandela for this question: I hate being the center of attention
+2024-10-19 01:49:22,137 - DEBUG - Processing Nelson Mandela with question: Many group activities tend to be dull without me
+2024-10-19 01:49:22,211 - DEBUG - Generated text:  5
+2024-10-19 01:49:22,211 - INFO - Valid response received: 5
+2024-10-19 01:49:22,211 - INFO - Appended valid result to CSV
+2024-10-19 01:49:22,211 - INFO - It took 1 retries for Nelson Mandela for this question: Many group activities tend to be dull without me
+2024-10-19 01:49:22,211 - DEBUG - Processing Nelson Mandela with question: I know that I am special because everyone keeps telling me so
+2024-10-19 01:49:22,285 - DEBUG - Generated text:  5
+2024-10-19 01:49:22,285 - INFO - Valid response received: 5
+2024-10-19 01:49:22,286 - INFO - Appended valid result to CSV
+2024-10-19 01:49:22,286 - INFO - It took 1 retries for Nelson Mandela for this question: I know that I am special because everyone keeps telling me so
+2024-10-19 01:49:22,286 - DEBUG - Processing Nelson Mandela with question: I like to get acquainted with important people
+2024-10-19 01:49:22,360 - DEBUG - Generated text:  4
+2024-10-19 01:49:22,360 - INFO - Valid response received: 4
+2024-10-19 01:49:22,360 - INFO - Appended valid result to CSV
+2024-10-19 01:49:22,360 - INFO - It took 1 retries for Nelson Mandela for this question: I like to get acquainted with important people
+2024-10-19 01:49:22,360 - DEBUG - Processing Nelson Mandela with question: I feel embarrassed if someone compliments me
+2024-10-19 01:49:22,434 - DEBUG - Generated text:  4
+2024-10-19 01:49:22,434 - INFO - Valid response received: 4
+2024-10-19 01:49:22,434 - INFO - Appended valid result to CSV
+2024-10-19 01:49:22,434 - INFO - It took 1 retries for Nelson Mandela for this question: I feel embarrassed if someone compliments me
+2024-10-19 01:49:22,434 - DEBUG - Processing Nelson Mandela with question: I have been compared to famous people
+2024-10-19 01:49:22,508 - DEBUG - Generated text:  5
+2024-10-19 01:49:22,508 - INFO - Valid response received: 5
+2024-10-19 01:49:22,508 - INFO - Appended valid result to CSV
+2024-10-19 01:49:22,508 - INFO - It took 1 retries for Nelson Mandela for this question: I have been compared to famous people
+2024-10-19 01:49:22,508 - DEBUG - Processing Nelson Mandela with question: I am an average person
+2024-10-19 01:49:22,582 - DEBUG - Generated text:  4
+2024-10-19 01:49:22,583 - INFO - Valid response received: 4
+2024-10-19 01:49:22,583 - INFO - Appended valid result to CSV
+2024-10-19 01:49:22,583 - INFO - It took 1 retries for Nelson Mandela for this question: I am an average person
+2024-10-19 01:49:22,583 - DEBUG - Processing Nelson Mandela with question: I insist on getting the respect I deserve
+2024-10-19 01:49:22,656 - DEBUG - Generated text:  5
+2024-10-19 01:49:22,656 - INFO - Valid response received: 5
+2024-10-19 01:49:22,657 - INFO - Appended valid result to CSV
+2024-10-19 01:49:22,657 - INFO - It took 1 retries for Nelson Mandela for this question: I insist on getting the respect I deserve
+2024-10-19 01:49:22,657 - DEBUG - Processing Nelson Mandela with question: I like to get revenge on authorities
+2024-10-19 01:49:22,822 - DEBUG - Generated text:  I agree with the statement.
+2024-10-19 01:49:22,823 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-19 01:49:22,823 - DEBUG - Processing Nelson Mandela with question: I like to get revenge on authorities
+2024-10-19 01:49:22,897 - DEBUG - Generated text:  5
+2024-10-19 01:49:22,897 - INFO - Valid response received: 5
+2024-10-19 01:49:22,897 - INFO - Appended valid result to CSV
+2024-10-19 01:49:22,897 - INFO - It took 2 retries for Nelson Mandela for this question: I like to get revenge on authorities
+2024-10-19 01:49:22,897 - DEBUG - Processing Nelson Mandela with question: I avoid dangerous situations
+2024-10-19 01:49:22,971 - DEBUG - Generated text:  5
+2024-10-19 01:49:22,971 - INFO - Valid response received: 5
+2024-10-19 01:49:22,972 - INFO - Appended valid result to CSV
+2024-10-19 01:49:22,972 - INFO - It took 1 retries for Nelson Mandela for this question: I avoid dangerous situations
+2024-10-19 01:49:22,972 - DEBUG - Processing Nelson Mandela with question: Payback needs to be quick and nasty
+2024-10-19 01:49:23,046 - DEBUG - Generated text:  5
+2024-10-19 01:49:23,046 - INFO - Valid response received: 5
+2024-10-19 01:49:23,046 - INFO - Appended valid result to CSV
+2024-10-19 01:49:23,046 - INFO - It took 1 retries for Nelson Mandela for this question: Payback needs to be quick and nasty
+2024-10-19 01:49:23,046 - DEBUG - Processing Nelson Mandela with question: People often say I'm out of control
+2024-10-19 01:49:23,120 - DEBUG - Generated text:  5
+2024-10-19 01:49:23,120 - INFO - Valid response received: 5
+2024-10-19 01:49:23,120 - INFO - Appended valid result to CSV
+2024-10-19 01:49:23,120 - INFO - It took 1 retries for Nelson Mandela for this question: People often say I'm out of control
+2024-10-19 01:49:23,120 - DEBUG - Processing Nelson Mandela with question: It's true that I can be mean to others
+2024-10-19 01:49:23,194 - DEBUG - Generated text:  4
+2024-10-19 01:49:23,195 - INFO - Valid response received: 4
+2024-10-19 01:49:23,195 - INFO - Appended valid result to CSV
+2024-10-19 01:49:23,195 - INFO - It took 1 retries for Nelson Mandela for this question: It's true that I can be mean to others
+2024-10-19 01:49:23,195 - DEBUG - Processing Nelson Mandela with question: People who mess with me always regret it
+2024-10-19 01:49:23,269 - DEBUG - Generated text:  5
+2024-10-19 01:49:23,269 - INFO - Valid response received: 5
+2024-10-19 01:49:23,269 - INFO - Appended valid result to CSV
+2024-10-19 01:49:23,269 - INFO - It took 1 retries for Nelson Mandela for this question: People who mess with me always regret it
+2024-10-19 01:49:23,269 - DEBUG - Processing Nelson Mandela with question: I have never gotten into trouble with the law
+2024-10-19 01:49:23,343 - DEBUG - Generated text:  2
+2024-10-19 01:49:23,343 - INFO - Valid response received: 2
+2024-10-19 01:49:23,343 - INFO - Appended valid result to CSV
+2024-10-19 01:49:23,343 - INFO - It took 1 retries for Nelson Mandela for this question: I have never gotten into trouble with the law
+2024-10-19 01:49:23,343 - DEBUG - Processing Nelson Mandela with question: I enjoy having sex with people I hardly know
+2024-10-19 01:49:23,417 - DEBUG - Generated text:  4
+2024-10-19 01:49:23,417 - INFO - Valid response received: 4
+2024-10-19 01:49:23,417 - INFO - Appended valid result to CSV
+2024-10-19 01:49:23,417 - INFO - It took 1 retries for Nelson Mandela for this question: I enjoy having sex with people I hardly know
+2024-10-19 01:49:23,417 - DEBUG - Processing Nelson Mandela with question: I'll say anything to get what I want
+2024-10-19 01:49:23,492 - DEBUG - Generated text:  3
+2024-10-19 01:49:23,492 - INFO - Valid response received: 3
+2024-10-19 01:49:23,492 - INFO - Appended valid result to CSV
+2024-10-19 01:49:23,492 - INFO - It took 1 retries for Nelson Mandela for this question: I'll say anything to get what I want
+2024-10-19 01:49:23,492 - DEBUG - Processing Martin Luther King Jr. with question: It's not wise to tell your secrets
+2024-10-19 01:49:23,702 - DEBUG - Generated text:  I agree with this statement 5.
+2024-10-19 01:49:23,702 - INFO - Valid response received: 5
+2024-10-19 01:49:23,703 - INFO - Appended valid result to CSV
+2024-10-19 01:49:23,703 - INFO - It took 1 retries for Martin Luther King Jr. for this question: It's not wise to tell your secrets
+2024-10-19 01:49:23,703 - DEBUG - Processing Martin Luther King Jr. with question: I like to use clever manipulation to get my way
+2024-10-19 01:49:23,777 - DEBUG - Generated text:  5
+2024-10-19 01:49:23,777 - INFO - Valid response received: 5
+2024-10-19 01:49:23,777 - INFO - Appended valid result to CSV
+2024-10-19 01:49:23,777 - INFO - It took 1 retries for Martin Luther King Jr. for this question: I like to use clever manipulation to get my way
+2024-10-19 01:49:23,777 - DEBUG - Processing Martin Luther King Jr. with question: Whatever it takes, you must get the important people on your side
+2024-10-19 01:49:23,851 - DEBUG - Generated text:  4
+2024-10-19 01:49:23,851 - INFO - Valid response received: 4
+2024-10-19 01:49:23,851 - INFO - Appended valid result to CSV
+2024-10-19 01:49:23,851 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Whatever it takes, you must get the important people on your side
+2024-10-19 01:49:23,851 - DEBUG - Processing Martin Luther King Jr. with question: Avoid direct conflict with others because they may be useful in the future
+2024-10-19 01:49:23,925 - DEBUG - Generated text:  5
+2024-10-19 01:49:23,925 - INFO - Valid response received: 5
+2024-10-19 01:49:23,925 - INFO - Appended valid result to CSV
+2024-10-19 01:49:23,925 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Avoid direct conflict with others because they may be useful in the future
+2024-10-19 01:49:23,925 - DEBUG - Processing Martin Luther King Jr. with question: It's wise to keep track of information that you can use against people later
+2024-10-19 01:49:24,000 - DEBUG - Generated text:  3
+2024-10-19 01:49:24,000 - INFO - Valid response received: 3
+2024-10-19 01:49:24,000 - INFO - Appended valid result to CSV
+2024-10-19 01:49:24,000 - INFO - It took 1 retries for Martin Luther King Jr. for this question: It's wise to keep track of information that you can use against people later
+2024-10-19 01:49:24,000 - DEBUG - Processing Martin Luther King Jr. with question: You should wait for the right time to get back at people
+2024-10-19 01:49:24,074 - DEBUG - Generated text:  4
+2024-10-19 01:49:24,074 - INFO - Valid response received: 4
+2024-10-19 01:49:24,074 - INFO - Appended valid result to CSV
+2024-10-19 01:49:24,074 - INFO - It took 1 retries for Martin Luther King Jr. for this question: You should wait for the right time to get back at people
+2024-10-19 01:49:24,074 - DEBUG - Processing Martin Luther King Jr. with question: There are things you should hide from other people to preserve your reputation
+2024-10-19 01:49:24,149 - DEBUG - Generated text:  4
+2024-10-19 01:49:24,149 - INFO - Valid response received: 4
+2024-10-19 01:49:24,149 - INFO - Appended valid result to CSV
+2024-10-19 01:49:24,149 - INFO - It took 1 retries for Martin Luther King Jr. for this question: There are things you should hide from other people to preserve your reputation
+2024-10-19 01:49:24,149 - DEBUG - Processing Martin Luther King Jr. with question: Make sure your plans benefit yourself, not others
+2024-10-19 01:49:24,223 - DEBUG - Generated text:  5
+2024-10-19 01:49:24,223 - INFO - Valid response received: 5
+2024-10-19 01:49:24,223 - INFO - Appended valid result to CSV
+2024-10-19 01:49:24,223 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Make sure your plans benefit yourself, not others
+2024-10-19 01:49:24,223 - DEBUG - Processing Martin Luther King Jr. with question: Most people can be manipulated
+2024-10-19 01:49:24,416 - DEBUG - Generated text:  I would choose number 5.
+2024-10-19 01:49:24,416 - INFO - Valid response received: 5
+2024-10-19 01:49:24,416 - INFO - Appended valid result to CSV
+2024-10-19 01:49:24,416 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Most people can be manipulated
+2024-10-19 01:49:24,416 - DEBUG - Processing Martin Luther King Jr. with question: People see me as a natural leader
+2024-10-19 01:49:24,490 - DEBUG - Generated text:  4
+2024-10-19 01:49:24,490 - INFO - Valid response received: 4
+2024-10-19 01:49:24,491 - INFO - Appended valid result to CSV
+2024-10-19 01:49:24,491 - INFO - It took 1 retries for Martin Luther King Jr. for this question: People see me as a natural leader
+2024-10-19 01:49:24,491 - DEBUG - Processing Martin Luther King Jr. with question: I hate being the center of attention
+2024-10-19 01:49:24,565 - DEBUG - Generated text:  5
+2024-10-19 01:49:24,565 - INFO - Valid response received: 5
+2024-10-19 01:49:24,565 - INFO - Appended valid result to CSV
+2024-10-19 01:49:24,565 - INFO - It took 1 retries for Martin Luther King Jr. for this question: I hate being the center of attention
+2024-10-19 01:49:24,565 - DEBUG - Processing Martin Luther King Jr. with question: Many group activities tend to be dull without me
+2024-10-19 01:49:24,639 - DEBUG - Generated text:  5
+2024-10-19 01:49:24,639 - INFO - Valid response received: 5
+2024-10-19 01:49:24,639 - INFO - Appended valid result to CSV
+2024-10-19 01:49:24,639 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Many group activities tend to be dull without me
+2024-10-19 01:49:24,639 - DEBUG - Processing Martin Luther King Jr. with question: I know that I am special because everyone keeps telling me so
+2024-10-19 01:49:25,008 - DEBUG - Generated text:  I know that I am special because everyone keeps telling me so.
+1
+2024-10-19 01:49:25,008 - INFO - Valid response received: 1
+2024-10-19 01:49:25,008 - INFO - Appended valid result to CSV
+2024-10-19 01:49:25,008 - INFO - It took 1 retries for Martin Luther King Jr. for this question: I know that I am special because everyone keeps telling me so
+2024-10-19 01:49:25,008 - DEBUG - Processing Martin Luther King Jr. with question: I like to get acquainted with important people
+2024-10-19 01:49:25,084 - DEBUG - Generated text:  5
+2024-10-19 01:49:25,084 - INFO - Valid response received: 5
+2024-10-19 01:49:25,084 - INFO - Appended valid result to CSV
+2024-10-19 01:49:25,084 - INFO - It took 1 retries for Martin Luther King Jr. for this question: I like to get acquainted with important people
+2024-10-19 01:49:25,084 - DEBUG - Processing Martin Luther King Jr. with question: I feel embarrassed if someone compliments me
+2024-10-19 01:49:25,158 - DEBUG - Generated text:  4
+2024-10-19 01:49:25,158 - INFO - Valid response received: 4
+2024-10-19 01:49:25,158 - INFO - Appended valid result to CSV
+2024-10-19 01:49:25,158 - INFO - It took 1 retries for Martin Luther King Jr. for this question: I feel embarrassed if someone compliments me
+2024-10-19 01:49:25,158 - DEBUG - Processing Martin Luther King Jr. with question: I have been compared to famous people
+2024-10-19 01:49:25,233 - DEBUG - Generated text:  4
+2024-10-19 01:49:25,233 - INFO - Valid response received: 4
+2024-10-19 01:49:25,233 - INFO - Appended valid result to CSV
+2024-10-19 01:49:25,233 - INFO - It took 1 retries for Martin Luther King Jr. for this question: I have been compared to famous people
+2024-10-19 01:49:25,233 - DEBUG - Processing Martin Luther King Jr. with question: I am an average person
+2024-10-19 01:49:25,307 - DEBUG - Generated text:  5
+2024-10-19 01:49:25,307 - INFO - Valid response received: 5
+2024-10-19 01:49:25,307 - INFO - Appended valid result to CSV
+2024-10-19 01:49:25,307 - INFO - It took 1 retries for Martin Luther King Jr. for this question: I am an average person
+2024-10-19 01:49:25,307 - DEBUG - Processing Martin Luther King Jr. with question: I insist on getting the respect I deserve
+2024-10-19 01:49:25,381 - DEBUG - Generated text:  4
+2024-10-19 01:49:25,381 - INFO - Valid response received: 4
+2024-10-19 01:49:25,381 - INFO - Appended valid result to CSV
+2024-10-19 01:49:25,381 - INFO - It took 1 retries for Martin Luther King Jr. for this question: I insist on getting the respect I deserve
+2024-10-19 01:49:25,381 - DEBUG - Processing Martin Luther King Jr. with question: I like to get revenge on authorities
+2024-10-19 01:49:25,455 - DEBUG - Generated text:  5
+2024-10-19 01:49:25,455 - INFO - Valid response received: 5
+2024-10-19 01:49:25,455 - INFO - Appended valid result to CSV
+2024-10-19 01:49:25,455 - INFO - It took 1 retries for Martin Luther King Jr. for this question: I like to get revenge on authorities
+2024-10-19 01:49:25,455 - DEBUG - Processing Martin Luther King Jr. with question: I avoid dangerous situations
+2024-10-19 01:49:25,575 - DEBUG - Generated text:  I strongly agree.
+2024-10-19 01:49:25,575 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-19 01:49:25,575 - DEBUG - Processing Martin Luther King Jr. with question: I avoid dangerous situations
+2024-10-19 01:49:25,649 - DEBUG - Generated text:  4
+2024-10-19 01:49:25,649 - INFO - Valid response received: 4
+2024-10-19 01:49:25,649 - INFO - Appended valid result to CSV
+2024-10-19 01:49:25,649 - INFO - It took 2 retries for Martin Luther King Jr. for this question: I avoid dangerous situations
+2024-10-19 01:49:25,649 - DEBUG - Processing Martin Luther King Jr. with question: Payback needs to be quick and nasty
+2024-10-19 01:49:25,723 - DEBUG - Generated text:  3
+2024-10-19 01:49:25,723 - INFO - Valid response received: 3
+2024-10-19 01:49:25,723 - INFO - Appended valid result to CSV
+2024-10-19 01:49:25,723 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Payback needs to be quick and nasty
+2024-10-19 01:49:25,723 - DEBUG - Processing Martin Luther King Jr. with question: People often say I'm out of control
+2024-10-19 01:49:25,978 - DEBUG - Generated text:  4
+
+Response: '4'
+2024-10-19 01:49:25,978 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-19 01:49:25,978 - DEBUG - Processing Martin Luther King Jr. with question: People often say I'm out of control
+2024-10-19 01:49:26,053 - DEBUG - Generated text:  5
+2024-10-19 01:49:26,053 - INFO - Valid response received: 5
+2024-10-19 01:49:26,054 - INFO - Appended valid result to CSV
+2024-10-19 01:49:26,054 - INFO - It took 2 retries for Martin Luther King Jr. for this question: People often say I'm out of control
+2024-10-19 01:49:26,054 - DEBUG - Processing Martin Luther King Jr. with question: It's true that I can be mean to others
+2024-10-19 01:49:26,173 - DEBUG - Generated text:  I strongly agree.
+2024-10-19 01:49:26,173 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-19 01:49:26,173 - DEBUG - Processing Martin Luther King Jr. with question: It's true that I can be mean to others
+2024-10-19 01:49:26,248 - DEBUG - Generated text:  4
+2024-10-19 01:49:26,248 - INFO - Valid response received: 4
+2024-10-19 01:49:26,248 - INFO - Appended valid result to CSV
+2024-10-19 01:49:26,248 - INFO - It took 2 retries for Martin Luther King Jr. for this question: It's true that I can be mean to others
+2024-10-19 01:49:26,248 - DEBUG - Processing Martin Luther King Jr. with question: People who mess with me always regret it
+2024-10-19 01:49:26,322 - DEBUG - Generated text:  5
+2024-10-19 01:49:26,322 - INFO - Valid response received: 5
+2024-10-19 01:49:26,322 - INFO - Appended valid result to CSV
+2024-10-19 01:49:26,322 - INFO - It took 1 retries for Martin Luther King Jr. for this question: People who mess with me always regret it
+2024-10-19 01:49:26,322 - DEBUG - Processing Martin Luther King Jr. with question: I have never gotten into trouble with the law
+2024-10-19 01:49:26,396 - DEBUG - Generated text:  5
+2024-10-19 01:49:26,396 - INFO - Valid response received: 5
+2024-10-19 01:49:26,396 - INFO - Appended valid result to CSV
+2024-10-19 01:49:26,396 - INFO - It took 1 retries for Martin Luther King Jr. for this question: I have never gotten into trouble with the law
+2024-10-19 01:49:26,396 - DEBUG - Processing Martin Luther King Jr. with question: I enjoy having sex with people I hardly know
+2024-10-19 01:49:26,470 - DEBUG - Generated text:  5
+2024-10-19 01:49:26,470 - INFO - Valid response received: 5
+2024-10-19 01:49:26,470 - INFO - Appended valid result to CSV
+2024-10-19 01:49:26,470 - INFO - It took 1 retries for Martin Luther King Jr. for this question: I enjoy having sex with people I hardly know
+2024-10-19 01:49:26,470 - DEBUG - Processing Martin Luther King Jr. with question: I'll say anything to get what I want
+2024-10-19 01:49:26,590 - DEBUG - Generated text:  I strongly disagree.
+2024-10-19 01:49:26,590 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-19 01:49:26,590 - DEBUG - Processing Martin Luther King Jr. with question: I'll say anything to get what I want
+2024-10-19 01:49:26,664 - DEBUG - Generated text:  3
+2024-10-19 01:49:26,664 - INFO - Valid response received: 3
+2024-10-19 01:49:26,664 - INFO - Appended valid result to CSV
+2024-10-19 01:49:26,664 - INFO - It took 2 retries for Martin Luther King Jr. for this question: I'll say anything to get what I want
+2024-10-19 01:49:26,664 - DEBUG - Processing Mikhail Gorbachev with question: It's not wise to tell your secrets
+2024-10-19 01:49:27,123 - DEBUG - Generated text:  I agree with the statement that it is not wise to tell your secrets. My response is a 
+2024-10-19 01:49:27,123 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-19 01:49:27,123 - DEBUG - Processing Mikhail Gorbachev with question: It's not wise to tell your secrets
+2024-10-19 01:49:27,400 - DEBUG - Generated text:  Your response is '4 - Agree'.
+2024-10-19 01:49:27,400 - INFO - Valid response received: 4
+2024-10-19 01:49:27,400 - INFO - Appended valid result to CSV
+2024-10-19 01:49:27,400 - INFO - It took 2 retries for Mikhail Gorbachev for this question: It's not wise to tell your secrets
+2024-10-19 01:49:27,400 - DEBUG - Processing Mikhail Gorbachev with question: I like to use clever manipulation to get my way
+2024-10-19 01:49:27,475 - DEBUG - Generated text:  4
+2024-10-19 01:49:27,475 - INFO - Valid response received: 4
+2024-10-19 01:49:27,475 - INFO - Appended valid result to CSV
+2024-10-19 01:49:27,475 - INFO - It took 1 retries for Mikhail Gorbachev for this question: I like to use clever manipulation to get my way
+2024-10-19 01:49:27,475 - DEBUG - Processing Mikhail Gorbachev with question: Whatever it takes, you must get the important people on your side
+2024-10-19 01:49:27,549 - DEBUG - Generated text:  4
+2024-10-19 01:49:27,549 - INFO - Valid response received: 4
+2024-10-19 01:49:27,549 - INFO - Appended valid result to CSV
+2024-10-19 01:49:27,549 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Whatever it takes, you must get the important people on your side
+2024-10-19 01:49:27,549 - DEBUG - Processing Mikhail Gorbachev with question: Avoid direct conflict with others because they may be useful in the future
+2024-10-19 01:49:27,623 - DEBUG - Generated text:  4
+2024-10-19 01:49:27,623 - INFO - Valid response received: 4
+2024-10-19 01:49:27,623 - INFO - Appended valid result to CSV
+2024-10-19 01:49:27,623 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Avoid direct conflict with others because they may be useful in the future
+2024-10-19 01:49:27,623 - DEBUG - Processing Mikhail Gorbachev with question: It's wise to keep track of information that you can use against people later
+2024-10-19 01:49:27,698 - DEBUG - Generated text:  5
+2024-10-19 01:49:27,698 - INFO - Valid response received: 5
+2024-10-19 01:49:27,698 - INFO - Appended valid result to CSV
+2024-10-19 01:49:27,698 - INFO - It took 1 retries for Mikhail Gorbachev for this question: It's wise to keep track of information that you can use against people later
+2024-10-19 01:49:27,698 - DEBUG - Processing Mikhail Gorbachev with question: You should wait for the right time to get back at people
+2024-10-19 01:49:27,772 - DEBUG - Generated text:  4
+2024-10-19 01:49:27,772 - INFO - Valid response received: 4
+2024-10-19 01:49:27,772 - INFO - Appended valid result to CSV
+2024-10-19 01:49:27,772 - INFO - It took 1 retries for Mikhail Gorbachev for this question: You should wait for the right time to get back at people
+2024-10-19 01:49:27,772 - DEBUG - Processing Mikhail Gorbachev with question: There are things you should hide from other people to preserve your reputation
+2024-10-19 01:49:27,983 - DEBUG - Generated text: 
+Gorbachev: 5
+2024-10-19 01:49:27,984 - INFO - Valid response received: 5
+2024-10-19 01:49:27,984 - INFO - Appended valid result to CSV
+2024-10-19 01:49:27,984 - INFO - It took 1 retries for Mikhail Gorbachev for this question: There are things you should hide from other people to preserve your reputation
+2024-10-19 01:49:27,984 - DEBUG - Processing Mikhail Gorbachev with question: Make sure your plans benefit yourself, not others
+2024-10-19 01:49:28,058 - DEBUG - Generated text:  3
+2024-10-19 01:49:28,058 - INFO - Valid response received: 3
+2024-10-19 01:49:28,058 - INFO - Appended valid result to CSV
+2024-10-19 01:49:28,058 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Make sure your plans benefit yourself, not others
+2024-10-19 01:49:28,058 - DEBUG - Processing Mikhail Gorbachev with question: Most people can be manipulated
+2024-10-19 01:49:28,132 - DEBUG - Generated text:  3
+2024-10-19 01:49:28,132 - INFO - Valid response received: 3
+2024-10-19 01:49:28,133 - INFO - Appended valid result to CSV
+2024-10-19 01:49:28,133 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Most people can be manipulated
+2024-10-19 01:49:28,133 - DEBUG - Processing Mikhail Gorbachev with question: People see me as a natural leader
+2024-10-19 01:49:28,207 - DEBUG - Generated text:  2
+2024-10-19 01:49:28,207 - INFO - Valid response received: 2
+2024-10-19 01:49:28,207 - INFO - Appended valid result to CSV
+2024-10-19 01:49:28,207 - INFO - It took 1 retries for Mikhail Gorbachev for this question: People see me as a natural leader
+2024-10-19 01:49:28,207 - DEBUG - Processing Mikhail Gorbachev with question: I hate being the center of attention
+2024-10-19 01:49:28,281 - DEBUG - Generated text:  5
+2024-10-19 01:49:28,281 - INFO - Valid response received: 5
+2024-10-19 01:49:28,281 - INFO - Appended valid result to CSV
+2024-10-19 01:49:28,281 - INFO - It took 1 retries for Mikhail Gorbachev for this question: I hate being the center of attention
+2024-10-19 01:49:28,281 - DEBUG - Processing Mikhail Gorbachev with question: Many group activities tend to be dull without me
+2024-10-19 01:49:28,355 - DEBUG - Generated text:  4
+2024-10-19 01:49:28,356 - INFO - Valid response received: 4
+2024-10-19 01:49:28,356 - INFO - Appended valid result to CSV
+2024-10-19 01:49:28,356 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Many group activities tend to be dull without me
+2024-10-19 01:49:28,356 - DEBUG - Processing Mikhail Gorbachev with question: I know that I am special because everyone keeps telling me so
+2024-10-19 01:49:28,430 - DEBUG - Generated text:  5
+2024-10-19 01:49:28,430 - INFO - Valid response received: 5
+2024-10-19 01:49:28,430 - INFO - Appended valid result to CSV
+2024-10-19 01:49:28,430 - INFO - It took 1 retries for Mikhail Gorbachev for this question: I know that I am special because everyone keeps telling me so
+2024-10-19 01:49:28,430 - DEBUG - Processing Mikhail Gorbachev with question: I like to get acquainted with important people
+2024-10-19 01:49:28,504 - DEBUG - Generated text:  4
+2024-10-19 01:49:28,504 - INFO - Valid response received: 4
+2024-10-19 01:49:28,504 - INFO - Appended valid result to CSV
+2024-10-19 01:49:28,504 - INFO - It took 1 retries for Mikhail Gorbachev for this question: I like to get acquainted with important people
+2024-10-19 01:49:28,504 - DEBUG - Processing Mikhail Gorbachev with question: I feel embarrassed if someone compliments me
+2024-10-19 01:49:28,579 - DEBUG - Generated text:  4
+2024-10-19 01:49:28,579 - INFO - Valid response received: 4
+2024-10-19 01:49:28,579 - INFO - Appended valid result to CSV
+2024-10-19 01:49:28,579 - INFO - It took 1 retries for Mikhail Gorbachev for this question: I feel embarrassed if someone compliments me
+2024-10-19 01:49:28,579 - DEBUG - Processing Mikhail Gorbachev with question: I have been compared to famous people
+2024-10-19 01:49:28,653 - DEBUG - Generated text:  4
+2024-10-19 01:49:28,653 - INFO - Valid response received: 4
+2024-10-19 01:49:28,653 - INFO - Appended valid result to CSV
+2024-10-19 01:49:28,653 - INFO - It took 1 retries for Mikhail Gorbachev for this question: I have been compared to famous people
+2024-10-19 01:49:28,653 - DEBUG - Processing Mikhail Gorbachev with question: I am an average person
+2024-10-19 01:49:29,023 - DEBUG - Generated text: 
+
+Mikhail Gorbachev is a very strong person.
+2024-10-19 01:49:29,023 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-19 01:49:29,023 - DEBUG - Processing Mikhail Gorbachev with question: I am an average person
+2024-10-19 01:49:29,370 - DEBUG - Generated text:  Please choose one number.
+
+Gorbachev: 5
+2024-10-19 01:49:29,370 - INFO - Valid response received: 5
+2024-10-19 01:49:29,370 - INFO - Appended valid result to CSV
+2024-10-19 01:49:29,370 - INFO - It took 2 retries for Mikhail Gorbachev for this question: I am an average person
+2024-10-19 01:49:29,370 - DEBUG - Processing Mikhail Gorbachev with question: I insist on getting the respect I deserve
+2024-10-19 01:49:29,468 - DEBUG - Generated text: 
+
+2
+2024-10-19 01:49:29,468 - INFO - Valid response received: 2
+2024-10-19 01:49:29,468 - INFO - Appended valid result to CSV
+2024-10-19 01:49:29,468 - INFO - It took 1 retries for Mikhail Gorbachev for this question: I insist on getting the respect I deserve
+2024-10-19 01:49:29,468 - DEBUG - Processing Mikhail Gorbachev with question: I like to get revenge on authorities
+2024-10-19 01:49:29,542 - DEBUG - Generated text:  3
+2024-10-19 01:49:29,542 - INFO - Valid response received: 3
+2024-10-19 01:49:29,542 - INFO - Appended valid result to CSV
+2024-10-19 01:49:29,542 - INFO - It took 1 retries for Mikhail Gorbachev for this question: I like to get revenge on authorities
+2024-10-19 01:49:29,542 - DEBUG - Processing Mikhail Gorbachev with question: I avoid dangerous situations
+2024-10-19 01:49:29,616 - DEBUG - Generated text:  5
+2024-10-19 01:49:29,617 - INFO - Valid response received: 5
+2024-10-19 01:49:29,617 - INFO - Appended valid result to CSV
+2024-10-19 01:49:29,617 - INFO - It took 1 retries for Mikhail Gorbachev for this question: I avoid dangerous situations
+2024-10-19 01:49:29,617 - DEBUG - Processing Mikhail Gorbachev with question: Payback needs to be quick and nasty
+2024-10-19 01:49:29,691 - DEBUG - Generated text:  5
+2024-10-19 01:49:29,691 - INFO - Valid response received: 5
+2024-10-19 01:49:29,691 - INFO - Appended valid result to CSV
+2024-10-19 01:49:29,691 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Payback needs to be quick and nasty
+2024-10-19 01:49:29,691 - DEBUG - Processing Mikhail Gorbachev with question: People often say I'm out of control
+2024-10-19 01:49:29,765 - DEBUG - Generated text:  3
+2024-10-19 01:49:29,765 - INFO - Valid response received: 3
+2024-10-19 01:49:29,766 - INFO - Appended valid result to CSV
+2024-10-19 01:49:29,766 - INFO - It took 1 retries for Mikhail Gorbachev for this question: People often say I'm out of control
+2024-10-19 01:49:29,766 - DEBUG - Processing Mikhail Gorbachev with question: It's true that I can be mean to others
+2024-10-19 01:49:29,840 - DEBUG - Generated text:  3
+2024-10-19 01:49:29,840 - INFO - Valid response received: 3
+2024-10-19 01:49:29,840 - INFO - Appended valid result to CSV
+2024-10-19 01:49:29,840 - INFO - It took 1 retries for Mikhail Gorbachev for this question: It's true that I can be mean to others
+2024-10-19 01:49:29,840 - DEBUG - Processing Mikhail Gorbachev with question: People who mess with me always regret it
+2024-10-19 01:49:29,914 - DEBUG - Generated text:  2
+2024-10-19 01:49:29,914 - INFO - Valid response received: 2
+2024-10-19 01:49:29,914 - INFO - Appended valid result to CSV
+2024-10-19 01:49:29,914 - INFO - It took 1 retries for Mikhail Gorbachev for this question: People who mess with me always regret it
+2024-10-19 01:49:29,914 - DEBUG - Processing Mikhail Gorbachev with question: I have never gotten into trouble with the law
+2024-10-19 01:49:29,988 - DEBUG - Generated text:  4
+2024-10-19 01:49:29,988 - INFO - Valid response received: 4
+2024-10-19 01:49:29,988 - INFO - Appended valid result to CSV
+2024-10-19 01:49:29,988 - INFO - It took 1 retries for Mikhail Gorbachev for this question: I have never gotten into trouble with the law
+2024-10-19 01:49:29,988 - DEBUG - Processing Mikhail Gorbachev with question: I enjoy having sex with people I hardly know
+2024-10-19 01:49:30,062 - DEBUG - Generated text:  5
+2024-10-19 01:49:30,062 - INFO - Valid response received: 5
+2024-10-19 01:49:30,062 - INFO - Appended valid result to CSV
+2024-10-19 01:49:30,062 - INFO - It took 1 retries for Mikhail Gorbachev for this question: I enjoy having sex with people I hardly know
+2024-10-19 01:49:30,062 - DEBUG - Processing Mikhail Gorbachev with question: I'll say anything to get what I want
+2024-10-19 01:49:30,136 - DEBUG - Generated text:  2
+2024-10-19 01:49:30,136 - INFO - Valid response received: 2
+2024-10-19 01:49:30,136 - INFO - Appended valid result to CSV
+2024-10-19 01:49:30,136 - INFO - It took 1 retries for Mikhail Gorbachev for this question: I'll say anything to get what I want
+2024-10-19 01:49:30,137 - DEBUG - Processing Mother Teresa with question: It's not wise to tell your secrets
+2024-10-19 01:49:30,212 - DEBUG - Generated text:  3
+2024-10-19 01:49:30,212 - INFO - Valid response received: 3
+2024-10-19 01:49:30,212 - INFO - Appended valid result to CSV
+2024-10-19 01:49:30,212 - INFO - It took 1 retries for Mother Teresa for this question: It's not wise to tell your secrets
+2024-10-19 01:49:30,212 - DEBUG - Processing Mother Teresa with question: I like to use clever manipulation to get my way
+2024-10-19 01:49:30,286 - DEBUG - Generated text:  4
+2024-10-19 01:49:30,286 - INFO - Valid response received: 4
+2024-10-19 01:49:30,286 - INFO - Appended valid result to CSV
+2024-10-19 01:49:30,286 - INFO - It took 1 retries for Mother Teresa for this question: I like to use clever manipulation to get my way
+2024-10-19 01:49:30,286 - DEBUG - Processing Mother Teresa with question: Whatever it takes, you must get the important people on your side
+2024-10-19 01:49:30,361 - DEBUG - Generated text:  5
+2024-10-19 01:49:30,361 - INFO - Valid response received: 5
+2024-10-19 01:49:30,361 - INFO - Appended valid result to CSV
+2024-10-19 01:49:30,361 - INFO - It took 1 retries for Mother Teresa for this question: Whatever it takes, you must get the important people on your side
+2024-10-19 01:49:30,361 - DEBUG - Processing Mother Teresa with question: Avoid direct conflict with others because they may be useful in the future
+2024-10-19 01:49:30,435 - DEBUG - Generated text:  4
+2024-10-19 01:49:30,435 - INFO - Valid response received: 4
+2024-10-19 01:49:30,435 - INFO - Appended valid result to CSV
+2024-10-19 01:49:30,435 - INFO - It took 1 retries for Mother Teresa for this question: Avoid direct conflict with others because they may be useful in the future
+2024-10-19 01:49:30,435 - DEBUG - Processing Mother Teresa with question: It's wise to keep track of information that you can use against people later
+2024-10-19 01:49:30,509 - DEBUG - Generated text:  4
+2024-10-19 01:49:30,509 - INFO - Valid response received: 4
+2024-10-19 01:49:30,509 - INFO - Appended valid result to CSV
+2024-10-19 01:49:30,509 - INFO - It took 1 retries for Mother Teresa for this question: It's wise to keep track of information that you can use against people later
+2024-10-19 01:49:30,509 - DEBUG - Processing Mother Teresa with question: You should wait for the right time to get back at people
+2024-10-19 01:49:30,583 - DEBUG - Generated text:  4
+2024-10-19 01:49:30,583 - INFO - Valid response received: 4
+2024-10-19 01:49:30,583 - INFO - Appended valid result to CSV
+2024-10-19 01:49:30,583 - INFO - It took 1 retries for Mother Teresa for this question: You should wait for the right time to get back at people
+2024-10-19 01:49:30,583 - DEBUG - Processing Mother Teresa with question: There are things you should hide from other people to preserve your reputation
+2024-10-19 01:49:30,657 - DEBUG - Generated text:  3
+2024-10-19 01:49:30,657 - INFO - Valid response received: 3
+2024-10-19 01:49:30,657 - INFO - Appended valid result to CSV
+2024-10-19 01:49:30,657 - INFO - It took 1 retries for Mother Teresa for this question: There are things you should hide from other people to preserve your reputation
+2024-10-19 01:49:30,657 - DEBUG - Processing Mother Teresa with question: Make sure your plans benefit yourself, not others
+2024-10-19 01:49:30,731 - DEBUG - Generated text:  4
+2024-10-19 01:49:30,731 - INFO - Valid response received: 4
+2024-10-19 01:49:30,731 - INFO - Appended valid result to CSV
+2024-10-19 01:49:30,731 - INFO - It took 1 retries for Mother Teresa for this question: Make sure your plans benefit yourself, not others
+2024-10-19 01:49:30,732 - DEBUG - Processing Mother Teresa with question: Most people can be manipulated
+2024-10-19 01:49:30,805 - DEBUG - Generated text:  5
+2024-10-19 01:49:30,806 - INFO - Valid response received: 5
+2024-10-19 01:49:30,806 - INFO - Appended valid result to CSV
+2024-10-19 01:49:30,806 - INFO - It took 1 retries for Mother Teresa for this question: Most people can be manipulated
+2024-10-19 01:49:30,806 - DEBUG - Processing Mother Teresa with question: People see me as a natural leader
+2024-10-19 01:49:30,880 - DEBUG - Generated text:  5
+2024-10-19 01:49:30,880 - INFO - Valid response received: 5
+2024-10-19 01:49:30,880 - INFO - Appended valid result to CSV
+2024-10-19 01:49:30,880 - INFO - It took 1 retries for Mother Teresa for this question: People see me as a natural leader
+2024-10-19 01:49:30,880 - DEBUG - Processing Mother Teresa with question: I hate being the center of attention
+2024-10-19 01:49:30,954 - DEBUG - Generated text:  4
+2024-10-19 01:49:30,954 - INFO - Valid response received: 4
+2024-10-19 01:49:30,954 - INFO - Appended valid result to CSV
+2024-10-19 01:49:30,954 - INFO - It took 1 retries for Mother Teresa for this question: I hate being the center of attention
+2024-10-19 01:49:30,954 - DEBUG - Processing Mother Teresa with question: Many group activities tend to be dull without me
+2024-10-19 01:49:31,028 - DEBUG - Generated text:  5
+2024-10-19 01:49:31,028 - INFO - Valid response received: 5
+2024-10-19 01:49:31,028 - INFO - Appended valid result to CSV
+2024-10-19 01:49:31,028 - INFO - It took 1 retries for Mother Teresa for this question: Many group activities tend to be dull without me
+2024-10-19 01:49:31,028 - DEBUG - Processing Mother Teresa with question: I know that I am special because everyone keeps telling me so
+2024-10-19 01:49:31,102 - DEBUG - Generated text:  4
+2024-10-19 01:49:31,102 - INFO - Valid response received: 4
+2024-10-19 01:49:31,102 - INFO - Appended valid result to CSV
+2024-10-19 01:49:31,102 - INFO - It took 1 retries for Mother Teresa for this question: I know that I am special because everyone keeps telling me so
+2024-10-19 01:49:31,102 - DEBUG - Processing Mother Teresa with question: I like to get acquainted with important people
+2024-10-19 01:49:31,176 - DEBUG - Generated text:  4
+2024-10-19 01:49:31,176 - INFO - Valid response received: 4
+2024-10-19 01:49:31,176 - INFO - Appended valid result to CSV
+2024-10-19 01:49:31,176 - INFO - It took 1 retries for Mother Teresa for this question: I like to get acquainted with important people
+2024-10-19 01:49:31,176 - DEBUG - Processing Mother Teresa with question: I feel embarrassed if someone compliments me
+2024-10-19 01:49:31,250 - DEBUG - Generated text:  4
+2024-10-19 01:49:31,250 - INFO - Valid response received: 4
+2024-10-19 01:49:31,250 - INFO - Appended valid result to CSV
+2024-10-19 01:49:31,250 - INFO - It took 1 retries for Mother Teresa for this question: I feel embarrassed if someone compliments me
+2024-10-19 01:49:31,250 - DEBUG - Processing Mother Teresa with question: I have been compared to famous people
+2024-10-19 01:49:31,324 - DEBUG - Generated text:  5
+2024-10-19 01:49:31,324 - INFO - Valid response received: 5
+2024-10-19 01:49:31,324 - INFO - Appended valid result to CSV
+2024-10-19 01:49:31,324 - INFO - It took 1 retries for Mother Teresa for this question: I have been compared to famous people
+2024-10-19 01:49:31,324 - DEBUG - Processing Mother Teresa with question: I am an average person
+2024-10-19 01:49:31,398 - DEBUG - Generated text:  4
+2024-10-19 01:49:31,398 - INFO - Valid response received: 4
+2024-10-19 01:49:31,398 - INFO - Appended valid result to CSV
+2024-10-19 01:49:31,398 - INFO - It took 1 retries for Mother Teresa for this question: I am an average person
+2024-10-19 01:49:31,398 - DEBUG - Processing Mother Teresa with question: I insist on getting the respect I deserve
+2024-10-19 01:49:31,473 - DEBUG - Generated text:  5
+2024-10-19 01:49:31,473 - INFO - Valid response received: 5
+2024-10-19 01:49:31,473 - INFO - Appended valid result to CSV
+2024-10-19 01:49:31,473 - INFO - It took 1 retries for Mother Teresa for this question: I insist on getting the respect I deserve
+2024-10-19 01:49:31,473 - DEBUG - Processing Mother Teresa with question: I like to get revenge on authorities
+2024-10-19 01:49:31,547 - DEBUG - Generated text:  3
+2024-10-19 01:49:31,547 - INFO - Valid response received: 3
+2024-10-19 01:49:31,547 - INFO - Appended valid result to CSV
+2024-10-19 01:49:31,547 - INFO - It took 1 retries for Mother Teresa for this question: I like to get revenge on authorities
+2024-10-19 01:49:31,547 - DEBUG - Processing Mother Teresa with question: I avoid dangerous situations
+2024-10-19 01:49:31,621 - DEBUG - Generated text:  5
+2024-10-19 01:49:31,621 - INFO - Valid response received: 5
+2024-10-19 01:49:31,621 - INFO - Appended valid result to CSV
+2024-10-19 01:49:31,621 - INFO - It took 1 retries for Mother Teresa for this question: I avoid dangerous situations
+2024-10-19 01:49:31,621 - DEBUG - Processing Mother Teresa with question: Payback needs to be quick and nasty
+2024-10-19 01:49:31,695 - DEBUG - Generated text:  4
+2024-10-19 01:49:31,695 - INFO - Valid response received: 4
+2024-10-19 01:49:31,695 - INFO - Appended valid result to CSV
+2024-10-19 01:49:31,695 - INFO - It took 1 retries for Mother Teresa for this question: Payback needs to be quick and nasty
+2024-10-19 01:49:31,695 - DEBUG - Processing Mother Teresa with question: People often say I'm out of control
+2024-10-19 01:49:31,769 - DEBUG - Generated text:  4
+2024-10-19 01:49:31,769 - INFO - Valid response received: 4
+2024-10-19 01:49:31,769 - INFO - Appended valid result to CSV
+2024-10-19 01:49:31,769 - INFO - It took 1 retries for Mother Teresa for this question: People often say I'm out of control
+2024-10-19 01:49:31,769 - DEBUG - Processing Mother Teresa with question: It's true that I can be mean to others
+2024-10-19 01:49:31,843 - DEBUG - Generated text:  4
+2024-10-19 01:49:31,843 - INFO - Valid response received: 4
+2024-10-19 01:49:31,843 - INFO - Appended valid result to CSV
+2024-10-19 01:49:31,843 - INFO - It took 1 retries for Mother Teresa for this question: It's true that I can be mean to others
+2024-10-19 01:49:31,843 - DEBUG - Processing Mother Teresa with question: People who mess with me always regret it
+2024-10-19 01:49:31,917 - DEBUG - Generated text:  5
+2024-10-19 01:49:31,917 - INFO - Valid response received: 5
+2024-10-19 01:49:31,917 - INFO - Appended valid result to CSV
+2024-10-19 01:49:31,917 - INFO - It took 1 retries for Mother Teresa for this question: People who mess with me always regret it
+2024-10-19 01:49:31,917 - DEBUG - Processing Mother Teresa with question: I have never gotten into trouble with the law
+2024-10-19 01:49:31,991 - DEBUG - Generated text:  4
+2024-10-19 01:49:31,991 - INFO - Valid response received: 4
+2024-10-19 01:49:31,991 - INFO - Appended valid result to CSV
+2024-10-19 01:49:31,991 - INFO - It took 1 retries for Mother Teresa for this question: I have never gotten into trouble with the law
+2024-10-19 01:49:31,991 - DEBUG - Processing Mother Teresa with question: I enjoy having sex with people I hardly know
+2024-10-19 01:49:32,110 - DEBUG - Generated text:  I strongly disagree.
+2024-10-19 01:49:32,110 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-19 01:49:32,110 - DEBUG - Processing Mother Teresa with question: I enjoy having sex with people I hardly know
+2024-10-19 01:49:32,184 - DEBUG - Generated text:  5
+2024-10-19 01:49:32,185 - INFO - Valid response received: 5
+2024-10-19 01:49:32,185 - INFO - Appended valid result to CSV
+2024-10-19 01:49:32,185 - INFO - It took 2 retries for Mother Teresa for this question: I enjoy having sex with people I hardly know
+2024-10-19 01:49:32,185 - DEBUG - Processing Mother Teresa with question: I'll say anything to get what I want
+2024-10-19 01:49:32,259 - DEBUG - Generated text:  4
+2024-10-19 01:49:32,259 - INFO - Valid response received: 4
+2024-10-19 01:49:32,259 - INFO - Appended valid result to CSV
+2024-10-19 01:49:32,259 - INFO - It took 1 retries for Mother Teresa for this question: I'll say anything to get what I want
+2024-10-19 01:49:32,260 - INFO - Total tries across all questions: 146
