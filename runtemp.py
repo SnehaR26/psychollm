@@ -1,4 +1,6 @@
 ## Imports
+import os
+os.environ["CUDA_VISIBLE_DEVICES"] = "1" 
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 import transformers
 import torch
@@ -7,7 +9,7 @@ import csv
 import sys
 import io
 import re
-import os
+
 
 def promptfunc1(person,text,likert_scale):
 
@@ -53,17 +55,22 @@ def promptfunc2(person,text,likert_scale):
     generated_text = outputs[0]['generated_text'][-1]['content']
     return generated_text
 
-def runpipeline(model,cudadev,scale,subjectlist,promptfunc,resfile):
-        
+def runpipeline(model, scale, subjectlist, promptfunc, ptest, resfile):
+    """
+    promptfunc: 1 - bfi prompt1 
+    2- bfi prompt2 
+    3- sd3 prompt1 
+    4- sd3 prompt2
+    """    
     ## Setup environment ####
 
     # Set the CUDA_VISIBLE_DEVICES environment variable
-    os.environ['CUDA_VISIBLE_DEVICES'] = cudadev
+    #os.environ['CUDA_VISIBLE_DEVICES'] = cudadev
     # Verify if it's set correctly
     print(os.environ['CUDA_VISIBLE_DEVICES'])     
     print(torch.cuda.is_available())  
-    device = torch.device(f"cuda:{cudadev}" if torch.cuda.is_available() else "cpu")
-    print(f"Using device: {device}")
+    #device = torch.device(f"cuda:1" if torch.cuda.is_available() else "cpu")
+    #print(f"Using device: {device}")
     tokenizer = AutoTokenizer.from_pretrained(model)
     #model = AutoModelForCausalLM.from_pretrained(model).to(device)
     pipeline = transformers.pipeline(
@@ -183,7 +190,7 @@ def runpipeline(model,cudadev,scale,subjectlist,promptfunc,resfile):
                 print(name,text)
                 gcounter=gcounter+1
                 pcounter=pcounter+1
-                if promptfunc==1:
+                if promptfunc==1 and ptest=="bfi":
                     messages = [
                                 {"role": "system", "content": f"You are {name}. Respond strictly with a single number."},
                                 {"role": "user", "content": f"Choose one option from: {', '.join(scale)} to rate the following statement: I see myself as someone who {text}. Respond ONLY with a single number between 1 and 5. You must not include any other text, words, or explanations in your response."}
