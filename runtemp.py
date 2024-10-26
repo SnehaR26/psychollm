@@ -9,7 +9,7 @@ import csv
 import sys
 import io
 import re
-
+import logging
 
 def promptfunc1(person,text,likert_scale):
 
@@ -172,22 +172,30 @@ def runpipeline(model, scale, subjectlist, promptfunc, ptest, resfile):
     ]
     
     name_category_dict = dict(zip(subjectlist['Name'], subjectlist['source']))
+    logging.basicConfig(
+    filename=f'{resfile}_log.log',  # Log to a file
+    filemode='a',                # Append to the log file
+    format='%(asctime)s - %(levelname)s - %(message)s',  # Log format
+    level=logging.DEBUG          # Set the logging level
+    )
 
+    # Create a logger object
+    logger = logging.getLogger()    
     ###################################running pipeline#######################################################
     gcounter = 0
     #multiattempt=15
     max_retries = 20
     #for loopfive in range(multiattempt): 
-        
+    selected_ptest = Ques44 if ptest == "bfi" else Ques27
     for name, category in name_category_dict.items():
         itemcount = 1
-        for text in Ques27:
+        for text in selected_ptest:
             
             retry_count = 0
             valid_result = False
             pcounter=0
             while not valid_result and retry_count < max_retries:
-                print(name,text)
+                logger.debug(f"Processing {name} with question: {text}")
                 gcounter=gcounter+1
                 pcounter=pcounter+1
                 if promptfunc==1 and ptest=="bfi":
@@ -213,32 +221,32 @@ def runpipeline(model, scale, subjectlist, promptfunc, ptest, resfile):
                 else:
                     generated_text = promptfunc2(name,text,scale)
                 match = re.fullmatch(r'^[^1-5]*([1-5])[^1-5]*$', generated_text)
-                print(generated_text)
+                logger.debug(f"Generated text: {generated_text}")
                 if match:
                     valid_result = True
-                    print(match.group(1))
+                    logger.info(f"Valid response received: {match.group(1)}")
                     with open(resfile, 'a', newline='') as csvfile:
                         print("counter was here")
                         writer = csv.writer(csvfile)
                         writer.writerow([name,category,text,itemcount,match.group(1)])
-                    print("Appended valid result to CSV")# Print the valid number
+                    logger.info("Appended valid result to CSV")# Print the valid number
                     itemcount=itemcount+1
                 else:
                     retry_count += 1
-                    print(f"Invalid response. Retrying... (Attempt {retry_count}/{max_retries})")
+                    logger.warning(f"Invalid response. Retrying... (Attempt {retry_count}/{max_retries})")
 
             if not valid_result:
-                print(f"Error: Maximum retries reached for question: '{text}'")
+                logger.error(f"Maximum retries reached for question: '{text}'")
                 with open(resfile, 'a', newline='') as csvfile:
                         #print("counter was here")
                         writer = csv.writer(csvfile)
                         writer.writerow([name,category,text,itemcount])
-                print("Appended empty row to CSV")# Print the valid number
+                logger.info("Appended empty row to CSV")
                 itemcount=itemcount+1
-            print("=======================================================================================================")
+            #print("=======================================================================================================")
             
-            print(f"It took {pcounter} retries for {name} for this question {text}")
-    print(f"It took max {gcounter} tries")
+            logger.info(f"It took {pcounter} retries for {name} for this question: {text}")
+    logger.info(f"Total tries across all questions: {gcounter}")
 
 
 

@@ -12,6 +12,7 @@ def main():
     parser = argparse.ArgumentParser(description="Run the pipeline with command-line arguments.")
     parser.add_argument("--csv_file", metavar="csv_file",type=str, help="Path to the input CSV file")
     parser.add_argument("--scale_type", metavar="scale_type",type=int, choices=[1, 2], help="1 for standard Likert scale, 2 for reversed Likert scale")
+    parser.add_argument("--prompt", metavar="prompt",type=int, choices=[1, 2], help="prompt function options")
     parser.add_argument("--resfile", metavar="resfile",type=str, help="Path to the output results file")
     parser.add_argument("--ptest", metavar="ptest",type=str, help="Type of psychometric test:- bfi or sd3")
     args = parser.parse_args()
@@ -43,7 +44,7 @@ def main():
     model = "tiiuae/falcon-7b-instruct"
     
     # Run the pipeline with provided arguments
-    runpipeline(model, selected_scale, df1, 1, args.ptest, args.resfile)
+    runpipeline(model, selected_scale, df1, args.prompt, args.ptest, args.resfile)
 
 if __name__ == "__main__":
     main()
