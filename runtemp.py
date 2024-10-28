@@ -1,6 +1,6 @@
 ## Imports
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "1" 
+os.environ["CUDA_VISIBLE_DEVICES"] = "0" 
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 import transformers
 import torch
@@ -170,7 +170,7 @@ def runpipeline(model, scale, subjectlist, promptfunc, ptest, resfile):
     "I enjoy having sex with people I hardly know",
     "I'll say anything to get what I want"
     ]
-    
+    print(subjectlist.shape)
     name_category_dict = dict(zip(subjectlist['Name'], subjectlist['source']))
     logging.basicConfig(
     filename=f'{resfile}_log.log',  # Log to a file

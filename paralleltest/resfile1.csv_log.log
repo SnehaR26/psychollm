@@ -1,0 +1,1715 @@
+2024-10-28 15:36:07,703 - DEBUG - Processing Barack Obama with question: Is talkative
+2024-10-28 15:36:11,392 - DEBUG - Generated text:  5
+2024-10-28 15:36:11,393 - INFO - Valid response received: 5
+2024-10-28 15:36:11,393 - INFO - Appended valid result to CSV
+2024-10-28 15:36:11,393 - INFO - It took 1 retries for Barack Obama for this question: Is talkative
+2024-10-28 15:36:11,393 - DEBUG - Processing Barack Obama with question: Tends to find fault with others
+2024-10-28 15:36:14,451 - DEBUG - Generated text:  2
+2024-10-28 15:36:14,452 - INFO - Valid response received: 2
+2024-10-28 15:36:14,452 - INFO - Appended valid result to CSV
+2024-10-28 15:36:14,452 - INFO - It took 1 retries for Barack Obama for this question: Tends to find fault with others
+2024-10-28 15:36:14,452 - DEBUG - Processing Barack Obama with question: Does a thorough job
+2024-10-28 15:36:17,445 - DEBUG - Generated text:  3
+2024-10-28 15:36:17,445 - INFO - Valid response received: 3
+2024-10-28 15:36:17,445 - INFO - Appended valid result to CSV
+2024-10-28 15:36:17,445 - INFO - It took 1 retries for Barack Obama for this question: Does a thorough job
+2024-10-28 15:36:17,445 - DEBUG - Processing Barack Obama with question: Is depressed, blue
+2024-10-28 15:36:20,425 - DEBUG - Generated text:  2
+2024-10-28 15:36:20,425 - INFO - Valid response received: 2
+2024-10-28 15:36:20,426 - INFO - Appended valid result to CSV
+2024-10-28 15:36:20,426 - INFO - It took 1 retries for Barack Obama for this question: Is depressed, blue
+2024-10-28 15:36:20,426 - DEBUG - Processing Barack Obama with question: Is original, comes up with new ideas
+2024-10-28 15:36:26,382 - DEBUG - Generated text:  Your rating: 5
+2024-10-28 15:36:26,382 - INFO - Valid response received: 5
+2024-10-28 15:36:26,382 - INFO - Appended valid result to CSV
+2024-10-28 15:36:26,382 - INFO - It took 1 retries for Barack Obama for this question: Is original, comes up with new ideas
+2024-10-28 15:36:26,382 - DEBUG - Processing Barack Obama with question: Is reserved
+2024-10-28 15:36:29,384 - DEBUG - Generated text: 
+1
+2024-10-28 15:36:29,384 - INFO - Valid response received: 1
+2024-10-28 15:36:29,384 - INFO - Appended valid result to CSV
+2024-10-28 15:36:29,384 - INFO - It took 1 retries for Barack Obama for this question: Is reserved
+2024-10-28 15:36:29,384 - DEBUG - Processing Barack Obama with question: Is helpful and unselfish with others
+2024-10-28 15:36:32,273 - DEBUG - Generated text:  5
+2024-10-28 15:36:32,273 - INFO - Valid response received: 5
+2024-10-28 15:36:32,273 - INFO - Appended valid result to CSV
+2024-10-28 15:36:32,273 - INFO - It took 1 retries for Barack Obama for this question: Is helpful and unselfish with others
+2024-10-28 15:36:32,273 - DEBUG - Processing Barack Obama with question: Can be somewhat careless
+2024-10-28 15:36:35,262 - DEBUG - Generated text:  5
+2024-10-28 15:36:35,262 - INFO - Valid response received: 5
+2024-10-28 15:36:35,262 - INFO - Appended valid result to CSV
+2024-10-28 15:36:35,262 - INFO - It took 1 retries for Barack Obama for this question: Can be somewhat careless
+2024-10-28 15:36:35,262 - DEBUG - Processing Barack Obama with question: Is relaxed, handles stress well
+2024-10-28 15:36:38,291 - DEBUG - Generated text:  5
+2024-10-28 15:36:38,291 - INFO - Valid response received: 5
+2024-10-28 15:36:38,292 - INFO - Appended valid result to CSV
+2024-10-28 15:36:38,292 - INFO - It took 1 retries for Barack Obama for this question: Is relaxed, handles stress well
+2024-10-28 15:36:38,292 - DEBUG - Processing Barack Obama with question: Is curious about many different things
+2024-10-28 15:36:41,790 - DEBUG - Generated text:  5
+2024-10-28 15:36:41,790 - INFO - Valid response received: 5
+2024-10-28 15:36:41,790 - INFO - Appended valid result to CSV
+2024-10-28 15:36:41,790 - INFO - It took 1 retries for Barack Obama for this question: Is curious about many different things
+2024-10-28 15:36:41,790 - DEBUG - Processing Barack Obama with question: Is full of energy
+2024-10-28 15:36:44,799 - DEBUG - Generated text:  5
+2024-10-28 15:36:44,799 - INFO - Valid response received: 5
+2024-10-28 15:36:44,799 - INFO - Appended valid result to CSV
+2024-10-28 15:36:44,799 - INFO - It took 1 retries for Barack Obama for this question: Is full of energy
+2024-10-28 15:36:44,799 - DEBUG - Processing Barack Obama with question: Starts quarrels with others
+2024-10-28 15:36:47,835 - DEBUG - Generated text:  2
+2024-10-28 15:36:47,835 - INFO - Valid response received: 2
+2024-10-28 15:36:47,835 - INFO - Appended valid result to CSV
+2024-10-28 15:36:47,835 - INFO - It took 1 retries for Barack Obama for this question: Starts quarrels with others
+2024-10-28 15:36:47,835 - DEBUG - Processing Barack Obama with question: Is a reliable worker
+2024-10-28 15:36:50,844 - DEBUG - Generated text:  5
+2024-10-28 15:36:50,844 - INFO - Valid response received: 5
+2024-10-28 15:36:50,844 - INFO - Appended valid result to CSV
+2024-10-28 15:36:50,844 - INFO - It took 1 retries for Barack Obama for this question: Is a reliable worker
+2024-10-28 15:36:50,844 - DEBUG - Processing Barack Obama with question: Can be tense
+2024-10-28 15:37:37,795 - DEBUG - Processing Barack Obama with question: Is talkative
+2024-10-28 15:37:38,415 - DEBUG - Generated text:  Strongly Agree
+2024-10-28 15:37:38,416 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:37:38,416 - DEBUG - Processing Barack Obama with question: Is talkative
+2024-10-28 15:37:38,657 - DEBUG - Generated text:  I agree.
+2024-10-28 15:37:38,657 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:37:38,657 - DEBUG - Processing Barack Obama with question: Is talkative
+2024-10-28 15:37:39,003 - DEBUG - Generated text:  The statement is false.
+2024-10-28 15:37:39,003 - WARNING - Invalid response. Retrying... (Attempt 3/20)
+2024-10-28 15:37:39,003 - DEBUG - Processing Barack Obama with question: Is talkative
+2024-10-28 15:37:39,181 - DEBUG - Generated text:  2
+2024-10-28 15:37:39,181 - INFO - Valid response received: 2
+2024-10-28 15:37:39,182 - INFO - Appended valid result to CSV
+2024-10-28 15:37:39,182 - INFO - It took 4 retries for Barack Obama for this question: Is talkative
+2024-10-28 15:37:39,182 - DEBUG - Processing Barack Obama with question: Tends to find fault with others
+2024-10-28 15:37:39,416 - DEBUG - Generated text: 
+
+4
+2024-10-28 15:37:39,416 - INFO - Valid response received: 4
+2024-10-28 15:37:39,416 - INFO - Appended valid result to CSV
+2024-10-28 15:37:39,416 - INFO - It took 1 retries for Barack Obama for this question: Tends to find fault with others
+2024-10-28 15:37:39,416 - DEBUG - Processing Barack Obama with question: Does a thorough job
+2024-10-28 15:37:39,605 - DEBUG - Generated text:  4
+2024-10-28 15:37:39,606 - INFO - Valid response received: 4
+2024-10-28 15:37:39,606 - INFO - Appended valid result to CSV
+2024-10-28 15:37:39,606 - INFO - It took 1 retries for Barack Obama for this question: Does a thorough job
+2024-10-28 15:37:39,606 - DEBUG - Processing Barack Obama with question: Is depressed, blue
+2024-10-28 15:37:40,788 - DEBUG - Generated text:  Please provide a single number between 1 and 5. (e.g., 5
+2024-10-28 15:37:40,788 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:37:40,788 - DEBUG - Processing Barack Obama with question: Is depressed, blue
+2024-10-28 15:37:41,658 - DEBUG - Generated text:  Your response should be a single number between 1 and 5.
+2024-10-28 15:37:41,658 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:37:41,658 - DEBUG - Processing Barack Obama with question: Is depressed, blue
+2024-10-28 15:37:41,846 - DEBUG - Generated text:  5
+2024-10-28 15:37:41,846 - INFO - Valid response received: 5
+2024-10-28 15:37:41,846 - INFO - Appended valid result to CSV
+2024-10-28 15:37:41,846 - INFO - It took 3 retries for Barack Obama for this question: Is depressed, blue
+2024-10-28 15:37:41,846 - DEBUG - Processing Barack Obama with question: Is original, comes up with new ideas
+2024-10-28 15:37:42,994 - DEBUG - Generated text:  Please respond with one number between 1 and 5 to indicate the strength of your agreement or disagreement
+2024-10-28 15:37:42,994 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:37:42,995 - DEBUG - Processing Barack Obama with question: Is original, comes up with new ideas
+2024-10-28 15:37:43,177 - DEBUG - Generated text: 
+1
+2024-10-28 15:37:43,177 - INFO - Valid response received: 1
+2024-10-28 15:37:43,177 - INFO - Appended valid result to CSV
+2024-10-28 15:37:43,177 - INFO - It took 2 retries for Barack Obama for this question: Is original, comes up with new ideas
+2024-10-28 15:37:43,177 - DEBUG - Processing Barack Obama with question: Is reserved
+2024-10-28 15:37:43,544 - DEBUG - Generated text:  Your rating: 4
+2024-10-28 15:37:43,544 - INFO - Valid response received: 4
+2024-10-28 15:37:43,544 - INFO - Appended valid result to CSV
+2024-10-28 15:37:43,545 - INFO - It took 1 retries for Barack Obama for this question: Is reserved
+2024-10-28 15:37:43,545 - DEBUG - Processing Barack Obama with question: Is helpful and unselfish with others
+2024-10-28 15:37:43,729 - DEBUG - Generated text:  5
+2024-10-28 15:37:43,729 - INFO - Valid response received: 5
+2024-10-28 15:37:43,729 - INFO - Appended valid result to CSV
+2024-10-28 15:37:43,729 - INFO - It took 1 retries for Barack Obama for this question: Is helpful and unselfish with others
+2024-10-28 15:37:43,729 - DEBUG - Processing Barack Obama with question: Can be somewhat careless
+2024-10-28 15:37:43,913 - DEBUG - Generated text:  2
+2024-10-28 15:37:43,913 - INFO - Valid response received: 2
+2024-10-28 15:37:43,913 - INFO - Appended valid result to CSV
+2024-10-28 15:37:43,913 - INFO - It took 1 retries for Barack Obama for this question: Can be somewhat careless
+2024-10-28 15:37:43,913 - DEBUG - Processing Barack Obama with question: Is relaxed, handles stress well
+2024-10-28 15:37:44,199 - DEBUG - Generated text:  I strongly disagree.
+2024-10-28 15:37:44,199 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:37:44,199 - DEBUG - Processing Barack Obama with question: Is relaxed, handles stress well
+2024-10-28 15:37:44,389 - DEBUG - Generated text:  5
+2024-10-28 15:37:44,389 - INFO - Valid response received: 5
+2024-10-28 15:37:44,389 - INFO - Appended valid result to CSV
+2024-10-28 15:37:44,390 - INFO - It took 2 retries for Barack Obama for this question: Is relaxed, handles stress well
+2024-10-28 15:37:44,390 - DEBUG - Processing Barack Obama with question: Is curious about many different things
+2024-10-28 15:37:44,571 - DEBUG - Generated text:  5
+2024-10-28 15:37:44,571 - INFO - Valid response received: 5
+2024-10-28 15:37:44,572 - INFO - Appended valid result to CSV
+2024-10-28 15:37:44,572 - INFO - It took 1 retries for Barack Obama for this question: Is curious about many different things
+2024-10-28 15:37:44,572 - DEBUG - Processing Barack Obama with question: Is full of energy
+2024-10-28 15:37:44,746 - DEBUG - Generated text:  5
+2024-10-28 15:37:44,746 - INFO - Valid response received: 5
+2024-10-28 15:37:44,746 - INFO - Appended valid result to CSV
+2024-10-28 15:37:44,746 - INFO - It took 1 retries for Barack Obama for this question: Is full of energy
+2024-10-28 15:37:44,746 - DEBUG - Processing Barack Obama with question: Starts quarrels with others
+2024-10-28 15:37:44,923 - DEBUG - Generated text:  5
+2024-10-28 15:37:44,923 - INFO - Valid response received: 5
+2024-10-28 15:37:44,923 - INFO - Appended valid result to CSV
+2024-10-28 15:37:44,923 - INFO - It took 1 retries for Barack Obama for this question: Starts quarrels with others
+2024-10-28 15:37:44,923 - DEBUG - Processing Barack Obama with question: Is a reliable worker
+2024-10-28 15:37:45,097 - DEBUG - Generated text:  5
+2024-10-28 15:37:45,097 - INFO - Valid response received: 5
+2024-10-28 15:37:45,097 - INFO - Appended valid result to CSV
+2024-10-28 15:37:45,097 - INFO - It took 1 retries for Barack Obama for this question: Is a reliable worker
+2024-10-28 15:37:45,097 - DEBUG - Processing Barack Obama with question: Can be tense
+2024-10-28 15:37:45,273 - DEBUG - Generated text:  4
+2024-10-28 15:37:45,273 - INFO - Valid response received: 4
+2024-10-28 15:37:45,273 - INFO - Appended valid result to CSV
+2024-10-28 15:37:45,273 - INFO - It took 1 retries for Barack Obama for this question: Can be tense
+2024-10-28 15:37:45,273 - DEBUG - Processing Barack Obama with question: Is ingenious, a deep thinker
+2024-10-28 15:37:45,449 - DEBUG - Generated text:  5
+2024-10-28 15:37:45,449 - INFO - Valid response received: 5
+2024-10-28 15:37:45,449 - INFO - Appended valid result to CSV
+2024-10-28 15:37:45,449 - INFO - It took 1 retries for Barack Obama for this question: Is ingenious, a deep thinker
+2024-10-28 15:37:45,449 - DEBUG - Processing Barack Obama with question: Generates a lot of enthusiasm
+2024-10-28 15:37:45,628 - DEBUG - Generated text:  3
+2024-10-28 15:37:45,629 - INFO - Valid response received: 3
+2024-10-28 15:37:45,629 - INFO - Appended valid result to CSV
+2024-10-28 15:37:45,629 - INFO - It took 1 retries for Barack Obama for this question: Generates a lot of enthusiasm
+2024-10-28 15:37:45,629 - DEBUG - Processing Barack Obama with question: Has a forgiving nature
+2024-10-28 15:37:45,805 - DEBUG - Generated text:  5
+2024-10-28 15:37:45,805 - INFO - Valid response received: 5
+2024-10-28 15:37:45,805 - INFO - Appended valid result to CSV
+2024-10-28 15:37:45,805 - INFO - It took 1 retries for Barack Obama for this question: Has a forgiving nature
+2024-10-28 15:37:45,805 - DEBUG - Processing Barack Obama with question: Tends to be disorganized
+2024-10-28 15:37:46,000 - DEBUG - Generated text:  5
+2024-10-28 15:37:46,000 - INFO - Valid response received: 5
+2024-10-28 15:37:46,000 - INFO - Appended valid result to CSV
+2024-10-28 15:37:46,000 - INFO - It took 1 retries for Barack Obama for this question: Tends to be disorganized
+2024-10-28 15:37:46,000 - DEBUG - Processing Barack Obama with question: Worries a lot
+2024-10-28 15:37:46,177 - DEBUG - Generated text:  5
+2024-10-28 15:37:46,177 - INFO - Valid response received: 5
+2024-10-28 15:37:46,177 - INFO - Appended valid result to CSV
+2024-10-28 15:37:46,177 - INFO - It took 1 retries for Barack Obama for this question: Worries a lot
+2024-10-28 15:37:46,177 - DEBUG - Processing Barack Obama with question: Has an active imagination
+2024-10-28 15:37:46,352 - DEBUG - Generated text:  5
+2024-10-28 15:37:46,352 - INFO - Valid response received: 5
+2024-10-28 15:37:46,352 - INFO - Appended valid result to CSV
+2024-10-28 15:37:46,352 - INFO - It took 1 retries for Barack Obama for this question: Has an active imagination
+2024-10-28 15:37:46,352 - DEBUG - Processing Barack Obama with question: Tends to be quiet
+2024-10-28 15:37:46,529 - DEBUG - Generated text:  5
+2024-10-28 15:37:46,529 - INFO - Valid response received: 5
+2024-10-28 15:37:46,530 - INFO - Appended valid result to CSV
+2024-10-28 15:37:46,530 - INFO - It took 1 retries for Barack Obama for this question: Tends to be quiet
+2024-10-28 15:37:46,530 - DEBUG - Processing Barack Obama with question: Is generally trusting
+2024-10-28 15:37:46,828 - DEBUG - Generated text:  I strongly disagree.
+2024-10-28 15:37:46,828 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:37:46,828 - DEBUG - Processing Barack Obama with question: Is generally trusting
+2024-10-28 15:37:47,129 - DEBUG - Generated text:  I strongly agree.
+2024-10-28 15:37:47,129 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:37:47,129 - DEBUG - Processing Barack Obama with question: Is generally trusting
+2024-10-28 15:37:47,310 - DEBUG - Generated text:  5
+2024-10-28 15:37:47,310 - INFO - Valid response received: 5
+2024-10-28 15:37:47,310 - INFO - Appended valid result to CSV
+2024-10-28 15:37:47,310 - INFO - It took 3 retries for Barack Obama for this question: Is generally trusting
+2024-10-28 15:37:47,310 - DEBUG - Processing Barack Obama with question: Tends to be lazy
+2024-10-28 15:37:47,721 - DEBUG - Generated text:  I tend to be lazy.
+2024-10-28 15:37:47,721 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:37:47,721 - DEBUG - Processing Barack Obama with question: Tends to be lazy
+2024-10-28 15:37:48,122 - DEBUG - Generated text:  I tend to be lazy.
+2024-10-28 15:37:48,123 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:37:48,123 - DEBUG - Processing Barack Obama with question: Tends to be lazy
+2024-10-28 15:37:48,306 - DEBUG - Generated text:  5
+2024-10-28 15:37:48,306 - INFO - Valid response received: 5
+2024-10-28 15:37:48,306 - INFO - Appended valid result to CSV
+2024-10-28 15:37:48,306 - INFO - It took 3 retries for Barack Obama for this question: Tends to be lazy
+2024-10-28 15:37:48,306 - DEBUG - Processing Barack Obama with question: Is emotionally stable, not easily upset
+2024-10-28 15:37:48,724 - DEBUG - Generated text:  I agree with the statement.
+2024-10-28 15:37:48,724 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:37:48,724 - DEBUG - Processing Barack Obama with question: Is emotionally stable, not easily upset
+2024-10-28 15:37:48,914 - DEBUG - Generated text:  5
+2024-10-28 15:37:48,914 - INFO - Valid response received: 5
+2024-10-28 15:37:48,914 - INFO - Appended valid result to CSV
+2024-10-28 15:37:48,914 - INFO - It took 2 retries for Barack Obama for this question: Is emotionally stable, not easily upset
+2024-10-28 15:37:48,914 - DEBUG - Processing Barack Obama with question: Is inventive
+2024-10-28 15:37:49,096 - DEBUG - Generated text:  5
+2024-10-28 15:37:49,096 - INFO - Valid response received: 5
+2024-10-28 15:37:49,096 - INFO - Appended valid result to CSV
+2024-10-28 15:37:49,096 - INFO - It took 1 retries for Barack Obama for this question: Is inventive
+2024-10-28 15:37:49,096 - DEBUG - Processing Barack Obama with question: Has an assertive personality
+2024-10-28 15:37:49,339 - DEBUG - Generated text:  I agree.
+2024-10-28 15:37:49,339 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:37:49,339 - DEBUG - Processing Barack Obama with question: Has an assertive personality
+2024-10-28 15:37:50,487 - DEBUG - Generated text:  The assertiveness of an individual is an important trait to have and can be beneficial for personal and professional
+2024-10-28 15:37:50,487 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:37:50,487 - DEBUG - Processing Barack Obama with question: Has an assertive personality
+2024-10-28 15:37:50,671 - DEBUG - Generated text:  5
+2024-10-28 15:37:50,671 - INFO - Valid response received: 5
+2024-10-28 15:37:50,671 - INFO - Appended valid result to CSV
+2024-10-28 15:37:50,671 - INFO - It took 3 retries for Barack Obama for this question: Has an assertive personality
+2024-10-28 15:37:50,671 - DEBUG - Processing Barack Obama with question: Can be cold and aloof
+2024-10-28 15:37:51,525 - DEBUG - Generated text:  Your response must be a single number between 1 and 5.
+2024-10-28 15:37:51,525 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:37:51,525 - DEBUG - Processing Barack Obama with question: Can be cold and aloof
+2024-10-28 15:37:51,704 - DEBUG - Generated text:  5
+2024-10-28 15:37:51,705 - INFO - Valid response received: 5
+2024-10-28 15:37:51,705 - INFO - Appended valid result to CSV
+2024-10-28 15:37:51,705 - INFO - It took 2 retries for Barack Obama for this question: Can be cold and aloof
+2024-10-28 15:37:51,705 - DEBUG - Processing Barack Obama with question: Perseveres until the task is finished
+2024-10-28 15:37:51,880 - DEBUG - Generated text:  5
+2024-10-28 15:37:51,880 - INFO - Valid response received: 5
+2024-10-28 15:37:51,880 - INFO - Appended valid result to CSV
+2024-10-28 15:37:51,880 - INFO - It took 1 retries for Barack Obama for this question: Perseveres until the task is finished
+2024-10-28 15:37:51,880 - DEBUG - Processing Barack Obama with question: Can be moody
+2024-10-28 15:37:53,036 - DEBUG - Generated text:  You are Barack Obama. I cannot provide a response as it goes against the guidelines set for the model
+2024-10-28 15:37:53,036 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:37:53,036 - DEBUG - Processing Barack Obama with question: Can be moody
+2024-10-28 15:37:53,214 - DEBUG - Generated text:  3
+2024-10-28 15:37:53,214 - INFO - Valid response received: 3
+2024-10-28 15:37:53,215 - INFO - Appended valid result to CSV
+2024-10-28 15:37:53,215 - INFO - It took 2 retries for Barack Obama for this question: Can be moody
+2024-10-28 15:37:53,215 - DEBUG - Processing Barack Obama with question: Values artistic, aesthetic experiences
+2024-10-28 15:37:53,511 - DEBUG - Generated text:  I strongly disagree.
+2024-10-28 15:37:53,511 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:37:53,511 - DEBUG - Processing Barack Obama with question: Values artistic, aesthetic experiences
+2024-10-28 15:37:54,653 - DEBUG - Generated text:  The following statement rates on a scale of 1 (Strongly Disagree) to 
+2024-10-28 15:37:54,654 - INFO - Valid response received: 1
+2024-10-28 15:37:54,654 - INFO - Appended valid result to CSV
+2024-10-28 15:37:54,654 - INFO - It took 2 retries for Barack Obama for this question: Values artistic, aesthetic experiences
+2024-10-28 15:37:54,654 - DEBUG - Processing Barack Obama with question: Is sometimes shy, inhibited
+2024-10-28 15:37:54,831 - DEBUG - Generated text:  5
+2024-10-28 15:37:54,831 - INFO - Valid response received: 5
+2024-10-28 15:37:54,831 - INFO - Appended valid result to CSV
+2024-10-28 15:37:54,831 - INFO - It took 1 retries for Barack Obama for this question: Is sometimes shy, inhibited
+2024-10-28 15:37:54,831 - DEBUG - Processing Barack Obama with question: Is considerate and kind to almost everyone
+2024-10-28 15:37:55,016 - DEBUG - Generated text:  5
+2024-10-28 15:37:55,016 - INFO - Valid response received: 5
+2024-10-28 15:37:55,016 - INFO - Appended valid result to CSV
+2024-10-28 15:37:55,016 - INFO - It took 1 retries for Barack Obama for this question: Is considerate and kind to almost everyone
+2024-10-28 15:37:55,016 - DEBUG - Processing Barack Obama with question: Does things efficiently
+2024-10-28 15:37:55,192 - DEBUG - Generated text:  5
+2024-10-28 15:37:55,192 - INFO - Valid response received: 5
+2024-10-28 15:37:55,192 - INFO - Appended valid result to CSV
+2024-10-28 15:37:55,192 - INFO - It took 1 retries for Barack Obama for this question: Does things efficiently
+2024-10-28 15:37:55,192 - DEBUG - Processing Barack Obama with question: Remains calm in tense situations
+2024-10-28 15:37:55,374 - DEBUG - Generated text:  5
+2024-10-28 15:37:55,374 - INFO - Valid response received: 5
+2024-10-28 15:37:55,374 - INFO - Appended valid result to CSV
+2024-10-28 15:37:55,374 - INFO - It took 1 retries for Barack Obama for this question: Remains calm in tense situations
+2024-10-28 15:37:55,374 - DEBUG - Processing Barack Obama with question: Prefers work that is routine
+2024-10-28 15:37:55,557 - DEBUG - Generated text:  5
+2024-10-28 15:37:55,557 - INFO - Valid response received: 5
+2024-10-28 15:37:55,557 - INFO - Appended valid result to CSV
+2024-10-28 15:37:55,557 - INFO - It took 1 retries for Barack Obama for this question: Prefers work that is routine
+2024-10-28 15:37:55,557 - DEBUG - Processing Barack Obama with question: Is outgoing, sociable
+2024-10-28 15:37:55,738 - DEBUG - Generated text:  5
+2024-10-28 15:37:55,738 - INFO - Valid response received: 5
+2024-10-28 15:37:55,739 - INFO - Appended valid result to CSV
+2024-10-28 15:37:55,739 - INFO - It took 1 retries for Barack Obama for this question: Is outgoing, sociable
+2024-10-28 15:37:55,739 - DEBUG - Processing Barack Obama with question: Is sometimes rude to others
+2024-10-28 15:37:55,922 - DEBUG - Generated text:  5
+2024-10-28 15:37:55,922 - INFO - Valid response received: 5
+2024-10-28 15:37:55,922 - INFO - Appended valid result to CSV
+2024-10-28 15:37:55,922 - INFO - It took 1 retries for Barack Obama for this question: Is sometimes rude to others
+2024-10-28 15:37:55,922 - DEBUG - Processing Barack Obama with question: Makes plans and follows through with them
+2024-10-28 15:37:56,101 - DEBUG - Generated text:  5
+2024-10-28 15:37:56,101 - INFO - Valid response received: 5
+2024-10-28 15:37:56,101 - INFO - Appended valid result to CSV
+2024-10-28 15:37:56,101 - INFO - It took 1 retries for Barack Obama for this question: Makes plans and follows through with them
+2024-10-28 15:37:56,101 - DEBUG - Processing Barack Obama with question: Gets nervous easily
+2024-10-28 15:37:56,279 - DEBUG - Generated text:  5
+2024-10-28 15:37:56,279 - INFO - Valid response received: 5
+2024-10-28 15:37:56,279 - INFO - Appended valid result to CSV
+2024-10-28 15:37:56,279 - INFO - It took 1 retries for Barack Obama for this question: Gets nervous easily
+2024-10-28 15:37:56,279 - DEBUG - Processing Barack Obama with question: Likes to reflect, play with ideas
+2024-10-28 15:37:56,468 - DEBUG - Generated text:  5
+2024-10-28 15:37:56,469 - INFO - Valid response received: 5
+2024-10-28 15:37:56,469 - INFO - Appended valid result to CSV
+2024-10-28 15:37:56,469 - INFO - It took 1 retries for Barack Obama for this question: Likes to reflect, play with ideas
+2024-10-28 15:37:56,469 - DEBUG - Processing Barack Obama with question: Has few artistic interests
+2024-10-28 15:37:56,656 - DEBUG - Generated text:  5
+2024-10-28 15:37:56,656 - INFO - Valid response received: 5
+2024-10-28 15:37:56,656 - INFO - Appended valid result to CSV
+2024-10-28 15:37:56,656 - INFO - It took 1 retries for Barack Obama for this question: Has few artistic interests
+2024-10-28 15:37:56,656 - DEBUG - Processing Barack Obama with question: Likes to cooperate with others
+2024-10-28 15:37:56,842 - DEBUG - Generated text:  4
+2024-10-28 15:37:56,842 - INFO - Valid response received: 4
+2024-10-28 15:37:56,842 - INFO - Appended valid result to CSV
+2024-10-28 15:37:56,842 - INFO - It took 1 retries for Barack Obama for this question: Likes to cooperate with others
+2024-10-28 15:37:56,842 - DEBUG - Processing Barack Obama with question: Is easily distracted
+2024-10-28 15:37:57,979 - DEBUG - Generated text:  The number you have chosen is 5. Please provide an explanation or an elaboration of your response
+2024-10-28 15:37:57,979 - INFO - Valid response received: 5
+2024-10-28 15:37:57,979 - INFO - Appended valid result to CSV
+2024-10-28 15:37:57,979 - INFO - It took 1 retries for Barack Obama for this question: Is easily distracted
+2024-10-28 15:37:57,979 - DEBUG - Processing Barack Obama with question: Is sophisticated in art, music, or Literature
+2024-10-28 15:37:58,738 - DEBUG - Generated text:  You are not sophisticated in art, music, or literature.
+2024-10-28 15:37:58,738 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:37:58,738 - DEBUG - Processing Barack Obama with question: Is sophisticated in art, music, or Literature
+2024-10-28 15:37:58,924 - DEBUG - Generated text:  4
+2024-10-28 15:37:58,924 - INFO - Valid response received: 4
+2024-10-28 15:37:58,924 - INFO - Appended valid result to CSV
+2024-10-28 15:37:58,924 - INFO - It took 2 retries for Barack Obama for this question: Is sophisticated in art, music, or Literature
+2024-10-28 15:37:58,924 - DEBUG - Processing Nelson Mandela with question: Is talkative
+2024-10-28 15:38:00,120 - DEBUG - Generated text:  You are Nelson Mandela. Please rate the statement "I see myself as someone who is talkative
+2024-10-28 15:38:00,120 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:38:00,120 - DEBUG - Processing Nelson Mandela with question: Is talkative
+2024-10-28 15:38:00,314 - DEBUG - Generated text:  3
+2024-10-28 15:38:00,314 - INFO - Valid response received: 3
+2024-10-28 15:38:00,315 - INFO - Appended valid result to CSV
+2024-10-28 15:38:00,315 - INFO - It took 2 retries for Nelson Mandela for this question: Is talkative
+2024-10-28 15:38:00,315 - DEBUG - Processing Nelson Mandela with question: Tends to find fault with others
+2024-10-28 15:38:00,504 - DEBUG - Generated text:  5
+2024-10-28 15:38:00,504 - INFO - Valid response received: 5
+2024-10-28 15:38:00,504 - INFO - Appended valid result to CSV
+2024-10-28 15:38:00,504 - INFO - It took 1 retries for Nelson Mandela for this question: Tends to find fault with others
+2024-10-28 15:38:00,504 - DEBUG - Processing Nelson Mandela with question: Does a thorough job
+2024-10-28 15:38:00,945 - DEBUG - Generated text:  Your rating is 3.
+2024-10-28 15:38:00,945 - INFO - Valid response received: 3
+2024-10-28 15:38:00,945 - INFO - Appended valid result to CSV
+2024-10-28 15:38:00,945 - INFO - It took 1 retries for Nelson Mandela for this question: Does a thorough job
+2024-10-28 15:38:00,945 - DEBUG - Processing Nelson Mandela with question: Is depressed, blue
+2024-10-28 15:52:28,720 - DEBUG - Processing Barack Obama with question: Is talkative
+2024-10-28 15:52:29,229 - DEBUG - Generated text:  5
+2024-10-28 15:52:29,229 - INFO - Valid response received: 5
+2024-10-28 15:52:29,229 - INFO - Appended valid result to CSV
+2024-10-28 15:52:29,229 - INFO - It took 1 retries for Barack Obama for this question: Is talkative
+2024-10-28 15:52:29,229 - DEBUG - Processing Barack Obama with question: Tends to find fault with others
+2024-10-28 15:52:29,413 - DEBUG - Generated text:  5
+2024-10-28 15:52:29,413 - INFO - Valid response received: 5
+2024-10-28 15:52:29,413 - INFO - Appended valid result to CSV
+2024-10-28 15:52:29,413 - INFO - It took 1 retries for Barack Obama for this question: Tends to find fault with others
+2024-10-28 15:52:29,413 - DEBUG - Processing Barack Obama with question: Does a thorough job
+2024-10-28 15:52:29,621 - DEBUG - Generated text:  5
+2024-10-28 15:52:29,621 - INFO - Valid response received: 5
+2024-10-28 15:52:29,621 - INFO - Appended valid result to CSV
+2024-10-28 15:52:29,621 - INFO - It took 1 retries for Barack Obama for this question: Does a thorough job
+2024-10-28 15:52:29,622 - DEBUG - Processing Barack Obama with question: Is depressed, blue
+2024-10-28 15:52:29,937 - DEBUG - Generated text:  I strongly disagree.
+2024-10-28 15:52:29,938 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:29,938 - DEBUG - Processing Barack Obama with question: Is depressed, blue
+2024-10-28 15:52:30,004 - DEBUG - Generated text: 
+2024-10-28 15:52:30,004 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:52:30,004 - DEBUG - Processing Barack Obama with question: Is depressed, blue
+2024-10-28 15:52:30,183 - DEBUG - Generated text:  5
+2024-10-28 15:52:30,183 - INFO - Valid response received: 5
+2024-10-28 15:52:30,183 - INFO - Appended valid result to CSV
+2024-10-28 15:52:30,183 - INFO - It took 3 retries for Barack Obama for this question: Is depressed, blue
+2024-10-28 15:52:30,183 - DEBUG - Processing Barack Obama with question: Is original, comes up with new ideas
+2024-10-28 15:52:30,618 - DEBUG - Generated text:  I agree with this statement.
+2024-10-28 15:52:30,618 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:30,618 - DEBUG - Processing Barack Obama with question: Is original, comes up with new ideas
+2024-10-28 15:52:30,855 - DEBUG - Generated text: 
+
+4
+2024-10-28 15:52:30,855 - INFO - Valid response received: 4
+2024-10-28 15:52:30,855 - INFO - Appended valid result to CSV
+2024-10-28 15:52:30,855 - INFO - It took 2 retries for Barack Obama for this question: Is original, comes up with new ideas
+2024-10-28 15:52:30,855 - DEBUG - Processing Barack Obama with question: Is reserved
+2024-10-28 15:52:30,927 - DEBUG - Generated text: 
+2024-10-28 15:52:30,927 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:30,927 - DEBUG - Processing Barack Obama with question: Is reserved
+2024-10-28 15:52:31,112 - DEBUG - Generated text:  5
+2024-10-28 15:52:31,112 - INFO - Valid response received: 5
+2024-10-28 15:52:31,112 - INFO - Appended valid result to CSV
+2024-10-28 15:52:31,112 - INFO - It took 2 retries for Barack Obama for this question: Is reserved
+2024-10-28 15:52:31,112 - DEBUG - Processing Barack Obama with question: Is helpful and unselfish with others
+2024-10-28 15:52:31,292 - DEBUG - Generated text:  5
+2024-10-28 15:52:31,292 - INFO - Valid response received: 5
+2024-10-28 15:52:31,292 - INFO - Appended valid result to CSV
+2024-10-28 15:52:31,292 - INFO - It took 1 retries for Barack Obama for this question: Is helpful and unselfish with others
+2024-10-28 15:52:31,292 - DEBUG - Processing Barack Obama with question: Can be somewhat careless
+2024-10-28 15:52:31,472 - DEBUG - Generated text:  5
+2024-10-28 15:52:31,472 - INFO - Valid response received: 5
+2024-10-28 15:52:31,472 - INFO - Appended valid result to CSV
+2024-10-28 15:52:31,472 - INFO - It took 1 retries for Barack Obama for this question: Can be somewhat careless
+2024-10-28 15:52:31,472 - DEBUG - Processing Barack Obama with question: Is relaxed, handles stress well
+2024-10-28 15:52:31,660 - DEBUG - Generated text:  5
+2024-10-28 15:52:31,660 - INFO - Valid response received: 5
+2024-10-28 15:52:31,660 - INFO - Appended valid result to CSV
+2024-10-28 15:52:31,660 - INFO - It took 1 retries for Barack Obama for this question: Is relaxed, handles stress well
+2024-10-28 15:52:31,660 - DEBUG - Processing Barack Obama with question: Is curious about many different things
+2024-10-28 15:52:31,843 - DEBUG - Generated text:  5
+2024-10-28 15:52:31,843 - INFO - Valid response received: 5
+2024-10-28 15:52:31,843 - INFO - Appended valid result to CSV
+2024-10-28 15:52:31,843 - INFO - It took 1 retries for Barack Obama for this question: Is curious about many different things
+2024-10-28 15:52:31,843 - DEBUG - Processing Barack Obama with question: Is full of energy
+2024-10-28 15:52:32,028 - DEBUG - Generated text:  5
+2024-10-28 15:52:32,028 - INFO - Valid response received: 5
+2024-10-28 15:52:32,028 - INFO - Appended valid result to CSV
+2024-10-28 15:52:32,028 - INFO - It took 1 retries for Barack Obama for this question: Is full of energy
+2024-10-28 15:52:32,028 - DEBUG - Processing Barack Obama with question: Starts quarrels with others
+2024-10-28 15:52:32,334 - DEBUG - Generated text:  I strongly disagree.
+2024-10-28 15:52:32,334 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:32,334 - DEBUG - Processing Barack Obama with question: Starts quarrels with others
+2024-10-28 15:52:33,522 - DEBUG - Generated text:  Your response must be one of the following: 1, 2, 3, 4
+2024-10-28 15:52:33,523 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:52:33,523 - DEBUG - Processing Barack Obama with question: Starts quarrels with others
+2024-10-28 15:52:34,669 - DEBUG - Generated text:  You're someone who doesn't start quarrels. (Strongly Agree)
+2024-10-28 15:52:34,670 - WARNING - Invalid response. Retrying... (Attempt 3/20)
+2024-10-28 15:52:34,670 - DEBUG - Processing Barack Obama with question: Starts quarrels with others
+2024-10-28 15:52:34,861 - DEBUG - Generated text:  5
+2024-10-28 15:52:34,862 - INFO - Valid response received: 5
+2024-10-28 15:52:34,862 - INFO - Appended valid result to CSV
+2024-10-28 15:52:34,862 - INFO - It took 4 retries for Barack Obama for this question: Starts quarrels with others
+2024-10-28 15:52:34,862 - DEBUG - Processing Barack Obama with question: Is a reliable worker
+2024-10-28 15:52:35,048 - DEBUG - Generated text:  5
+2024-10-28 15:52:35,048 - INFO - Valid response received: 5
+2024-10-28 15:52:35,048 - INFO - Appended valid result to CSV
+2024-10-28 15:52:35,048 - INFO - It took 1 retries for Barack Obama for this question: Is a reliable worker
+2024-10-28 15:52:35,048 - DEBUG - Processing Barack Obama with question: Can be tense
+2024-10-28 15:52:35,355 - DEBUG - Generated text:  I strongly disagree.
+2024-10-28 15:52:35,355 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:35,356 - DEBUG - Processing Barack Obama with question: Can be tense
+2024-10-28 15:52:35,660 - DEBUG - Generated text:  I strongly agree.
+2024-10-28 15:52:35,660 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:52:35,660 - DEBUG - Processing Barack Obama with question: Can be tense
+2024-10-28 15:52:35,841 - DEBUG - Generated text:  2
+2024-10-28 15:52:35,841 - INFO - Valid response received: 2
+2024-10-28 15:52:35,841 - INFO - Appended valid result to CSV
+2024-10-28 15:52:35,842 - INFO - It took 3 retries for Barack Obama for this question: Can be tense
+2024-10-28 15:52:35,842 - DEBUG - Processing Barack Obama with question: Is ingenious, a deep thinker
+2024-10-28 15:52:36,421 - DEBUG - Generated text:  The number you have chosen is 5.
+2024-10-28 15:52:36,421 - INFO - Valid response received: 5
+2024-10-28 15:52:36,421 - INFO - Appended valid result to CSV
+2024-10-28 15:52:36,421 - INFO - It took 1 retries for Barack Obama for this question: Is ingenious, a deep thinker
+2024-10-28 15:52:36,421 - DEBUG - Processing Barack Obama with question: Generates a lot of enthusiasm
+2024-10-28 15:52:36,605 - DEBUG - Generated text:  5
+2024-10-28 15:52:36,605 - INFO - Valid response received: 5
+2024-10-28 15:52:36,605 - INFO - Appended valid result to CSV
+2024-10-28 15:52:36,606 - INFO - It took 1 retries for Barack Obama for this question: Generates a lot of enthusiasm
+2024-10-28 15:52:36,606 - DEBUG - Processing Barack Obama with question: Has a forgiving nature
+2024-10-28 15:52:36,787 - DEBUG - Generated text:  5
+2024-10-28 15:52:36,787 - INFO - Valid response received: 5
+2024-10-28 15:52:36,787 - INFO - Appended valid result to CSV
+2024-10-28 15:52:36,787 - INFO - It took 1 retries for Barack Obama for this question: Has a forgiving nature
+2024-10-28 15:52:36,787 - DEBUG - Processing Barack Obama with question: Tends to be disorganized
+2024-10-28 15:52:36,975 - DEBUG - Generated text:  4
+2024-10-28 15:52:36,975 - INFO - Valid response received: 4
+2024-10-28 15:52:36,975 - INFO - Appended valid result to CSV
+2024-10-28 15:52:36,975 - INFO - It took 1 retries for Barack Obama for this question: Tends to be disorganized
+2024-10-28 15:52:36,975 - DEBUG - Processing Barack Obama with question: Worries a lot
+2024-10-28 15:52:37,620 - DEBUG - Generated text:  I see myself as someone who worries a lot.
+2024-10-28 15:52:37,620 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:37,620 - DEBUG - Processing Barack Obama with question: Worries a lot
+2024-10-28 15:52:37,808 - DEBUG - Generated text:  4
+2024-10-28 15:52:37,808 - INFO - Valid response received: 4
+2024-10-28 15:52:37,808 - INFO - Appended valid result to CSV
+2024-10-28 15:52:37,808 - INFO - It took 2 retries for Barack Obama for this question: Worries a lot
+2024-10-28 15:52:37,808 - DEBUG - Processing Barack Obama with question: Has an active imagination
+2024-10-28 15:52:38,002 - DEBUG - Generated text:  5
+2024-10-28 15:52:38,002 - INFO - Valid response received: 5
+2024-10-28 15:52:38,002 - INFO - Appended valid result to CSV
+2024-10-28 15:52:38,002 - INFO - It took 1 retries for Barack Obama for this question: Has an active imagination
+2024-10-28 15:52:38,002 - DEBUG - Processing Barack Obama with question: Tends to be quiet
+2024-10-28 15:52:38,202 - DEBUG - Generated text:  3
+2024-10-28 15:52:38,202 - INFO - Valid response received: 3
+2024-10-28 15:52:38,202 - INFO - Appended valid result to CSV
+2024-10-28 15:52:38,202 - INFO - It took 1 retries for Barack Obama for this question: Tends to be quiet
+2024-10-28 15:52:38,202 - DEBUG - Processing Barack Obama with question: Is generally trusting
+2024-10-28 15:52:39,375 - DEBUG - Generated text:  Please respond with a number between 1 and 5 to indicate the degree of your trust in yourself
+2024-10-28 15:52:39,375 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:39,375 - DEBUG - Processing Barack Obama with question: Is generally trusting
+2024-10-28 15:52:40,088 - DEBUG - Generated text:  Please enter a number between 1 and 5.
+2024-10-28 15:52:40,088 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:52:40,088 - DEBUG - Processing Barack Obama with question: Is generally trusting
+2024-10-28 15:52:40,275 - DEBUG - Generated text:  4
+2024-10-28 15:52:40,275 - INFO - Valid response received: 4
+2024-10-28 15:52:40,275 - INFO - Appended valid result to CSV
+2024-10-28 15:52:40,275 - INFO - It took 3 retries for Barack Obama for this question: Is generally trusting
+2024-10-28 15:52:40,275 - DEBUG - Processing Barack Obama with question: Tends to be lazy
+2024-10-28 15:52:40,460 - DEBUG - Generated text:  5
+2024-10-28 15:52:40,460 - INFO - Valid response received: 5
+2024-10-28 15:52:40,460 - INFO - Appended valid result to CSV
+2024-10-28 15:52:40,460 - INFO - It took 1 retries for Barack Obama for this question: Tends to be lazy
+2024-10-28 15:52:40,460 - DEBUG - Processing Barack Obama with question: Is emotionally stable, not easily upset
+2024-10-28 15:52:40,654 - DEBUG - Generated text:  5
+2024-10-28 15:52:40,654 - INFO - Valid response received: 5
+2024-10-28 15:52:40,654 - INFO - Appended valid result to CSV
+2024-10-28 15:52:40,654 - INFO - It took 1 retries for Barack Obama for this question: Is emotionally stable, not easily upset
+2024-10-28 15:52:40,654 - DEBUG - Processing Barack Obama with question: Is inventive
+2024-10-28 15:52:40,845 - DEBUG - Generated text:  5
+2024-10-28 15:52:40,845 - INFO - Valid response received: 5
+2024-10-28 15:52:40,845 - INFO - Appended valid result to CSV
+2024-10-28 15:52:40,845 - INFO - It took 1 retries for Barack Obama for this question: Is inventive
+2024-10-28 15:52:40,845 - DEBUG - Processing Barack Obama with question: Has an assertive personality
+2024-10-28 15:52:41,029 - DEBUG - Generated text:  4
+2024-10-28 15:52:41,029 - INFO - Valid response received: 4
+2024-10-28 15:52:41,029 - INFO - Appended valid result to CSV
+2024-10-28 15:52:41,029 - INFO - It took 1 retries for Barack Obama for this question: Has an assertive personality
+2024-10-28 15:52:41,029 - DEBUG - Processing Barack Obama with question: Can be cold and aloof
+2024-10-28 15:52:41,334 - DEBUG - Generated text:  Strongly Agree
+2024-10-28 15:52:41,334 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:41,334 - DEBUG - Processing Barack Obama with question: Can be cold and aloof
+2024-10-28 15:52:41,633 - DEBUG - Generated text:  I strongly disagree.
+2024-10-28 15:52:41,634 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:52:41,634 - DEBUG - Processing Barack Obama with question: Can be cold and aloof
+2024-10-28 15:52:41,819 - DEBUG - Generated text:  4
+2024-10-28 15:52:41,819 - INFO - Valid response received: 4
+2024-10-28 15:52:41,819 - INFO - Appended valid result to CSV
+2024-10-28 15:52:41,819 - INFO - It took 3 retries for Barack Obama for this question: Can be cold and aloof
+2024-10-28 15:52:41,819 - DEBUG - Processing Barack Obama with question: Perseveres until the task is finished
+2024-10-28 15:52:42,018 - DEBUG - Generated text: 
+2
+2024-10-28 15:52:42,018 - INFO - Valid response received: 2
+2024-10-28 15:52:42,018 - INFO - Appended valid result to CSV
+2024-10-28 15:52:42,018 - INFO - It took 1 retries for Barack Obama for this question: Perseveres until the task is finished
+2024-10-28 15:52:42,018 - DEBUG - Processing Barack Obama with question: Can be moody
+2024-10-28 15:52:42,645 - DEBUG - Generated text:  The number you have chosen is 2.
+2024-10-28 15:52:42,645 - INFO - Valid response received: 2
+2024-10-28 15:52:42,645 - INFO - Appended valid result to CSV
+2024-10-28 15:52:42,645 - INFO - It took 1 retries for Barack Obama for this question: Can be moody
+2024-10-28 15:52:42,645 - DEBUG - Processing Barack Obama with question: Values artistic, aesthetic experiences
+2024-10-28 15:52:42,832 - DEBUG - Generated text:  5
+2024-10-28 15:52:42,832 - INFO - Valid response received: 5
+2024-10-28 15:52:42,832 - INFO - Appended valid result to CSV
+2024-10-28 15:52:42,832 - INFO - It took 1 retries for Barack Obama for this question: Values artistic, aesthetic experiences
+2024-10-28 15:52:42,832 - DEBUG - Processing Barack Obama with question: Is sometimes shy, inhibited
+2024-10-28 15:52:43,024 - DEBUG - Generated text:  5
+2024-10-28 15:52:43,024 - INFO - Valid response received: 5
+2024-10-28 15:52:43,024 - INFO - Appended valid result to CSV
+2024-10-28 15:52:43,024 - INFO - It took 1 retries for Barack Obama for this question: Is sometimes shy, inhibited
+2024-10-28 15:52:43,024 - DEBUG - Processing Barack Obama with question: Is considerate and kind to almost everyone
+2024-10-28 15:52:43,223 - DEBUG - Generated text:  5
+2024-10-28 15:52:43,223 - INFO - Valid response received: 5
+2024-10-28 15:52:43,223 - INFO - Appended valid result to CSV
+2024-10-28 15:52:43,223 - INFO - It took 1 retries for Barack Obama for this question: Is considerate and kind to almost everyone
+2024-10-28 15:52:43,223 - DEBUG - Processing Barack Obama with question: Does things efficiently
+2024-10-28 15:52:43,422 - DEBUG - Generated text:  5
+2024-10-28 15:52:43,422 - INFO - Valid response received: 5
+2024-10-28 15:52:43,422 - INFO - Appended valid result to CSV
+2024-10-28 15:52:43,422 - INFO - It took 1 retries for Barack Obama for this question: Does things efficiently
+2024-10-28 15:52:43,422 - DEBUG - Processing Barack Obama with question: Remains calm in tense situations
+2024-10-28 15:52:43,613 - DEBUG - Generated text:  4
+2024-10-28 15:52:43,613 - INFO - Valid response received: 4
+2024-10-28 15:52:43,613 - INFO - Appended valid result to CSV
+2024-10-28 15:52:43,613 - INFO - It took 1 retries for Barack Obama for this question: Remains calm in tense situations
+2024-10-28 15:52:43,613 - DEBUG - Processing Barack Obama with question: Prefers work that is routine
+2024-10-28 15:52:43,809 - DEBUG - Generated text:  5
+2024-10-28 15:52:43,809 - INFO - Valid response received: 5
+2024-10-28 15:52:43,809 - INFO - Appended valid result to CSV
+2024-10-28 15:52:43,809 - INFO - It took 1 retries for Barack Obama for this question: Prefers work that is routine
+2024-10-28 15:52:43,809 - DEBUG - Processing Barack Obama with question: Is outgoing, sociable
+2024-10-28 15:52:43,999 - DEBUG - Generated text:  5
+2024-10-28 15:52:43,999 - INFO - Valid response received: 5
+2024-10-28 15:52:43,999 - INFO - Appended valid result to CSV
+2024-10-28 15:52:43,999 - INFO - It took 1 retries for Barack Obama for this question: Is outgoing, sociable
+2024-10-28 15:52:43,999 - DEBUG - Processing Barack Obama with question: Is sometimes rude to others
+2024-10-28 15:52:44,184 - DEBUG - Generated text:  5
+2024-10-28 15:52:44,184 - INFO - Valid response received: 5
+2024-10-28 15:52:44,184 - INFO - Appended valid result to CSV
+2024-10-28 15:52:44,184 - INFO - It took 1 retries for Barack Obama for this question: Is sometimes rude to others
+2024-10-28 15:52:44,184 - DEBUG - Processing Barack Obama with question: Makes plans and follows through with them
+2024-10-28 15:52:44,366 - DEBUG - Generated text:  3
+2024-10-28 15:52:44,366 - INFO - Valid response received: 3
+2024-10-28 15:52:44,366 - INFO - Appended valid result to CSV
+2024-10-28 15:52:44,366 - INFO - It took 1 retries for Barack Obama for this question: Makes plans and follows through with them
+2024-10-28 15:52:44,366 - DEBUG - Processing Barack Obama with question: Gets nervous easily
+2024-10-28 15:52:44,841 - DEBUG - Generated text:  You have 5/5.
+2024-10-28 15:52:44,841 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:44,841 - DEBUG - Processing Barack Obama with question: Gets nervous easily
+2024-10-28 15:52:45,034 - DEBUG - Generated text:  4
+2024-10-28 15:52:45,034 - INFO - Valid response received: 4
+2024-10-28 15:52:45,034 - INFO - Appended valid result to CSV
+2024-10-28 15:52:45,034 - INFO - It took 2 retries for Barack Obama for this question: Gets nervous easily
+2024-10-28 15:52:45,034 - DEBUG - Processing Barack Obama with question: Likes to reflect, play with ideas
+2024-10-28 15:52:45,231 - DEBUG - Generated text:  5
+2024-10-28 15:52:45,232 - INFO - Valid response received: 5
+2024-10-28 15:52:45,232 - INFO - Appended valid result to CSV
+2024-10-28 15:52:45,232 - INFO - It took 1 retries for Barack Obama for this question: Likes to reflect, play with ideas
+2024-10-28 15:52:45,232 - DEBUG - Processing Barack Obama with question: Has few artistic interests
+2024-10-28 15:52:45,423 - DEBUG - Generated text:  3
+2024-10-28 15:52:45,423 - INFO - Valid response received: 3
+2024-10-28 15:52:45,423 - INFO - Appended valid result to CSV
+2024-10-28 15:52:45,423 - INFO - It took 1 retries for Barack Obama for this question: Has few artistic interests
+2024-10-28 15:52:45,423 - DEBUG - Processing Barack Obama with question: Likes to cooperate with others
+2024-10-28 15:52:46,604 - DEBUG - Generated text:  The number you choose will be used to determine the range of responses. Choose 1 for strongly disagree
+2024-10-28 15:52:46,604 - INFO - Valid response received: 1
+2024-10-28 15:52:46,604 - INFO - Appended valid result to CSV
+2024-10-28 15:52:46,604 - INFO - It took 1 retries for Barack Obama for this question: Likes to cooperate with others
+2024-10-28 15:52:46,604 - DEBUG - Processing Barack Obama with question: Is easily distracted
+2024-10-28 15:52:46,783 - DEBUG - Generated text:  2
+2024-10-28 15:52:46,784 - INFO - Valid response received: 2
+2024-10-28 15:52:46,784 - INFO - Appended valid result to CSV
+2024-10-28 15:52:46,784 - INFO - It took 1 retries for Barack Obama for this question: Is easily distracted
+2024-10-28 15:52:46,784 - DEBUG - Processing Barack Obama with question: Is sophisticated in art, music, or Literature
+2024-10-28 15:52:47,527 - DEBUG - Generated text:  Please respond with a number between 1 and 5.
+2024-10-28 15:52:47,527 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:47,528 - DEBUG - Processing Barack Obama with question: Is sophisticated in art, music, or Literature
+2024-10-28 15:52:47,709 - DEBUG - Generated text:  3
+2024-10-28 15:52:47,709 - INFO - Valid response received: 3
+2024-10-28 15:52:47,709 - INFO - Appended valid result to CSV
+2024-10-28 15:52:47,709 - INFO - It took 2 retries for Barack Obama for this question: Is sophisticated in art, music, or Literature
+2024-10-28 15:52:47,709 - DEBUG - Processing Nelson Mandela with question: Is talkative
+2024-10-28 15:52:48,005 - DEBUG - Generated text:  Strongly Agree
+2024-10-28 15:52:48,005 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:48,005 - DEBUG - Processing Nelson Mandela with question: Is talkative
+2024-10-28 15:52:48,071 - DEBUG - Generated text: 
+2024-10-28 15:52:48,071 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:52:48,071 - DEBUG - Processing Nelson Mandela with question: Is talkative
+2024-10-28 15:52:48,255 - DEBUG - Generated text:  5
+2024-10-28 15:52:48,255 - INFO - Valid response received: 5
+2024-10-28 15:52:48,256 - INFO - Appended valid result to CSV
+2024-10-28 15:52:48,256 - INFO - It took 3 retries for Nelson Mandela for this question: Is talkative
+2024-10-28 15:52:48,256 - DEBUG - Processing Nelson Mandela with question: Tends to find fault with others
+2024-10-28 15:52:48,443 - DEBUG - Generated text:  5
+2024-10-28 15:52:48,443 - INFO - Valid response received: 5
+2024-10-28 15:52:48,443 - INFO - Appended valid result to CSV
+2024-10-28 15:52:48,443 - INFO - It took 1 retries for Nelson Mandela for this question: Tends to find fault with others
+2024-10-28 15:52:48,443 - DEBUG - Processing Nelson Mandela with question: Does a thorough job
+2024-10-28 15:52:48,626 - DEBUG - Generated text:  4
+2024-10-28 15:52:48,626 - INFO - Valid response received: 4
+2024-10-28 15:52:48,626 - INFO - Appended valid result to CSV
+2024-10-28 15:52:48,626 - INFO - It took 1 retries for Nelson Mandela for this question: Does a thorough job
+2024-10-28 15:52:48,626 - DEBUG - Processing Nelson Mandela with question: Is depressed, blue
+2024-10-28 15:52:48,808 - DEBUG - Generated text:  3
+2024-10-28 15:52:48,808 - INFO - Valid response received: 3
+2024-10-28 15:52:48,808 - INFO - Appended valid result to CSV
+2024-10-28 15:52:48,808 - INFO - It took 1 retries for Nelson Mandela for this question: Is depressed, blue
+2024-10-28 15:52:48,808 - DEBUG - Processing Nelson Mandela with question: Is original, comes up with new ideas
+2024-10-28 15:52:48,991 - DEBUG - Generated text:  5
+2024-10-28 15:52:48,991 - INFO - Valid response received: 5
+2024-10-28 15:52:48,991 - INFO - Appended valid result to CSV
+2024-10-28 15:52:48,991 - INFO - It took 1 retries for Nelson Mandela for this question: Is original, comes up with new ideas
+2024-10-28 15:52:48,991 - DEBUG - Processing Nelson Mandela with question: Is reserved
+2024-10-28 15:52:49,179 - DEBUG - Generated text:  2
+2024-10-28 15:52:49,179 - INFO - Valid response received: 2
+2024-10-28 15:52:49,179 - INFO - Appended valid result to CSV
+2024-10-28 15:52:49,180 - INFO - It took 1 retries for Nelson Mandela for this question: Is reserved
+2024-10-28 15:52:49,180 - DEBUG - Processing Nelson Mandela with question: Is helpful and unselfish with others
+2024-10-28 15:52:49,368 - DEBUG - Generated text:  5
+2024-10-28 15:52:49,368 - INFO - Valid response received: 5
+2024-10-28 15:52:49,368 - INFO - Appended valid result to CSV
+2024-10-28 15:52:49,368 - INFO - It took 1 retries for Nelson Mandela for this question: Is helpful and unselfish with others
+2024-10-28 15:52:49,368 - DEBUG - Processing Nelson Mandela with question: Can be somewhat careless
+2024-10-28 15:52:50,016 - DEBUG - Generated text:  I would rate this statement as a 5.
+2024-10-28 15:52:50,016 - INFO - Valid response received: 5
+2024-10-28 15:52:50,016 - INFO - Appended valid result to CSV
+2024-10-28 15:52:50,016 - INFO - It took 1 retries for Nelson Mandela for this question: Can be somewhat careless
+2024-10-28 15:52:50,016 - DEBUG - Processing Nelson Mandela with question: Is relaxed, handles stress well
+2024-10-28 15:52:50,200 - DEBUG - Generated text:  5
+2024-10-28 15:52:50,200 - INFO - Valid response received: 5
+2024-10-28 15:52:50,200 - INFO - Appended valid result to CSV
+2024-10-28 15:52:50,200 - INFO - It took 1 retries for Nelson Mandela for this question: Is relaxed, handles stress well
+2024-10-28 15:52:50,200 - DEBUG - Processing Nelson Mandela with question: Is curious about many different things
+2024-10-28 15:52:50,381 - DEBUG - Generated text:  5
+2024-10-28 15:52:50,381 - INFO - Valid response received: 5
+2024-10-28 15:52:50,381 - INFO - Appended valid result to CSV
+2024-10-28 15:52:50,381 - INFO - It took 1 retries for Nelson Mandela for this question: Is curious about many different things
+2024-10-28 15:52:50,381 - DEBUG - Processing Nelson Mandela with question: Is full of energy
+2024-10-28 15:52:50,562 - DEBUG - Generated text:  5
+2024-10-28 15:52:50,562 - INFO - Valid response received: 5
+2024-10-28 15:52:50,562 - INFO - Appended valid result to CSV
+2024-10-28 15:52:50,562 - INFO - It took 1 retries for Nelson Mandela for this question: Is full of energy
+2024-10-28 15:52:50,562 - DEBUG - Processing Nelson Mandela with question: Starts quarrels with others
+2024-10-28 15:52:50,857 - DEBUG - Generated text:  I strongly disagree.
+2024-10-28 15:52:50,858 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:50,858 - DEBUG - Processing Nelson Mandela with question: Starts quarrels with others
+2024-10-28 15:52:51,038 - DEBUG - Generated text:  5
+2024-10-28 15:52:51,038 - INFO - Valid response received: 5
+2024-10-28 15:52:51,038 - INFO - Appended valid result to CSV
+2024-10-28 15:52:51,038 - INFO - It took 2 retries for Nelson Mandela for this question: Starts quarrels with others
+2024-10-28 15:52:51,038 - DEBUG - Processing Nelson Mandela with question: Is a reliable worker
+2024-10-28 15:52:51,217 - DEBUG - Generated text:  5
+2024-10-28 15:52:51,217 - INFO - Valid response received: 5
+2024-10-28 15:52:51,217 - INFO - Appended valid result to CSV
+2024-10-28 15:52:51,217 - INFO - It took 1 retries for Nelson Mandela for this question: Is a reliable worker
+2024-10-28 15:52:51,217 - DEBUG - Processing Nelson Mandela with question: Can be tense
+2024-10-28 15:52:51,513 - DEBUG - Generated text:  I strongly agree.
+2024-10-28 15:52:51,513 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:51,513 - DEBUG - Processing Nelson Mandela with question: Can be tense
+2024-10-28 15:52:51,699 - DEBUG - Generated text:  3
+2024-10-28 15:52:51,699 - INFO - Valid response received: 3
+2024-10-28 15:52:51,699 - INFO - Appended valid result to CSV
+2024-10-28 15:52:51,699 - INFO - It took 2 retries for Nelson Mandela for this question: Can be tense
+2024-10-28 15:52:51,699 - DEBUG - Processing Nelson Mandela with question: Is ingenious, a deep thinker
+2024-10-28 15:52:51,880 - DEBUG - Generated text:  5
+2024-10-28 15:52:51,880 - INFO - Valid response received: 5
+2024-10-28 15:52:51,880 - INFO - Appended valid result to CSV
+2024-10-28 15:52:51,880 - INFO - It took 1 retries for Nelson Mandela for this question: Is ingenious, a deep thinker
+2024-10-28 15:52:51,880 - DEBUG - Processing Nelson Mandela with question: Generates a lot of enthusiasm
+2024-10-28 15:52:52,066 - DEBUG - Generated text:  5
+2024-10-28 15:52:52,066 - INFO - Valid response received: 5
+2024-10-28 15:52:52,066 - INFO - Appended valid result to CSV
+2024-10-28 15:52:52,066 - INFO - It took 1 retries for Nelson Mandela for this question: Generates a lot of enthusiasm
+2024-10-28 15:52:52,066 - DEBUG - Processing Nelson Mandela with question: Has a forgiving nature
+2024-10-28 15:52:52,254 - DEBUG - Generated text:  5
+2024-10-28 15:52:52,254 - INFO - Valid response received: 5
+2024-10-28 15:52:52,254 - INFO - Appended valid result to CSV
+2024-10-28 15:52:52,255 - INFO - It took 1 retries for Nelson Mandela for this question: Has a forgiving nature
+2024-10-28 15:52:52,255 - DEBUG - Processing Nelson Mandela with question: Tends to be disorganized
+2024-10-28 15:52:52,437 - DEBUG - Generated text:  5
+2024-10-28 15:52:52,437 - INFO - Valid response received: 5
+2024-10-28 15:52:52,437 - INFO - Appended valid result to CSV
+2024-10-28 15:52:52,437 - INFO - It took 1 retries for Nelson Mandela for this question: Tends to be disorganized
+2024-10-28 15:52:52,437 - DEBUG - Processing Nelson Mandela with question: Worries a lot
+2024-10-28 15:52:52,628 - DEBUG - Generated text:  5
+2024-10-28 15:52:52,628 - INFO - Valid response received: 5
+2024-10-28 15:52:52,628 - INFO - Appended valid result to CSV
+2024-10-28 15:52:52,628 - INFO - It took 1 retries for Nelson Mandela for this question: Worries a lot
+2024-10-28 15:52:52,628 - DEBUG - Processing Nelson Mandela with question: Has an active imagination
+2024-10-28 15:52:52,811 - DEBUG - Generated text:  5
+2024-10-28 15:52:52,811 - INFO - Valid response received: 5
+2024-10-28 15:52:52,811 - INFO - Appended valid result to CSV
+2024-10-28 15:52:52,811 - INFO - It took 1 retries for Nelson Mandela for this question: Has an active imagination
+2024-10-28 15:52:52,811 - DEBUG - Processing Nelson Mandela with question: Tends to be quiet
+2024-10-28 15:52:52,991 - DEBUG - Generated text:  4
+2024-10-28 15:52:52,991 - INFO - Valid response received: 4
+2024-10-28 15:52:52,991 - INFO - Appended valid result to CSV
+2024-10-28 15:52:52,991 - INFO - It took 1 retries for Nelson Mandela for this question: Tends to be quiet
+2024-10-28 15:52:52,991 - DEBUG - Processing Nelson Mandela with question: Is generally trusting
+2024-10-28 15:52:53,175 - DEBUG - Generated text:  5
+2024-10-28 15:52:53,175 - INFO - Valid response received: 5
+2024-10-28 15:52:53,175 - INFO - Appended valid result to CSV
+2024-10-28 15:52:53,175 - INFO - It took 1 retries for Nelson Mandela for this question: Is generally trusting
+2024-10-28 15:52:53,175 - DEBUG - Processing Nelson Mandela with question: Tends to be lazy
+2024-10-28 15:52:54,115 - DEBUG - Generated text:  I would rate myself as a 5 - Strongly Agree.
+2024-10-28 15:52:54,115 - INFO - Valid response received: 5
+2024-10-28 15:52:54,115 - INFO - Appended valid result to CSV
+2024-10-28 15:52:54,115 - INFO - It took 1 retries for Nelson Mandela for this question: Tends to be lazy
+2024-10-28 15:52:54,115 - DEBUG - Processing Nelson Mandela with question: Is emotionally stable, not easily upset
+2024-10-28 15:52:54,522 - DEBUG - Generated text:  Your response is 4.
+2024-10-28 15:52:54,522 - INFO - Valid response received: 4
+2024-10-28 15:52:54,522 - INFO - Appended valid result to CSV
+2024-10-28 15:52:54,522 - INFO - It took 1 retries for Nelson Mandela for this question: Is emotionally stable, not easily upset
+2024-10-28 15:52:54,522 - DEBUG - Processing Nelson Mandela with question: Is inventive
+2024-10-28 15:52:54,701 - DEBUG - Generated text:  5
+2024-10-28 15:52:54,702 - INFO - Valid response received: 5
+2024-10-28 15:52:54,702 - INFO - Appended valid result to CSV
+2024-10-28 15:52:54,702 - INFO - It took 1 retries for Nelson Mandela for this question: Is inventive
+2024-10-28 15:52:54,702 - DEBUG - Processing Nelson Mandela with question: Has an assertive personality
+2024-10-28 15:52:54,888 - DEBUG - Generated text:  5
+2024-10-28 15:52:54,888 - INFO - Valid response received: 5
+2024-10-28 15:52:54,888 - INFO - Appended valid result to CSV
+2024-10-28 15:52:54,888 - INFO - It took 1 retries for Nelson Mandela for this question: Has an assertive personality
+2024-10-28 15:52:54,888 - DEBUG - Processing Nelson Mandela with question: Can be cold and aloof
+2024-10-28 15:52:55,067 - DEBUG - Generated text:  4
+2024-10-28 15:52:55,068 - INFO - Valid response received: 4
+2024-10-28 15:52:55,068 - INFO - Appended valid result to CSV
+2024-10-28 15:52:55,068 - INFO - It took 1 retries for Nelson Mandela for this question: Can be cold and aloof
+2024-10-28 15:52:55,068 - DEBUG - Processing Nelson Mandela with question: Perseveres until the task is finished
+2024-10-28 15:52:55,246 - DEBUG - Generated text:  5
+2024-10-28 15:52:55,246 - INFO - Valid response received: 5
+2024-10-28 15:52:55,246 - INFO - Appended valid result to CSV
+2024-10-28 15:52:55,246 - INFO - It took 1 retries for Nelson Mandela for this question: Perseveres until the task is finished
+2024-10-28 15:52:55,246 - DEBUG - Processing Nelson Mandela with question: Can be moody
+2024-10-28 15:52:55,539 - DEBUG - Generated text:  I strongly disagree.
+2024-10-28 15:52:55,539 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:55,539 - DEBUG - Processing Nelson Mandela with question: Can be moody
+2024-10-28 15:52:55,719 - DEBUG - Generated text:  3
+2024-10-28 15:52:55,719 - INFO - Valid response received: 3
+2024-10-28 15:52:55,719 - INFO - Appended valid result to CSV
+2024-10-28 15:52:55,719 - INFO - It took 2 retries for Nelson Mandela for this question: Can be moody
+2024-10-28 15:52:55,719 - DEBUG - Processing Nelson Mandela with question: Values artistic, aesthetic experiences
+2024-10-28 15:52:56,893 - DEBUG - Generated text:  You are Nelson Mandela. Please rate the following statement from 1 (strongly disagree) to
+2024-10-28 15:52:56,893 - INFO - Valid response received: 1
+2024-10-28 15:52:56,893 - INFO - Appended valid result to CSV
+2024-10-28 15:52:56,894 - INFO - It took 1 retries for Nelson Mandela for this question: Values artistic, aesthetic experiences
+2024-10-28 15:52:56,894 - DEBUG - Processing Nelson Mandela with question: Is sometimes shy, inhibited
+2024-10-28 15:52:57,075 - DEBUG - Generated text:  5
+2024-10-28 15:52:57,075 - INFO - Valid response received: 5
+2024-10-28 15:52:57,075 - INFO - Appended valid result to CSV
+2024-10-28 15:52:57,075 - INFO - It took 1 retries for Nelson Mandela for this question: Is sometimes shy, inhibited
+2024-10-28 15:52:57,075 - DEBUG - Processing Nelson Mandela with question: Is considerate and kind to almost everyone
+2024-10-28 15:52:57,142 - DEBUG - Generated text: 
+2024-10-28 15:52:57,142 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:57,142 - DEBUG - Processing Nelson Mandela with question: Is considerate and kind to almost everyone
+2024-10-28 15:52:57,329 - DEBUG - Generated text:  3
+2024-10-28 15:52:57,329 - INFO - Valid response received: 3
+2024-10-28 15:52:57,329 - INFO - Appended valid result to CSV
+2024-10-28 15:52:57,329 - INFO - It took 2 retries for Nelson Mandela for this question: Is considerate and kind to almost everyone
+2024-10-28 15:52:57,329 - DEBUG - Processing Nelson Mandela with question: Does things efficiently
+2024-10-28 15:52:57,680 - DEBUG - Generated text:  You are highly efficient.
+2024-10-28 15:52:57,680 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:57,680 - DEBUG - Processing Nelson Mandela with question: Does things efficiently
+2024-10-28 15:52:57,866 - DEBUG - Generated text:  5
+2024-10-28 15:52:57,866 - INFO - Valid response received: 5
+2024-10-28 15:52:57,866 - INFO - Appended valid result to CSV
+2024-10-28 15:52:57,866 - INFO - It took 2 retries for Nelson Mandela for this question: Does things efficiently
+2024-10-28 15:52:57,866 - DEBUG - Processing Nelson Mandela with question: Remains calm in tense situations
+2024-10-28 15:52:58,052 - DEBUG - Generated text:  5
+2024-10-28 15:52:58,053 - INFO - Valid response received: 5
+2024-10-28 15:52:58,053 - INFO - Appended valid result to CSV
+2024-10-28 15:52:58,053 - INFO - It took 1 retries for Nelson Mandela for this question: Remains calm in tense situations
+2024-10-28 15:52:58,053 - DEBUG - Processing Nelson Mandela with question: Prefers work that is routine
+2024-10-28 15:52:58,118 - DEBUG - Generated text: 
+2024-10-28 15:52:58,118 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:58,118 - DEBUG - Processing Nelson Mandela with question: Prefers work that is routine
+2024-10-28 15:52:58,295 - DEBUG - Generated text:  5
+2024-10-28 15:52:58,295 - INFO - Valid response received: 5
+2024-10-28 15:52:58,295 - INFO - Appended valid result to CSV
+2024-10-28 15:52:58,295 - INFO - It took 2 retries for Nelson Mandela for this question: Prefers work that is routine
+2024-10-28 15:52:58,295 - DEBUG - Processing Nelson Mandela with question: Is outgoing, sociable
+2024-10-28 15:52:58,599 - DEBUG - Generated text:  I strongly agree.
+2024-10-28 15:52:58,599 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:52:58,599 - DEBUG - Processing Nelson Mandela with question: Is outgoing, sociable
+2024-10-28 15:52:59,314 - DEBUG - Generated text:  Please provide a number between 1 and 5.
+2024-10-28 15:52:59,315 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:52:59,315 - DEBUG - Processing Nelson Mandela with question: Is outgoing, sociable
+2024-10-28 15:52:59,503 - DEBUG - Generated text:  4
+2024-10-28 15:52:59,503 - INFO - Valid response received: 4
+2024-10-28 15:52:59,504 - INFO - Appended valid result to CSV
+2024-10-28 15:52:59,504 - INFO - It took 3 retries for Nelson Mandela for this question: Is outgoing, sociable
+2024-10-28 15:52:59,504 - DEBUG - Processing Nelson Mandela with question: Is sometimes rude to others
+2024-10-28 15:52:59,864 - DEBUG - Generated text:  Your rating: 5
+2024-10-28 15:52:59,864 - INFO - Valid response received: 5
+2024-10-28 15:52:59,864 - INFO - Appended valid result to CSV
+2024-10-28 15:52:59,864 - INFO - It took 1 retries for Nelson Mandela for this question: Is sometimes rude to others
+2024-10-28 15:52:59,864 - DEBUG - Processing Nelson Mandela with question: Makes plans and follows through with them
+2024-10-28 15:53:00,046 - DEBUG - Generated text:  5
+2024-10-28 15:53:00,046 - INFO - Valid response received: 5
+2024-10-28 15:53:00,047 - INFO - Appended valid result to CSV
+2024-10-28 15:53:00,047 - INFO - It took 1 retries for Nelson Mandela for this question: Makes plans and follows through with them
+2024-10-28 15:53:00,047 - DEBUG - Processing Nelson Mandela with question: Gets nervous easily
+2024-10-28 15:53:00,240 - DEBUG - Generated text:  5
+2024-10-28 15:53:00,240 - INFO - Valid response received: 5
+2024-10-28 15:53:00,240 - INFO - Appended valid result to CSV
+2024-10-28 15:53:00,240 - INFO - It took 1 retries for Nelson Mandela for this question: Gets nervous easily
+2024-10-28 15:53:00,240 - DEBUG - Processing Nelson Mandela with question: Likes to reflect, play with ideas
+2024-10-28 15:53:00,426 - DEBUG - Generated text:  5
+2024-10-28 15:53:00,426 - INFO - Valid response received: 5
+2024-10-28 15:53:00,426 - INFO - Appended valid result to CSV
+2024-10-28 15:53:00,426 - INFO - It took 1 retries for Nelson Mandela for this question: Likes to reflect, play with ideas
+2024-10-28 15:53:00,426 - DEBUG - Processing Nelson Mandela with question: Has few artistic interests
+2024-10-28 15:53:01,189 - DEBUG - Generated text:  I see myself as someone who is strongly interested in art.
+2024-10-28 15:53:01,189 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:01,189 - DEBUG - Processing Nelson Mandela with question: Has few artistic interests
+2024-10-28 15:53:01,370 - DEBUG - Generated text:  3
+2024-10-28 15:53:01,370 - INFO - Valid response received: 3
+2024-10-28 15:53:01,370 - INFO - Appended valid result to CSV
+2024-10-28 15:53:01,370 - INFO - It took 2 retries for Nelson Mandela for this question: Has few artistic interests
+2024-10-28 15:53:01,370 - DEBUG - Processing Nelson Mandela with question: Likes to cooperate with others
+2024-10-28 15:53:01,558 - DEBUG - Generated text:  5
+2024-10-28 15:53:01,558 - INFO - Valid response received: 5
+2024-10-28 15:53:01,558 - INFO - Appended valid result to CSV
+2024-10-28 15:53:01,558 - INFO - It took 1 retries for Nelson Mandela for this question: Likes to cooperate with others
+2024-10-28 15:53:01,558 - DEBUG - Processing Nelson Mandela with question: Is easily distracted
+2024-10-28 15:53:01,850 - DEBUG - Generated text:  I strongly agree.
+2024-10-28 15:53:01,850 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:01,850 - DEBUG - Processing Nelson Mandela with question: Is easily distracted
+2024-10-28 15:53:02,036 - DEBUG - Generated text:  5
+2024-10-28 15:53:02,036 - INFO - Valid response received: 5
+2024-10-28 15:53:02,036 - INFO - Appended valid result to CSV
+2024-10-28 15:53:02,036 - INFO - It took 2 retries for Nelson Mandela for this question: Is easily distracted
+2024-10-28 15:53:02,036 - DEBUG - Processing Nelson Mandela with question: Is sophisticated in art, music, or Literature
+2024-10-28 15:53:02,217 - DEBUG - Generated text: 
+5
+2024-10-28 15:53:02,217 - INFO - Valid response received: 5
+2024-10-28 15:53:02,217 - INFO - Appended valid result to CSV
+2024-10-28 15:53:02,217 - INFO - It took 1 retries for Nelson Mandela for this question: Is sophisticated in art, music, or Literature
+2024-10-28 15:53:02,217 - DEBUG - Processing Martin Luther King Jr. with question: Is talkative
+2024-10-28 15:53:02,511 - DEBUG - Generated text:  I strongly agree.
+2024-10-28 15:53:02,511 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:02,511 - DEBUG - Processing Martin Luther King Jr. with question: Is talkative
+2024-10-28 15:53:02,698 - DEBUG - Generated text:  4
+2024-10-28 15:53:02,698 - INFO - Valid response received: 4
+2024-10-28 15:53:02,698 - INFO - Appended valid result to CSV
+2024-10-28 15:53:02,698 - INFO - It took 2 retries for Martin Luther King Jr. for this question: Is talkative
+2024-10-28 15:53:02,698 - DEBUG - Processing Martin Luther King Jr. with question: Tends to find fault with others
+2024-10-28 15:53:03,836 - DEBUG - Generated text:  Please select a number from 1-5 to rate the following statement: I see myself as someone
+2024-10-28 15:53:03,837 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:03,837 - DEBUG - Processing Martin Luther King Jr. with question: Tends to find fault with others
+2024-10-28 15:53:04,011 - DEBUG - Generated text:  2
+2024-10-28 15:53:04,011 - INFO - Valid response received: 2
+2024-10-28 15:53:04,011 - INFO - Appended valid result to CSV
+2024-10-28 15:53:04,011 - INFO - It took 2 retries for Martin Luther King Jr. for this question: Tends to find fault with others
+2024-10-28 15:53:04,011 - DEBUG - Processing Martin Luther King Jr. with question: Does a thorough job
+2024-10-28 15:53:05,170 - DEBUG - Generated text:  Please select a number from 1 to 5 to indicate the degree of agreement or disagreement.
+2024-10-28 15:53:05,170 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:05,170 - DEBUG - Processing Martin Luther King Jr. with question: Does a thorough job
+2024-10-28 15:53:05,534 - DEBUG - Generated text:  You scored 5.
+2024-10-28 15:53:05,534 - INFO - Valid response received: 5
+2024-10-28 15:53:05,534 - INFO - Appended valid result to CSV
+2024-10-28 15:53:05,534 - INFO - It took 2 retries for Martin Luther King Jr. for this question: Does a thorough job
+2024-10-28 15:53:05,534 - DEBUG - Processing Martin Luther King Jr. with question: Is depressed, blue
+2024-10-28 15:53:05,720 - DEBUG - Generated text:  5
+2024-10-28 15:53:05,720 - INFO - Valid response received: 5
+2024-10-28 15:53:05,720 - INFO - Appended valid result to CSV
+2024-10-28 15:53:05,720 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Is depressed, blue
+2024-10-28 15:53:05,720 - DEBUG - Processing Martin Luther King Jr. with question: Is original, comes up with new ideas
+2024-10-28 15:53:05,902 - DEBUG - Generated text:  5
+2024-10-28 15:53:05,902 - INFO - Valid response received: 5
+2024-10-28 15:53:05,902 - INFO - Appended valid result to CSV
+2024-10-28 15:53:05,902 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Is original, comes up with new ideas
+2024-10-28 15:53:05,902 - DEBUG - Processing Martin Luther King Jr. with question: Is reserved
+2024-10-28 15:53:06,085 - DEBUG - Generated text:  3
+2024-10-28 15:53:06,085 - INFO - Valid response received: 3
+2024-10-28 15:53:06,085 - INFO - Appended valid result to CSV
+2024-10-28 15:53:06,085 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Is reserved
+2024-10-28 15:53:06,085 - DEBUG - Processing Martin Luther King Jr. with question: Is helpful and unselfish with others
+2024-10-28 15:53:06,284 - DEBUG - Generated text:  3
+2024-10-28 15:53:06,284 - INFO - Valid response received: 3
+2024-10-28 15:53:06,284 - INFO - Appended valid result to CSV
+2024-10-28 15:53:06,284 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Is helpful and unselfish with others
+2024-10-28 15:53:06,284 - DEBUG - Processing Martin Luther King Jr. with question: Can be somewhat careless
+2024-10-28 15:53:06,473 - DEBUG - Generated text:  2
+2024-10-28 15:53:06,473 - INFO - Valid response received: 2
+2024-10-28 15:53:06,473 - INFO - Appended valid result to CSV
+2024-10-28 15:53:06,473 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Can be somewhat careless
+2024-10-28 15:53:06,473 - DEBUG - Processing Martin Luther King Jr. with question: Is relaxed, handles stress well
+2024-10-28 15:53:06,652 - DEBUG - Generated text:  5
+2024-10-28 15:53:06,652 - INFO - Valid response received: 5
+2024-10-28 15:53:06,652 - INFO - Appended valid result to CSV
+2024-10-28 15:53:06,652 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Is relaxed, handles stress well
+2024-10-28 15:53:06,652 - DEBUG - Processing Martin Luther King Jr. with question: Is curious about many different things
+2024-10-28 15:53:06,845 - DEBUG - Generated text:  5
+2024-10-28 15:53:06,845 - INFO - Valid response received: 5
+2024-10-28 15:53:06,845 - INFO - Appended valid result to CSV
+2024-10-28 15:53:06,845 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Is curious about many different things
+2024-10-28 15:53:06,845 - DEBUG - Processing Martin Luther King Jr. with question: Is full of energy
+2024-10-28 15:53:07,027 - DEBUG - Generated text:  5
+2024-10-28 15:53:07,027 - INFO - Valid response received: 5
+2024-10-28 15:53:07,027 - INFO - Appended valid result to CSV
+2024-10-28 15:53:07,027 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Is full of energy
+2024-10-28 15:53:07,027 - DEBUG - Processing Martin Luther King Jr. with question: Starts quarrels with others
+2024-10-28 15:53:07,203 - DEBUG - Generated text:  3
+2024-10-28 15:53:07,203 - INFO - Valid response received: 3
+2024-10-28 15:53:07,203 - INFO - Appended valid result to CSV
+2024-10-28 15:53:07,203 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Starts quarrels with others
+2024-10-28 15:53:07,203 - DEBUG - Processing Martin Luther King Jr. with question: Is a reliable worker
+2024-10-28 15:53:07,383 - DEBUG - Generated text:  5
+2024-10-28 15:53:07,383 - INFO - Valid response received: 5
+2024-10-28 15:53:07,383 - INFO - Appended valid result to CSV
+2024-10-28 15:53:07,383 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Is a reliable worker
+2024-10-28 15:53:07,383 - DEBUG - Processing Martin Luther King Jr. with question: Can be tense
+2024-10-28 15:53:07,573 - DEBUG - Generated text:  5
+2024-10-28 15:53:07,573 - INFO - Valid response received: 5
+2024-10-28 15:53:07,574 - INFO - Appended valid result to CSV
+2024-10-28 15:53:07,574 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Can be tense
+2024-10-28 15:53:07,574 - DEBUG - Processing Martin Luther King Jr. with question: Is ingenious, a deep thinker
+2024-10-28 15:53:08,749 - DEBUG - Generated text:  Please respond with one number between 1 and 5 to indicate the degree to which you agree or
+2024-10-28 15:53:08,749 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:08,749 - DEBUG - Processing Martin Luther King Jr. with question: Is ingenious, a deep thinker
+2024-10-28 15:53:09,165 - DEBUG - Generated text:  Your rating is 5.
+2024-10-28 15:53:09,165 - INFO - Valid response received: 5
+2024-10-28 15:53:09,166 - INFO - Appended valid result to CSV
+2024-10-28 15:53:09,166 - INFO - It took 2 retries for Martin Luther King Jr. for this question: Is ingenious, a deep thinker
+2024-10-28 15:53:09,166 - DEBUG - Processing Martin Luther King Jr. with question: Generates a lot of enthusiasm
+2024-10-28 15:53:09,341 - DEBUG - Generated text:  5
+2024-10-28 15:53:09,341 - INFO - Valid response received: 5
+2024-10-28 15:53:09,342 - INFO - Appended valid result to CSV
+2024-10-28 15:53:09,342 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Generates a lot of enthusiasm
+2024-10-28 15:53:09,342 - DEBUG - Processing Martin Luther King Jr. with question: Has a forgiving nature
+2024-10-28 15:53:10,505 - DEBUG - Generated text:  Please rate the following statement: I see myself as someone who has a forgiving nature.
+
+3
+2024-10-28 15:53:10,505 - INFO - Valid response received: 3
+2024-10-28 15:53:10,505 - INFO - Appended valid result to CSV
+2024-10-28 15:53:10,505 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Has a forgiving nature
+2024-10-28 15:53:10,505 - DEBUG - Processing Martin Luther King Jr. with question: Tends to be disorganized
+2024-10-28 15:53:11,662 - DEBUG - Generated text:  Your rating: <input type="number" name="rating" id="rating-input"
+2024-10-28 15:53:11,662 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:11,662 - DEBUG - Processing Martin Luther King Jr. with question: Tends to be disorganized
+2024-10-28 15:53:11,840 - DEBUG - Generated text:  3
+2024-10-28 15:53:11,840 - INFO - Valid response received: 3
+2024-10-28 15:53:11,840 - INFO - Appended valid result to CSV
+2024-10-28 15:53:11,840 - INFO - It took 2 retries for Martin Luther King Jr. for this question: Tends to be disorganized
+2024-10-28 15:53:11,840 - DEBUG - Processing Martin Luther King Jr. with question: Worries a lot
+2024-10-28 15:53:12,025 - DEBUG - Generated text:  2
+2024-10-28 15:53:12,025 - INFO - Valid response received: 2
+2024-10-28 15:53:12,025 - INFO - Appended valid result to CSV
+2024-10-28 15:53:12,025 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Worries a lot
+2024-10-28 15:53:12,025 - DEBUG - Processing Martin Luther King Jr. with question: Has an active imagination
+2024-10-28 15:53:12,662 - DEBUG - Generated text:  The number 4 corresponds to Agree.
+2024-10-28 15:53:12,662 - INFO - Valid response received: 4
+2024-10-28 15:53:12,662 - INFO - Appended valid result to CSV
+2024-10-28 15:53:12,662 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Has an active imagination
+2024-10-28 15:53:12,662 - DEBUG - Processing Martin Luther King Jr. with question: Tends to be quiet
+2024-10-28 15:53:12,843 - DEBUG - Generated text: 
+1
+2024-10-28 15:53:12,843 - INFO - Valid response received: 1
+2024-10-28 15:53:12,843 - INFO - Appended valid result to CSV
+2024-10-28 15:53:12,843 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Tends to be quiet
+2024-10-28 15:53:12,843 - DEBUG - Processing Martin Luther King Jr. with question: Is generally trusting
+2024-10-28 15:53:13,034 - DEBUG - Generated text:  3
+2024-10-28 15:53:13,034 - INFO - Valid response received: 3
+2024-10-28 15:53:13,034 - INFO - Appended valid result to CSV
+2024-10-28 15:53:13,034 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Is generally trusting
+2024-10-28 15:53:13,034 - DEBUG - Processing Martin Luther King Jr. with question: Tends to be lazy
+2024-10-28 15:53:14,259 - DEBUG - Generated text:  Please rate the following statement: I see myself as someone who Tends to be lazy.
+
+
+2024-10-28 15:53:14,259 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:14,259 - DEBUG - Processing Martin Luther King Jr. with question: Tends to be lazy
+2024-10-28 15:53:14,978 - DEBUG - Generated text:  I see myself as someone who tends to be lazy.
+2024-10-28 15:53:14,978 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:53:14,978 - DEBUG - Processing Martin Luther King Jr. with question: Tends to be lazy
+2024-10-28 15:53:15,161 - DEBUG - Generated text: 
+1
+2024-10-28 15:53:15,161 - INFO - Valid response received: 1
+2024-10-28 15:53:15,162 - INFO - Appended valid result to CSV
+2024-10-28 15:53:15,162 - INFO - It took 3 retries for Martin Luther King Jr. for this question: Tends to be lazy
+2024-10-28 15:53:15,162 - DEBUG - Processing Martin Luther King Jr. with question: Is emotionally stable, not easily upset
+2024-10-28 15:53:15,366 - DEBUG - Generated text:  5
+2024-10-28 15:53:15,366 - INFO - Valid response received: 5
+2024-10-28 15:53:15,366 - INFO - Appended valid result to CSV
+2024-10-28 15:53:15,366 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Is emotionally stable, not easily upset
+2024-10-28 15:53:15,366 - DEBUG - Processing Martin Luther King Jr. with question: Is inventive
+2024-10-28 15:53:15,608 - DEBUG - Generated text:  4
+2024-10-28 15:53:15,608 - INFO - Valid response received: 4
+2024-10-28 15:53:15,608 - INFO - Appended valid result to CSV
+2024-10-28 15:53:15,609 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Is inventive
+2024-10-28 15:53:15,609 - DEBUG - Processing Martin Luther King Jr. with question: Has an assertive personality
+2024-10-28 15:53:15,815 - DEBUG - Generated text: 
+4
+2024-10-28 15:53:15,815 - INFO - Valid response received: 4
+2024-10-28 15:53:15,815 - INFO - Appended valid result to CSV
+2024-10-28 15:53:15,815 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Has an assertive personality
+2024-10-28 15:53:15,815 - DEBUG - Processing Martin Luther King Jr. with question: Can be cold and aloof
+2024-10-28 15:53:15,991 - DEBUG - Generated text:  3
+2024-10-28 15:53:15,991 - INFO - Valid response received: 3
+2024-10-28 15:53:15,991 - INFO - Appended valid result to CSV
+2024-10-28 15:53:15,991 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Can be cold and aloof
+2024-10-28 15:53:15,991 - DEBUG - Processing Martin Luther King Jr. with question: Perseveres until the task is finished
+2024-10-28 15:53:16,179 - DEBUG - Generated text:  5
+2024-10-28 15:53:16,179 - INFO - Valid response received: 5
+2024-10-28 15:53:16,179 - INFO - Appended valid result to CSV
+2024-10-28 15:53:16,179 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Perseveres until the task is finished
+2024-10-28 15:53:16,179 - DEBUG - Processing Martin Luther King Jr. with question: Can be moody
+2024-10-28 15:53:16,362 - DEBUG - Generated text:  5
+2024-10-28 15:53:16,362 - INFO - Valid response received: 5
+2024-10-28 15:53:16,363 - INFO - Appended valid result to CSV
+2024-10-28 15:53:16,363 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Can be moody
+2024-10-28 15:53:16,363 - DEBUG - Processing Martin Luther King Jr. with question: Values artistic, aesthetic experiences
+2024-10-28 15:53:16,542 - DEBUG - Generated text: 
+4
+2024-10-28 15:53:16,542 - INFO - Valid response received: 4
+2024-10-28 15:53:16,542 - INFO - Appended valid result to CSV
+2024-10-28 15:53:16,542 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Values artistic, aesthetic experiences
+2024-10-28 15:53:16,542 - DEBUG - Processing Martin Luther King Jr. with question: Is sometimes shy, inhibited
+2024-10-28 15:53:16,722 - DEBUG - Generated text:  5
+2024-10-28 15:53:16,722 - INFO - Valid response received: 5
+2024-10-28 15:53:16,722 - INFO - Appended valid result to CSV
+2024-10-28 15:53:16,722 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Is sometimes shy, inhibited
+2024-10-28 15:53:16,722 - DEBUG - Processing Martin Luther King Jr. with question: Is considerate and kind to almost everyone
+2024-10-28 15:53:16,793 - DEBUG - Generated text: 
+2024-10-28 15:53:16,793 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:16,793 - DEBUG - Processing Martin Luther King Jr. with question: Is considerate and kind to almost everyone
+2024-10-28 15:53:16,980 - DEBUG - Generated text:  5
+2024-10-28 15:53:16,980 - INFO - Valid response received: 5
+2024-10-28 15:53:16,980 - INFO - Appended valid result to CSV
+2024-10-28 15:53:16,980 - INFO - It took 2 retries for Martin Luther King Jr. for this question: Is considerate and kind to almost everyone
+2024-10-28 15:53:16,980 - DEBUG - Processing Martin Luther King Jr. with question: Does things efficiently
+2024-10-28 15:53:17,167 - DEBUG - Generated text:  4
+2024-10-28 15:53:17,167 - INFO - Valid response received: 4
+2024-10-28 15:53:17,167 - INFO - Appended valid result to CSV
+2024-10-28 15:53:17,167 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Does things efficiently
+2024-10-28 15:53:17,167 - DEBUG - Processing Martin Luther King Jr. with question: Remains calm in tense situations
+2024-10-28 15:53:18,047 - DEBUG - Generated text:  Please enter a number between 1 and 5.
+
+1
+2024-10-28 15:53:18,047 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:18,047 - DEBUG - Processing Martin Luther King Jr. with question: Remains calm in tense situations
+2024-10-28 15:53:18,634 - DEBUG - Generated text:  The number you have chosen is: 5
+2024-10-28 15:53:18,634 - INFO - Valid response received: 5
+2024-10-28 15:53:18,634 - INFO - Appended valid result to CSV
+2024-10-28 15:53:18,634 - INFO - It took 2 retries for Martin Luther King Jr. for this question: Remains calm in tense situations
+2024-10-28 15:53:18,634 - DEBUG - Processing Martin Luther King Jr. with question: Prefers work that is routine
+2024-10-28 15:53:19,820 - DEBUG - Generated text:  Please rate the following statement from 1 (strongly disagree) to 5 (strong
+2024-10-28 15:53:19,820 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:19,820 - DEBUG - Processing Martin Luther King Jr. with question: Prefers work that is routine
+2024-10-28 15:53:20,006 - DEBUG - Generated text:  4
+2024-10-28 15:53:20,006 - INFO - Valid response received: 4
+2024-10-28 15:53:20,006 - INFO - Appended valid result to CSV
+2024-10-28 15:53:20,006 - INFO - It took 2 retries for Martin Luther King Jr. for this question: Prefers work that is routine
+2024-10-28 15:53:20,006 - DEBUG - Processing Martin Luther King Jr. with question: Is outgoing, sociable
+2024-10-28 15:53:20,767 - DEBUG - Generated text:  You see yourself as someone who is outgoing and sociable.
+2024-10-28 15:53:20,767 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:20,767 - DEBUG - Processing Martin Luther King Jr. with question: Is outgoing, sociable
+2024-10-28 15:53:21,058 - DEBUG - Generated text:  I strongly disagree.
+2024-10-28 15:53:21,059 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:53:21,059 - DEBUG - Processing Martin Luther King Jr. with question: Is outgoing, sociable
+2024-10-28 15:53:21,355 - DEBUG - Generated text:  I strongly agree.
+2024-10-28 15:53:21,356 - WARNING - Invalid response. Retrying... (Attempt 3/20)
+2024-10-28 15:53:21,356 - DEBUG - Processing Martin Luther King Jr. with question: Is outgoing, sociable
+2024-10-28 15:53:21,547 - DEBUG - Generated text:  3
+2024-10-28 15:53:21,547 - INFO - Valid response received: 3
+2024-10-28 15:53:21,547 - INFO - Appended valid result to CSV
+2024-10-28 15:53:21,547 - INFO - It took 4 retries for Martin Luther King Jr. for this question: Is outgoing, sociable
+2024-10-28 15:53:21,547 - DEBUG - Processing Martin Luther King Jr. with question: Is sometimes rude to others
+2024-10-28 15:53:21,739 - DEBUG - Generated text:  4
+2024-10-28 15:53:21,739 - INFO - Valid response received: 4
+2024-10-28 15:53:21,739 - INFO - Appended valid result to CSV
+2024-10-28 15:53:21,739 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Is sometimes rude to others
+2024-10-28 15:53:21,739 - DEBUG - Processing Martin Luther King Jr. with question: Makes plans and follows through with them
+2024-10-28 15:53:21,932 - DEBUG - Generated text:  5
+2024-10-28 15:53:21,932 - INFO - Valid response received: 5
+2024-10-28 15:53:21,932 - INFO - Appended valid result to CSV
+2024-10-28 15:53:21,932 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Makes plans and follows through with them
+2024-10-28 15:53:21,932 - DEBUG - Processing Martin Luther King Jr. with question: Gets nervous easily
+2024-10-28 15:53:22,364 - DEBUG - Generated text:  You should get nervous easily.
+2024-10-28 15:53:22,364 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:22,364 - DEBUG - Processing Martin Luther King Jr. with question: Gets nervous easily
+2024-10-28 15:53:22,546 - DEBUG - Generated text:  5
+2024-10-28 15:53:22,547 - INFO - Valid response received: 5
+2024-10-28 15:53:22,547 - INFO - Appended valid result to CSV
+2024-10-28 15:53:22,547 - INFO - It took 2 retries for Martin Luther King Jr. for this question: Gets nervous easily
+2024-10-28 15:53:22,547 - DEBUG - Processing Martin Luther King Jr. with question: Likes to reflect, play with ideas
+2024-10-28 15:53:22,727 - DEBUG - Generated text:  5
+2024-10-28 15:53:22,727 - INFO - Valid response received: 5
+2024-10-28 15:53:22,727 - INFO - Appended valid result to CSV
+2024-10-28 15:53:22,728 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Likes to reflect, play with ideas
+2024-10-28 15:53:22,728 - DEBUG - Processing Martin Luther King Jr. with question: Has few artistic interests
+2024-10-28 15:53:23,885 - DEBUG - Generated text:  You are Martin Luther King Jr. and you strongly disagree with the statement "I see myself as
+2024-10-28 15:53:23,885 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:23,885 - DEBUG - Processing Martin Luther King Jr. with question: Has few artistic interests
+2024-10-28 15:53:24,068 - DEBUG - Generated text: 
+5
+2024-10-28 15:53:24,068 - INFO - Valid response received: 5
+2024-10-28 15:53:24,068 - INFO - Appended valid result to CSV
+2024-10-28 15:53:24,068 - INFO - It took 2 retries for Martin Luther King Jr. for this question: Has few artistic interests
+2024-10-28 15:53:24,068 - DEBUG - Processing Martin Luther King Jr. with question: Likes to cooperate with others
+2024-10-28 15:53:24,254 - DEBUG - Generated text:  5
+2024-10-28 15:53:24,254 - INFO - Valid response received: 5
+2024-10-28 15:53:24,254 - INFO - Appended valid result to CSV
+2024-10-28 15:53:24,254 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Likes to cooperate with others
+2024-10-28 15:53:24,254 - DEBUG - Processing Martin Luther King Jr. with question: Is easily distracted
+2024-10-28 15:53:24,436 - DEBUG - Generated text:  3
+2024-10-28 15:53:24,436 - INFO - Valid response received: 3
+2024-10-28 15:53:24,436 - INFO - Appended valid result to CSV
+2024-10-28 15:53:24,436 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Is easily distracted
+2024-10-28 15:53:24,436 - DEBUG - Processing Martin Luther King Jr. with question: Is sophisticated in art, music, or Literature
+2024-10-28 15:53:24,790 - DEBUG - Generated text:  Your rating: 4
+2024-10-28 15:53:24,790 - INFO - Valid response received: 4
+2024-10-28 15:53:24,790 - INFO - Appended valid result to CSV
+2024-10-28 15:53:24,790 - INFO - It took 1 retries for Martin Luther King Jr. for this question: Is sophisticated in art, music, or Literature
+2024-10-28 15:53:24,790 - DEBUG - Processing Mikhail Gorbachev with question: Is talkative
+2024-10-28 15:53:24,967 - DEBUG - Generated text:  5
+2024-10-28 15:53:24,968 - INFO - Valid response received: 5
+2024-10-28 15:53:24,968 - INFO - Appended valid result to CSV
+2024-10-28 15:53:24,968 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Is talkative
+2024-10-28 15:53:24,968 - DEBUG - Processing Mikhail Gorbachev with question: Tends to find fault with others
+2024-10-28 15:53:26,138 - DEBUG - Generated text:  Mikhail Gorbachev would tend to agree with the statement "I see myself as
+2024-10-28 15:53:26,138 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:26,138 - DEBUG - Processing Mikhail Gorbachev with question: Tends to find fault with others
+2024-10-28 15:53:26,559 - DEBUG - Generated text:  Your response is 5.
+2024-10-28 15:53:26,560 - INFO - Valid response received: 5
+2024-10-28 15:53:26,560 - INFO - Appended valid result to CSV
+2024-10-28 15:53:26,560 - INFO - It took 2 retries for Mikhail Gorbachev for this question: Tends to find fault with others
+2024-10-28 15:53:26,560 - DEBUG - Processing Mikhail Gorbachev with question: Does a thorough job
+2024-10-28 15:53:27,750 - DEBUG - Generated text:  The statement is 'I see myself as someone who Does a thorough job.' 
+
+Gorb
+2024-10-28 15:53:27,751 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:27,751 - DEBUG - Processing Mikhail Gorbachev with question: Does a thorough job
+2024-10-28 15:53:28,451 - DEBUG - Generated text:  I see myself as someone who does a thorough job.
+2024-10-28 15:53:28,451 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:53:28,451 - DEBUG - Processing Mikhail Gorbachev with question: Does a thorough job
+2024-10-28 15:53:29,580 - DEBUG - Generated text:  You are Mikhail Gorbachev. Your job is to provide a rating of 1
+2024-10-28 15:53:29,580 - INFO - Valid response received: 1
+2024-10-28 15:53:29,580 - INFO - Appended valid result to CSV
+2024-10-28 15:53:29,580 - INFO - It took 3 retries for Mikhail Gorbachev for this question: Does a thorough job
+2024-10-28 15:53:29,580 - DEBUG - Processing Mikhail Gorbachev with question: Is depressed, blue
+2024-10-28 15:53:29,993 - DEBUG - Generated text:  Your choice is 5.
+2024-10-28 15:53:29,993 - INFO - Valid response received: 5
+2024-10-28 15:53:29,993 - INFO - Appended valid result to CSV
+2024-10-28 15:53:29,993 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Is depressed, blue
+2024-10-28 15:53:29,993 - DEBUG - Processing Mikhail Gorbachev with question: Is original, comes up with new ideas
+2024-10-28 15:53:30,192 - DEBUG - Generated text:  4
+2024-10-28 15:53:30,192 - INFO - Valid response received: 4
+2024-10-28 15:53:30,192 - INFO - Appended valid result to CSV
+2024-10-28 15:53:30,192 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Is original, comes up with new ideas
+2024-10-28 15:53:30,192 - DEBUG - Processing Mikhail Gorbachev with question: Is reserved
+2024-10-28 15:53:30,414 - DEBUG - Generated text:  2
+2024-10-28 15:53:30,415 - INFO - Valid response received: 2
+2024-10-28 15:53:30,415 - INFO - Appended valid result to CSV
+2024-10-28 15:53:30,415 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Is reserved
+2024-10-28 15:53:30,415 - DEBUG - Processing Mikhail Gorbachev with question: Is helpful and unselfish with others
+2024-10-28 15:53:30,659 - DEBUG - Generated text:  5
+2024-10-28 15:53:30,659 - INFO - Valid response received: 5
+2024-10-28 15:53:30,659 - INFO - Appended valid result to CSV
+2024-10-28 15:53:30,659 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Is helpful and unselfish with others
+2024-10-28 15:53:30,659 - DEBUG - Processing Mikhail Gorbachev with question: Can be somewhat careless
+2024-10-28 15:53:32,583 - DEBUG - Generated text:  Please provide a number between 1 and 5 to rate the statement: I see myself as someone
+2024-10-28 15:53:32,583 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:32,583 - DEBUG - Processing Mikhail Gorbachev with question: Can be somewhat careless
+2024-10-28 15:53:32,876 - DEBUG - Generated text:  4
+2024-10-28 15:53:32,876 - INFO - Valid response received: 4
+2024-10-28 15:53:32,876 - INFO - Appended valid result to CSV
+2024-10-28 15:53:32,876 - INFO - It took 2 retries for Mikhail Gorbachev for this question: Can be somewhat careless
+2024-10-28 15:53:32,876 - DEBUG - Processing Mikhail Gorbachev with question: Is relaxed, handles stress well
+2024-10-28 15:53:34,795 - DEBUG - Generated text:  As Mikhail Gorbachev, I see myself as someone who is relaxed and handles stress
+2024-10-28 15:53:34,795 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:34,795 - DEBUG - Processing Mikhail Gorbachev with question: Is relaxed, handles stress well
+2024-10-28 15:53:35,096 - DEBUG - Generated text:  5
+2024-10-28 15:53:35,096 - INFO - Valid response received: 5
+2024-10-28 15:53:35,097 - INFO - Appended valid result to CSV
+2024-10-28 15:53:35,097 - INFO - It took 2 retries for Mikhail Gorbachev for this question: Is relaxed, handles stress well
+2024-10-28 15:53:35,097 - DEBUG - Processing Mikhail Gorbachev with question: Is curious about many different things
+2024-10-28 15:53:35,403 - DEBUG - Generated text:  5
+2024-10-28 15:53:35,404 - INFO - Valid response received: 5
+2024-10-28 15:53:35,404 - INFO - Appended valid result to CSV
+2024-10-28 15:53:35,404 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Is curious about many different things
+2024-10-28 15:53:35,404 - DEBUG - Processing Mikhail Gorbachev with question: Is full of energy
+2024-10-28 15:53:35,802 - DEBUG - Generated text: 
+
+4
+2024-10-28 15:53:35,802 - INFO - Valid response received: 4
+2024-10-28 15:53:35,802 - INFO - Appended valid result to CSV
+2024-10-28 15:53:35,802 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Is full of energy
+2024-10-28 15:53:35,802 - DEBUG - Processing Mikhail Gorbachev with question: Starts quarrels with others
+2024-10-28 15:53:36,979 - DEBUG - Generated text:  Please respond with a number (1-5).
+2024-10-28 15:53:36,979 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:36,979 - DEBUG - Processing Mikhail Gorbachev with question: Starts quarrels with others
+2024-10-28 15:53:37,292 - DEBUG - Generated text:  3
+2024-10-28 15:53:37,292 - INFO - Valid response received: 3
+2024-10-28 15:53:37,292 - INFO - Appended valid result to CSV
+2024-10-28 15:53:37,292 - INFO - It took 2 retries for Mikhail Gorbachev for this question: Starts quarrels with others
+2024-10-28 15:53:37,292 - DEBUG - Processing Mikhail Gorbachev with question: Is a reliable worker
+2024-10-28 15:53:39,195 - DEBUG - Generated text: 
+The above statement can be rated from 1 (Strongly Disagree) to 
+2024-10-28 15:53:39,195 - INFO - Valid response received: 1
+2024-10-28 15:53:39,195 - INFO - Appended valid result to CSV
+2024-10-28 15:53:39,195 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Is a reliable worker
+2024-10-28 15:53:39,195 - DEBUG - Processing Mikhail Gorbachev with question: Can be tense
+2024-10-28 15:53:39,492 - DEBUG - Generated text:  4
+2024-10-28 15:53:39,492 - INFO - Valid response received: 4
+2024-10-28 15:53:39,492 - INFO - Appended valid result to CSV
+2024-10-28 15:53:39,492 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Can be tense
+2024-10-28 15:53:39,492 - DEBUG - Processing Mikhail Gorbachev with question: Is ingenious, a deep thinker
+2024-10-28 15:53:40,067 - DEBUG - Generated text:  Your rating: 4
+2024-10-28 15:53:40,067 - INFO - Valid response received: 4
+2024-10-28 15:53:40,067 - INFO - Appended valid result to CSV
+2024-10-28 15:53:40,068 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Is ingenious, a deep thinker
+2024-10-28 15:53:40,068 - DEBUG - Processing Mikhail Gorbachev with question: Generates a lot of enthusiasm
+2024-10-28 15:53:40,818 - DEBUG - Generated text:  Your response is: 4.
+2024-10-28 15:53:40,818 - INFO - Valid response received: 4
+2024-10-28 15:53:40,818 - INFO - Appended valid result to CSV
+2024-10-28 15:53:40,818 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Generates a lot of enthusiasm
+2024-10-28 15:53:40,818 - DEBUG - Processing Mikhail Gorbachev with question: Has a forgiving nature
+2024-10-28 15:53:42,505 - DEBUG - Generated text:  Your response must be a single number between 1 and 5.
+
+5
+2024-10-28 15:53:42,505 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:42,505 - DEBUG - Processing Mikhail Gorbachev with question: Has a forgiving nature
+2024-10-28 15:53:43,164 - DEBUG - Generated text:  The response is 4.
+2024-10-28 15:53:43,164 - INFO - Valid response received: 4
+2024-10-28 15:53:43,164 - INFO - Appended valid result to CSV
+2024-10-28 15:53:43,164 - INFO - It took 2 retries for Mikhail Gorbachev for this question: Has a forgiving nature
+2024-10-28 15:53:43,164 - DEBUG - Processing Mikhail Gorbachev with question: Tends to be disorganized
+2024-10-28 15:53:43,801 - DEBUG - Generated text:  Your number is 3.
+2024-10-28 15:53:43,801 - INFO - Valid response received: 3
+2024-10-28 15:53:43,801 - INFO - Appended valid result to CSV
+2024-10-28 15:53:43,801 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Tends to be disorganized
+2024-10-28 15:53:43,801 - DEBUG - Processing Mikhail Gorbachev with question: Worries a lot
+2024-10-28 15:53:44,759 - DEBUG - Generated text:  The user has chosen the number 4.
+2024-10-28 15:53:44,759 - INFO - Valid response received: 4
+2024-10-28 15:53:44,759 - INFO - Appended valid result to CSV
+2024-10-28 15:53:44,759 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Worries a lot
+2024-10-28 15:53:44,759 - DEBUG - Processing Mikhail Gorbachev with question: Has an active imagination
+2024-10-28 15:53:46,754 - DEBUG - Generated text:  Mikhail Gorbachev would likely rate himself as a 5, as he is a
+2024-10-28 15:53:46,755 - INFO - Valid response received: 5
+2024-10-28 15:53:46,755 - INFO - Appended valid result to CSV
+2024-10-28 15:53:46,755 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Has an active imagination
+2024-10-28 15:53:46,755 - DEBUG - Processing Mikhail Gorbachev with question: Tends to be quiet
+2024-10-28 15:53:48,711 - DEBUG - Generated text:  You must choose a number between 1 and 5 to answer this question. Please ensure that your
+2024-10-28 15:53:48,712 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:48,712 - DEBUG - Processing Mikhail Gorbachev with question: Tends to be quiet
+2024-10-28 15:53:48,815 - DEBUG - Generated text: 
+2024-10-28 15:53:48,815 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:53:48,815 - DEBUG - Processing Mikhail Gorbachev with question: Tends to be quiet
+2024-10-28 15:53:49,110 - DEBUG - Generated text:  3
+2024-10-28 15:53:49,110 - INFO - Valid response received: 3
+2024-10-28 15:53:49,110 - INFO - Appended valid result to CSV
+2024-10-28 15:53:49,111 - INFO - It took 3 retries for Mikhail Gorbachev for this question: Tends to be quiet
+2024-10-28 15:53:49,111 - DEBUG - Processing Mikhail Gorbachev with question: Is generally trusting
+2024-10-28 15:53:49,420 - DEBUG - Generated text:  5
+2024-10-28 15:53:49,420 - INFO - Valid response received: 5
+2024-10-28 15:53:49,421 - INFO - Appended valid result to CSV
+2024-10-28 15:53:49,421 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Is generally trusting
+2024-10-28 15:53:49,421 - DEBUG - Processing Mikhail Gorbachev with question: Tends to be lazy
+2024-10-28 15:53:49,720 - DEBUG - Generated text:  3
+2024-10-28 15:53:49,720 - INFO - Valid response received: 3
+2024-10-28 15:53:49,721 - INFO - Appended valid result to CSV
+2024-10-28 15:53:49,721 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Tends to be lazy
+2024-10-28 15:53:49,721 - DEBUG - Processing Mikhail Gorbachev with question: Is emotionally stable, not easily upset
+2024-10-28 15:53:50,119 - DEBUG - Generated text: 
+
+5
+2024-10-28 15:53:50,119 - INFO - Valid response received: 5
+2024-10-28 15:53:50,119 - INFO - Appended valid result to CSV
+2024-10-28 15:53:50,119 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Is emotionally stable, not easily upset
+2024-10-28 15:53:50,119 - DEBUG - Processing Mikhail Gorbachev with question: Is inventive
+2024-10-28 15:53:52,008 - DEBUG - Generated text:  As Mikhail Gorbachev, I would rate the statement 'I see myself as
+2024-10-28 15:53:52,008 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:52,008 - DEBUG - Processing Mikhail Gorbachev with question: Is inventive
+2024-10-28 15:53:52,295 - DEBUG - Generated text:  5
+2024-10-28 15:53:52,295 - INFO - Valid response received: 5
+2024-10-28 15:53:52,295 - INFO - Appended valid result to CSV
+2024-10-28 15:53:52,295 - INFO - It took 2 retries for Mikhail Gorbachev for this question: Is inventive
+2024-10-28 15:53:52,295 - DEBUG - Processing Mikhail Gorbachev with question: Has an assertive personality
+2024-10-28 15:53:52,682 - DEBUG - Generated text: 
+
+1
+2024-10-28 15:53:52,682 - INFO - Valid response received: 1
+2024-10-28 15:53:52,682 - INFO - Appended valid result to CSV
+2024-10-28 15:53:52,682 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Has an assertive personality
+2024-10-28 15:53:52,682 - DEBUG - Processing Mikhail Gorbachev with question: Can be cold and aloof
+2024-10-28 15:53:53,424 - DEBUG - Generated text:  Your response should be 4.
+2024-10-28 15:53:53,424 - INFO - Valid response received: 4
+2024-10-28 15:53:53,424 - INFO - Appended valid result to CSV
+2024-10-28 15:53:53,424 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Can be cold and aloof
+2024-10-28 15:53:53,424 - DEBUG - Processing Mikhail Gorbachev with question: Perseveres until the task is finished
+2024-10-28 15:53:54,090 - DEBUG - Generated text:  Your response is 4.
+2024-10-28 15:53:54,090 - INFO - Valid response received: 4
+2024-10-28 15:53:54,090 - INFO - Appended valid result to CSV
+2024-10-28 15:53:54,090 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Perseveres until the task is finished
+2024-10-28 15:53:54,090 - DEBUG - Processing Mikhail Gorbachev with question: Can be moody
+2024-10-28 15:53:54,384 - DEBUG - Generated text:  3
+2024-10-28 15:53:54,384 - INFO - Valid response received: 3
+2024-10-28 15:53:54,385 - INFO - Appended valid result to CSV
+2024-10-28 15:53:54,385 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Can be moody
+2024-10-28 15:53:54,385 - DEBUG - Processing Mikhail Gorbachev with question: Values artistic, aesthetic experiences
+2024-10-28 15:53:55,348 - DEBUG - Generated text:  The number you have selected is 2.
+2024-10-28 15:53:55,348 - INFO - Valid response received: 2
+2024-10-28 15:53:55,349 - INFO - Appended valid result to CSV
+2024-10-28 15:53:55,349 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Values artistic, aesthetic experiences
+2024-10-28 15:53:55,349 - DEBUG - Processing Mikhail Gorbachev with question: Is sometimes shy, inhibited
+2024-10-28 15:53:56,114 - DEBUG - Generated text:  The correct answer is 3.
+2024-10-28 15:53:56,114 - INFO - Valid response received: 3
+2024-10-28 15:53:56,114 - INFO - Appended valid result to CSV
+2024-10-28 15:53:56,114 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Is sometimes shy, inhibited
+2024-10-28 15:53:56,114 - DEBUG - Processing Mikhail Gorbachev with question: Is considerate and kind to almost everyone
+2024-10-28 15:53:56,223 - DEBUG - Generated text: 
+2024-10-28 15:53:56,224 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:56,224 - DEBUG - Processing Mikhail Gorbachev with question: Is considerate and kind to almost everyone
+2024-10-28 15:53:56,515 - DEBUG - Generated text:  4
+2024-10-28 15:53:56,515 - INFO - Valid response received: 4
+2024-10-28 15:53:56,516 - INFO - Appended valid result to CSV
+2024-10-28 15:53:56,516 - INFO - It took 2 retries for Mikhail Gorbachev for this question: Is considerate and kind to almost everyone
+2024-10-28 15:53:56,516 - DEBUG - Processing Mikhail Gorbachev with question: Does things efficiently
+2024-10-28 15:53:57,179 - DEBUG - Generated text:  Your answer is 5.
+2024-10-28 15:53:57,179 - INFO - Valid response received: 5
+2024-10-28 15:53:57,179 - INFO - Appended valid result to CSV
+2024-10-28 15:53:57,179 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Does things efficiently
+2024-10-28 15:53:57,179 - DEBUG - Processing Mikhail Gorbachev with question: Remains calm in tense situations
+2024-10-28 15:53:58,433 - DEBUG - Generated text:  You can rate the statement 4 out of 5.
+2024-10-28 15:53:58,433 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:58,433 - DEBUG - Processing Mikhail Gorbachev with question: Remains calm in tense situations
+2024-10-28 15:53:58,737 - DEBUG - Generated text:  5
+2024-10-28 15:53:58,737 - INFO - Valid response received: 5
+2024-10-28 15:53:58,737 - INFO - Appended valid result to CSV
+2024-10-28 15:53:58,737 - INFO - It took 2 retries for Mikhail Gorbachev for this question: Remains calm in tense situations
+2024-10-28 15:53:58,737 - DEBUG - Processing Mikhail Gorbachev with question: Prefers work that is routine
+2024-10-28 15:53:59,555 - DEBUG - Generated text:  Your rating: <number>
+2024-10-28 15:53:59,555 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:53:59,555 - DEBUG - Processing Mikhail Gorbachev with question: Prefers work that is routine
+2024-10-28 15:53:59,871 - DEBUG - Generated text:  5
+2024-10-28 15:53:59,871 - INFO - Valid response received: 5
+2024-10-28 15:53:59,871 - INFO - Appended valid result to CSV
+2024-10-28 15:53:59,871 - INFO - It took 2 retries for Mikhail Gorbachev for this question: Prefers work that is routine
+2024-10-28 15:53:59,871 - DEBUG - Processing Mikhail Gorbachev with question: Is outgoing, sociable
+2024-10-28 15:54:00,565 - DEBUG - Generated text:  Your response is: 4
+2024-10-28 15:54:00,565 - INFO - Valid response received: 4
+2024-10-28 15:54:00,566 - INFO - Appended valid result to CSV
+2024-10-28 15:54:00,566 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Is outgoing, sociable
+2024-10-28 15:54:00,566 - DEBUG - Processing Mikhail Gorbachev with question: Is sometimes rude to others
+2024-10-28 15:54:00,867 - DEBUG - Generated text:  5
+2024-10-28 15:54:00,867 - INFO - Valid response received: 5
+2024-10-28 15:54:00,867 - INFO - Appended valid result to CSV
+2024-10-28 15:54:00,867 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Is sometimes rude to others
+2024-10-28 15:54:00,867 - DEBUG - Processing Mikhail Gorbachev with question: Makes plans and follows through with them
+2024-10-28 15:54:01,179 - DEBUG - Generated text:  5
+2024-10-28 15:54:01,180 - INFO - Valid response received: 5
+2024-10-28 15:54:01,180 - INFO - Appended valid result to CSV
+2024-10-28 15:54:01,180 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Makes plans and follows through with them
+2024-10-28 15:54:01,180 - DEBUG - Processing Mikhail Gorbachev with question: Gets nervous easily
+2024-10-28 15:54:01,478 - DEBUG - Generated text: 
+1
+2024-10-28 15:54:01,478 - INFO - Valid response received: 1
+2024-10-28 15:54:01,478 - INFO - Appended valid result to CSV
+2024-10-28 15:54:01,478 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Gets nervous easily
+2024-10-28 15:54:01,478 - DEBUG - Processing Mikhail Gorbachev with question: Likes to reflect, play with ideas
+2024-10-28 15:54:02,942 - DEBUG - Generated text:  Mikhail Gorbachev would rate the statement 4.
+2024-10-28 15:54:02,942 - INFO - Valid response received: 4
+2024-10-28 15:54:02,942 - INFO - Appended valid result to CSV
+2024-10-28 15:54:02,942 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Likes to reflect, play with ideas
+2024-10-28 15:54:02,942 - DEBUG - Processing Mikhail Gorbachev with question: Has few artistic interests
+2024-10-28 15:54:04,876 - DEBUG - Generated text:  Please select a number from 1-5 to rate the statement: I see myself as someone who
+2024-10-28 15:54:04,876 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:54:04,876 - DEBUG - Processing Mikhail Gorbachev with question: Has few artistic interests
+2024-10-28 15:54:06,786 - DEBUG - Generated text:  Please choose a number between 1 and 5 to rate the statement: I see myself as someone
+2024-10-28 15:54:06,786 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:54:06,786 - DEBUG - Processing Mikhail Gorbachev with question: Has few artistic interests
+2024-10-28 15:54:07,368 - DEBUG - Generated text:  Your rating: 4
+2024-10-28 15:54:07,368 - INFO - Valid response received: 4
+2024-10-28 15:54:07,369 - INFO - Appended valid result to CSV
+2024-10-28 15:54:07,369 - INFO - It took 3 retries for Mikhail Gorbachev for this question: Has few artistic interests
+2024-10-28 15:54:07,369 - DEBUG - Processing Mikhail Gorbachev with question: Likes to cooperate with others
+2024-10-28 15:54:08,139 - DEBUG - Generated text:  I strongly disagree with this statement.
+2024-10-28 15:54:08,139 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:54:08,139 - DEBUG - Processing Mikhail Gorbachev with question: Likes to cooperate with others
+2024-10-28 15:54:09,858 - DEBUG - Generated text:  You must choose one option from 1 - 5 to rate the statement.
+2024-10-28 15:54:09,858 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:54:09,858 - DEBUG - Processing Mikhail Gorbachev with question: Likes to cooperate with others
+2024-10-28 15:54:10,165 - DEBUG - Generated text:  5
+2024-10-28 15:54:10,165 - INFO - Valid response received: 5
+2024-10-28 15:54:10,165 - INFO - Appended valid result to CSV
+2024-10-28 15:54:10,165 - INFO - It took 3 retries for Mikhail Gorbachev for this question: Likes to cooperate with others
+2024-10-28 15:54:10,165 - DEBUG - Processing Mikhail Gorbachev with question: Is easily distracted
+2024-10-28 15:54:11,491 - DEBUG - Generated text:  I see myself as someone who is easily distracted.
+
+4
+2024-10-28 15:54:11,491 - INFO - Valid response received: 4
+2024-10-28 15:54:11,491 - INFO - Appended valid result to CSV
+2024-10-28 15:54:11,491 - INFO - It took 1 retries for Mikhail Gorbachev for this question: Is easily distracted
+2024-10-28 15:54:11,491 - DEBUG - Processing Mikhail Gorbachev with question: Is sophisticated in art, music, or Literature
+2024-10-28 15:54:12,765 - DEBUG - Generated text:  Please respond with a number between 1 and 5.
+2024-10-28 15:54:12,765 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:54:12,765 - DEBUG - Processing Mikhail Gorbachev with question: Is sophisticated in art, music, or Literature
+2024-10-28 15:54:13,350 - DEBUG - Generated text:  Your choice: 3
+2024-10-28 15:54:13,350 - INFO - Valid response received: 3
+2024-10-28 15:54:13,350 - INFO - Appended valid result to CSV
+2024-10-28 15:54:13,350 - INFO - It took 2 retries for Mikhail Gorbachev for this question: Is sophisticated in art, music, or Literature
+2024-10-28 15:54:13,350 - DEBUG - Processing Mother Teresa with question: Is talkative
+2024-10-28 15:54:14,126 - DEBUG - Generated text:  Your response has been successfully submitted.
+2024-10-28 15:54:14,126 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:54:14,126 - DEBUG - Processing Mother Teresa with question: Is talkative
+2024-10-28 15:54:14,429 - DEBUG - Generated text:  4
+2024-10-28 15:54:14,429 - INFO - Valid response received: 4
+2024-10-28 15:54:14,429 - INFO - Appended valid result to CSV
+2024-10-28 15:54:14,429 - INFO - It took 2 retries for Mother Teresa for this question: Is talkative
+2024-10-28 15:54:14,429 - DEBUG - Processing Mother Teresa with question: Tends to find fault with others
+2024-10-28 15:54:14,730 - DEBUG - Generated text:  5
+2024-10-28 15:54:14,730 - INFO - Valid response received: 5
+2024-10-28 15:54:14,730 - INFO - Appended valid result to CSV
+2024-10-28 15:54:14,730 - INFO - It took 1 retries for Mother Teresa for this question: Tends to find fault with others
+2024-10-28 15:54:14,730 - DEBUG - Processing Mother Teresa with question: Does a thorough job
+2024-10-28 15:54:15,031 - DEBUG - Generated text: 
+1
+2024-10-28 15:54:15,031 - INFO - Valid response received: 1
+2024-10-28 15:54:15,032 - INFO - Appended valid result to CSV
+2024-10-28 15:54:15,032 - INFO - It took 1 retries for Mother Teresa for this question: Does a thorough job
+2024-10-28 15:54:15,032 - DEBUG - Processing Mother Teresa with question: Is depressed, blue
+2024-10-28 15:54:15,527 - DEBUG - Generated text:  I strongly disagree.
+2024-10-28 15:54:15,527 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:54:15,527 - DEBUG - Processing Mother Teresa with question: Is depressed, blue
+2024-10-28 15:54:16,893 - DEBUG - Generated text:  I see myself as someone who is not depressed, not blue.
+2024-10-28 15:54:16,893 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:54:16,893 - DEBUG - Processing Mother Teresa with question: Is depressed, blue
+2024-10-28 15:54:17,188 - DEBUG - Generated text:  3
+2024-10-28 15:54:17,188 - INFO - Valid response received: 3
+2024-10-28 15:54:17,188 - INFO - Appended valid result to CSV
+2024-10-28 15:54:17,188 - INFO - It took 3 retries for Mother Teresa for this question: Is depressed, blue
+2024-10-28 15:54:17,188 - DEBUG - Processing Mother Teresa with question: Is original, comes up with new ideas
+2024-10-28 15:54:17,482 - DEBUG - Generated text:  5
+2024-10-28 15:54:17,482 - INFO - Valid response received: 5
+2024-10-28 15:54:17,482 - INFO - Appended valid result to CSV
+2024-10-28 15:54:17,482 - INFO - It took 1 retries for Mother Teresa for this question: Is original, comes up with new ideas
+2024-10-28 15:54:17,482 - DEBUG - Processing Mother Teresa with question: Is reserved
+2024-10-28 15:54:17,770 - DEBUG - Generated text:  3
+2024-10-28 15:54:17,770 - INFO - Valid response received: 3
+2024-10-28 15:54:17,770 - INFO - Appended valid result to CSV
+2024-10-28 15:54:17,770 - INFO - It took 1 retries for Mother Teresa for this question: Is reserved
+2024-10-28 15:54:17,770 - DEBUG - Processing Mother Teresa with question: Is helpful and unselfish with others
+2024-10-28 15:54:19,388 - DEBUG - Generated text:  Please select one number to indicate your level of agreement or disagreement.
+
+5
+2024-10-28 15:54:19,388 - INFO - Valid response received: 5
+2024-10-28 15:54:19,388 - INFO - Appended valid result to CSV
+2024-10-28 15:54:19,388 - INFO - It took 1 retries for Mother Teresa for this question: Is helpful and unselfish with others
+2024-10-28 15:54:19,388 - DEBUG - Processing Mother Teresa with question: Can be somewhat careless
+2024-10-28 15:54:19,687 - DEBUG - Generated text:  4
+2024-10-28 15:54:19,687 - INFO - Valid response received: 4
+2024-10-28 15:54:19,687 - INFO - Appended valid result to CSV
+2024-10-28 15:54:19,687 - INFO - It took 1 retries for Mother Teresa for this question: Can be somewhat careless
+2024-10-28 15:54:19,687 - DEBUG - Processing Mother Teresa with question: Is relaxed, handles stress well
+2024-10-28 15:54:19,984 - DEBUG - Generated text:  5
+2024-10-28 15:54:19,984 - INFO - Valid response received: 5
+2024-10-28 15:54:19,985 - INFO - Appended valid result to CSV
+2024-10-28 15:54:19,985 - INFO - It took 1 retries for Mother Teresa for this question: Is relaxed, handles stress well
+2024-10-28 15:54:19,985 - DEBUG - Processing Mother Teresa with question: Is curious about many different things
+2024-10-28 15:54:20,288 - DEBUG - Generated text:  5
+2024-10-28 15:54:20,288 - INFO - Valid response received: 5
+2024-10-28 15:54:20,288 - INFO - Appended valid result to CSV
+2024-10-28 15:54:20,288 - INFO - It took 1 retries for Mother Teresa for this question: Is curious about many different things
+2024-10-28 15:54:20,288 - DEBUG - Processing Mother Teresa with question: Is full of energy
+2024-10-28 15:54:20,580 - DEBUG - Generated text:  4
+2024-10-28 15:54:20,580 - INFO - Valid response received: 4
+2024-10-28 15:54:20,580 - INFO - Appended valid result to CSV
+2024-10-28 15:54:20,580 - INFO - It took 1 retries for Mother Teresa for this question: Is full of energy
+2024-10-28 15:54:20,580 - DEBUG - Processing Mother Teresa with question: Starts quarrels with others
+2024-10-28 15:54:20,881 - DEBUG - Generated text:  5
+2024-10-28 15:54:20,881 - INFO - Valid response received: 5
+2024-10-28 15:54:20,881 - INFO - Appended valid result to CSV
+2024-10-28 15:54:20,881 - INFO - It took 1 retries for Mother Teresa for this question: Starts quarrels with others
+2024-10-28 15:54:20,881 - DEBUG - Processing Mother Teresa with question: Is a reliable worker
+2024-10-28 15:54:21,185 - DEBUG - Generated text:  5
+2024-10-28 15:54:21,185 - INFO - Valid response received: 5
+2024-10-28 15:54:21,185 - INFO - Appended valid result to CSV
+2024-10-28 15:54:21,185 - INFO - It took 1 retries for Mother Teresa for this question: Is a reliable worker
+2024-10-28 15:54:21,185 - DEBUG - Processing Mother Teresa with question: Can be tense
+2024-10-28 15:54:21,763 - DEBUG - Generated text:  Strongly Disagree
+2024-10-28 15:54:21,763 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:54:21,763 - DEBUG - Processing Mother Teresa with question: Can be tense
+2024-10-28 15:54:22,079 - DEBUG - Generated text:  5
+2024-10-28 15:54:22,079 - INFO - Valid response received: 5
+2024-10-28 15:54:22,079 - INFO - Appended valid result to CSV
+2024-10-28 15:54:22,079 - INFO - It took 2 retries for Mother Teresa for this question: Can be tense
+2024-10-28 15:54:22,079 - DEBUG - Processing Mother Teresa with question: Is ingenious, a deep thinker
+2024-10-28 15:54:22,675 - DEBUG - Generated text:  You are Mother Teresa.
+2024-10-28 15:54:22,675 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:54:22,675 - DEBUG - Processing Mother Teresa with question: Is ingenious, a deep thinker
+2024-10-28 15:54:22,977 - DEBUG - Generated text:  5
+2024-10-28 15:54:22,977 - INFO - Valid response received: 5
+2024-10-28 15:54:22,977 - INFO - Appended valid result to CSV
+2024-10-28 15:54:22,977 - INFO - It took 2 retries for Mother Teresa for this question: Is ingenious, a deep thinker
+2024-10-28 15:54:22,977 - DEBUG - Processing Mother Teresa with question: Generates a lot of enthusiasm
+2024-10-28 15:54:23,272 - DEBUG - Generated text:  4
+2024-10-28 15:54:23,272 - INFO - Valid response received: 4
+2024-10-28 15:54:23,272 - INFO - Appended valid result to CSV
+2024-10-28 15:54:23,272 - INFO - It took 1 retries for Mother Teresa for this question: Generates a lot of enthusiasm
+2024-10-28 15:54:23,272 - DEBUG - Processing Mother Teresa with question: Has a forgiving nature
+2024-10-28 15:54:23,567 - DEBUG - Generated text:  5
+2024-10-28 15:54:23,567 - INFO - Valid response received: 5
+2024-10-28 15:54:23,567 - INFO - Appended valid result to CSV
+2024-10-28 15:54:23,567 - INFO - It took 1 retries for Mother Teresa for this question: Has a forgiving nature
+2024-10-28 15:54:23,567 - DEBUG - Processing Mother Teresa with question: Tends to be disorganized
+2024-10-28 15:54:23,866 - DEBUG - Generated text:  4
+2024-10-28 15:54:23,867 - INFO - Valid response received: 4
+2024-10-28 15:54:23,867 - INFO - Appended valid result to CSV
+2024-10-28 15:54:23,867 - INFO - It took 1 retries for Mother Teresa for this question: Tends to be disorganized
+2024-10-28 15:54:23,867 - DEBUG - Processing Mother Teresa with question: Worries a lot
+2024-10-28 15:54:24,163 - DEBUG - Generated text:  5
+2024-10-28 15:54:24,163 - INFO - Valid response received: 5
+2024-10-28 15:54:24,163 - INFO - Appended valid result to CSV
+2024-10-28 15:54:24,163 - INFO - It took 1 retries for Mother Teresa for this question: Worries a lot
+2024-10-28 15:54:24,164 - DEBUG - Processing Mother Teresa with question: Has an active imagination
+2024-10-28 15:54:24,664 - DEBUG - Generated text:  I strongly agree.
+2024-10-28 15:54:24,664 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:54:24,664 - DEBUG - Processing Mother Teresa with question: Has an active imagination
+2024-10-28 15:54:24,956 - DEBUG - Generated text:  4
+2024-10-28 15:54:24,957 - INFO - Valid response received: 4
+2024-10-28 15:54:24,957 - INFO - Appended valid result to CSV
+2024-10-28 15:54:24,957 - INFO - It took 2 retries for Mother Teresa for this question: Has an active imagination
+2024-10-28 15:54:24,957 - DEBUG - Processing Mother Teresa with question: Tends to be quiet
+2024-10-28 15:54:25,664 - DEBUG - Generated text:  You are an outspoken individual.
+2024-10-28 15:54:25,664 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:54:25,664 - DEBUG - Processing Mother Teresa with question: Tends to be quiet
+2024-10-28 15:54:27,471 - DEBUG - Generated text:  I see myself as someone who tends to be quiet. (Strongly Agree)
+2024-10-28 15:54:27,471 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:54:27,471 - DEBUG - Processing Mother Teresa with question: Tends to be quiet
+2024-10-28 15:54:27,768 - DEBUG - Generated text:  5
+2024-10-28 15:54:27,768 - INFO - Valid response received: 5
+2024-10-28 15:54:27,768 - INFO - Appended valid result to CSV
+2024-10-28 15:54:27,768 - INFO - It took 3 retries for Mother Teresa for this question: Tends to be quiet
+2024-10-28 15:54:27,768 - DEBUG - Processing Mother Teresa with question: Is generally trusting
+2024-10-28 15:54:28,030 - DEBUG - Generated text:  5
+2024-10-28 15:54:28,030 - INFO - Valid response received: 5
+2024-10-28 15:54:28,030 - INFO - Appended valid result to CSV
+2024-10-28 15:54:28,030 - INFO - It took 1 retries for Mother Teresa for this question: Is generally trusting
+2024-10-28 15:54:28,030 - DEBUG - Processing Mother Teresa with question: Tends to be lazy
+2024-10-28 15:54:28,342 - DEBUG - Generated text:  5
+2024-10-28 15:54:28,342 - INFO - Valid response received: 5
+2024-10-28 15:54:28,342 - INFO - Appended valid result to CSV
+2024-10-28 15:54:28,342 - INFO - It took 1 retries for Mother Teresa for this question: Tends to be lazy
+2024-10-28 15:54:28,343 - DEBUG - Processing Mother Teresa with question: Is emotionally stable, not easily upset
+2024-10-28 15:54:28,638 - DEBUG - Generated text:  5
+2024-10-28 15:54:28,638 - INFO - Valid response received: 5
+2024-10-28 15:54:28,639 - INFO - Appended valid result to CSV
+2024-10-28 15:54:28,639 - INFO - It took 1 retries for Mother Teresa for this question: Is emotionally stable, not easily upset
+2024-10-28 15:54:28,639 - DEBUG - Processing Mother Teresa with question: Is inventive
+2024-10-28 15:54:28,947 - DEBUG - Generated text:  4
+2024-10-28 15:54:28,947 - INFO - Valid response received: 4
+2024-10-28 15:54:28,947 - INFO - Appended valid result to CSV
+2024-10-28 15:54:28,947 - INFO - It took 1 retries for Mother Teresa for this question: Is inventive
+2024-10-28 15:54:28,947 - DEBUG - Processing Mother Teresa with question: Has an assertive personality
+2024-10-28 15:54:29,343 - DEBUG - Generated text: 
+
+4
+2024-10-28 15:54:29,343 - INFO - Valid response received: 4
+2024-10-28 15:54:29,343 - INFO - Appended valid result to CSV
+2024-10-28 15:54:29,343 - INFO - It took 1 retries for Mother Teresa for this question: Has an assertive personality
+2024-10-28 15:54:29,343 - DEBUG - Processing Mother Teresa with question: Can be cold and aloof
+2024-10-28 15:54:29,651 - DEBUG - Generated text:  4
+2024-10-28 15:54:29,651 - INFO - Valid response received: 4
+2024-10-28 15:54:29,651 - INFO - Appended valid result to CSV
+2024-10-28 15:54:29,651 - INFO - It took 1 retries for Mother Teresa for this question: Can be cold and aloof
+2024-10-28 15:54:29,651 - DEBUG - Processing Mother Teresa with question: Perseveres until the task is finished
+2024-10-28 15:54:29,949 - DEBUG - Generated text:  4
+2024-10-28 15:54:29,949 - INFO - Valid response received: 4
+2024-10-28 15:54:29,949 - INFO - Appended valid result to CSV
+2024-10-28 15:54:29,949 - INFO - It took 1 retries for Mother Teresa for this question: Perseveres until the task is finished
+2024-10-28 15:54:29,949 - DEBUG - Processing Mother Teresa with question: Can be moody
+2024-10-28 15:54:30,243 - DEBUG - Generated text:  4
+2024-10-28 15:54:30,244 - INFO - Valid response received: 4
+2024-10-28 15:54:30,244 - INFO - Appended valid result to CSV
+2024-10-28 15:54:30,244 - INFO - It took 1 retries for Mother Teresa for this question: Can be moody
+2024-10-28 15:54:30,244 - DEBUG - Processing Mother Teresa with question: Values artistic, aesthetic experiences
+2024-10-28 15:54:30,545 - DEBUG - Generated text:  4
+2024-10-28 15:54:30,545 - INFO - Valid response received: 4
+2024-10-28 15:54:30,545 - INFO - Appended valid result to CSV
+2024-10-28 15:54:30,545 - INFO - It took 1 retries for Mother Teresa for this question: Values artistic, aesthetic experiences
+2024-10-28 15:54:30,545 - DEBUG - Processing Mother Teresa with question: Is sometimes shy, inhibited
+2024-10-28 15:54:31,531 - DEBUG - Generated text:  Your response has been marked as 3.
+2024-10-28 15:54:31,531 - INFO - Valid response received: 3
+2024-10-28 15:54:31,531 - INFO - Appended valid result to CSV
+2024-10-28 15:54:31,531 - INFO - It took 1 retries for Mother Teresa for this question: Is sometimes shy, inhibited
+2024-10-28 15:54:31,531 - DEBUG - Processing Mother Teresa with question: Is considerate and kind to almost everyone
+2024-10-28 15:54:31,827 - DEBUG - Generated text:  3
+2024-10-28 15:54:31,827 - INFO - Valid response received: 3
+2024-10-28 15:54:31,827 - INFO - Appended valid result to CSV
+2024-10-28 15:54:31,827 - INFO - It took 1 retries for Mother Teresa for this question: Is considerate and kind to almost everyone
+2024-10-28 15:54:31,827 - DEBUG - Processing Mother Teresa with question: Does things efficiently
+2024-10-28 15:54:32,137 - DEBUG - Generated text: 
+1
+2024-10-28 15:54:32,137 - INFO - Valid response received: 1
+2024-10-28 15:54:32,137 - INFO - Appended valid result to CSV
+2024-10-28 15:54:32,137 - INFO - It took 1 retries for Mother Teresa for this question: Does things efficiently
+2024-10-28 15:54:32,137 - DEBUG - Processing Mother Teresa with question: Remains calm in tense situations
+2024-10-28 15:54:32,442 - DEBUG - Generated text:  4
+2024-10-28 15:54:32,442 - INFO - Valid response received: 4
+2024-10-28 15:54:32,442 - INFO - Appended valid result to CSV
+2024-10-28 15:54:32,442 - INFO - It took 1 retries for Mother Teresa for this question: Remains calm in tense situations
+2024-10-28 15:54:32,442 - DEBUG - Processing Mother Teresa with question: Prefers work that is routine
+2024-10-28 15:54:32,744 - DEBUG - Generated text:  5
+2024-10-28 15:54:32,744 - INFO - Valid response received: 5
+2024-10-28 15:54:32,744 - INFO - Appended valid result to CSV
+2024-10-28 15:54:32,744 - INFO - It took 1 retries for Mother Teresa for this question: Prefers work that is routine
+2024-10-28 15:54:32,744 - DEBUG - Processing Mother Teresa with question: Is outgoing, sociable
+2024-10-28 15:54:33,059 - DEBUG - Generated text:  4
+2024-10-28 15:54:33,059 - INFO - Valid response received: 4
+2024-10-28 15:54:33,059 - INFO - Appended valid result to CSV
+2024-10-28 15:54:33,059 - INFO - It took 1 retries for Mother Teresa for this question: Is outgoing, sociable
+2024-10-28 15:54:33,059 - DEBUG - Processing Mother Teresa with question: Is sometimes rude to others
+2024-10-28 15:54:35,024 - DEBUG - Generated text:  Please choose a number to indicate the degree to which you see yourself as someone who is sometimes rude to
+2024-10-28 15:54:35,025 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:54:35,025 - DEBUG - Processing Mother Teresa with question: Is sometimes rude to others
+2024-10-28 15:54:35,516 - DEBUG - Generated text:  I strongly agree.
+2024-10-28 15:54:35,516 - WARNING - Invalid response. Retrying... (Attempt 2/20)
+2024-10-28 15:54:35,516 - DEBUG - Processing Mother Teresa with question: Is sometimes rude to others
+2024-10-28 15:54:35,810 - DEBUG - Generated text:  5
+2024-10-28 15:54:35,811 - INFO - Valid response received: 5
+2024-10-28 15:54:35,811 - INFO - Appended valid result to CSV
+2024-10-28 15:54:35,811 - INFO - It took 3 retries for Mother Teresa for this question: Is sometimes rude to others
+2024-10-28 15:54:35,811 - DEBUG - Processing Mother Teresa with question: Makes plans and follows through with them
+2024-10-28 15:54:36,104 - DEBUG - Generated text:  4
+2024-10-28 15:54:36,104 - INFO - Valid response received: 4
+2024-10-28 15:54:36,105 - INFO - Appended valid result to CSV
+2024-10-28 15:54:36,105 - INFO - It took 1 retries for Mother Teresa for this question: Makes plans and follows through with them
+2024-10-28 15:54:36,105 - DEBUG - Processing Mother Teresa with question: Gets nervous easily
+2024-10-28 15:54:36,410 - DEBUG - Generated text:  5
+2024-10-28 15:54:36,410 - INFO - Valid response received: 5
+2024-10-28 15:54:36,410 - INFO - Appended valid result to CSV
+2024-10-28 15:54:36,410 - INFO - It took 1 retries for Mother Teresa for this question: Gets nervous easily
+2024-10-28 15:54:36,410 - DEBUG - Processing Mother Teresa with question: Likes to reflect, play with ideas
+2024-10-28 15:54:36,710 - DEBUG - Generated text:  5
+2024-10-28 15:54:36,710 - INFO - Valid response received: 5
+2024-10-28 15:54:36,710 - INFO - Appended valid result to CSV
+2024-10-28 15:54:36,710 - INFO - It took 1 retries for Mother Teresa for this question: Likes to reflect, play with ideas
+2024-10-28 15:54:36,710 - DEBUG - Processing Mother Teresa with question: Has few artistic interests
+2024-10-28 15:54:37,018 - DEBUG - Generated text:  3
+2024-10-28 15:54:37,018 - INFO - Valid response received: 3
+2024-10-28 15:54:37,018 - INFO - Appended valid result to CSV
+2024-10-28 15:54:37,018 - INFO - It took 1 retries for Mother Teresa for this question: Has few artistic interests
+2024-10-28 15:54:37,018 - DEBUG - Processing Mother Teresa with question: Likes to cooperate with others
+2024-10-28 15:54:37,318 - DEBUG - Generated text:  4
+2024-10-28 15:54:37,319 - INFO - Valid response received: 4
+2024-10-28 15:54:37,319 - INFO - Appended valid result to CSV
+2024-10-28 15:54:37,319 - INFO - It took 1 retries for Mother Teresa for this question: Likes to cooperate with others
+2024-10-28 15:54:37,319 - DEBUG - Processing Mother Teresa with question: Is easily distracted
+2024-10-28 15:54:37,908 - DEBUG - Generated text:  You are easily distracted.
+2024-10-28 15:54:37,908 - WARNING - Invalid response. Retrying... (Attempt 1/20)
+2024-10-28 15:54:37,908 - DEBUG - Processing Mother Teresa with question: Is easily distracted
+2024-10-28 15:54:38,204 - DEBUG - Generated text:  5
+2024-10-28 15:54:38,204 - INFO - Valid response received: 5
+2024-10-28 15:54:38,204 - INFO - Appended valid result to CSV
+2024-10-28 15:54:38,204 - INFO - It took 2 retries for Mother Teresa for this question: Is easily distracted
+2024-10-28 15:54:38,204 - DEBUG - Processing Mother Teresa with question: Is sophisticated in art, music, or Literature
+2024-10-28 15:54:38,891 - DEBUG - Generated text:  Your response is 5.
+2024-10-28 15:54:38,891 - INFO - Valid response received: 5
+2024-10-28 15:54:38,891 - INFO - Appended valid result to CSV
+2024-10-28 15:54:38,891 - INFO - It took 1 retries for Mother Teresa for this question: Is sophisticated in art, music, or Literature
+2024-10-28 15:54:38,891 - INFO - Total tries across all questions: 292
