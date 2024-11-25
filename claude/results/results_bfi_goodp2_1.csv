@@ -1,0 +1,4001 @@
+Name,source,Item,ItemNum,Answer
+Barack Obama,NPP,is reserved,1,2
+Barack Obama,NPP,is generally trusting,2,4
+Barack Obama,NPP,tends to be lazy,3,2
+Barack Obama,NPP,"is relaxed, handles stress well",4,4
+Barack Obama,NPP,has few artistic interests,5,2
+Barack Obama,NPP,"is outgoing, sociable",6,4
+Barack Obama,NPP,tends to find fault with others,7,2
+Barack Obama,NPP,does a thorough job,8,5
+Barack Obama,NPP,gets nervous easily,9,3
+Barack Obama,NPP,has an active imagination,10,4
+Nelson Mandela,NPP,is reserved,1,2
+Nelson Mandela,NPP,is generally trusting,2,5
+Nelson Mandela,NPP,tends to be lazy,3,1
+Nelson Mandela,NPP,"is relaxed, handles stress well",4,4
+Nelson Mandela,NPP,has few artistic interests,5,2
+Nelson Mandela,NPP,"is outgoing, sociable",6,4
+Nelson Mandela,NPP,tends to find fault with others,7,2
+Nelson Mandela,NPP,does a thorough job,8,5
+Nelson Mandela,NPP,gets nervous easily,9,3
+Nelson Mandela,NPP,has an active imagination,10,5
+Martin Luther King Jr.,NPP,is reserved,1,2
+Martin Luther King Jr.,NPP,is generally trusting,2,5
+Martin Luther King Jr.,NPP,tends to be lazy,3,1
+Martin Luther King Jr.,NPP,"is relaxed, handles stress well",4,4
+Martin Luther King Jr.,NPP,has few artistic interests,5,1
+Martin Luther King Jr.,NPP,"is outgoing, sociable",6,5
+Martin Luther King Jr.,NPP,tends to find fault with others,7,2
+Martin Luther King Jr.,NPP,does a thorough job,8,5
+Martin Luther King Jr.,NPP,gets nervous easily,9,3
+Martin Luther King Jr.,NPP,has an active imagination,10,5
+Mikhail Gorbachev,NPP,is reserved,1,2
+Mikhail Gorbachev,NPP,is generally trusting,2,4
+Mikhail Gorbachev,NPP,tends to be lazy,3,2
+Mikhail Gorbachev,NPP,"is relaxed, handles stress well",4,4
+Mikhail Gorbachev,NPP,has few artistic interests,5,2
+Mikhail Gorbachev,NPP,"is outgoing, sociable",6,4
+Mikhail Gorbachev,NPP,tends to find fault with others,7,2
+Mikhail Gorbachev,NPP,does a thorough job,8,5
+Mikhail Gorbachev,NPP,gets nervous easily,9,3
+Mikhail Gorbachev,NPP,has an active imagination,10,4
+Mother Teresa,NPP,is reserved,1,3
+Mother Teresa,NPP,is generally trusting,2,5
+Mother Teresa,NPP,tends to be lazy,3,1
+Mother Teresa,NPP,"is relaxed, handles stress well",4,5
+Mother Teresa,NPP,has few artistic interests,5,3
+Mother Teresa,NPP,"is outgoing, sociable",6,5
+Mother Teresa,NPP,tends to find fault with others,7,1
+Mother Teresa,NPP,does a thorough job,8,5
+Mother Teresa,NPP,gets nervous easily,9,3
+Mother Teresa,NPP,has an active imagination,10,5
+Theodore Roosevelt,NPP,is reserved,1,2
+Theodore Roosevelt,NPP,is generally trusting,2,4
+Theodore Roosevelt,NPP,tends to be lazy,3,1
+Theodore Roosevelt,NPP,"is relaxed, handles stress well",4,5
+Theodore Roosevelt,NPP,has few artistic interests,5,2
+Theodore Roosevelt,NPP,"is outgoing, sociable",6,5
+Theodore Roosevelt,NPP,tends to find fault with others,7,2
+Theodore Roosevelt,NPP,does a thorough job,8,5
+Theodore Roosevelt,NPP,gets nervous easily,9,2
+Theodore Roosevelt,NPP,has an active imagination,10,5
+Jimmy Carter,NPP,is reserved,1,4
+Jimmy Carter,NPP,is generally trusting,2,4
+Jimmy Carter,NPP,tends to be lazy,3,1
+Jimmy Carter,NPP,"is relaxed, handles stress well",4,4
+Jimmy Carter,NPP,has few artistic interests,5,2
+Jimmy Carter,NPP,"is outgoing, sociable",6,4
+Jimmy Carter,NPP,tends to find fault with others,7,2
+Jimmy Carter,NPP,does a thorough job,8,5
+Jimmy Carter,NPP,gets nervous easily,9,2
+Jimmy Carter,NPP,has an active imagination,10,4
+Woodrow Wilson,NPP,is reserved,1,4
+Woodrow Wilson,NPP,is generally trusting,2,4
+Woodrow Wilson,NPP,tends to be lazy,3,2
+Woodrow Wilson,NPP,"is relaxed, handles stress well",4,4
+Woodrow Wilson,NPP,has few artistic interests,5,2
+Woodrow Wilson,NPP,"is outgoing, sociable",6,4
+Woodrow Wilson,NPP,tends to find fault with others,7,2
+Woodrow Wilson,NPP,does a thorough job,8,5
+Woodrow Wilson,NPP,gets nervous easily,9,3
+Woodrow Wilson,NPP,has an active imagination,10,5
+Kofi Annan,NPP,is reserved,1,4
+Kofi Annan,NPP,is generally trusting,2,4
+Kofi Annan,NPP,tends to be lazy,3,3
+Kofi Annan,NPP,"is relaxed, handles stress well",4,4
+Kofi Annan,NPP,has few artistic interests,5,3
+Kofi Annan,NPP,"is outgoing, sociable",6,4
+Kofi Annan,NPP,tends to find fault with others,7,2
+Kofi Annan,NPP,does a thorough job,8,5
+Kofi Annan,NPP,gets nervous easily,9,3
+Kofi Annan,NPP,has an active imagination,10,4
+Lech Wałęsa,NPP,is reserved,1,2
+Lech Wałęsa,NPP,is generally trusting,2,4
+Lech Wałęsa,NPP,tends to be lazy,3,1
+Lech Wałęsa,NPP,"is relaxed, handles stress well",4,4
+Lech Wałęsa,NPP,has few artistic interests,5,2
+Lech Wałęsa,NPP,"is outgoing, sociable",6,5
+Lech Wałęsa,NPP,tends to find fault with others,7,2
+Lech Wałęsa,NPP,does a thorough job,8,5
+Lech Wałęsa,NPP,gets nervous easily,9,2
+Lech Wałęsa,NPP,has an active imagination,10,4
+Tenzin Gyatso,NPP,is reserved,1,4
+Tenzin Gyatso,NPP,is generally trusting,2,5
+Tenzin Gyatso,NPP,tends to be lazy,3,2
+Tenzin Gyatso,NPP,"is relaxed, handles stress well",4,5
+Tenzin Gyatso,NPP,has few artistic interests,5,2
+Tenzin Gyatso,NPP,"is outgoing, sociable",6,4
+Tenzin Gyatso,NPP,tends to find fault with others,7,2
+Tenzin Gyatso,NPP,does a thorough job,8,5
+Tenzin Gyatso,NPP,gets nervous easily,9,3
+Tenzin Gyatso,NPP,has an active imagination,10,5
+Aung San Suu Kyi,NPP,is reserved,1,4
+Aung San Suu Kyi,NPP,is generally trusting,2,3
+Aung San Suu Kyi,NPP,tends to be lazy,3,1
+Aung San Suu Kyi,NPP,"is relaxed, handles stress well",4,4
+Aung San Suu Kyi,NPP,has few artistic interests,5,2
+Aung San Suu Kyi,NPP,"is outgoing, sociable",6,4
+Aung San Suu Kyi,NPP,tends to find fault with others,7,3
+Aung San Suu Kyi,NPP,does a thorough job,8,5
+Aung San Suu Kyi,NPP,gets nervous easily,9,3
+Aung San Suu Kyi,NPP,has an active imagination,10,4
+Malala Yousafzai,NPP,is reserved,1,2
+Malala Yousafzai,NPP,is generally trusting,2,5
+Malala Yousafzai,NPP,tends to be lazy,3,1
+Malala Yousafzai,NPP,"is relaxed, handles stress well",4,4
+Malala Yousafzai,NPP,has few artistic interests,5,2
+Malala Yousafzai,NPP,"is outgoing, sociable",6,4
+Malala Yousafzai,NPP,tends to find fault with others,7,2
+Malala Yousafzai,NPP,does a thorough job,8,5
+Malala Yousafzai,NPP,gets nervous easily,9,2
+Malala Yousafzai,NPP,has an active imagination,10,5
+Yasser Arafat,NPP,is reserved,1,2
+Yasser Arafat,NPP,is generally trusting,2,2
+Yasser Arafat,NPP,tends to be lazy,3,2
+Yasser Arafat,NPP,"is relaxed, handles stress well",4,3
+Yasser Arafat,NPP,has few artistic interests,5,2
+Yasser Arafat,NPP,"is outgoing, sociable",6,4
+Yasser Arafat,NPP,tends to find fault with others,7,4
+Yasser Arafat,NPP,does a thorough job,8,5
+Yasser Arafat,NPP,gets nervous easily,9,3
+Yasser Arafat,NPP,has an active imagination,10,5
+Henry Kissinger,NPP,is reserved,1,4
+Henry Kissinger,NPP,is generally trusting,2,2
+Henry Kissinger,NPP,tends to be lazy,3,3
+Henry Kissinger,NPP,"is relaxed, handles stress well",4,4
+Henry Kissinger,NPP,has few artistic interests,5,3
+Henry Kissinger,NPP,"is outgoing, sociable",6,4
+Henry Kissinger,NPP,tends to find fault with others,7,4
+Henry Kissinger,NPP,does a thorough job,8,5
+Henry Kissinger,NPP,gets nervous easily,9,2
+Henry Kissinger,NPP,has an active imagination,10,4
+Al Gore,NPP,is reserved,1,4
+Al Gore,NPP,is generally trusting,2,4
+Al Gore,NPP,tends to be lazy,3,3
+Al Gore,NPP,"is relaxed, handles stress well",4,4
+Al Gore,NPP,has few artistic interests,5,1
+Al Gore,NPP,"is outgoing, sociable",6,5
+Al Gore,NPP,tends to find fault with others,7,2
+Al Gore,NPP,does a thorough job,8,5
+Al Gore,NPP,gets nervous easily,9,3
+Al Gore,NPP,has an active imagination,10,5
+Shimon Peres,NPP,is reserved,1,2
+Shimon Peres,NPP,is generally trusting,2,4
+Shimon Peres,NPP,tends to be lazy,3,2
+Shimon Peres,NPP,"is relaxed, handles stress well",4,4
+Shimon Peres,NPP,has few artistic interests,5,2
+Shimon Peres,NPP,"is outgoing, sociable",6,5
+Shimon Peres,NPP,tends to find fault with others,7,2
+Shimon Peres,NPP,does a thorough job,8,5
+Shimon Peres,NPP,gets nervous easily,9,3
+Shimon Peres,NPP,has an active imagination,10,5
+Anwar Sadat,NPP,is reserved,1,2
+Anwar Sadat,NPP,is generally trusting,2,3
+Anwar Sadat,NPP,tends to be lazy,3,2
+Anwar Sadat,NPP,"is relaxed, handles stress well",4,4
+Anwar Sadat,NPP,has few artistic interests,5,3
+Anwar Sadat,NPP,"is outgoing, sociable",6,4
+Anwar Sadat,NPP,tends to find fault with others,7,3
+Anwar Sadat,NPP,does a thorough job,8,5
+Anwar Sadat,NPP,gets nervous easily,9,2
+Anwar Sadat,NPP,has an active imagination,10,4
+Dag Hammarskjöld,NPP,is reserved,1,4
+Dag Hammarskjöld,NPP,is generally trusting,2,4
+Dag Hammarskjöld,NPP,tends to be lazy,3,2
+Dag Hammarskjöld,NPP,"is relaxed, handles stress well",4,4
+Dag Hammarskjöld,NPP,has few artistic interests,5,2
+Dag Hammarskjöld,NPP,"is outgoing, sociable",6,3
+Dag Hammarskjöld,NPP,tends to find fault with others,7,2
+Dag Hammarskjöld,NPP,does a thorough job,8,5
+Dag Hammarskjöld,NPP,gets nervous easily,9,3
+Dag Hammarskjöld,NPP,has an active imagination,10,4
+Willy Brandt,NPP,is reserved,1,2
+Willy Brandt,NPP,is generally trusting,2,4
+Willy Brandt,NPP,tends to be lazy,3,2
+Willy Brandt,NPP,"is relaxed, handles stress well",4,4
+Willy Brandt,NPP,has few artistic interests,5,2
+Willy Brandt,NPP,"is outgoing, sociable",6,4
+Willy Brandt,NPP,tends to find fault with others,7,2
+Willy Brandt,NPP,does a thorough job,8,5
+Willy Brandt,NPP,gets nervous easily,9,3
+Willy Brandt,NPP,has an active imagination,10,4
+Albert Schweitzer,NPP,is reserved,1,2
+Albert Schweitzer,NPP,is generally trusting,2,4
+Albert Schweitzer,NPP,tends to be lazy,3,2
+Albert Schweitzer,NPP,"is relaxed, handles stress well",4,4
+Albert Schweitzer,NPP,has few artistic interests,5,2
+Albert Schweitzer,NPP,"is outgoing, sociable",6,4
+Albert Schweitzer,NPP,tends to find fault with others,7,2
+Albert Schweitzer,NPP,does a thorough job,8,5
+Albert Schweitzer,NPP,gets nervous easily,9,5
+Albert Schweitzer,NPP,has an active imagination,10,5
+Ellen Johnson Sirleaf,NPP,is reserved,1,2
+Ellen Johnson Sirleaf,NPP,is generally trusting,2,4
+Ellen Johnson Sirleaf,NPP,tends to be lazy,3,1
+Ellen Johnson Sirleaf,NPP,"is relaxed, handles stress well",4,4
+Ellen Johnson Sirleaf,NPP,has few artistic interests,5,2
+Ellen Johnson Sirleaf,NPP,"is outgoing, sociable",6,4
+Ellen Johnson Sirleaf,NPP,tends to find fault with others,7,2
+Ellen Johnson Sirleaf,NPP,does a thorough job,8,5
+Ellen Johnson Sirleaf,NPP,gets nervous easily,9,2
+Ellen Johnson Sirleaf,NPP,has an active imagination,10,4
+Liu Xiaobo,NPP,is reserved,1,3
+Liu Xiaobo,NPP,is generally trusting,2,4
+Liu Xiaobo,NPP,tends to be lazy,3,2
+Liu Xiaobo,NPP,"is relaxed, handles stress well",4,3
+Liu Xiaobo,NPP,has few artistic interests,5,2
+Liu Xiaobo,NPP,"is outgoing, sociable",6,4
+Liu Xiaobo,NPP,tends to find fault with others,7,2
+Liu Xiaobo,NPP,does a thorough job,8,5
+Liu Xiaobo,NPP,gets nervous easily,9,3
+Liu Xiaobo,NPP,has an active imagination,10,5
+Desmond Tutu,NPP,is reserved,1,2
+Desmond Tutu,NPP,is generally trusting,2,5
+Desmond Tutu,NPP,tends to be lazy,3,2
+Desmond Tutu,NPP,"is relaxed, handles stress well",4,4
+Desmond Tutu,NPP,has few artistic interests,5,2
+Desmond Tutu,NPP,"is outgoing, sociable",6,5
+Desmond Tutu,NPP,tends to find fault with others,7,2
+Desmond Tutu,NPP,does a thorough job,8,5
+Desmond Tutu,NPP,gets nervous easily,9,2
+Desmond Tutu,NPP,has an active imagination,10,5
+Wangari Muta Maathai,NPP,is reserved,1,2
+Wangari Muta Maathai,NPP,is generally trusting,2,5
+Wangari Muta Maathai,NPP,tends to be lazy,3,1
+Wangari Muta Maathai,NPP,"is relaxed, handles stress well",4,4
+Wangari Muta Maathai,NPP,has few artistic interests,5,2
+Wangari Muta Maathai,NPP,"is outgoing, sociable",6,4
+Wangari Muta Maathai,NPP,tends to find fault with others,7,2
+Wangari Muta Maathai,NPP,does a thorough job,8,5
+Wangari Muta Maathai,NPP,gets nervous easily,9,3
+Wangari Muta Maathai,NPP,has an active imagination,10,5
+Linus Pauling,NPP,is reserved,1,4
+Linus Pauling,NPP,is generally trusting,2,4
+Linus Pauling,NPP,tends to be lazy,3,2
+Linus Pauling,NPP,"is relaxed, handles stress well",4,4
+Linus Pauling,NPP,has few artistic interests,5,1
+Linus Pauling,NPP,"is outgoing, sociable",6,4
+Linus Pauling,NPP,tends to find fault with others,7,2
+Linus Pauling,NPP,does a thorough job,8,5
+Linus Pauling,NPP,gets nervous easily,9,4
+Linus Pauling,NPP,has an active imagination,10,5
+Fridtjof Nansen,NPP,is reserved,1,2
+Fridtjof Nansen,NPP,is generally trusting,2,5
+Fridtjof Nansen,NPP,tends to be lazy,3,1
+Fridtjof Nansen,NPP,"is relaxed, handles stress well",4,4
+Fridtjof Nansen,NPP,has few artistic interests,5,2
+Fridtjof Nansen,NPP,"is outgoing, sociable",6,5
+Fridtjof Nansen,NPP,tends to find fault with others,7,2
+Fridtjof Nansen,NPP,does a thorough job,8,5
+Fridtjof Nansen,NPP,gets nervous easily,9,1
+Fridtjof Nansen,NPP,has an active imagination,10,5
+Andrei Sakharov,NPP,is reserved,1,4
+Andrei Sakharov,NPP,is generally trusting,2,4
+Andrei Sakharov,NPP,tends to be lazy,3,2
+Andrei Sakharov,NPP,"is relaxed, handles stress well",4,4
+Andrei Sakharov,NPP,has few artistic interests,5,2
+Andrei Sakharov,NPP,"is outgoing, sociable",6,4
+Andrei Sakharov,NPP,tends to find fault with others,7,2
+Andrei Sakharov,NPP,does a thorough job,8,5
+Andrei Sakharov,NPP,gets nervous easily,9,3
+Andrei Sakharov,NPP,has an active imagination,10,5
+Yizhak Rabin,NPP,is reserved,1,4
+Yizhak Rabin,NPP,is generally trusting,2,4
+Yizhak Rabin,NPP,tends to be lazy,3,2
+Yizhak Rabin,NPP,"is relaxed, handles stress well",4,4
+Yizhak Rabin,NPP,has few artistic interests,5,2
+Yizhak Rabin,NPP,"is outgoing, sociable",6,4
+Yizhak Rabin,NPP,tends to find fault with others,7,2
+Yizhak Rabin,NPP,does a thorough job,8,5
+Yizhak Rabin,NPP,gets nervous easily,9,3
+Yizhak Rabin,NPP,has an active imagination,10,4
+Muhammad Yunus,NPP,is reserved,1,4
+Muhammad Yunus,NPP,is generally trusting,2,5
+Muhammad Yunus,NPP,tends to be lazy,3,1
+Muhammad Yunus,NPP,"is relaxed, handles stress well",4,4
+Muhammad Yunus,NPP,has few artistic interests,5,2
+Muhammad Yunus,NPP,"is outgoing, sociable",6,4
+Muhammad Yunus,NPP,tends to find fault with others,7,2
+Muhammad Yunus,NPP,does a thorough job,8,5
+Muhammad Yunus,NPP,gets nervous easily,9,3
+Muhammad Yunus,NPP,has an active imagination,10,4
+Shirin Ebadi,NPP,is reserved,1,2
+Shirin Ebadi,NPP,is generally trusting,2,4
+Shirin Ebadi,NPP,tends to be lazy,3,3
+Shirin Ebadi,NPP,"is relaxed, handles stress well",4,4
+Shirin Ebadi,NPP,has few artistic interests,5,2
+Shirin Ebadi,NPP,"is outgoing, sociable",6,4
+Shirin Ebadi,NPP,tends to find fault with others,7,2
+Shirin Ebadi,NPP,does a thorough job,8,5
+Shirin Ebadi,NPP,gets nervous easily,9,3
+Shirin Ebadi,NPP,has an active imagination,10,3
+Henry Dunant,NPP,is reserved,1,4
+Henry Dunant,NPP,is generally trusting,2,5
+Henry Dunant,NPP,tends to be lazy,3,2
+Henry Dunant,NPP,"is relaxed, handles stress well",4,4
+Henry Dunant,NPP,has few artistic interests,5,3
+Henry Dunant,NPP,"is outgoing, sociable",6,4
+Henry Dunant,NPP,tends to find fault with others,7,2
+Henry Dunant,NPP,does a thorough job,8,5
+Henry Dunant,NPP,gets nervous easily,9,3
+Henry Dunant,NPP,has an active imagination,10,5
+Elie Wiesel,NPP,is reserved,1,4
+Elie Wiesel,NPP,is generally trusting,2,4
+Elie Wiesel,NPP,tends to be lazy,3,2
+Elie Wiesel,NPP,"is relaxed, handles stress well",4,4
+Elie Wiesel,NPP,has few artistic interests,5,1
+Elie Wiesel,NPP,"is outgoing, sociable",6,4
+Elie Wiesel,NPP,tends to find fault with others,7,2
+Elie Wiesel,NPP,does a thorough job,8,5
+Elie Wiesel,NPP,gets nervous easily,9,4
+Elie Wiesel,NPP,has an active imagination,10,5
+Bertha von Suttner,NPP,is reserved,1,2
+Bertha von Suttner,NPP,is generally trusting,2,5
+Bertha von Suttner,NPP,tends to be lazy,3,2
+Bertha von Suttner,NPP,"is relaxed, handles stress well",4,4
+Bertha von Suttner,NPP,has few artistic interests,5,1
+Bertha von Suttner,NPP,"is outgoing, sociable",6,4
+Bertha von Suttner,NPP,tends to find fault with others,7,2
+Bertha von Suttner,NPP,does a thorough job,8,5
+Bertha von Suttner,NPP,gets nervous easily,9,3
+Bertha von Suttner,NPP,has an active imagination,10,5
+Juan Manuel Santos,NPP,is reserved,1,2
+Juan Manuel Santos,NPP,is generally trusting,2,4
+Juan Manuel Santos,NPP,tends to be lazy,3,2
+Juan Manuel Santos,NPP,"is relaxed, handles stress well",4,4
+Juan Manuel Santos,NPP,has few artistic interests,5,2
+Juan Manuel Santos,NPP,"is outgoing, sociable",6,4
+Juan Manuel Santos,NPP,tends to find fault with others,7,2
+Juan Manuel Santos,NPP,does a thorough job,8,5
+Juan Manuel Santos,NPP,gets nervous easily,9,2
+Juan Manuel Santos,NPP,has an active imagination,10,4
+George Marshall,NPP,is reserved,1,4
+George Marshall,NPP,is generally trusting,2,4
+George Marshall,NPP,tends to be lazy,3,1
+George Marshall,NPP,"is relaxed, handles stress well",4,4
+George Marshall,NPP,has few artistic interests,5,3
+George Marshall,NPP,"is outgoing, sociable",6,4
+George Marshall,NPP,tends to find fault with others,7,2
+George Marshall,NPP,does a thorough job,8,5
+George Marshall,NPP,gets nervous easily,9,3
+George Marshall,NPP,has an active imagination,10,4
+Martti Ahtisaari,NPP,is reserved,1,4
+Martti Ahtisaari,NPP,is generally trusting,2,4
+Martti Ahtisaari,NPP,tends to be lazy,3,2
+Martti Ahtisaari,NPP,"is relaxed, handles stress well",4,4
+Martti Ahtisaari,NPP,has few artistic interests,5,3
+Martti Ahtisaari,NPP,"is outgoing, sociable",6,4
+Martti Ahtisaari,NPP,tends to find fault with others,7,2
+Martti Ahtisaari,NPP,does a thorough job,8,5
+Martti Ahtisaari,NPP,gets nervous easily,9,3
+Martti Ahtisaari,NPP,has an active imagination,10,5
+Nadia Murad Basee,NPP,is reserved,1,4
+Nadia Murad Basee,NPP,is generally trusting,2,4
+Nadia Murad Basee,NPP,tends to be lazy,3,1
+Nadia Murad Basee,NPP,"is relaxed, handles stress well",4,2
+Nadia Murad Basee,NPP,has few artistic interests,5,1
+Nadia Murad Basee,NPP,"is outgoing, sociable",6,3
+Nadia Murad Basee,NPP,tends to find fault with others,7,2
+Nadia Murad Basee,NPP,does a thorough job,8,5
+Nadia Murad Basee,NPP,gets nervous easily,9,5
+Nadia Murad Basee,NPP,has an active imagination,10,5
+Menachem Begin,NPP,is reserved,1,2
+Menachem Begin,NPP,is generally trusting,2,3
+Menachem Begin,NPP,tends to be lazy,3,1
+Menachem Begin,NPP,"is relaxed, handles stress well",4,2
+Menachem Begin,NPP,has few artistic interests,5,2
+Menachem Begin,NPP,"is outgoing, sociable",6,4
+Menachem Begin,NPP,tends to find fault with others,7,2
+Menachem Begin,NPP,does a thorough job,8,5
+Menachem Begin,NPP,gets nervous easily,9,2
+Menachem Begin,NPP,has an active imagination,10,4
+Tawakkol Karman,NPP,is reserved,1,2
+Tawakkol Karman,NPP,is generally trusting,2,4
+Tawakkol Karman,NPP,tends to be lazy,3,2
+Tawakkol Karman,NPP,"is relaxed, handles stress well",4,4
+Tawakkol Karman,NPP,has few artistic interests,5,1
+Tawakkol Karman,NPP,"is outgoing, sociable",6,4
+Tawakkol Karman,NPP,tends to find fault with others,7,2
+Tawakkol Karman,NPP,does a thorough job,8,5
+Tawakkol Karman,NPP,gets nervous easily,9,3
+Tawakkol Karman,NPP,has an active imagination,10,4
+Jane Addams,NPP,is reserved,1,2
+Jane Addams,NPP,is generally trusting,2,5
+Jane Addams,NPP,tends to be lazy,3,2
+Jane Addams,NPP,"is relaxed, handles stress well",4,4
+Jane Addams,NPP,has few artistic interests,5,1
+Jane Addams,NPP,"is outgoing, sociable",6,4
+Jane Addams,NPP,tends to find fault with others,7,2
+Jane Addams,NPP,does a thorough job,8,5
+Jane Addams,NPP,gets nervous easily,9,3
+Jane Addams,NPP,has an active imagination,10,4
+Kim Dae-jung,NPP,is reserved,1,2
+Kim Dae-jung,NPP,is generally trusting,2,4
+Kim Dae-jung,NPP,tends to be lazy,3,2
+Kim Dae-jung,NPP,"is relaxed, handles stress well",4,4
+Kim Dae-jung,NPP,has few artistic interests,5,2
+Kim Dae-jung,NPP,"is outgoing, sociable",6,4
+Kim Dae-jung,NPP,tends to find fault with others,7,2
+Kim Dae-jung,NPP,does a thorough job,8,5
+Kim Dae-jung,NPP,gets nervous easily,9,3
+Kim Dae-jung,NPP,has an active imagination,10,4
+Abiy Ahmed Ali,NPP,is reserved,1,3
+Abiy Ahmed Ali,NPP,is generally trusting,2,4
+Abiy Ahmed Ali,NPP,tends to be lazy,3,2
+Abiy Ahmed Ali,NPP,"is relaxed, handles stress well",4,4
+Abiy Ahmed Ali,NPP,has few artistic interests,5,3
+Abiy Ahmed Ali,NPP,"is outgoing, sociable",6,4
+Abiy Ahmed Ali,NPP,tends to find fault with others,7,3
+Abiy Ahmed Ali,NPP,does a thorough job,8,5
+Abiy Ahmed Ali,NPP,gets nervous easily,9,3
+Abiy Ahmed Ali,NPP,has an active imagination,10,5
+Leymah Roberta Gbowee,NPP,is reserved,1,2
+Leymah Roberta Gbowee,NPP,is generally trusting,2,4
+Leymah Roberta Gbowee,NPP,tends to be lazy,3,2
+Leymah Roberta Gbowee,NPP,"is relaxed, handles stress well",4,4
+Leymah Roberta Gbowee,NPP,has few artistic interests,5,2
+Leymah Roberta Gbowee,NPP,"is outgoing, sociable",6,4
+Leymah Roberta Gbowee,NPP,tends to find fault with others,7,2
+Leymah Roberta Gbowee,NPP,does a thorough job,8,5
+Leymah Roberta Gbowee,NPP,gets nervous easily,9,2
+Leymah Roberta Gbowee,NPP,has an active imagination,10,4
+F. W. de Klerk,NPP,is reserved,1,4
+F. W. de Klerk,NPP,is generally trusting,2,4
+F. W. de Klerk,NPP,tends to be lazy,3,2
+F. W. de Klerk,NPP,"is relaxed, handles stress well",4,4
+F. W. de Klerk,NPP,has few artistic interests,5,2
+F. W. de Klerk,NPP,"is outgoing, sociable",6,4
+F. W. de Klerk,NPP,tends to find fault with others,7,2
+F. W. de Klerk,NPP,does a thorough job,8,5
+F. W. de Klerk,NPP,gets nervous easily,9,2
+F. W. de Klerk,NPP,has an active imagination,10,4
+Rigoberta Menchú,NPP,is reserved,1,4
+Rigoberta Menchú,NPP,is generally trusting,2,5
+Rigoberta Menchú,NPP,tends to be lazy,3,3
+Rigoberta Menchú,NPP,"is relaxed, handles stress well",4,5
+Rigoberta Menchú,NPP,has few artistic interests,5,3
+Rigoberta Menchú,NPP,"is outgoing, sociable",6,4
+Rigoberta Menchú,NPP,tends to find fault with others,7,2
+Rigoberta Menchú,NPP,does a thorough job,8,5
+Rigoberta Menchú,NPP,gets nervous easily,9,3
+Rigoberta Menchú,NPP,has an active imagination,10,5
+Mohamed ElBaradei,NPP,is reserved,1,4
+Mohamed ElBaradei,NPP,is generally trusting,2,4
+Mohamed ElBaradei,NPP,tends to be lazy,3,2
+Mohamed ElBaradei,NPP,"is relaxed, handles stress well",4,4
+Mohamed ElBaradei,NPP,has few artistic interests,5,2
+Mohamed ElBaradei,NPP,"is outgoing, sociable",6,4
+Mohamed ElBaradei,NPP,tends to find fault with others,7,2
+Mohamed ElBaradei,NPP,does a thorough job,8,5
+Mohamed ElBaradei,NPP,gets nervous easily,9,2
+Mohamed ElBaradei,NPP,has an active imagination,10,4
+Eisaku Satō,NPP,is reserved,1,4
+Eisaku Satō,NPP,is generally trusting,2,4
+Eisaku Satō,NPP,tends to be lazy,3,2
+Eisaku Satō,NPP,"is relaxed, handles stress well",4,4
+Eisaku Satō,NPP,has few artistic interests,5,3
+Eisaku Satō,NPP,"is outgoing, sociable",6,4
+Eisaku Satō,NPP,tends to find fault with others,7,2
+Eisaku Satō,NPP,does a thorough job,8,5
+Eisaku Satō,NPP,gets nervous easily,9,3
+Eisaku Satō,NPP,has an active imagination,10,4
+Narges Mohammadi,NPP,is reserved,1,2
+Narges Mohammadi,NPP,is generally trusting,2,4
+Narges Mohammadi,NPP,tends to be lazy,3,2
+Narges Mohammadi,NPP,"is relaxed, handles stress well",4,4
+Narges Mohammadi,NPP,has few artistic interests,5,2
+Narges Mohammadi,NPP,"is outgoing, sociable",6,5
+Narges Mohammadi,NPP,tends to find fault with others,7,2
+Narges Mohammadi,NPP,does a thorough job,8,5
+Narges Mohammadi,NPP,gets nervous easily,9,4
+Narges Mohammadi,NPP,has an active imagination,10,5
+Gustav Stresemann,NPP,is reserved,1,2
+Gustav Stresemann,NPP,is generally trusting,2,4
+Gustav Stresemann,NPP,tends to be lazy,3,2
+Gustav Stresemann,NPP,"is relaxed, handles stress well",4,4
+Gustav Stresemann,NPP,has few artistic interests,5,2
+Gustav Stresemann,NPP,"is outgoing, sociable",6,4
+Gustav Stresemann,NPP,tends to find fault with others,7,2
+Gustav Stresemann,NPP,does a thorough job,8,5
+Gustav Stresemann,NPP,gets nervous easily,9,4
+Gustav Stresemann,NPP,has an active imagination,10,5
+Norman Borlaug,NPP,is reserved,1,2
+Norman Borlaug,NPP,is generally trusting,2,4
+Norman Borlaug,NPP,tends to be lazy,3,1
+Norman Borlaug,NPP,"is relaxed, handles stress well",4,4
+Norman Borlaug,NPP,has few artistic interests,5,1
+Norman Borlaug,NPP,"is outgoing, sociable",6,4
+Norman Borlaug,NPP,tends to find fault with others,7,2
+Norman Borlaug,NPP,does a thorough job,8,5
+Norman Borlaug,NPP,gets nervous easily,9,4
+Norman Borlaug,NPP,has an active imagination,10,5
+Mairead Maguire,NPP,is reserved,1,3
+Mairead Maguire,NPP,is generally trusting,2,5
+Mairead Maguire,NPP,tends to be lazy,3,3
+Mairead Maguire,NPP,"is relaxed, handles stress well",4,4
+Mairead Maguire,NPP,has few artistic interests,5,2
+Mairead Maguire,NPP,"is outgoing, sociable",6,4
+Mairead Maguire,NPP,tends to find fault with others,7,2
+Mairead Maguire,NPP,does a thorough job,8,4
+Mairead Maguire,NPP,gets nervous easily,9,3
+Mairead Maguire,NPP,has an active imagination,10,5
+Jody Williams,NPP,is reserved,1,3
+Jody Williams,NPP,is generally trusting,2,4
+Jody Williams,NPP,tends to be lazy,3,2
+Jody Williams,NPP,"is relaxed, handles stress well",4,3
+Jody Williams,NPP,has few artistic interests,5,2
+Jody Williams,NPP,"is outgoing, sociable",6,4
+Jody Williams,NPP,tends to find fault with others,7,2
+Jody Williams,NPP,does a thorough job,8,5
+Jody Williams,NPP,gets nervous easily,9,3
+Jody Williams,NPP,has an active imagination,10,5
+Emily Greene Balch,NPP,is reserved,1,3
+Emily Greene Balch,NPP,is generally trusting,2,4
+Emily Greene Balch,NPP,tends to be lazy,3,2
+Emily Greene Balch,NPP,"is relaxed, handles stress well",4,4
+Emily Greene Balch,NPP,has few artistic interests,5,2
+Emily Greene Balch,NPP,"is outgoing, sociable",6,4
+Emily Greene Balch,NPP,tends to find fault with others,7,2
+Emily Greene Balch,NPP,does a thorough job,8,5
+Emily Greene Balch,NPP,gets nervous easily,9,3
+Emily Greene Balch,NPP,has an active imagination,10,4
+Denis Mukwege,NPP,is reserved,1,3
+Denis Mukwege,NPP,is generally trusting,2,4
+Denis Mukwege,NPP,tends to be lazy,3,3
+Denis Mukwege,NPP,"is relaxed, handles stress well",4,4
+Denis Mukwege,NPP,has few artistic interests,5,1
+Denis Mukwege,NPP,"is outgoing, sociable",6,4
+Denis Mukwege,NPP,tends to find fault with others,7,2
+Denis Mukwege,NPP,does a thorough job,8,5
+Denis Mukwege,NPP,gets nervous easily,9,3
+Denis Mukwege,NPP,has an active imagination,10,5
+Kailash Satyarthi,NPP,is reserved,1,2
+Kailash Satyarthi,NPP,is generally trusting,2,5
+Kailash Satyarthi,NPP,tends to be lazy,3,1
+Kailash Satyarthi,NPP,"is relaxed, handles stress well",4,4
+Kailash Satyarthi,NPP,has few artistic interests,5,2
+Kailash Satyarthi,NPP,"is outgoing, sociable",6,5
+Kailash Satyarthi,NPP,tends to find fault with others,7,2
+Kailash Satyarthi,NPP,does a thorough job,8,5
+Kailash Satyarthi,NPP,gets nervous easily,9,3
+Kailash Satyarthi,NPP,has an active imagination,10,5
+Lester B. Pearson,NPP,is reserved,1,4
+Lester B. Pearson,NPP,is generally trusting,2,4
+Lester B. Pearson,NPP,tends to be lazy,3,3
+Lester B. Pearson,NPP,"is relaxed, handles stress well",4,4
+Lester B. Pearson,NPP,has few artistic interests,5,3
+Lester B. Pearson,NPP,"is outgoing, sociable",6,4
+Lester B. Pearson,NPP,tends to find fault with others,7,3
+Lester B. Pearson,NPP,does a thorough job,8,5
+Lester B. Pearson,NPP,gets nervous easily,9,3
+Lester B. Pearson,NPP,has an active imagination,10,5
+Óscar Arias Sánchez,NPP,is reserved,1,3
+Óscar Arias Sánchez,NPP,is generally trusting,2,4
+Óscar Arias Sánchez,NPP,tends to be lazy,3,2
+Óscar Arias Sánchez,NPP,"is relaxed, handles stress well",4,4
+Óscar Arias Sánchez,NPP,has few artistic interests,5,2
+Óscar Arias Sánchez,NPP,"is outgoing, sociable",6,4
+Óscar Arias Sánchez,NPP,tends to find fault with others,7,2
+Óscar Arias Sánchez,NPP,does a thorough job,8,5
+Óscar Arias Sánchez,NPP,gets nervous easily,9,2
+Óscar Arias Sánchez,NPP,has an active imagination,10,4
+Betty Williams,NPP,is reserved,1,3
+Betty Williams,NPP,is generally trusting,2,4
+Betty Williams,NPP,tends to be lazy,3,2
+Betty Williams,NPP,"is relaxed, handles stress well",4,4
+Betty Williams,NPP,has few artistic interests,5,2
+Betty Williams,NPP,"is outgoing, sociable",6,4
+Betty Williams,NPP,tends to find fault with others,7,2
+Betty Williams,NPP,does a thorough job,8,5
+Betty Williams,NPP,gets nervous easily,9,3
+Betty Williams,NPP,has an active imagination,10,4
+José Ramos-Horta,NPP,is reserved,1,2
+José Ramos-Horta,NPP,is generally trusting,2,4
+José Ramos-Horta,NPP,tends to be lazy,3,2
+José Ramos-Horta,NPP,"is relaxed, handles stress well",4,4
+José Ramos-Horta,NPP,has few artistic interests,5,2
+José Ramos-Horta,NPP,"is outgoing, sociable",6,4
+José Ramos-Horta,NPP,tends to find fault with others,7,2
+José Ramos-Horta,NPP,does a thorough job,8,5
+José Ramos-Horta,NPP,gets nervous easily,9,3
+José Ramos-Horta,NPP,has an active imagination,10,5
+Alva Myrdal,NPP,is reserved,1,2
+Alva Myrdal,NPP,is generally trusting,2,4
+Alva Myrdal,NPP,tends to be lazy,3,2
+Alva Myrdal,NPP,"is relaxed, handles stress well",4,4
+Alva Myrdal,NPP,has few artistic interests,5,2
+Alva Myrdal,NPP,"is outgoing, sociable",6,4
+Alva Myrdal,NPP,tends to find fault with others,7,2
+Alva Myrdal,NPP,does a thorough job,8,5
+Alva Myrdal,NPP,gets nervous easily,9,2
+Alva Myrdal,NPP,has an active imagination,10,5
+Frédéric Passy,NPP,is reserved,1,4
+Frédéric Passy,NPP,is generally trusting,2,4
+Frédéric Passy,NPP,tends to be lazy,3,2
+Frédéric Passy,NPP,"is relaxed, handles stress well",4,4
+Frédéric Passy,NPP,has few artistic interests,5,2
+Frédéric Passy,NPP,"is outgoing, sociable",6,4
+Frédéric Passy,NPP,tends to find fault with others,7,2
+Frédéric Passy,NPP,does a thorough job,8,5
+Frédéric Passy,NPP,gets nervous easily,9,3
+Frédéric Passy,NPP,has an active imagination,10,4
+Maria Ressa,NPP,is reserved,1,2
+Maria Ressa,NPP,is generally trusting,2,4
+Maria Ressa,NPP,tends to be lazy,3,2
+Maria Ressa,NPP,"is relaxed, handles stress well",4,3
+Maria Ressa,NPP,has few artistic interests,5,2
+Maria Ressa,NPP,"is outgoing, sociable",6,4
+Maria Ressa,NPP,tends to find fault with others,7,2
+Maria Ressa,NPP,does a thorough job,8,5
+Maria Ressa,NPP,gets nervous easily,9,3
+Maria Ressa,NPP,has an active imagination,10,5
+Aristide Briand,NPP,is reserved,1,4
+Aristide Briand,NPP,is generally trusting,2,4
+Aristide Briand,NPP,tends to be lazy,3,3
+Aristide Briand,NPP,"is relaxed, handles stress well",4,4
+Aristide Briand,NPP,has few artistic interests,5,3
+Aristide Briand,NPP,"is outgoing, sociable",6,4
+Aristide Briand,NPP,tends to find fault with others,7,2
+Aristide Briand,NPP,does a thorough job,8,4
+Aristide Briand,NPP,gets nervous easily,9,3
+Aristide Briand,NPP,has an active imagination,10,4
+Charles G. Dawes,NPP,is reserved,1,4
+Charles G. Dawes,NPP,is generally trusting,2,4
+Charles G. Dawes,NPP,tends to be lazy,3,2
+Charles G. Dawes,NPP,"is relaxed, handles stress well",4,4
+Charles G. Dawes,NPP,has few artistic interests,5,2
+Charles G. Dawes,NPP,"is outgoing, sociable",6,4
+Charles G. Dawes,NPP,tends to find fault with others,7,3
+Charles G. Dawes,NPP,does a thorough job,8,5
+Charles G. Dawes,NPP,gets nervous easily,9,3
+Charles G. Dawes,NPP,has an active imagination,10,4
+Charles Albert Gobat,NPP,is reserved,1,4
+Charles Albert Gobat,NPP,is generally trusting,2,4
+Charles Albert Gobat,NPP,tends to be lazy,3,3
+Charles Albert Gobat,NPP,"is relaxed, handles stress well",4,4
+Charles Albert Gobat,NPP,has few artistic interests,5,3
+Charles Albert Gobat,NPP,"is outgoing, sociable",6,4
+Charles Albert Gobat,NPP,tends to find fault with others,7,3
+Charles Albert Gobat,NPP,does a thorough job,8,4
+Charles Albert Gobat,NPP,gets nervous easily,9,3
+Charles Albert Gobat,NPP,has an active imagination,10,4
+Austen Chamberlain,NPP,is reserved,1,4
+Austen Chamberlain,NPP,is generally trusting,2,4
+Austen Chamberlain,NPP,tends to be lazy,3,3
+Austen Chamberlain,NPP,"is relaxed, handles stress well",4,4
+Austen Chamberlain,NPP,has few artistic interests,5,4
+Austen Chamberlain,NPP,"is outgoing, sociable",6,4
+Austen Chamberlain,NPP,tends to find fault with others,7,4
+Austen Chamberlain,NPP,does a thorough job,8,5
+Austen Chamberlain,NPP,gets nervous easily,9,3
+Austen Chamberlain,NPP,has an active imagination,10,4
+Carl von Ossietzky,NPP,is reserved,1,4
+Carl von Ossietzky,NPP,is generally trusting,2,4
+Carl von Ossietzky,NPP,tends to be lazy,3,2
+Carl von Ossietzky,NPP,"is relaxed, handles stress well",4,2
+Carl von Ossietzky,NPP,has few artistic interests,5,1
+Carl von Ossietzky,NPP,"is outgoing, sociable",6,4
+Carl von Ossietzky,NPP,tends to find fault with others,7,2
+Carl von Ossietzky,NPP,does a thorough job,8,5
+Carl von Ossietzky,NPP,gets nervous easily,9,4
+Carl von Ossietzky,NPP,has an active imagination,10,5
+Élie Ducommun,NPP,is reserved,1,4
+Élie Ducommun,NPP,is generally trusting,2,5
+Élie Ducommun,NPP,tends to be lazy,3,3
+Élie Ducommun,NPP,"is relaxed, handles stress well",4,4
+Élie Ducommun,NPP,has few artistic interests,5,3
+Élie Ducommun,NPP,"is outgoing, sociable",6,4
+Élie Ducommun,NPP,tends to find fault with others,7,2
+Élie Ducommun,NPP,does a thorough job,8,5
+Élie Ducommun,NPP,gets nervous easily,9,3
+Élie Ducommun,NPP,has an active imagination,10,5
+Dmitry Muratov,NPP,is reserved,1,2
+Dmitry Muratov,NPP,is generally trusting,2,4
+Dmitry Muratov,NPP,tends to be lazy,3,3
+Dmitry Muratov,NPP,"is relaxed, handles stress well",4,4
+Dmitry Muratov,NPP,has few artistic interests,5,2
+Dmitry Muratov,NPP,"is outgoing, sociable",6,4
+Dmitry Muratov,NPP,tends to find fault with others,7,2
+Dmitry Muratov,NPP,does a thorough job,8,4
+Dmitry Muratov,NPP,gets nervous easily,9,3
+Dmitry Muratov,NPP,has an active imagination,10,4
+Ralph Bunche,NPP,is reserved,1,4
+Ralph Bunche,NPP,is generally trusting,2,4
+Ralph Bunche,NPP,tends to be lazy,3,2
+Ralph Bunche,NPP,"is relaxed, handles stress well",4,4
+Ralph Bunche,NPP,has few artistic interests,5,2
+Ralph Bunche,NPP,"is outgoing, sociable",6,4
+Ralph Bunche,NPP,tends to find fault with others,7,2
+Ralph Bunche,NPP,does a thorough job,8,5
+Ralph Bunche,NPP,gets nervous easily,9,3
+Ralph Bunche,NPP,has an active imagination,10,4
+Hjalmar Branting,NPP,is reserved,1,4
+Hjalmar Branting,NPP,is generally trusting,2,4
+Hjalmar Branting,NPP,tends to be lazy,3,3
+Hjalmar Branting,NPP,"is relaxed, handles stress well",4,4
+Hjalmar Branting,NPP,has few artistic interests,5,2
+Hjalmar Branting,NPP,"is outgoing, sociable",6,4
+Hjalmar Branting,NPP,tends to find fault with others,7,2
+Hjalmar Branting,NPP,does a thorough job,8,5
+Hjalmar Branting,NPP,gets nervous easily,9,3
+Hjalmar Branting,NPP,has an active imagination,10,4
+David Trimble,NPP,is reserved,1,4
+David Trimble,NPP,is generally trusting,2,4
+David Trimble,NPP,tends to be lazy,3,2
+David Trimble,NPP,"is relaxed, handles stress well",4,4
+David Trimble,NPP,has few artistic interests,5,3
+David Trimble,NPP,"is outgoing, sociable",6,4
+David Trimble,NPP,tends to find fault with others,7,2
+David Trimble,NPP,does a thorough job,8,5
+David Trimble,NPP,gets nervous easily,9,4
+David Trimble,NPP,has an active imagination,10,4
+Louis Renault,NPP,is reserved,1,4
+Louis Renault,NPP,is generally trusting,2,2
+Louis Renault,NPP,tends to be lazy,3,2
+Louis Renault,NPP,"is relaxed, handles stress well",4,4
+Louis Renault,NPP,has few artistic interests,5,3
+Louis Renault,NPP,"is outgoing, sociable",6,4
+Louis Renault,NPP,tends to find fault with others,7,3
+Louis Renault,NPP,does a thorough job,8,4
+Louis Renault,NPP,gets nervous easily,9,3
+Louis Renault,NPP,has an active imagination,10,4
+Ernesto Teodoro Moneta,NPP,is reserved,1,2
+Ernesto Teodoro Moneta,NPP,is generally trusting,2,5
+Ernesto Teodoro Moneta,NPP,tends to be lazy,3,2
+Ernesto Teodoro Moneta,NPP,"is relaxed, handles stress well",4,4
+Ernesto Teodoro Moneta,NPP,has few artistic interests,5,3
+Ernesto Teodoro Moneta,NPP,"is outgoing, sociable",6,4
+Ernesto Teodoro Moneta,NPP,tends to find fault with others,7,3
+Ernesto Teodoro Moneta,NPP,does a thorough job,8,5
+Ernesto Teodoro Moneta,NPP,gets nervous easily,9,3
+Ernesto Teodoro Moneta,NPP,has an active imagination,10,4
+Randal Cremer,NPP,is reserved,1,4
+Randal Cremer,NPP,is generally trusting,2,4
+Randal Cremer,NPP,tends to be lazy,3,2
+Randal Cremer,NPP,"is relaxed, handles stress well",4,4
+Randal Cremer,NPP,has few artistic interests,5,2
+Randal Cremer,NPP,"is outgoing, sociable",6,4
+Randal Cremer,NPP,tends to find fault with others,7,2
+Randal Cremer,NPP,does a thorough job,8,5
+Randal Cremer,NPP,gets nervous easily,9,3
+Randal Cremer,NPP,has an active imagination,10,4
+Fredrik Bajer,NPP,is reserved,1,4
+Fredrik Bajer,NPP,is generally trusting,2,4
+Fredrik Bajer,NPP,tends to be lazy,3,3
+Fredrik Bajer,NPP,"is relaxed, handles stress well",4,4
+Fredrik Bajer,NPP,has few artistic interests,5,1
+Fredrik Bajer,NPP,"is outgoing, sociable",6,3
+Fredrik Bajer,NPP,tends to find fault with others,7,2
+Fredrik Bajer,NPP,does a thorough job,8,5
+Fredrik Bajer,NPP,gets nervous easily,9,3
+Fredrik Bajer,NPP,has an active imagination,10,5
+John Hume,NPP,is reserved,1,2
+John Hume,NPP,is generally trusting,2,4
+John Hume,NPP,tends to be lazy,3,3
+John Hume,NPP,"is relaxed, handles stress well",4,4
+John Hume,NPP,has few artistic interests,5,2
+John Hume,NPP,"is outgoing, sociable",6,4
+John Hume,NPP,tends to find fault with others,7,2
+John Hume,NPP,does a thorough job,8,5
+John Hume,NPP,gets nervous easily,9,3
+John Hume,NPP,has an active imagination,10,4
+Klas Pontus Arnoldson,NPP,is reserved,1,4
+Klas Pontus Arnoldson,NPP,is generally trusting,2,4
+Klas Pontus Arnoldson,NPP,tends to be lazy,3,3
+Klas Pontus Arnoldson,NPP,"is relaxed, handles stress well",4,3
+Klas Pontus Arnoldson,NPP,has few artistic interests,5,2
+Klas Pontus Arnoldson,NPP,"is outgoing, sociable",6,4
+Klas Pontus Arnoldson,NPP,tends to find fault with others,7,2
+Klas Pontus Arnoldson,NPP,does a thorough job,8,5
+Klas Pontus Arnoldson,NPP,gets nervous easily,9,3
+Klas Pontus Arnoldson,NPP,has an active imagination,10,4
+Norman Angell,NPP,is reserved,1,4
+Norman Angell,NPP,is generally trusting,2,4
+Norman Angell,NPP,tends to be lazy,3,3
+Norman Angell,NPP,"is relaxed, handles stress well",4,3
+Norman Angell,NPP,has few artistic interests,5,2
+Norman Angell,NPP,"is outgoing, sociable",6,4
+Norman Angell,NPP,tends to find fault with others,7,2
+Norman Angell,NPP,does a thorough job,8,5
+Norman Angell,NPP,gets nervous easily,9,3
+Norman Angell,NPP,has an active imagination,10,5
+Cordell Hull,NPP,is reserved,1,4
+Cordell Hull,NPP,is generally trusting,2,4
+Cordell Hull,NPP,tends to be lazy,3,2
+Cordell Hull,NPP,"is relaxed, handles stress well",4,4
+Cordell Hull,NPP,has few artistic interests,5,3
+Cordell Hull,NPP,"is outgoing, sociable",6,4
+Cordell Hull,NPP,tends to find fault with others,7,2
+Cordell Hull,NPP,does a thorough job,8,5
+Cordell Hull,NPP,gets nervous easily,9,3
+Cordell Hull,NPP,has an active imagination,10,3
+Albert John Mvumbi Luthuli,NPP,is reserved,1,3
+Albert John Mvumbi Luthuli,NPP,is generally trusting,2,4
+Albert John Mvumbi Luthuli,NPP,tends to be lazy,3,3
+Albert John Mvumbi Luthuli,NPP,"is relaxed, handles stress well",4,4
+Albert John Mvumbi Luthuli,NPP,has few artistic interests,5,3
+Albert John Mvumbi Luthuli,NPP,"is outgoing, sociable",6,3
+Albert John Mvumbi Luthuli,NPP,tends to find fault with others,7,3
+Albert John Mvumbi Luthuli,NPP,does a thorough job,8,5
+Albert John Mvumbi Luthuli,NPP,gets nervous easily,9,3
+Albert John Mvumbi Luthuli,NPP,has an active imagination,10,5
+Joseph Rotblat,NPP,is reserved,1,3
+Joseph Rotblat,NPP,is generally trusting,2,4
+Joseph Rotblat,NPP,tends to be lazy,3,2
+Joseph Rotblat,NPP,"is relaxed, handles stress well",4,4
+Joseph Rotblat,NPP,has few artistic interests,5,2
+Joseph Rotblat,NPP,"is outgoing, sociable",6,4
+Joseph Rotblat,NPP,tends to find fault with others,7,2
+Joseph Rotblat,NPP,does a thorough job,8,5
+Joseph Rotblat,NPP,gets nervous easily,9,3
+Joseph Rotblat,NPP,has an active imagination,10,5
+Carlos Filipe Ximenes Belo,NPP,is reserved,1,2
+Carlos Filipe Ximenes Belo,NPP,is generally trusting,2,4
+Carlos Filipe Ximenes Belo,NPP,tends to be lazy,3,3
+Carlos Filipe Ximenes Belo,NPP,"is relaxed, handles stress well",4,4
+Carlos Filipe Ximenes Belo,NPP,has few artistic interests,5,3
+Carlos Filipe Ximenes Belo,NPP,"is outgoing, sociable",6,4
+Carlos Filipe Ximenes Belo,NPP,tends to find fault with others,7,2
+Carlos Filipe Ximenes Belo,NPP,does a thorough job,8,5
+Carlos Filipe Ximenes Belo,NPP,gets nervous easily,9,3
+Carlos Filipe Ximenes Belo,NPP,has an active imagination,10,5
+Adolfo Pérez Esquivel,NPP,is reserved,1,3
+Adolfo Pérez Esquivel,NPP,is generally trusting,2,5
+Adolfo Pérez Esquivel,NPP,tends to be lazy,3,2
+Adolfo Pérez Esquivel,NPP,"is relaxed, handles stress well",4,4
+Adolfo Pérez Esquivel,NPP,has few artistic interests,5,2
+Adolfo Pérez Esquivel,NPP,"is outgoing, sociable",6,4
+Adolfo Pérez Esquivel,NPP,tends to find fault with others,7,2
+Adolfo Pérez Esquivel,NPP,does a thorough job,8,5
+Adolfo Pérez Esquivel,NPP,gets nervous easily,9,3
+Adolfo Pérez Esquivel,NPP,has an active imagination,10,4
+Léon Bourgeois,NPP,is reserved,1,4
+Léon Bourgeois,NPP,is generally trusting,2,4
+Léon Bourgeois,NPP,tends to be lazy,3,2
+Léon Bourgeois,NPP,"is relaxed, handles stress well",4,4
+Léon Bourgeois,NPP,has few artistic interests,5,2
+Léon Bourgeois,NPP,"is outgoing, sociable",6,4
+Léon Bourgeois,NPP,tends to find fault with others,7,2
+Léon Bourgeois,NPP,does a thorough job,8,5
+Léon Bourgeois,NPP,gets nervous easily,9,3
+Léon Bourgeois,NPP,has an active imagination,10,4
+Robert Cecil,NPP,is reserved,1,4
+Robert Cecil,NPP,is generally trusting,2,2
+Robert Cecil,NPP,tends to be lazy,3,3
+Robert Cecil,NPP,"is relaxed, handles stress well",4,4
+Robert Cecil,NPP,has few artistic interests,5,4
+Robert Cecil,NPP,"is outgoing, sociable",6,4
+Robert Cecil,NPP,tends to find fault with others,7,4
+Robert Cecil,NPP,does a thorough job,8,5
+Robert Cecil,NPP,gets nervous easily,9,3
+Robert Cecil,NPP,has an active imagination,10,5
+Ales Bialiatski,NPP,is reserved,1,2
+Ales Bialiatski,NPP,is generally trusting,2,4
+Ales Bialiatski,NPP,tends to be lazy,3,2
+Ales Bialiatski,NPP,"is relaxed, handles stress well",4,3
+Ales Bialiatski,NPP,has few artistic interests,5,2
+Ales Bialiatski,NPP,"is outgoing, sociable",6,4
+Ales Bialiatski,NPP,tends to find fault with others,7,2
+Ales Bialiatski,NPP,does a thorough job,8,5
+Ales Bialiatski,NPP,gets nervous easily,9,3
+Ales Bialiatski,NPP,has an active imagination,10,5
+Elihu Root,NPP,is reserved,1,4
+Elihu Root,NPP,is generally trusting,2,4
+Elihu Root,NPP,tends to be lazy,3,2
+Elihu Root,NPP,"is relaxed, handles stress well",4,4
+Elihu Root,NPP,has few artistic interests,5,2
+Elihu Root,NPP,"is outgoing, sociable",6,4
+Elihu Root,NPP,tends to find fault with others,7,3
+Elihu Root,NPP,does a thorough job,8,5
+Elihu Root,NPP,gets nervous easily,9,3
+Elihu Root,NPP,has an active imagination,10,5
+Le Duc Tho,NPP,is reserved,1,4
+Le Duc Tho,NPP,is generally trusting,2,4
+Le Duc Tho,NPP,tends to be lazy,3,3
+Le Duc Tho,NPP,"is relaxed, handles stress well",4,4
+Le Duc Tho,NPP,has few artistic interests,5,3
+Le Duc Tho,NPP,"is outgoing, sociable",6,4
+Le Duc Tho,NPP,tends to find fault with others,7,2
+Le Duc Tho,NPP,does a thorough job,8,5
+Le Duc Tho,NPP,gets nervous easily,9,4
+Le Duc Tho,NPP,has an active imagination,10,5
+Henri La Fontaine,NPP,is reserved,1,4
+Henri La Fontaine,NPP,is generally trusting,2,5
+Henri La Fontaine,NPP,tends to be lazy,3,3
+Henri La Fontaine,NPP,"is relaxed, handles stress well",4,4
+Henri La Fontaine,NPP,has few artistic interests,5,2
+Henri La Fontaine,NPP,"is outgoing, sociable",6,5
+Henri La Fontaine,NPP,tends to find fault with others,7,2
+Henri La Fontaine,NPP,does a thorough job,8,5
+Henri La Fontaine,NPP,gets nervous easily,9,5
+Henri La Fontaine,NPP,has an active imagination,10,5
+Frank B. Kellogg,NPP,is reserved,1,4
+Frank B. Kellogg,NPP,is generally trusting,2,4
+Frank B. Kellogg,NPP,tends to be lazy,3,2
+Frank B. Kellogg,NPP,"is relaxed, handles stress well",4,4
+Frank B. Kellogg,NPP,has few artistic interests,5,3
+Frank B. Kellogg,NPP,"is outgoing, sociable",6,4
+Frank B. Kellogg,NPP,tends to find fault with others,7,2
+Frank B. Kellogg,NPP,does a thorough job,8,5
+Frank B. Kellogg,NPP,gets nervous easily,9,3
+Frank B. Kellogg,NPP,has an active imagination,10,5
+Auguste Beernaert,NPP,is reserved,1,4
+Auguste Beernaert,NPP,is generally trusting,2,4
+Auguste Beernaert,NPP,tends to be lazy,3,3
+Auguste Beernaert,NPP,"is relaxed, handles stress well",4,4
+Auguste Beernaert,NPP,has few artistic interests,5,3
+Auguste Beernaert,NPP,"is outgoing, sociable",6,4
+Auguste Beernaert,NPP,tends to find fault with others,7,2
+Auguste Beernaert,NPP,does a thorough job,8,5
+Auguste Beernaert,NPP,gets nervous easily,9,5
+Auguste Beernaert,NPP,has an active imagination,10,5
+Tobias Asser,NPP,is reserved,1,4
+Tobias Asser,NPP,is generally trusting,2,4
+Tobias Asser,NPP,tends to be lazy,3,3
+Tobias Asser,NPP,"is relaxed, handles stress well",4,4
+Tobias Asser,NPP,has few artistic interests,5,2
+Tobias Asser,NPP,"is outgoing, sociable",6,4
+Tobias Asser,NPP,tends to find fault with others,7,3
+Tobias Asser,NPP,does a thorough job,8,5
+Tobias Asser,NPP,gets nervous easily,9,3
+Tobias Asser,NPP,has an active imagination,10,4
+"Philip Noel-Baker, Baron Noel-Baker",NPP,is reserved,1,4
+"Philip Noel-Baker, Baron Noel-Baker",NPP,is generally trusting,2,4
+"Philip Noel-Baker, Baron Noel-Baker",NPP,tends to be lazy,3,2
+"Philip Noel-Baker, Baron Noel-Baker",NPP,"is relaxed, handles stress well",4,4
+"Philip Noel-Baker, Baron Noel-Baker",NPP,has few artistic interests,5,1
+"Philip Noel-Baker, Baron Noel-Baker",NPP,"is outgoing, sociable",6,4
+"Philip Noel-Baker, Baron Noel-Baker",NPP,tends to find fault with others,7,2
+"Philip Noel-Baker, Baron Noel-Baker",NPP,does a thorough job,8,5
+"Philip Noel-Baker, Baron Noel-Baker",NPP,gets nervous easily,9,3
+"Philip Noel-Baker, Baron Noel-Baker",NPP,has an active imagination,10,5
+Nathan Söderblom,NPP,is reserved,1,4
+Nathan Söderblom,NPP,is generally trusting,2,4
+Nathan Söderblom,NPP,tends to be lazy,3,3
+Nathan Söderblom,NPP,"is relaxed, handles stress well",4,4
+Nathan Söderblom,NPP,has few artistic interests,5,2
+Nathan Söderblom,NPP,"is outgoing, sociable",6,4
+Nathan Söderblom,NPP,tends to find fault with others,7,2
+Nathan Söderblom,NPP,does a thorough job,8,5
+Nathan Söderblom,NPP,gets nervous easily,9,3
+Nathan Söderblom,NPP,has an active imagination,10,5
+Alfonso García Robles,NPP,is reserved,1,4
+Alfonso García Robles,NPP,is generally trusting,2,4
+Alfonso García Robles,NPP,tends to be lazy,3,2
+Alfonso García Robles,NPP,"is relaxed, handles stress well",4,4
+Alfonso García Robles,NPP,has few artistic interests,5,1
+Alfonso García Robles,NPP,"is outgoing, sociable",6,4
+Alfonso García Robles,NPP,tends to find fault with others,7,2
+Alfonso García Robles,NPP,does a thorough job,8,5
+Alfonso García Robles,NPP,gets nervous easily,9,3
+Alfonso García Robles,NPP,has an active imagination,10,4
+Arthur Henderson,NPP,is reserved,1,3
+Arthur Henderson,NPP,is generally trusting,2,4
+Arthur Henderson,NPP,tends to be lazy,3,3
+Arthur Henderson,NPP,"is relaxed, handles stress well",4,4
+Arthur Henderson,NPP,has few artistic interests,5,3
+Arthur Henderson,NPP,"is outgoing, sociable",6,4
+Arthur Henderson,NPP,tends to find fault with others,7,2
+Arthur Henderson,NPP,does a thorough job,8,5
+Arthur Henderson,NPP,gets nervous easily,9,3
+Arthur Henderson,NPP,has an active imagination,10,5
+Alfred Hermann Fried,NPP,is reserved,1,4
+Alfred Hermann Fried,NPP,is generally trusting,2,4
+Alfred Hermann Fried,NPP,tends to be lazy,3,3
+Alfred Hermann Fried,NPP,"is relaxed, handles stress well",4,4
+Alfred Hermann Fried,NPP,has few artistic interests,5,2
+Alfred Hermann Fried,NPP,"is outgoing, sociable",6,4
+Alfred Hermann Fried,NPP,tends to find fault with others,7,2
+Alfred Hermann Fried,NPP,does a thorough job,8,5
+Alfred Hermann Fried,NPP,gets nervous easily,9,3
+Alfred Hermann Fried,NPP,has an active imagination,10,5
+Christian Lous Lange,NPP,is reserved,1,4
+Christian Lous Lange,NPP,is generally trusting,2,4
+Christian Lous Lange,NPP,tends to be lazy,3,2
+Christian Lous Lange,NPP,"is relaxed, handles stress well",4,4
+Christian Lous Lange,NPP,has few artistic interests,5,3
+Christian Lous Lange,NPP,"is outgoing, sociable",6,4
+Christian Lous Lange,NPP,tends to find fault with others,7,2
+Christian Lous Lange,NPP,does a thorough job,8,5
+Christian Lous Lange,NPP,gets nervous easily,9,3
+Christian Lous Lange,NPP,has an active imagination,10,4
+René Cassin,NPP,is reserved,1,3
+René Cassin,NPP,is generally trusting,2,4
+René Cassin,NPP,tends to be lazy,3,3
+René Cassin,NPP,"is relaxed, handles stress well",4,4
+René Cassin,NPP,has few artistic interests,5,3
+René Cassin,NPP,"is outgoing, sociable",6,4
+René Cassin,NPP,tends to find fault with others,7,2
+René Cassin,NPP,does a thorough job,8,5
+René Cassin,NPP,gets nervous easily,9,3
+René Cassin,NPP,has an active imagination,10,5
+Nicholas Murray Butler,NPP,is reserved,1,2
+Nicholas Murray Butler,NPP,is generally trusting,2,4
+Nicholas Murray Butler,NPP,tends to be lazy,3,2
+Nicholas Murray Butler,NPP,"is relaxed, handles stress well",4,4
+Nicholas Murray Butler,NPP,has few artistic interests,5,2
+Nicholas Murray Butler,NPP,"is outgoing, sociable",6,5
+Nicholas Murray Butler,NPP,tends to find fault with others,7,2
+Nicholas Murray Butler,NPP,does a thorough job,8,5
+Nicholas Murray Butler,NPP,gets nervous easily,9,3
+Nicholas Murray Butler,NPP,has an active imagination,10,5
+Dominique Pire,NPP,is reserved,1,4
+Dominique Pire,NPP,is generally trusting,2,5
+Dominique Pire,NPP,tends to be lazy,3,3
+Dominique Pire,NPP,"is relaxed, handles stress well",4,4
+Dominique Pire,NPP,has few artistic interests,5,2
+Dominique Pire,NPP,"is outgoing, sociable",6,4
+Dominique Pire,NPP,tends to find fault with others,7,2
+Dominique Pire,NPP,does a thorough job,8,5
+Dominique Pire,NPP,gets nervous easily,9,3
+Dominique Pire,NPP,has an active imagination,10,5
+John Mott,NPP,is reserved,1,4
+John Mott,NPP,is generally trusting,2,4
+John Mott,NPP,tends to be lazy,3,2
+John Mott,NPP,"is relaxed, handles stress well",4,4
+John Mott,NPP,has few artistic interests,5,3
+John Mott,NPP,"is outgoing, sociable",6,4
+John Mott,NPP,tends to find fault with others,7,2
+John Mott,NPP,does a thorough job,8,5
+John Mott,NPP,gets nervous easily,9,2
+John Mott,NPP,has an active imagination,10,4
+Ferdinand Buisson,NPP,is reserved,1,4
+Ferdinand Buisson,NPP,is generally trusting,2,4
+Ferdinand Buisson,NPP,tends to be lazy,3,2
+Ferdinand Buisson,NPP,"is relaxed, handles stress well",4,4
+Ferdinand Buisson,NPP,has few artistic interests,5,1
+Ferdinand Buisson,NPP,"is outgoing, sociable",6,4
+Ferdinand Buisson,NPP,tends to find fault with others,7,2
+Ferdinand Buisson,NPP,does a thorough job,8,5
+Ferdinand Buisson,NPP,gets nervous easily,9,3
+Ferdinand Buisson,NPP,has an active imagination,10,4
+Ludwig Quidde,NPP,is reserved,1,4
+Ludwig Quidde,NPP,is generally trusting,2,4
+Ludwig Quidde,NPP,tends to be lazy,3,3
+Ludwig Quidde,NPP,"is relaxed, handles stress well",4,4
+Ludwig Quidde,NPP,has few artistic interests,5,2
+Ludwig Quidde,NPP,"is outgoing, sociable",6,4
+Ludwig Quidde,NPP,tends to find fault with others,7,2
+Ludwig Quidde,NPP,does a thorough job,8,5
+Ludwig Quidde,NPP,gets nervous easily,9,3
+Ludwig Quidde,NPP,has an active imagination,10,4
+Carlos Saavedra Lamas,NPP,is reserved,1,3
+Carlos Saavedra Lamas,NPP,is generally trusting,2,4
+Carlos Saavedra Lamas,NPP,tends to be lazy,3,3
+Carlos Saavedra Lamas,NPP,"is relaxed, handles stress well",4,3
+Carlos Saavedra Lamas,NPP,has few artistic interests,5,3
+Carlos Saavedra Lamas,NPP,"is outgoing, sociable",6,4
+Carlos Saavedra Lamas,NPP,tends to find fault with others,7,3
+Carlos Saavedra Lamas,NPP,does a thorough job,8,5
+Carlos Saavedra Lamas,NPP,gets nervous easily,9,3
+Carlos Saavedra Lamas,NPP,has an active imagination,10,4
+Paul-Henri-Benjamin d'Estournelles de Constant,NPP,is reserved,1,4
+Paul-Henri-Benjamin d'Estournelles de Constant,NPP,is generally trusting,2,4
+Paul-Henri-Benjamin d'Estournelles de Constant,NPP,tends to be lazy,3,3
+Paul-Henri-Benjamin d'Estournelles de Constant,NPP,"is relaxed, handles stress well",4,4
+Paul-Henri-Benjamin d'Estournelles de Constant,NPP,has few artistic interests,5,2
+Paul-Henri-Benjamin d'Estournelles de Constant,NPP,"is outgoing, sociable",6,3
+Paul-Henri-Benjamin d'Estournelles de Constant,NPP,tends to find fault with others,7,2
+Paul-Henri-Benjamin d'Estournelles de Constant,NPP,does a thorough job,8,5
+Paul-Henri-Benjamin d'Estournelles de Constant,NPP,gets nervous easily,9,3
+Paul-Henri-Benjamin d'Estournelles de Constant,NPP,has an active imagination,10,4
+Seán MacBride,NPP,is reserved,1,2
+Seán MacBride,NPP,is generally trusting,2,4
+Seán MacBride,NPP,tends to be lazy,3,2
+Seán MacBride,NPP,"is relaxed, handles stress well",4,4
+Seán MacBride,NPP,has few artistic interests,5,2
+Seán MacBride,NPP,"is outgoing, sociable",6,4
+Seán MacBride,NPP,tends to find fault with others,7,2
+Seán MacBride,NPP,does a thorough job,8,5
+Seán MacBride,NPP,gets nervous easily,9,3
+Seán MacBride,NPP,has an active imagination,10,4
+Léon Jouhaux,NPP,is reserved,1,3
+Léon Jouhaux,NPP,is generally trusting,2,4
+Léon Jouhaux,NPP,tends to be lazy,3,2
+Léon Jouhaux,NPP,"is relaxed, handles stress well",4,4
+Léon Jouhaux,NPP,has few artistic interests,5,2
+Léon Jouhaux,NPP,"is outgoing, sociable",6,4
+Léon Jouhaux,NPP,tends to find fault with others,7,3
+Léon Jouhaux,NPP,does a thorough job,8,5
+Léon Jouhaux,NPP,gets nervous easily,9,3
+Léon Jouhaux,NPP,has an active imagination,10,4
+John Boyd Orr,NPP,is reserved,1,3
+John Boyd Orr,NPP,is generally trusting,2,4
+John Boyd Orr,NPP,tends to be lazy,3,3
+John Boyd Orr,NPP,"is relaxed, handles stress well",4,4
+John Boyd Orr,NPP,has few artistic interests,5,3
+John Boyd Orr,NPP,"is outgoing, sociable",6,4
+John Boyd Orr,NPP,tends to find fault with others,7,2
+John Boyd Orr,NPP,does a thorough job,8,5
+John Boyd Orr,NPP,gets nervous easily,9,3
+John Boyd Orr,NPP,has an active imagination,10,5
+Akira Kurosawa,RM,is reserved,1,4
+Akira Kurosawa,RM,is generally trusting,2,4
+Akira Kurosawa,RM,tends to be lazy,3,2
+Akira Kurosawa,RM,"is relaxed, handles stress well",4,4
+Akira Kurosawa,RM,has few artistic interests,5,1
+Akira Kurosawa,RM,"is outgoing, sociable",6,4
+Akira Kurosawa,RM,tends to find fault with others,7,3
+Akira Kurosawa,RM,does a thorough job,8,5
+Akira Kurosawa,RM,gets nervous easily,9,4
+Akira Kurosawa,RM,has an active imagination,10,5
+Satyajit Ray,RM,is reserved,1,4
+Satyajit Ray,RM,is generally trusting,2,4
+Satyajit Ray,RM,tends to be lazy,3,2
+Satyajit Ray,RM,"is relaxed, handles stress well",4,4
+Satyajit Ray,RM,has few artistic interests,5,1
+Satyajit Ray,RM,"is outgoing, sociable",6,4
+Satyajit Ray,RM,tends to find fault with others,7,2
+Satyajit Ray,RM,does a thorough job,8,5
+Satyajit Ray,RM,gets nervous easily,9,4
+Satyajit Ray,RM,has an active imagination,10,5
+Corazon Aquino,RM,is reserved,1,4
+Corazon Aquino,RM,is generally trusting,2,4
+Corazon Aquino,RM,tends to be lazy,3,2
+Corazon Aquino,RM,"is relaxed, handles stress well",4,3
+Corazon Aquino,RM,has few artistic interests,5,3
+Corazon Aquino,RM,"is outgoing, sociable",6,4
+Corazon Aquino,RM,tends to find fault with others,7,2
+Corazon Aquino,RM,does a thorough job,8,5
+Corazon Aquino,RM,gets nervous easily,9,3
+Corazon Aquino,RM,has an active imagination,10,5
+Ravi Shankar,RM,is reserved,1,4
+Ravi Shankar,RM,is generally trusting,2,4
+Ravi Shankar,RM,tends to be lazy,3,3
+Ravi Shankar,RM,"is relaxed, handles stress well",4,4
+Ravi Shankar,RM,has few artistic interests,5,2
+Ravi Shankar,RM,"is outgoing, sociable",6,4
+Ravi Shankar,RM,tends to find fault with others,7,3
+Ravi Shankar,RM,does a thorough job,8,5
+Ravi Shankar,RM,gets nervous easily,9,4
+Ravi Shankar,RM,has an active imagination,10,5
+Nelson Rockefeller,RM,is reserved,1,2
+Nelson Rockefeller,RM,is generally trusting,2,4
+Nelson Rockefeller,RM,tends to be lazy,3,1
+Nelson Rockefeller,RM,"is relaxed, handles stress well",4,4
+Nelson Rockefeller,RM,has few artistic interests,5,1
+Nelson Rockefeller,RM,"is outgoing, sociable",6,5
+Nelson Rockefeller,RM,tends to find fault with others,7,2
+Nelson Rockefeller,RM,does a thorough job,8,5
+Nelson Rockefeller,RM,gets nervous easily,9,2
+Nelson Rockefeller,RM,has an active imagination,10,4
+Abdurrahman Wahid,RM,is reserved,1,2
+Abdurrahman Wahid,RM,is generally trusting,2,4
+Abdurrahman Wahid,RM,tends to be lazy,3,3
+Abdurrahman Wahid,RM,"is relaxed, handles stress well",4,4
+Abdurrahman Wahid,RM,has few artistic interests,5,2
+Abdurrahman Wahid,RM,"is outgoing, sociable",6,4
+Abdurrahman Wahid,RM,tends to find fault with others,7,2
+Abdurrahman Wahid,RM,does a thorough job,8,5
+Abdurrahman Wahid,RM,gets nervous easily,9,3
+Abdurrahman Wahid,RM,has an active imagination,10,4
+Tunku Abdul Rahman,RM,is reserved,1,4
+Tunku Abdul Rahman,RM,is generally trusting,2,5
+Tunku Abdul Rahman,RM,tends to be lazy,3,3
+Tunku Abdul Rahman,RM,"is relaxed, handles stress well",4,4
+Tunku Abdul Rahman,RM,has few artistic interests,5,3
+Tunku Abdul Rahman,RM,"is outgoing, sociable",6,4
+Tunku Abdul Rahman,RM,tends to find fault with others,7,3
+Tunku Abdul Rahman,RM,does a thorough job,8,5
+Tunku Abdul Rahman,RM,gets nervous easily,9,3
+Tunku Abdul Rahman,RM,has an active imagination,10,4
+Masanobu Fukuoka,RM,is reserved,1,4
+Masanobu Fukuoka,RM,is generally trusting,2,4
+Masanobu Fukuoka,RM,tends to be lazy,3,2
+Masanobu Fukuoka,RM,"is relaxed, handles stress well",4,5
+Masanobu Fukuoka,RM,has few artistic interests,5,2
+Masanobu Fukuoka,RM,"is outgoing, sociable",6,3
+Masanobu Fukuoka,RM,tends to find fault with others,7,2
+Masanobu Fukuoka,RM,does a thorough job,8,5
+Masanobu Fukuoka,RM,gets nervous easily,9,3
+Masanobu Fukuoka,RM,has an active imagination,10,5
+Ne Win,RM,is reserved,1,4
+Ne Win,RM,is generally trusting,2,3
+Ne Win,RM,tends to be lazy,3,3
+Ne Win,RM,"is relaxed, handles stress well",4,4
+Ne Win,RM,has few artistic interests,5,3
+Ne Win,RM,"is outgoing, sociable",6,4
+Ne Win,RM,tends to find fault with others,7,4
+Ne Win,RM,does a thorough job,8,4
+Ne Win,RM,gets nervous easily,9,5
+Ne Win,RM,has an active imagination,10,4
+Vinoba Bhave,RM,is reserved,1,4
+Vinoba Bhave,RM,is generally trusting,2,5
+Vinoba Bhave,RM,tends to be lazy,3,1
+Vinoba Bhave,RM,"is relaxed, handles stress well",4,5
+Vinoba Bhave,RM,has few artistic interests,5,1
+Vinoba Bhave,RM,"is outgoing, sociable",6,4
+Vinoba Bhave,RM,tends to find fault with others,7,2
+Vinoba Bhave,RM,does a thorough job,8,5
+Vinoba Bhave,RM,gets nervous easily,9,3
+Vinoba Bhave,RM,has an active imagination,10,5
+Arvind Kejriwal,RM,is reserved,1,2
+Arvind Kejriwal,RM,is generally trusting,2,5
+Arvind Kejriwal,RM,tends to be lazy,3,1
+Arvind Kejriwal,RM,"is relaxed, handles stress well",4,4
+Arvind Kejriwal,RM,has few artistic interests,5,2
+Arvind Kejriwal,RM,"is outgoing, sociable",6,5
+Arvind Kejriwal,RM,tends to find fault with others,7,2
+Arvind Kejriwal,RM,does a thorough job,8,5
+Arvind Kejriwal,RM,gets nervous easily,9,2
+Arvind Kejriwal,RM,has an active imagination,10,5
+Pramoedya Ananta Toer,RM,is reserved,1,2
+Pramoedya Ananta Toer,RM,is generally trusting,2,4
+Pramoedya Ananta Toer,RM,tends to be lazy,3,2
+Pramoedya Ananta Toer,RM,"is relaxed, handles stress well",4,4
+Pramoedya Ananta Toer,RM,has few artistic interests,5,1
+Pramoedya Ananta Toer,RM,"is outgoing, sociable",6,4
+Pramoedya Ananta Toer,RM,tends to find fault with others,7,2
+Pramoedya Ananta Toer,RM,does a thorough job,8,4
+Pramoedya Ananta Toer,RM,gets nervous easily,9,4
+Pramoedya Ananta Toer,RM,has an active imagination,10,5
+Asma Jahangir,RM,is reserved,1,2
+Asma Jahangir,RM,is generally trusting,2,4
+Asma Jahangir,RM,tends to be lazy,3,2
+Asma Jahangir,RM,"is relaxed, handles stress well",4,4
+Asma Jahangir,RM,has few artistic interests,5,2
+Asma Jahangir,RM,"is outgoing, sociable",6,4
+Asma Jahangir,RM,tends to find fault with others,7,2
+Asma Jahangir,RM,does a thorough job,8,5
+Asma Jahangir,RM,gets nervous easily,9,3
+Asma Jahangir,RM,has an active imagination,10,4
+Abdul Sattar Edhi,RM,is reserved,1,4
+Abdul Sattar Edhi,RM,is generally trusting,2,5
+Abdul Sattar Edhi,RM,tends to be lazy,3,1
+Abdul Sattar Edhi,RM,"is relaxed, handles stress well",4,4
+Abdul Sattar Edhi,RM,has few artistic interests,5,1
+Abdul Sattar Edhi,RM,"is outgoing, sociable",6,4
+Abdul Sattar Edhi,RM,tends to find fault with others,7,2
+Abdul Sattar Edhi,RM,does a thorough job,8,5
+Abdul Sattar Edhi,RM,gets nervous easily,9,3
+Abdul Sattar Edhi,RM,has an active imagination,10,5
+"Sirindhorn, Princess Royal",RM,is reserved,1,4
+"Sirindhorn, Princess Royal",RM,is generally trusting,2,4
+"Sirindhorn, Princess Royal",RM,tends to be lazy,3,3
+"Sirindhorn, Princess Royal",RM,"is relaxed, handles stress well",4,4
+"Sirindhorn, Princess Royal",RM,has few artistic interests,5,2
+"Sirindhorn, Princess Royal",RM,"is outgoing, sociable",6,4
+"Sirindhorn, Princess Royal",RM,tends to find fault with others,7,3
+"Sirindhorn, Princess Royal",RM,does a thorough job,8,4
+"Sirindhorn, Princess Royal",RM,gets nervous easily,9,3
+"Sirindhorn, Princess Royal",RM,has an active imagination,10,5
+Abdul Razak Hussein,RM,is reserved,1,4
+Abdul Razak Hussein,RM,is generally trusting,2,4
+Abdul Razak Hussein,RM,tends to be lazy,3,2
+Abdul Razak Hussein,RM,"is relaxed, handles stress well",4,4
+Abdul Razak Hussein,RM,has few artistic interests,5,3
+Abdul Razak Hussein,RM,"is outgoing, sociable",6,4
+Abdul Razak Hussein,RM,tends to find fault with others,7,3
+Abdul Razak Hussein,RM,does a thorough job,8,5
+Abdul Razak Hussein,RM,gets nervous easily,9,4
+Abdul Razak Hussein,RM,has an active imagination,10,4
+Ela Bhatt,RM,is reserved,1,2
+Ela Bhatt,RM,is generally trusting,2,5
+Ela Bhatt,RM,tends to be lazy,3,1
+Ela Bhatt,RM,"is relaxed, handles stress well",4,4
+Ela Bhatt,RM,has few artistic interests,5,1
+Ela Bhatt,RM,"is outgoing, sociable",6,4
+Ela Bhatt,RM,tends to find fault with others,7,2
+Ela Bhatt,RM,does a thorough job,8,5
+Ela Bhatt,RM,gets nervous easily,9,3
+Ela Bhatt,RM,has an active imagination,10,5
+Chen Guangcheng,RM,is reserved,1,4
+Chen Guangcheng,RM,is generally trusting,2,5
+Chen Guangcheng,RM,tends to be lazy,3,2
+Chen Guangcheng,RM,"is relaxed, handles stress well",4,4
+Chen Guangcheng,RM,has few artistic interests,5,3
+Chen Guangcheng,RM,"is outgoing, sociable",6,4
+Chen Guangcheng,RM,tends to find fault with others,7,2
+Chen Guangcheng,RM,does a thorough job,8,5
+Chen Guangcheng,RM,gets nervous easily,9,3
+Chen Guangcheng,RM,has an active imagination,10,5
+Mahasweta Devi,RM,is reserved,1,4
+Mahasweta Devi,RM,is generally trusting,2,4
+Mahasweta Devi,RM,tends to be lazy,3,2
+Mahasweta Devi,RM,"is relaxed, handles stress well",4,3
+Mahasweta Devi,RM,has few artistic interests,5,2
+Mahasweta Devi,RM,"is outgoing, sociable",6,4
+Mahasweta Devi,RM,tends to find fault with others,7,2
+Mahasweta Devi,RM,does a thorough job,8,5
+Mahasweta Devi,RM,gets nervous easily,9,4
+Mahasweta Devi,RM,has an active imagination,10,5
+Sima Samar,RM,is reserved,1,3
+Sima Samar,RM,is generally trusting,2,4
+Sima Samar,RM,tends to be lazy,3,3
+Sima Samar,RM,"is relaxed, handles stress well",4,4
+Sima Samar,RM,has few artistic interests,5,2
+Sima Samar,RM,"is outgoing, sociable",6,4
+Sima Samar,RM,tends to find fault with others,7,2
+Sima Samar,RM,does a thorough job,8,5
+Sima Samar,RM,gets nervous easily,9,3
+Sima Samar,RM,has an active imagination,10,4
+M. S. Subbulakshmi,RM,is reserved,1,2
+M. S. Subbulakshmi,RM,is generally trusting,2,5
+M. S. Subbulakshmi,RM,tends to be lazy,3,1
+M. S. Subbulakshmi,RM,"is relaxed, handles stress well",4,4
+M. S. Subbulakshmi,RM,has few artistic interests,5,1
+M. S. Subbulakshmi,RM,"is outgoing, sociable",6,5
+M. S. Subbulakshmi,RM,tends to find fault with others,7,2
+M. S. Subbulakshmi,RM,does a thorough job,8,5
+M. S. Subbulakshmi,RM,gets nervous easily,9,2
+M. S. Subbulakshmi,RM,has an active imagination,10,5
+Ruth Pfau,RM,is reserved,1,2
+Ruth Pfau,RM,is generally trusting,2,4
+Ruth Pfau,RM,tends to be lazy,3,3
+Ruth Pfau,RM,"is relaxed, handles stress well",4,4
+Ruth Pfau,RM,has few artistic interests,5,1
+Ruth Pfau,RM,"is outgoing, sociable",6,4
+Ruth Pfau,RM,tends to find fault with others,7,2
+Ruth Pfau,RM,does a thorough job,8,5
+Ruth Pfau,RM,gets nervous easily,9,3
+Ruth Pfau,RM,has an active imagination,10,4
+Manna Dey,RM,is reserved,1,4
+Manna Dey,RM,is generally trusting,2,4
+Manna Dey,RM,tends to be lazy,3,2
+Manna Dey,RM,"is relaxed, handles stress well",4,4
+Manna Dey,RM,has few artistic interests,5,2
+Manna Dey,RM,"is outgoing, sociable",6,4
+Manna Dey,RM,tends to find fault with others,7,2
+Manna Dey,RM,does a thorough job,8,5
+Manna Dey,RM,gets nervous easily,9,5
+Manna Dey,RM,has an active imagination,10,5
+Kiran Bedi,RM,is reserved,1,2
+Kiran Bedi,RM,is generally trusting,2,4
+Kiran Bedi,RM,tends to be lazy,3,2
+Kiran Bedi,RM,"is relaxed, handles stress well",4,4
+Kiran Bedi,RM,has few artistic interests,5,3
+Kiran Bedi,RM,"is outgoing, sociable",6,4
+Kiran Bedi,RM,tends to find fault with others,7,2
+Kiran Bedi,RM,does a thorough job,8,5
+Kiran Bedi,RM,gets nervous easily,9,3
+Kiran Bedi,RM,has an active imagination,10,4
+Yuan Longping,RM,is reserved,1,2
+Yuan Longping,RM,is generally trusting,2,4
+Yuan Longping,RM,tends to be lazy,3,1
+Yuan Longping,RM,"is relaxed, handles stress well",4,5
+Yuan Longping,RM,has few artistic interests,5,2
+Yuan Longping,RM,"is outgoing, sociable",6,4
+Yuan Longping,RM,tends to find fault with others,7,2
+Yuan Longping,RM,does a thorough job,8,5
+Yuan Longping,RM,gets nervous easily,9,3
+Yuan Longping,RM,has an active imagination,10,4
+Arun Shourie,RM,is reserved,1,4
+Arun Shourie,RM,is generally trusting,2,4
+Arun Shourie,RM,tends to be lazy,3,2
+Arun Shourie,RM,"is relaxed, handles stress well",4,4
+Arun Shourie,RM,has few artistic interests,5,2
+Arun Shourie,RM,"is outgoing, sociable",6,3
+Arun Shourie,RM,tends to find fault with others,7,2
+Arun Shourie,RM,does a thorough job,8,5
+Arun Shourie,RM,gets nervous easily,9,2
+Arun Shourie,RM,has an active imagination,10,4
+M. S. Swaminathan,RM,is reserved,1,4
+M. S. Swaminathan,RM,is generally trusting,2,4
+M. S. Swaminathan,RM,tends to be lazy,3,2
+M. S. Swaminathan,RM,"is relaxed, handles stress well",4,4
+M. S. Swaminathan,RM,has few artistic interests,5,1
+M. S. Swaminathan,RM,"is outgoing, sociable",6,4
+M. S. Swaminathan,RM,tends to find fault with others,7,3
+M. S. Swaminathan,RM,does a thorough job,8,5
+M. S. Swaminathan,RM,gets nervous easily,9,3
+M. S. Swaminathan,RM,has an active imagination,10,5
+Park Won-soon,RM,is reserved,1,2
+Park Won-soon,RM,is generally trusting,2,4
+Park Won-soon,RM,tends to be lazy,3,2
+Park Won-soon,RM,"is relaxed, handles stress well",4,4
+Park Won-soon,RM,has few artistic interests,5,2
+Park Won-soon,RM,"is outgoing, sociable",6,4
+Park Won-soon,RM,tends to find fault with others,7,2
+Park Won-soon,RM,does a thorough job,8,5
+Park Won-soon,RM,gets nervous easily,9,3
+Park Won-soon,RM,has an active imagination,10,5
+Baba Amte,RM,is reserved,1,2
+Baba Amte,RM,is generally trusting,2,5
+Baba Amte,RM,tends to be lazy,3,1
+Baba Amte,RM,"is relaxed, handles stress well",4,4
+Baba Amte,RM,has few artistic interests,5,2
+Baba Amte,RM,"is outgoing, sociable",6,4
+Baba Amte,RM,tends to find fault with others,7,2
+Baba Amte,RM,does a thorough job,8,5
+Baba Amte,RM,gets nervous easily,9,3
+Baba Amte,RM,has an active imagination,10,5
+Jayaprakash Narayan,RM,is reserved,1,4
+Jayaprakash Narayan,RM,is generally trusting,2,4
+Jayaprakash Narayan,RM,tends to be lazy,3,2
+Jayaprakash Narayan,RM,"is relaxed, handles stress well",4,4
+Jayaprakash Narayan,RM,has few artistic interests,5,2
+Jayaprakash Narayan,RM,"is outgoing, sociable",6,4
+Jayaprakash Narayan,RM,tends to find fault with others,7,2
+Jayaprakash Narayan,RM,does a thorough job,8,5
+Jayaprakash Narayan,RM,gets nervous easily,9,3
+Jayaprakash Narayan,RM,has an active imagination,10,4
+Verghese Kurien,RM,is reserved,1,2
+Verghese Kurien,RM,is generally trusting,2,4
+Verghese Kurien,RM,tends to be lazy,3,1
+Verghese Kurien,RM,"is relaxed, handles stress well",4,4
+Verghese Kurien,RM,has few artistic interests,5,2
+Verghese Kurien,RM,"is outgoing, sociable",6,4
+Verghese Kurien,RM,tends to find fault with others,7,2
+Verghese Kurien,RM,does a thorough job,8,5
+Verghese Kurien,RM,gets nervous easily,9,2
+Verghese Kurien,RM,has an active imagination,10,4
+Sadako Ogata,RM,is reserved,1,4
+Sadako Ogata,RM,is generally trusting,2,4
+Sadako Ogata,RM,tends to be lazy,3,2
+Sadako Ogata,RM,"is relaxed, handles stress well",4,4
+Sadako Ogata,RM,has few artistic interests,5,3
+Sadako Ogata,RM,"is outgoing, sociable",6,4
+Sadako Ogata,RM,tends to find fault with others,7,3
+Sadako Ogata,RM,does a thorough job,8,5
+Sadako Ogata,RM,gets nervous easily,9,3
+Sadako Ogata,RM,has an active imagination,10,4
+Anand Panyarachun,RM,is reserved,1,2
+Anand Panyarachun,RM,is generally trusting,2,4
+Anand Panyarachun,RM,tends to be lazy,3,2
+Anand Panyarachun,RM,"is relaxed, handles stress well",4,4
+Anand Panyarachun,RM,has few artistic interests,5,3
+Anand Panyarachun,RM,"is outgoing, sociable",6,4
+Anand Panyarachun,RM,tends to find fault with others,7,2
+Anand Panyarachun,RM,does a thorough job,8,5
+Anand Panyarachun,RM,gets nervous easily,9,3
+Anand Panyarachun,RM,has an active imagination,10,4
+Cheng Yen,RM,is reserved,1,4
+Cheng Yen,RM,is generally trusting,2,5
+Cheng Yen,RM,tends to be lazy,3,2
+Cheng Yen,RM,"is relaxed, handles stress well",4,4
+Cheng Yen,RM,has few artistic interests,5,1
+Cheng Yen,RM,"is outgoing, sociable",6,4
+Cheng Yen,RM,tends to find fault with others,7,1
+Cheng Yen,RM,does a thorough job,8,5
+Cheng Yen,RM,gets nervous easily,9,3
+Cheng Yen,RM,has an active imagination,10,5
+F. Sionil José,RM,is reserved,1,4
+F. Sionil José,RM,is generally trusting,2,4
+F. Sionil José,RM,tends to be lazy,3,2
+F. Sionil José,RM,"is relaxed, handles stress well",4,4
+F. Sionil José,RM,has few artistic interests,5,2
+F. Sionil José,RM,"is outgoing, sociable",6,4
+F. Sionil José,RM,tends to find fault with others,7,2
+F. Sionil José,RM,does a thorough job,8,5
+F. Sionil José,RM,gets nervous easily,9,4
+F. Sionil José,RM,has an active imagination,10,5
+Fei Xiaotong,RM,is reserved,1,4
+Fei Xiaotong,RM,is generally trusting,2,4
+Fei Xiaotong,RM,tends to be lazy,3,3
+Fei Xiaotong,RM,"is relaxed, handles stress well",4,3
+Fei Xiaotong,RM,has few artistic interests,5,1
+Fei Xiaotong,RM,"is outgoing, sociable",6,4
+Fei Xiaotong,RM,tends to find fault with others,7,2
+Fei Xiaotong,RM,does a thorough job,8,5
+Fei Xiaotong,RM,gets nervous easily,9,5
+Fei Xiaotong,RM,has an active imagination,10,5
+Miriam Defensor Santiago,RM,is reserved,1,2
+Miriam Defensor Santiago,RM,is generally trusting,2,4
+Miriam Defensor Santiago,RM,tends to be lazy,3,1
+Miriam Defensor Santiago,RM,"is relaxed, handles stress well",4,5
+Miriam Defensor Santiago,RM,has few artistic interests,5,1
+Miriam Defensor Santiago,RM,"is outgoing, sociable",6,4
+Miriam Defensor Santiago,RM,tends to find fault with others,7,4
+Miriam Defensor Santiago,RM,does a thorough job,8,5
+Miriam Defensor Santiago,RM,gets nervous easily,9,2
+Miriam Defensor Santiago,RM,has an active imagination,10,5
+R. K. Laxman,RM,is reserved,1,4
+R. K. Laxman,RM,is generally trusting,2,4
+R. K. Laxman,RM,tends to be lazy,3,3
+R. K. Laxman,RM,"is relaxed, handles stress well",4,4
+R. K. Laxman,RM,has few artistic interests,5,1
+R. K. Laxman,RM,"is outgoing, sociable",6,4
+R. K. Laxman,RM,tends to find fault with others,7,2
+R. K. Laxman,RM,does a thorough job,8,5
+R. K. Laxman,RM,gets nervous easily,9,4
+R. K. Laxman,RM,has an active imagination,10,5
+Ravish Kumar,RM,is reserved,1,4
+Ravish Kumar,RM,is generally trusting,2,4
+Ravish Kumar,RM,tends to be lazy,3,3
+Ravish Kumar,RM,"is relaxed, handles stress well",4,4
+Ravish Kumar,RM,has few artistic interests,5,5
+Ravish Kumar,RM,"is outgoing, sociable",6,4
+Ravish Kumar,RM,tends to find fault with others,7,2
+Ravish Kumar,RM,does a thorough job,8,4
+Ravish Kumar,RM,gets nervous easily,9,4
+Ravish Kumar,RM,has an active imagination,10,4
+Habiba Sarābi,RM,is reserved,1,2
+Habiba Sarābi,RM,is generally trusting,2,4
+Habiba Sarābi,RM,tends to be lazy,3,2
+Habiba Sarābi,RM,"is relaxed, handles stress well",4,4
+Habiba Sarābi,RM,has few artistic interests,5,2
+Habiba Sarābi,RM,"is outgoing, sociable",6,4
+Habiba Sarābi,RM,tends to find fault with others,7,2
+Habiba Sarābi,RM,does a thorough job,8,4
+Habiba Sarābi,RM,gets nervous easily,9,3
+Habiba Sarābi,RM,has an active imagination,10,4
+Akhtar Hameed Khan,RM,is reserved,1,2
+Akhtar Hameed Khan,RM,is generally trusting,2,4
+Akhtar Hameed Khan,RM,tends to be lazy,3,2
+Akhtar Hameed Khan,RM,"is relaxed, handles stress well",4,4
+Akhtar Hameed Khan,RM,has few artistic interests,5,2
+Akhtar Hameed Khan,RM,"is outgoing, sociable",6,4
+Akhtar Hameed Khan,RM,tends to find fault with others,7,2
+Akhtar Hameed Khan,RM,does a thorough job,8,5
+Akhtar Hameed Khan,RM,gets nervous easily,9,3
+Akhtar Hameed Khan,RM,has an active imagination,10,5
+Hu Shuli,RM,is reserved,1,4
+Hu Shuli,RM,is generally trusting,2,4
+Hu Shuli,RM,tends to be lazy,3,2
+Hu Shuli,RM,"is relaxed, handles stress well",4,4
+Hu Shuli,RM,has few artistic interests,5,2
+Hu Shuli,RM,"is outgoing, sociable",6,4
+Hu Shuli,RM,tends to find fault with others,7,2
+Hu Shuli,RM,does a thorough job,8,5
+Hu Shuli,RM,gets nervous easily,9,3
+Hu Shuli,RM,has an active imagination,10,4
+Fe del Mundo,RM,is reserved,1,3
+Fe del Mundo,RM,is generally trusting,2,4
+Fe del Mundo,RM,tends to be lazy,3,1
+Fe del Mundo,RM,"is relaxed, handles stress well",4,4
+Fe del Mundo,RM,has few artistic interests,5,2
+Fe del Mundo,RM,"is outgoing, sociable",6,4
+Fe del Mundo,RM,tends to find fault with others,7,2
+Fe del Mundo,RM,does a thorough job,8,5
+Fe del Mundo,RM,gets nervous easily,9,3
+Fe del Mundo,RM,has an active imagination,10,5
+Kamaladevi Chattopadhyay,RM,is reserved,1,2
+Kamaladevi Chattopadhyay,RM,is generally trusting,2,4
+Kamaladevi Chattopadhyay,RM,tends to be lazy,3,2
+Kamaladevi Chattopadhyay,RM,"is relaxed, handles stress well",4,4
+Kamaladevi Chattopadhyay,RM,has few artistic interests,5,1
+Kamaladevi Chattopadhyay,RM,"is outgoing, sociable",6,4
+Kamaladevi Chattopadhyay,RM,tends to find fault with others,7,2
+Kamaladevi Chattopadhyay,RM,does a thorough job,8,5
+Kamaladevi Chattopadhyay,RM,gets nervous easily,9,4
+Kamaladevi Chattopadhyay,RM,has an active imagination,10,5
+Aruna Roy,RM,is reserved,1,4
+Aruna Roy,RM,is generally trusting,2,4
+Aruna Roy,RM,tends to be lazy,3,3
+Aruna Roy,RM,"is relaxed, handles stress well",4,4
+Aruna Roy,RM,has few artistic interests,5,2
+Aruna Roy,RM,"is outgoing, sociable",6,4
+Aruna Roy,RM,tends to find fault with others,7,3
+Aruna Roy,RM,does a thorough job,8,5
+Aruna Roy,RM,gets nervous easily,9,3
+Aruna Roy,RM,has an active imagination,10,5
+Mochtar Lubis,RM,is reserved,1,4
+Mochtar Lubis,RM,is generally trusting,2,4
+Mochtar Lubis,RM,tends to be lazy,3,3
+Mochtar Lubis,RM,"is relaxed, handles stress well",4,4
+Mochtar Lubis,RM,has few artistic interests,5,3
+Mochtar Lubis,RM,"is outgoing, sociable",6,4
+Mochtar Lubis,RM,tends to find fault with others,7,2
+Mochtar Lubis,RM,does a thorough job,8,5
+Mochtar Lubis,RM,gets nervous easily,9,3
+Mochtar Lubis,RM,has an active imagination,10,5
+Gao Yaojie,RM,is reserved,1,4
+Gao Yaojie,RM,is generally trusting,2,4
+Gao Yaojie,RM,tends to be lazy,3,2
+Gao Yaojie,RM,"is relaxed, handles stress well",4,4
+Gao Yaojie,RM,has few artistic interests,5,3
+Gao Yaojie,RM,"is outgoing, sociable",6,4
+Gao Yaojie,RM,tends to find fault with others,7,2
+Gao Yaojie,RM,does a thorough job,8,5
+Gao Yaojie,RM,gets nervous easily,9,5
+Gao Yaojie,RM,has an active imagination,10,5
+Lino Brocka,RM,is reserved,1,4
+Lino Brocka,RM,is generally trusting,2,4
+Lino Brocka,RM,tends to be lazy,3,3
+Lino Brocka,RM,"is relaxed, handles stress well",4,4
+Lino Brocka,RM,has few artistic interests,5,1
+Lino Brocka,RM,"is outgoing, sociable",6,4
+Lino Brocka,RM,tends to find fault with others,7,2
+Lino Brocka,RM,does a thorough job,8,5
+Lino Brocka,RM,gets nervous easily,9,4
+Lino Brocka,RM,has an active imagination,10,5
+Fusae Ichikawa,RM,is reserved,1,4
+Fusae Ichikawa,RM,is generally trusting,2,4
+Fusae Ichikawa,RM,tends to be lazy,3,2
+Fusae Ichikawa,RM,"is relaxed, handles stress well",4,4
+Fusae Ichikawa,RM,has few artistic interests,5,2
+Fusae Ichikawa,RM,"is outgoing, sociable",6,4
+Fusae Ichikawa,RM,tends to find fault with others,7,2
+Fusae Ichikawa,RM,does a thorough job,8,5
+Fusae Ichikawa,RM,gets nervous easily,9,5
+Fusae Ichikawa,RM,has an active imagination,10,5
+Jovito R. Salonga,RM,is reserved,1,4
+Jovito R. Salonga,RM,is generally trusting,2,4
+Jovito R. Salonga,RM,tends to be lazy,3,2
+Jovito R. Salonga,RM,"is relaxed, handles stress well",4,4
+Jovito R. Salonga,RM,has few artistic interests,5,2
+Jovito R. Salonga,RM,"is outgoing, sociable",6,4
+Jovito R. Salonga,RM,tends to find fault with others,7,2
+Jovito R. Salonga,RM,does a thorough job,8,5
+Jovito R. Salonga,RM,gets nervous easily,9,3
+Jovito R. Salonga,RM,has an active imagination,10,5
+Helen Kim,RM,is reserved,1,4
+Helen Kim,RM,is generally trusting,2,4
+Helen Kim,RM,tends to be lazy,3,3
+Helen Kim,RM,"is relaxed, handles stress well",4,4
+Helen Kim,RM,has few artistic interests,5,2
+Helen Kim,RM,"is outgoing, sociable",6,4
+Helen Kim,RM,tends to find fault with others,7,3
+Helen Kim,RM,does a thorough job,8,5
+Helen Kim,RM,gets nervous easily,9,4
+Helen Kim,RM,has an active imagination,10,5
+Tetsu Nakamura,RM,is reserved,1,4
+Tetsu Nakamura,RM,is generally trusting,2,4
+Tetsu Nakamura,RM,tends to be lazy,3,3
+Tetsu Nakamura,RM,"is relaxed, handles stress well",4,4
+Tetsu Nakamura,RM,has few artistic interests,5,2
+Tetsu Nakamura,RM,"is outgoing, sociable",6,4
+Tetsu Nakamura,RM,tends to find fault with others,7,3
+Tetsu Nakamura,RM,does a thorough job,8,5
+Tetsu Nakamura,RM,gets nervous easily,9,3
+Tetsu Nakamura,RM,has an active imagination,10,5
+Tadatoshi Akiba,RM,is reserved,1,4
+Tadatoshi Akiba,RM,is generally trusting,2,4
+Tadatoshi Akiba,RM,tends to be lazy,3,3
+Tadatoshi Akiba,RM,"is relaxed, handles stress well",4,4
+Tadatoshi Akiba,RM,has few artistic interests,5,3
+Tadatoshi Akiba,RM,"is outgoing, sociable",6,4
+Tadatoshi Akiba,RM,tends to find fault with others,7,2
+Tadatoshi Akiba,RM,does a thorough job,8,4
+Tadatoshi Akiba,RM,gets nervous easily,9,3
+Tadatoshi Akiba,RM,has an active imagination,10,5
+Michiko Ishimure,RM,is reserved,1,4
+Michiko Ishimure,RM,is generally trusting,2,4
+Michiko Ishimure,RM,tends to be lazy,3,3
+Michiko Ishimure,RM,"is relaxed, handles stress well",4,3
+Michiko Ishimure,RM,has few artistic interests,5,1
+Michiko Ishimure,RM,"is outgoing, sociable",6,4
+Michiko Ishimure,RM,tends to find fault with others,7,2
+Michiko Ishimure,RM,does a thorough job,8,5
+Michiko Ishimure,RM,gets nervous easily,9,3
+Michiko Ishimure,RM,has an active imagination,10,5
+Jesse Robredo,RM,is reserved,1,2
+Jesse Robredo,RM,is generally trusting,2,4
+Jesse Robredo,RM,tends to be lazy,3,2
+Jesse Robredo,RM,"is relaxed, handles stress well",4,4
+Jesse Robredo,RM,has few artistic interests,5,2
+Jesse Robredo,RM,"is outgoing, sociable",6,4
+Jesse Robredo,RM,tends to find fault with others,7,2
+Jesse Robredo,RM,does a thorough job,8,5
+Jesse Robredo,RM,gets nervous easily,9,3
+Jesse Robredo,RM,has an active imagination,10,4
+Palagummi Sainath,RM,is reserved,1,3
+Palagummi Sainath,RM,is generally trusting,2,4
+Palagummi Sainath,RM,tends to be lazy,3,3
+Palagummi Sainath,RM,"is relaxed, handles stress well",4,4
+Palagummi Sainath,RM,has few artistic interests,5,2
+Palagummi Sainath,RM,"is outgoing, sociable",6,4
+Palagummi Sainath,RM,tends to find fault with others,7,3
+Palagummi Sainath,RM,does a thorough job,8,5
+Palagummi Sainath,RM,gets nervous easily,9,3
+Palagummi Sainath,RM,has an active imagination,10,4
+Banoo Jehangir Coyaji,RM,is reserved,1,2
+Banoo Jehangir Coyaji,RM,is generally trusting,2,4
+Banoo Jehangir Coyaji,RM,tends to be lazy,3,2
+Banoo Jehangir Coyaji,RM,"is relaxed, handles stress well",4,4
+Banoo Jehangir Coyaji,RM,has few artistic interests,5,2
+Banoo Jehangir Coyaji,RM,"is outgoing, sociable",6,4
+Banoo Jehangir Coyaji,RM,tends to find fault with others,7,2
+Banoo Jehangir Coyaji,RM,does a thorough job,8,5
+Banoo Jehangir Coyaji,RM,gets nervous easily,9,2
+Banoo Jehangir Coyaji,RM,has an active imagination,10,5
+HB Jassin,RM,is reserved,1,3
+HB Jassin,RM,is generally trusting,2,4
+HB Jassin,RM,tends to be lazy,3,3
+HB Jassin,RM,"is relaxed, handles stress well",4,4
+HB Jassin,RM,has few artistic interests,5,2
+HB Jassin,RM,"is outgoing, sociable",6,4
+HB Jassin,RM,tends to find fault with others,7,3
+HB Jassin,RM,does a thorough job,8,5
+HB Jassin,RM,gets nervous easily,9,4
+HB Jassin,RM,has an active imagination,10,5
+Chen Shu-chu,RM,is reserved,1,4
+Chen Shu-chu,RM,is generally trusting,2,5
+Chen Shu-chu,RM,tends to be lazy,3,1
+Chen Shu-chu,RM,"is relaxed, handles stress well",4,4
+Chen Shu-chu,RM,has few artistic interests,5,2
+Chen Shu-chu,RM,"is outgoing, sociable",6,4
+Chen Shu-chu,RM,tends to find fault with others,7,2
+Chen Shu-chu,RM,does a thorough job,8,5
+Chen Shu-chu,RM,gets nervous easily,9,3
+Chen Shu-chu,RM,has an active imagination,10,5
+Nick Joaquin,RM,is reserved,1,4
+Nick Joaquin,RM,is generally trusting,2,4
+Nick Joaquin,RM,tends to be lazy,3,3
+Nick Joaquin,RM,"is relaxed, handles stress well",4,3
+Nick Joaquin,RM,has few artistic interests,5,1
+Nick Joaquin,RM,"is outgoing, sociable",6,4
+Nick Joaquin,RM,tends to find fault with others,7,2
+Nick Joaquin,RM,does a thorough job,8,4
+Nick Joaquin,RM,gets nervous easily,9,3
+Nick Joaquin,RM,has an active imagination,10,5
+Firdausi Qadri,RM,is reserved,1,4
+Firdausi Qadri,RM,is generally trusting,2,4
+Firdausi Qadri,RM,tends to be lazy,3,2
+Firdausi Qadri,RM,"is relaxed, handles stress well",4,4
+Firdausi Qadri,RM,has few artistic interests,5,2
+Firdausi Qadri,RM,"is outgoing, sociable",6,4
+Firdausi Qadri,RM,tends to find fault with others,7,2
+Firdausi Qadri,RM,does a thorough job,8,5
+Firdausi Qadri,RM,gets nervous easily,9,5
+Firdausi Qadri,RM,has an active imagination,10,5
+T. N. Seshan,RM,is reserved,1,4
+T. N. Seshan,RM,is generally trusting,2,5
+T. N. Seshan,RM,tends to be lazy,3,3
+T. N. Seshan,RM,"is relaxed, handles stress well",4,4
+T. N. Seshan,RM,has few artistic interests,5,1
+T. N. Seshan,RM,"is outgoing, sociable",6,5
+T. N. Seshan,RM,tends to find fault with others,7,2
+T. N. Seshan,RM,does a thorough job,8,5
+T. N. Seshan,RM,gets nervous easily,9,5
+T. N. Seshan,RM,has an active imagination,10,5
+Cynthia Maung,RM,is reserved,1,4
+Cynthia Maung,RM,is generally trusting,2,4
+Cynthia Maung,RM,tends to be lazy,3,3
+Cynthia Maung,RM,"is relaxed, handles stress well",4,4
+Cynthia Maung,RM,has few artistic interests,5,2
+Cynthia Maung,RM,"is outgoing, sociable",6,4
+Cynthia Maung,RM,tends to find fault with others,7,2
+Cynthia Maung,RM,does a thorough job,8,5
+Cynthia Maung,RM,gets nervous easily,9,5
+Cynthia Maung,RM,has an active imagination,10,5
+Saburo Okita,RM,is reserved,1,4
+Saburo Okita,RM,is generally trusting,2,4
+Saburo Okita,RM,tends to be lazy,3,2
+Saburo Okita,RM,"is relaxed, handles stress well",4,4
+Saburo Okita,RM,has few artistic interests,5,3
+Saburo Okita,RM,"is outgoing, sociable",6,4
+Saburo Okita,RM,tends to find fault with others,7,2
+Saburo Okita,RM,does a thorough job,8,5
+Saburo Okita,RM,gets nervous easily,9,3
+Saburo Okita,RM,has an active imagination,10,4
+Pandurang Shastri Athavale,RM,is reserved,1,2
+Pandurang Shastri Athavale,RM,is generally trusting,2,4
+Pandurang Shastri Athavale,RM,tends to be lazy,3,2
+Pandurang Shastri Athavale,RM,"is relaxed, handles stress well",4,4
+Pandurang Shastri Athavale,RM,has few artistic interests,5,1
+Pandurang Shastri Athavale,RM,"is outgoing, sociable",6,4
+Pandurang Shastri Athavale,RM,tends to find fault with others,7,2
+Pandurang Shastri Athavale,RM,does a thorough job,8,5
+Pandurang Shastri Athavale,RM,gets nervous easily,9,2
+Pandurang Shastri Athavale,RM,has an active imagination,10,5
+Mahesh Chandra Mehta,RM,is reserved,1,4
+Mahesh Chandra Mehta,RM,is generally trusting,2,4
+Mahesh Chandra Mehta,RM,tends to be lazy,3,2
+Mahesh Chandra Mehta,RM,"is relaxed, handles stress well",4,4
+Mahesh Chandra Mehta,RM,has few artistic interests,5,3
+Mahesh Chandra Mehta,RM,"is outgoing, sociable",6,4
+Mahesh Chandra Mehta,RM,tends to find fault with others,7,2
+Mahesh Chandra Mehta,RM,does a thorough job,8,5
+Mahesh Chandra Mehta,RM,gets nervous easily,9,3
+Mahesh Chandra Mehta,RM,has an active imagination,10,5
+Jiang Yanyong,RM,is reserved,1,2
+Jiang Yanyong,RM,is generally trusting,2,4
+Jiang Yanyong,RM,tends to be lazy,3,2
+Jiang Yanyong,RM,"is relaxed, handles stress well",4,4
+Jiang Yanyong,RM,has few artistic interests,5,2
+Jiang Yanyong,RM,"is outgoing, sociable",6,4
+Jiang Yanyong,RM,tends to find fault with others,7,2
+Jiang Yanyong,RM,does a thorough job,8,5
+Jiang Yanyong,RM,gets nervous easily,9,3
+Jiang Yanyong,RM,has an active imagination,10,5
+Goh Keng Swee,RM,is reserved,1,4
+Goh Keng Swee,RM,is generally trusting,2,4
+Goh Keng Swee,RM,tends to be lazy,3,2
+Goh Keng Swee,RM,"is relaxed, handles stress well",4,4
+Goh Keng Swee,RM,has few artistic interests,5,3
+Goh Keng Swee,RM,"is outgoing, sociable",6,3
+Goh Keng Swee,RM,tends to find fault with others,7,2
+Goh Keng Swee,RM,does a thorough job,8,5
+Goh Keng Swee,RM,gets nervous easily,9,3
+Goh Keng Swee,RM,has an active imagination,10,4
+Ali Sadikin,RM,is reserved,1,3
+Ali Sadikin,RM,is generally trusting,2,5
+Ali Sadikin,RM,tends to be lazy,3,3
+Ali Sadikin,RM,"is relaxed, handles stress well",4,4
+Ali Sadikin,RM,has few artistic interests,5,3
+Ali Sadikin,RM,"is outgoing, sociable",6,4
+Ali Sadikin,RM,tends to find fault with others,7,3
+Ali Sadikin,RM,does a thorough job,8,4
+Ali Sadikin,RM,gets nervous easily,9,5
+Ali Sadikin,RM,has an active imagination,10,5
+Kwoh-Ting Li,RM,is reserved,1,2
+Kwoh-Ting Li,RM,is generally trusting,2,4
+Kwoh-Ting Li,RM,tends to be lazy,3,3
+Kwoh-Ting Li,RM,"is relaxed, handles stress well",4,4
+Kwoh-Ting Li,RM,has few artistic interests,5,3
+Kwoh-Ting Li,RM,"is outgoing, sociable",6,4
+Kwoh-Ting Li,RM,tends to find fault with others,7,2
+Kwoh-Ting Li,RM,does a thorough job,8,5
+Kwoh-Ting Li,RM,gets nervous easily,9,3
+Kwoh-Ting Li,RM,has an active imagination,10,5
+Chintaman Dwarkanath Deshmukh,RM,is reserved,1,3
+Chintaman Dwarkanath Deshmukh,RM,is generally trusting,2,4
+Chintaman Dwarkanath Deshmukh,RM,tends to be lazy,3,2
+Chintaman Dwarkanath Deshmukh,RM,"is relaxed, handles stress well",4,4
+Chintaman Dwarkanath Deshmukh,RM,has few artistic interests,5,3
+Chintaman Dwarkanath Deshmukh,RM,"is outgoing, sociable",6,4
+Chintaman Dwarkanath Deshmukh,RM,tends to find fault with others,7,2
+Chintaman Dwarkanath Deshmukh,RM,does a thorough job,8,5
+Chintaman Dwarkanath Deshmukh,RM,gets nervous easily,9,3
+Chintaman Dwarkanath Deshmukh,RM,has an active imagination,10,4
+Rajendra Singh,RM,is reserved,1,4
+Rajendra Singh,RM,is generally trusting,2,4
+Rajendra Singh,RM,tends to be lazy,3,3
+Rajendra Singh,RM,"is relaxed, handles stress well",4,4
+Rajendra Singh,RM,has few artistic interests,5,3
+Rajendra Singh,RM,"is outgoing, sociable",6,4
+Rajendra Singh,RM,tends to find fault with others,7,2
+Rajendra Singh,RM,does a thorough job,8,5
+Rajendra Singh,RM,gets nervous easily,9,4
+Rajendra Singh,RM,has an active imagination,10,4
+Shantha Sinha,RM,is reserved,1,3
+Shantha Sinha,RM,is generally trusting,2,5
+Shantha Sinha,RM,tends to be lazy,3,3
+Shantha Sinha,RM,"is relaxed, handles stress well",4,4
+Shantha Sinha,RM,has few artistic interests,5,3
+Shantha Sinha,RM,"is outgoing, sociable",6,4
+Shantha Sinha,RM,tends to find fault with others,7,2
+Shantha Sinha,RM,does a thorough job,8,5
+Shantha Sinha,RM,gets nervous easily,9,3
+Shantha Sinha,RM,has an active imagination,10,5
+V Shanta,RM,is reserved,1,4
+V Shanta,RM,is generally trusting,2,5
+V Shanta,RM,tends to be lazy,3,3
+V Shanta,RM,"is relaxed, handles stress well",4,4
+V Shanta,RM,has few artistic interests,5,3
+V Shanta,RM,"is outgoing, sociable",6,4
+V Shanta,RM,tends to find fault with others,7,2
+V Shanta,RM,does a thorough job,8,5
+V Shanta,RM,gets nervous easily,9,4
+V Shanta,RM,has an active imagination,10,5
+Pan Yue,RM,is reserved,1,4
+Pan Yue,RM,is generally trusting,2,4
+Pan Yue,RM,tends to be lazy,3,3
+Pan Yue,RM,"is relaxed, handles stress well",4,4
+Pan Yue,RM,has few artistic interests,5,2
+Pan Yue,RM,"is outgoing, sociable",6,4
+Pan Yue,RM,tends to find fault with others,7,2
+Pan Yue,RM,does a thorough job,8,5
+Pan Yue,RM,gets nervous easily,9,4
+Pan Yue,RM,has an active imagination,10,5
+Chang Chun-ha,RM,is reserved,1,4
+Chang Chun-ha,RM,is generally trusting,2,4
+Chang Chun-ha,RM,tends to be lazy,3,3
+Chang Chun-ha,RM,"is relaxed, handles stress well",4,4
+Chang Chun-ha,RM,has few artistic interests,5,3
+Chang Chun-ha,RM,"is outgoing, sociable",6,4
+Chang Chun-ha,RM,tends to find fault with others,7,2
+Chang Chun-ha,RM,does a thorough job,8,5
+Chang Chun-ha,RM,gets nervous easily,9,3
+Chang Chun-ha,RM,has an active imagination,10,5
+Ma Jun,RM,is reserved,1,4
+Ma Jun,RM,is generally trusting,2,4
+Ma Jun,RM,tends to be lazy,3,3
+Ma Jun,RM,"is relaxed, handles stress well",4,4
+Ma Jun,RM,has few artistic interests,5,3
+Ma Jun,RM,"is outgoing, sociable",6,4
+Ma Jun,RM,tends to find fault with others,7,3
+Ma Jun,RM,does a thorough job,8,5
+Ma Jun,RM,gets nervous easily,9,5
+Ma Jun,RM,has an active imagination,10,4
+Chamlong Srimuang,RM,is reserved,1,4
+Chamlong Srimuang,RM,is generally trusting,2,4
+Chamlong Srimuang,RM,tends to be lazy,3,2
+Chamlong Srimuang,RM,"is relaxed, handles stress well",4,4
+Chamlong Srimuang,RM,has few artistic interests,5,3
+Chamlong Srimuang,RM,"is outgoing, sociable",6,4
+Chamlong Srimuang,RM,tends to find fault with others,7,2
+Chamlong Srimuang,RM,does a thorough job,8,5
+Chamlong Srimuang,RM,gets nervous easily,9,4
+Chamlong Srimuang,RM,has an active imagination,10,4
+Sombhu Mitra,RM,is reserved,1,4
+Sombhu Mitra,RM,is generally trusting,2,4
+Sombhu Mitra,RM,tends to be lazy,3,2
+Sombhu Mitra,RM,"is relaxed, handles stress well",4,4
+Sombhu Mitra,RM,has few artistic interests,5,2
+Sombhu Mitra,RM,"is outgoing, sociable",6,4
+Sombhu Mitra,RM,tends to find fault with others,7,3
+Sombhu Mitra,RM,does a thorough job,8,5
+Sombhu Mitra,RM,gets nervous easily,9,5
+Sombhu Mitra,RM,has an active imagination,10,5
+Fazle Hasan Abed,RM,is reserved,1,3
+Fazle Hasan Abed,RM,is generally trusting,2,4
+Fazle Hasan Abed,RM,tends to be lazy,3,2
+Fazle Hasan Abed,RM,"is relaxed, handles stress well",4,4
+Fazle Hasan Abed,RM,has few artistic interests,5,2
+Fazle Hasan Abed,RM,"is outgoing, sociable",6,4
+Fazle Hasan Abed,RM,tends to find fault with others,7,2
+Fazle Hasan Abed,RM,does a thorough job,8,5
+Fazle Hasan Abed,RM,gets nervous easily,9,3
+Fazle Hasan Abed,RM,has an active imagination,10,5
+Lee Tai-young,RM,is reserved,1,4
+Lee Tai-young,RM,is generally trusting,2,4
+Lee Tai-young,RM,tends to be lazy,3,3
+Lee Tai-young,RM,"is relaxed, handles stress well",4,4
+Lee Tai-young,RM,has few artistic interests,5,3
+Lee Tai-young,RM,"is outgoing, sociable",6,4
+Lee Tai-young,RM,tends to find fault with others,7,3
+Lee Tai-young,RM,does a thorough job,8,5
+Lee Tai-young,RM,gets nervous easily,9,3
+Lee Tai-young,RM,has an active imagination,10,4
+Sonam Wangchuk,RM,is reserved,1,4
+Sonam Wangchuk,RM,is generally trusting,2,4
+Sonam Wangchuk,RM,tends to be lazy,3,2
+Sonam Wangchuk,RM,"is relaxed, handles stress well",4,4
+Sonam Wangchuk,RM,has few artistic interests,5,2
+Sonam Wangchuk,RM,"is outgoing, sociable",6,4
+Sonam Wangchuk,RM,tends to find fault with others,7,2
+Sonam Wangchuk,RM,does a thorough job,8,5
+Sonam Wangchuk,RM,gets nervous easily,9,3
+Sonam Wangchuk,RM,has an active imagination,10,5
+Harish Hande,RM,is reserved,1,4
+Harish Hande,RM,is generally trusting,2,4
+Harish Hande,RM,tends to be lazy,3,2
+Harish Hande,RM,"is relaxed, handles stress well",4,4
+Harish Hande,RM,has few artistic interests,5,2
+Harish Hande,RM,"is outgoing, sociable",6,4
+Harish Hande,RM,tends to find fault with others,7,2
+Harish Hande,RM,does a thorough job,8,5
+Harish Hande,RM,gets nervous easily,9,3
+Harish Hande,RM,has an active imagination,10,5
+Bilquis Edhi,RM,is reserved,1,4
+Bilquis Edhi,RM,is generally trusting,2,4
+Bilquis Edhi,RM,tends to be lazy,3,1
+Bilquis Edhi,RM,"is relaxed, handles stress well",4,4
+Bilquis Edhi,RM,has few artistic interests,5,2
+Bilquis Edhi,RM,"is outgoing, sociable",6,5
+Bilquis Edhi,RM,tends to find fault with others,7,2
+Bilquis Edhi,RM,does a thorough job,8,5
+Bilquis Edhi,RM,gets nervous easily,9,3
+Bilquis Edhi,RM,has an active imagination,10,5
+Chandi Prasad Bhatt,RM,is reserved,1,4
+Chandi Prasad Bhatt,RM,is generally trusting,2,4
+Chandi Prasad Bhatt,RM,tends to be lazy,3,2
+Chandi Prasad Bhatt,RM,"is relaxed, handles stress well",4,4
+Chandi Prasad Bhatt,RM,has few artistic interests,5,2
+Chandi Prasad Bhatt,RM,"is outgoing, sociable",6,4
+Chandi Prasad Bhatt,RM,tends to find fault with others,7,2
+Chandi Prasad Bhatt,RM,does a thorough job,8,5
+Chandi Prasad Bhatt,RM,gets nervous easily,9,3
+Chandi Prasad Bhatt,RM,has an active imagination,10,4
+Yi Cheol-seung,RM,is reserved,1,4
+Yi Cheol-seung,RM,is generally trusting,2,4
+Yi Cheol-seung,RM,tends to be lazy,3,2
+Yi Cheol-seung,RM,"is relaxed, handles stress well",4,4
+Yi Cheol-seung,RM,has few artistic interests,5,2
+Yi Cheol-seung,RM,"is outgoing, sociable",6,4
+Yi Cheol-seung,RM,tends to find fault with others,7,2
+Yi Cheol-seung,RM,does a thorough job,8,5
+Yi Cheol-seung,RM,gets nervous easily,9,4
+Yi Cheol-seung,RM,has an active imagination,10,4
+Ying Ruocheng,RM,is reserved,1,4
+Ying Ruocheng,RM,is generally trusting,2,4
+Ying Ruocheng,RM,tends to be lazy,3,3
+Ying Ruocheng,RM,"is relaxed, handles stress well",4,4
+Ying Ruocheng,RM,has few artistic interests,5,2
+Ying Ruocheng,RM,"is outgoing, sociable",6,4
+Ying Ruocheng,RM,tends to find fault with others,7,2
+Ying Ruocheng,RM,does a thorough job,8,5
+Ying Ruocheng,RM,gets nervous easily,9,3
+Ying Ruocheng,RM,has an active imagination,10,4
+"Hilario Davide, Jr.",RM,is reserved,1,4
+"Hilario Davide, Jr.",RM,is generally trusting,2,4
+"Hilario Davide, Jr.",RM,tends to be lazy,3,2
+"Hilario Davide, Jr.",RM,"is relaxed, handles stress well",4,4
+"Hilario Davide, Jr.",RM,has few artistic interests,5,3
+"Hilario Davide, Jr.",RM,"is outgoing, sociable",6,4
+"Hilario Davide, Jr.",RM,tends to find fault with others,7,2
+"Hilario Davide, Jr.",RM,does a thorough job,8,5
+"Hilario Davide, Jr.",RM,gets nervous easily,9,3
+"Hilario Davide, Jr.",RM,has an active imagination,10,4
+Ahmad Syafi'i Maarif,RM,is reserved,1,2
+Ahmad Syafi'i Maarif,RM,is generally trusting,2,4
+Ahmad Syafi'i Maarif,RM,tends to be lazy,3,2
+Ahmad Syafi'i Maarif,RM,"is relaxed, handles stress well",4,4
+Ahmad Syafi'i Maarif,RM,has few artistic interests,5,2
+Ahmad Syafi'i Maarif,RM,"is outgoing, sociable",6,4
+Ahmad Syafi'i Maarif,RM,tends to find fault with others,7,2
+Ahmad Syafi'i Maarif,RM,does a thorough job,8,5
+Ahmad Syafi'i Maarif,RM,gets nervous easily,9,3
+Ahmad Syafi'i Maarif,RM,has an active imagination,10,4
+A. T. Ariyaratne,RM,is reserved,1,4
+A. T. Ariyaratne,RM,is generally trusting,2,4
+A. T. Ariyaratne,RM,tends to be lazy,3,3
+A. T. Ariyaratne,RM,"is relaxed, handles stress well",4,4
+A. T. Ariyaratne,RM,has few artistic interests,5,2
+A. T. Ariyaratne,RM,"is outgoing, sociable",6,4
+A. T. Ariyaratne,RM,tends to find fault with others,7,2
+A. T. Ariyaratne,RM,does a thorough job,8,5
+A. T. Ariyaratne,RM,gets nervous easily,9,3
+A. T. Ariyaratne,RM,has an active imagination,10,5
+Aloysius Schwartz,RM,is reserved,1,4
+Aloysius Schwartz,RM,is generally trusting,2,5
+Aloysius Schwartz,RM,tends to be lazy,3,3
+Aloysius Schwartz,RM,"is relaxed, handles stress well",4,3
+Aloysius Schwartz,RM,has few artistic interests,5,3
+Aloysius Schwartz,RM,"is outgoing, sociable",6,4
+Aloysius Schwartz,RM,tends to find fault with others,7,3
+Aloysius Schwartz,RM,does a thorough job,8,5
+Aloysius Schwartz,RM,gets nervous easily,9,5
+Aloysius Schwartz,RM,has an active imagination,10,5
+Rizwana Hasan,RM,is reserved,1,4
+Rizwana Hasan,RM,is generally trusting,2,4
+Rizwana Hasan,RM,tends to be lazy,3,3
+Rizwana Hasan,RM,"is relaxed, handles stress well",4,4
+Rizwana Hasan,RM,has few artistic interests,5,2
+Rizwana Hasan,RM,"is outgoing, sociable",6,4
+Rizwana Hasan,RM,tends to find fault with others,7,2
+Rizwana Hasan,RM,does a thorough job,8,5
+Rizwana Hasan,RM,gets nervous easily,9,3
+Rizwana Hasan,RM,has an active imagination,10,4
+T. M. Krishna,RM,is reserved,1,2
+T. M. Krishna,RM,is generally trusting,2,4
+T. M. Krishna,RM,tends to be lazy,3,2
+T. M. Krishna,RM,"is relaxed, handles stress well",4,4
+T. M. Krishna,RM,has few artistic interests,5,1
+T. M. Krishna,RM,"is outgoing, sociable",6,4
+T. M. Krishna,RM,tends to find fault with others,7,2
+T. M. Krishna,RM,does a thorough job,8,5
+T. M. Krishna,RM,gets nervous easily,9,3
+T. M. Krishna,RM,has an active imagination,10,5
+Washington SyCip,RM,is reserved,1,4
+Washington SyCip,RM,is generally trusting,2,4
+Washington SyCip,RM,tends to be lazy,3,1
+Washington SyCip,RM,"is relaxed, handles stress well",4,4
+Washington SyCip,RM,has few artistic interests,5,2
+Washington SyCip,RM,"is outgoing, sociable",6,4
+Washington SyCip,RM,tends to find fault with others,7,2
+Washington SyCip,RM,does a thorough job,8,5
+Washington SyCip,RM,gets nervous easily,9,3
+Washington SyCip,RM,has an active imagination,10,4
+Soedjatmoko,RM,is reserved,1,4
+Soedjatmoko,RM,is generally trusting,2,4
+Soedjatmoko,RM,tends to be lazy,3,3
+Soedjatmoko,RM,"is relaxed, handles stress well",4,4
+Soedjatmoko,RM,has few artistic interests,5,3
+Soedjatmoko,RM,"is outgoing, sociable",6,4
+Soedjatmoko,RM,tends to find fault with others,7,2
+Soedjatmoko,RM,does a thorough job,8,5
+Soedjatmoko,RM,gets nervous easily,9,3
+Soedjatmoko,RM,has an active imagination,10,5
+James B. Reuter,RM,is reserved,1,5
+James B. Reuter,RM,is generally trusting,2,4
+James B. Reuter,RM,tends to be lazy,3,3
+James B. Reuter,RM,"is relaxed, handles stress well",4,4
+James B. Reuter,RM,has few artistic interests,5,2
+James B. Reuter,RM,"is outgoing, sociable",6,4
+James B. Reuter,RM,tends to find fault with others,7,2
+James B. Reuter,RM,does a thorough job,8,5
+James B. Reuter,RM,gets nervous easily,9,5
+James B. Reuter,RM,has an active imagination,10,5
+Ikuo Hirayama,RM,is reserved,1,3
+Ikuo Hirayama,RM,is generally trusting,2,4
+Ikuo Hirayama,RM,tends to be lazy,3,3
+Ikuo Hirayama,RM,"is relaxed, handles stress well",4,4
+Ikuo Hirayama,RM,has few artistic interests,5,1
+Ikuo Hirayama,RM,"is outgoing, sociable",6,4
+Ikuo Hirayama,RM,tends to find fault with others,7,2
+Ikuo Hirayama,RM,does a thorough job,8,5
+Ikuo Hirayama,RM,gets nervous easily,9,5
+Ikuo Hirayama,RM,has an active imagination,10,5
+Sombath Somphone,RM,is reserved,1,3
+Sombath Somphone,RM,is generally trusting,2,4
+Sombath Somphone,RM,tends to be lazy,3,3
+Sombath Somphone,RM,"is relaxed, handles stress well",4,4
+Sombath Somphone,RM,has few artistic interests,5,1
+Sombath Somphone,RM,"is outgoing, sociable",6,3
+Sombath Somphone,RM,tends to find fault with others,7,2
+Sombath Somphone,RM,does a thorough job,8,5
+Sombath Somphone,RM,gets nervous easily,9,3
+Sombath Somphone,RM,has an active imagination,10,5
+Liang Congjie,RM,is reserved,1,2
+Liang Congjie,RM,is generally trusting,2,4
+Liang Congjie,RM,tends to be lazy,3,2
+Liang Congjie,RM,"is relaxed, handles stress well",4,4
+Liang Congjie,RM,has few artistic interests,5,2
+Liang Congjie,RM,"is outgoing, sociable",6,4
+Liang Congjie,RM,tends to find fault with others,7,2
+Liang Congjie,RM,does a thorough job,8,5
+Liang Congjie,RM,gets nervous easily,9,3
+Liang Congjie,RM,has an active imagination,10,4
+Richard William Timm,RM,is reserved,1,3
+Richard William Timm,RM,is generally trusting,2,4
+Richard William Timm,RM,tends to be lazy,3,3
+Richard William Timm,RM,"is relaxed, handles stress well",4,4
+Richard William Timm,RM,has few artistic interests,5,3
+Richard William Timm,RM,"is outgoing, sociable",6,4
+Richard William Timm,RM,tends to find fault with others,7,2
+Richard William Timm,RM,does a thorough job,8,5
+Richard William Timm,RM,gets nervous easily,9,3
+Richard William Timm,RM,has an active imagination,10,5
+Sanduk Ruit,RM,is reserved,1,2
+Sanduk Ruit,RM,is generally trusting,2,4
+Sanduk Ruit,RM,tends to be lazy,3,3
+Sanduk Ruit,RM,"is relaxed, handles stress well",4,4
+Sanduk Ruit,RM,has few artistic interests,5,3
+Sanduk Ruit,RM,"is outgoing, sociable",6,4
+Sanduk Ruit,RM,tends to find fault with others,7,2
+Sanduk Ruit,RM,does a thorough job,8,5
+Sanduk Ruit,RM,gets nervous easily,9,5
+Sanduk Ruit,RM,has an active imagination,10,4
+Lin Hwai-min,RM,is reserved,1,4
+Lin Hwai-min,RM,is generally trusting,2,4
+Lin Hwai-min,RM,tends to be lazy,3,2
+Lin Hwai-min,RM,"is relaxed, handles stress well",4,4
+Lin Hwai-min,RM,has few artistic interests,5,1
+Lin Hwai-min,RM,"is outgoing, sociable",6,4
+Lin Hwai-min,RM,tends to find fault with others,7,2
+Lin Hwai-min,RM,does a thorough job,8,5
+Lin Hwai-min,RM,gets nervous easily,9,3
+Lin Hwai-min,RM,has an active imagination,10,5
+Aniceto Guterres Lopes,RM,is reserved,1,3
+Aniceto Guterres Lopes,RM,is generally trusting,2,4
+Aniceto Guterres Lopes,RM,tends to be lazy,3,2
+Aniceto Guterres Lopes,RM,"is relaxed, handles stress well",4,4
+Aniceto Guterres Lopes,RM,has few artistic interests,5,2
+Aniceto Guterres Lopes,RM,"is outgoing, sociable",6,4
+Aniceto Guterres Lopes,RM,tends to find fault with others,7,3
+Aniceto Guterres Lopes,RM,does a thorough job,8,5
+Aniceto Guterres Lopes,RM,gets nervous easily,9,4
+Aniceto Guterres Lopes,RM,has an active imagination,10,4
+Puey Ungpakorn,RM,is reserved,1,3
+Puey Ungpakorn,RM,is generally trusting,2,4
+Puey Ungpakorn,RM,tends to be lazy,3,3
+Puey Ungpakorn,RM,"is relaxed, handles stress well",4,4
+Puey Ungpakorn,RM,has few artistic interests,5,3
+Puey Ungpakorn,RM,"is outgoing, sociable",6,4
+Puey Ungpakorn,RM,tends to find fault with others,7,2
+Puey Ungpakorn,RM,does a thorough job,8,5
+Puey Ungpakorn,RM,gets nervous easily,9,3
+Puey Ungpakorn,RM,has an active imagination,10,4
+Antonio Fortich,RM,is reserved,1,3
+Antonio Fortich,RM,is generally trusting,2,4
+Antonio Fortich,RM,tends to be lazy,3,2
+Antonio Fortich,RM,"is relaxed, handles stress well",4,4
+Antonio Fortich,RM,has few artistic interests,5,2
+Antonio Fortich,RM,"is outgoing, sociable",6,4
+Antonio Fortich,RM,tends to find fault with others,7,2
+Antonio Fortich,RM,does a thorough job,8,5
+Antonio Fortich,RM,gets nervous easily,9,3
+Antonio Fortich,RM,has an active imagination,10,5
+Tribhuvandas Kishibhai Patel,RM,is reserved,1,2
+Tribhuvandas Kishibhai Patel,RM,is generally trusting,2,4
+Tribhuvandas Kishibhai Patel,RM,tends to be lazy,3,2
+Tribhuvandas Kishibhai Patel,RM,"is relaxed, handles stress well",4,4
+Tribhuvandas Kishibhai Patel,RM,has few artistic interests,5,2
+Tribhuvandas Kishibhai Patel,RM,"is outgoing, sociable",6,4
+Tribhuvandas Kishibhai Patel,RM,tends to find fault with others,7,2
+Tribhuvandas Kishibhai Patel,RM,does a thorough job,8,5
+Tribhuvandas Kishibhai Patel,RM,gets nervous easily,9,3
+Tribhuvandas Kishibhai Patel,RM,has an active imagination,10,4
+Zafrullah Chowdhury,RM,is reserved,1,3
+Zafrullah Chowdhury,RM,is generally trusting,2,4
+Zafrullah Chowdhury,RM,tends to be lazy,3,2
+Zafrullah Chowdhury,RM,"is relaxed, handles stress well",4,4
+Zafrullah Chowdhury,RM,has few artistic interests,5,2
+Zafrullah Chowdhury,RM,"is outgoing, sociable",6,4
+Zafrullah Chowdhury,RM,tends to find fault with others,7,2
+Zafrullah Chowdhury,RM,does a thorough job,8,5
+Zafrullah Chowdhury,RM,gets nervous easily,9,4
+Zafrullah Chowdhury,RM,has an active imagination,10,4
+Nileema Mishra,RM,is reserved,1,4
+Nileema Mishra,RM,is generally trusting,2,4
+Nileema Mishra,RM,tends to be lazy,3,2
+Nileema Mishra,RM,"is relaxed, handles stress well",4,4
+Nileema Mishra,RM,has few artistic interests,5,1
+Nileema Mishra,RM,"is outgoing, sociable",6,4
+Nileema Mishra,RM,tends to find fault with others,7,2
+Nileema Mishra,RM,does a thorough job,8,5
+Nileema Mishra,RM,gets nervous easily,9,3
+Nileema Mishra,RM,has an active imagination,10,5
+Amitabha Chowdhury,RM,is reserved,1,4
+Amitabha Chowdhury,RM,is generally trusting,2,4
+Amitabha Chowdhury,RM,tends to be lazy,3,3
+Amitabha Chowdhury,RM,"is relaxed, handles stress well",4,4
+Amitabha Chowdhury,RM,has few artistic interests,5,2
+Amitabha Chowdhury,RM,"is outgoing, sociable",6,4
+Amitabha Chowdhury,RM,tends to find fault with others,7,3
+Amitabha Chowdhury,RM,does a thorough job,8,5
+Amitabha Chowdhury,RM,gets nervous easily,9,5
+Amitabha Chowdhury,RM,has an active imagination,10,5
+Elsie Tu,RM,is reserved,1,4
+Elsie Tu,RM,is generally trusting,2,4
+Elsie Tu,RM,tends to be lazy,3,3
+Elsie Tu,RM,"is relaxed, handles stress well",4,4
+Elsie Tu,RM,has few artistic interests,5,3
+Elsie Tu,RM,"is outgoing, sociable",6,4
+Elsie Tu,RM,tends to find fault with others,7,2
+Elsie Tu,RM,does a thorough job,8,5
+Elsie Tu,RM,gets nervous easily,9,3
+Elsie Tu,RM,has an active imagination,10,5
+Matiur Rahman,RM,is reserved,1,4
+Matiur Rahman,RM,is generally trusting,2,4
+Matiur Rahman,RM,tends to be lazy,3,3
+Matiur Rahman,RM,"is relaxed, handles stress well",4,4
+Matiur Rahman,RM,has few artistic interests,5,3
+Matiur Rahman,RM,"is outgoing, sociable",6,4
+Matiur Rahman,RM,tends to find fault with others,7,2
+Matiur Rahman,RM,does a thorough job,8,5
+Matiur Rahman,RM,gets nervous easily,9,5
+Matiur Rahman,RM,has an active imagination,10,5
+Seiichi Tobata,RM,is reserved,1,4
+Seiichi Tobata,RM,is generally trusting,2,4
+Seiichi Tobata,RM,tends to be lazy,3,3
+Seiichi Tobata,RM,"is relaxed, handles stress well",4,4
+Seiichi Tobata,RM,has few artistic interests,5,3
+Seiichi Tobata,RM,"is outgoing, sociable",6,4
+Seiichi Tobata,RM,tends to find fault with others,7,2
+Seiichi Tobata,RM,does a thorough job,8,5
+Seiichi Tobata,RM,gets nervous easily,9,5
+Seiichi Tobata,RM,has an active imagination,10,5
+Y. C. James Yen,RM,is reserved,1,4
+Y. C. James Yen,RM,is generally trusting,2,4
+Y. C. James Yen,RM,tends to be lazy,3,3
+Y. C. James Yen,RM,"is relaxed, handles stress well",4,4
+Y. C. James Yen,RM,has few artistic interests,5,3
+Y. C. James Yen,RM,"is outgoing, sociable",6,4
+Y. C. James Yen,RM,tends to find fault with others,7,2
+Y. C. James Yen,RM,does a thorough job,8,5
+Y. C. James Yen,RM,gets nervous easily,9,3
+Y. C. James Yen,RM,has an active imagination,10,5
+Nguyen Lac Hoa,RM,is reserved,1,4
+Nguyen Lac Hoa,RM,is generally trusting,2,4
+Nguyen Lac Hoa,RM,tends to be lazy,3,3
+Nguyen Lac Hoa,RM,"is relaxed, handles stress well",4,4
+Nguyen Lac Hoa,RM,has few artistic interests,5,2
+Nguyen Lac Hoa,RM,"is outgoing, sociable",6,4
+Nguyen Lac Hoa,RM,tends to find fault with others,7,2
+Nguyen Lac Hoa,RM,does a thorough job,8,5
+Nguyen Lac Hoa,RM,gets nervous easily,9,4
+Nguyen Lac Hoa,RM,has an active imagination,10,5
+Francisca Reyes-Aquino,RM,is reserved,1,3
+Francisca Reyes-Aquino,RM,is generally trusting,2,4
+Francisca Reyes-Aquino,RM,tends to be lazy,3,3
+Francisca Reyes-Aquino,RM,"is relaxed, handles stress well",4,4
+Francisca Reyes-Aquino,RM,has few artistic interests,5,1
+Francisca Reyes-Aquino,RM,"is outgoing, sociable",6,4
+Francisca Reyes-Aquino,RM,tends to find fault with others,7,3
+Francisca Reyes-Aquino,RM,does a thorough job,8,5
+Francisca Reyes-Aquino,RM,gets nervous easily,9,5
+Francisca Reyes-Aquino,RM,has an active imagination,10,5
+Grace Padaca,RM,is reserved,1,3
+Grace Padaca,RM,is generally trusting,2,4
+Grace Padaca,RM,tends to be lazy,3,2
+Grace Padaca,RM,"is relaxed, handles stress well",4,4
+Grace Padaca,RM,has few artistic interests,5,2
+Grace Padaca,RM,"is outgoing, sociable",6,4
+Grace Padaca,RM,tends to find fault with others,7,2
+Grace Padaca,RM,does a thorough job,8,5
+Grace Padaca,RM,gets nervous easily,9,4
+Grace Padaca,RM,has an active imagination,10,5
+P. K. Sethi,RM,is reserved,1,4
+P. K. Sethi,RM,is generally trusting,2,4
+P. K. Sethi,RM,tends to be lazy,3,2
+P. K. Sethi,RM,"is relaxed, handles stress well",4,4
+P. K. Sethi,RM,has few artistic interests,5,2
+P. K. Sethi,RM,"is outgoing, sociable",6,4
+P. K. Sethi,RM,tends to find fault with others,7,2
+P. K. Sethi,RM,does a thorough job,8,5
+P. K. Sethi,RM,gets nervous easily,9,4
+P. K. Sethi,RM,has an active imagination,10,5
+Conchita Carpio-Morales,RM,is reserved,1,4
+Conchita Carpio-Morales,RM,is generally trusting,2,4
+Conchita Carpio-Morales,RM,tends to be lazy,3,2
+Conchita Carpio-Morales,RM,"is relaxed, handles stress well",4,4
+Conchita Carpio-Morales,RM,has few artistic interests,5,2
+Conchita Carpio-Morales,RM,"is outgoing, sociable",6,4
+Conchita Carpio-Morales,RM,tends to find fault with others,7,3
+Conchita Carpio-Morales,RM,does a thorough job,8,5
+Conchita Carpio-Morales,RM,gets nervous easily,9,3
+Conchita Carpio-Morales,RM,has an active imagination,10,4
+Mary Rutnam,RM,is reserved,1,4
+Mary Rutnam,RM,is generally trusting,2,4
+Mary Rutnam,RM,tends to be lazy,3,2
+Mary Rutnam,RM,"is relaxed, handles stress well",4,4
+Mary Rutnam,RM,has few artistic interests,5,2
+Mary Rutnam,RM,"is outgoing, sociable",6,4
+Mary Rutnam,RM,tends to find fault with others,7,2
+Mary Rutnam,RM,does a thorough job,8,5
+Mary Rutnam,RM,gets nervous easily,9,5
+Mary Rutnam,RM,has an active imagination,10,5
+W. D. Amaradeva,RM,is reserved,1,4
+W. D. Amaradeva,RM,is generally trusting,2,4
+W. D. Amaradeva,RM,tends to be lazy,3,3
+W. D. Amaradeva,RM,"is relaxed, handles stress well",4,4
+W. D. Amaradeva,RM,has few artistic interests,5,1
+W. D. Amaradeva,RM,"is outgoing, sociable",6,4
+W. D. Amaradeva,RM,tends to find fault with others,7,3
+W. D. Amaradeva,RM,does a thorough job,8,5
+W. D. Amaradeva,RM,gets nervous easily,9,3
+W. D. Amaradeva,RM,has an active imagination,10,5
+K. V. Subbanna,RM,is reserved,1,4
+K. V. Subbanna,RM,is generally trusting,2,4
+K. V. Subbanna,RM,tends to be lazy,3,3
+K. V. Subbanna,RM,"is relaxed, handles stress well",4,4
+K. V. Subbanna,RM,has few artistic interests,5,1
+K. V. Subbanna,RM,"is outgoing, sociable",6,4
+K. V. Subbanna,RM,tends to find fault with others,7,2
+K. V. Subbanna,RM,does a thorough job,8,5
+K. V. Subbanna,RM,gets nervous easily,9,4
+K. V. Subbanna,RM,has an active imagination,10,5
+Prakash Amte,RM,is reserved,1,4
+Prakash Amte,RM,is generally trusting,2,4
+Prakash Amte,RM,tends to be lazy,3,2
+Prakash Amte,RM,"is relaxed, handles stress well",4,4
+Prakash Amte,RM,has few artistic interests,5,2
+Prakash Amte,RM,"is outgoing, sociable",6,4
+Prakash Amte,RM,tends to find fault with others,7,2
+Prakash Amte,RM,does a thorough job,8,5
+Prakash Amte,RM,gets nervous easily,9,3
+Prakash Amte,RM,has an active imagination,10,5
+Abdul Samad Ismail,RM,is reserved,1,4
+Abdul Samad Ismail,RM,is generally trusting,2,4
+Abdul Samad Ismail,RM,tends to be lazy,3,3
+Abdul Samad Ismail,RM,"is relaxed, handles stress well",4,4
+Abdul Samad Ismail,RM,has few artistic interests,5,3
+Abdul Samad Ismail,RM,"is outgoing, sociable",6,4
+Abdul Samad Ismail,RM,tends to find fault with others,7,3
+Abdul Samad Ismail,RM,does a thorough job,8,5
+Abdul Samad Ismail,RM,gets nervous easily,9,3
+Abdul Samad Ismail,RM,has an active imagination,10,4
+Abdullah Abu Sayeed,RM,is reserved,1,4
+Abdullah Abu Sayeed,RM,is generally trusting,2,4
+Abdullah Abu Sayeed,RM,tends to be lazy,3,3
+Abdullah Abu Sayeed,RM,"is relaxed, handles stress well",4,4
+Abdullah Abu Sayeed,RM,has few artistic interests,5,2
+Abdullah Abu Sayeed,RM,"is outgoing, sociable",6,4
+Abdullah Abu Sayeed,RM,tends to find fault with others,7,2
+Abdullah Abu Sayeed,RM,does a thorough job,8,5
+Abdullah Abu Sayeed,RM,gets nervous easily,9,5
+Abdullah Abu Sayeed,RM,has an active imagination,10,5
+Eugenia Apostol,RM,is reserved,1,3
+Eugenia Apostol,RM,is generally trusting,2,4
+Eugenia Apostol,RM,tends to be lazy,3,2
+Eugenia Apostol,RM,"is relaxed, handles stress well",4,4
+Eugenia Apostol,RM,has few artistic interests,5,2
+Eugenia Apostol,RM,"is outgoing, sociable",6,5
+Eugenia Apostol,RM,tends to find fault with others,7,2
+Eugenia Apostol,RM,does a thorough job,8,5
+Eugenia Apostol,RM,gets nervous easily,9,2
+Eugenia Apostol,RM,has an active imagination,10,5
+Mechai Viravaidya,RM,is reserved,1,3
+Mechai Viravaidya,RM,is generally trusting,2,4
+Mechai Viravaidya,RM,tends to be lazy,3,2
+Mechai Viravaidya,RM,"is relaxed, handles stress well",4,3
+Mechai Viravaidya,RM,has few artistic interests,5,3
+Mechai Viravaidya,RM,"is outgoing, sociable",6,4
+Mechai Viravaidya,RM,tends to find fault with others,7,2
+Mechai Viravaidya,RM,does a thorough job,8,5
+Mechai Viravaidya,RM,gets nervous easily,9,3
+Mechai Viravaidya,RM,has an active imagination,10,5
+Mahabir Pun,RM,is reserved,1,3
+Mahabir Pun,RM,is generally trusting,2,4
+Mahabir Pun,RM,tends to be lazy,3,2
+Mahabir Pun,RM,"is relaxed, handles stress well",4,4
+Mahabir Pun,RM,has few artistic interests,5,2
+Mahabir Pun,RM,"is outgoing, sociable",6,5
+Mahabir Pun,RM,tends to find fault with others,7,2
+Mahabir Pun,RM,does a thorough job,8,5
+Mahabir Pun,RM,gets nervous easily,9,3
+Mahabir Pun,RM,has an active imagination,10,5
+Ton That Thien,RM,is reserved,1,4
+Ton That Thien,RM,is generally trusting,2,4
+Ton That Thien,RM,tends to be lazy,3,2
+Ton That Thien,RM,"is relaxed, handles stress well",4,4
+Ton That Thien,RM,has few artistic interests,5,2
+Ton That Thien,RM,"is outgoing, sociable",6,4
+Ton That Thien,RM,tends to find fault with others,7,2
+Ton That Thien,RM,does a thorough job,8,4
+Ton That Thien,RM,gets nervous easily,9,4
+Ton That Thien,RM,has an active imagination,10,4
+Henning Holck-Larsen,RM,is reserved,1,2
+Henning Holck-Larsen,RM,is generally trusting,2,4
+Henning Holck-Larsen,RM,tends to be lazy,3,2
+Henning Holck-Larsen,RM,"is relaxed, handles stress well",4,4
+Henning Holck-Larsen,RM,has few artistic interests,5,2
+Henning Holck-Larsen,RM,"is outgoing, sociable",6,4
+Henning Holck-Larsen,RM,tends to find fault with others,7,2
+Henning Holck-Larsen,RM,does a thorough job,8,5
+Henning Holck-Larsen,RM,gets nervous easily,9,3
+Henning Holck-Larsen,RM,has an active imagination,10,4
+Fua Haripitak,RM,is reserved,1,4
+Fua Haripitak,RM,is generally trusting,2,4
+Fua Haripitak,RM,tends to be lazy,3,3
+Fua Haripitak,RM,"is relaxed, handles stress well",4,4
+Fua Haripitak,RM,has few artistic interests,5,3
+Fua Haripitak,RM,"is outgoing, sociable",6,4
+Fua Haripitak,RM,tends to find fault with others,7,3
+Fua Haripitak,RM,does a thorough job,8,5
+Fua Haripitak,RM,gets nervous easily,9,5
+Fua Haripitak,RM,has an active imagination,10,5
+Lim Kim San,RM,is reserved,1,3
+Lim Kim San,RM,is generally trusting,2,4
+Lim Kim San,RM,tends to be lazy,3,2
+Lim Kim San,RM,"is relaxed, handles stress well",4,4
+Lim Kim San,RM,has few artistic interests,5,3
+Lim Kim San,RM,"is outgoing, sociable",6,4
+Lim Kim San,RM,tends to find fault with others,7,2
+Lim Kim San,RM,does a thorough job,8,5
+Lim Kim San,RM,gets nervous easily,9,3
+Lim Kim San,RM,has an active imagination,10,5
+Yukiharu Miki,RM,is reserved,1,4
+Yukiharu Miki,RM,is generally trusting,2,4
+Yukiharu Miki,RM,tends to be lazy,3,3
+Yukiharu Miki,RM,"is relaxed, handles stress well",4,4
+Yukiharu Miki,RM,has few artistic interests,5,3
+Yukiharu Miki,RM,"is outgoing, sociable",6,4
+Yukiharu Miki,RM,tends to find fault with others,7,2
+Yukiharu Miki,RM,does a thorough job,8,5
+Yukiharu Miki,RM,gets nervous easily,9,4
+Yukiharu Miki,RM,has an active imagination,10,5
+Angel Alcala,RM,is reserved,1,4
+Angel Alcala,RM,is generally trusting,2,4
+Angel Alcala,RM,tends to be lazy,3,3
+Angel Alcala,RM,"is relaxed, handles stress well",4,4
+Angel Alcala,RM,has few artistic interests,5,3
+Angel Alcala,RM,"is outgoing, sociable",6,4
+Angel Alcala,RM,tends to find fault with others,7,3
+Angel Alcala,RM,does a thorough job,8,5
+Angel Alcala,RM,gets nervous easily,9,5
+Angel Alcala,RM,has an active imagination,10,5
+Wu Qing,RM,is reserved,1,4
+Wu Qing,RM,is generally trusting,2,4
+Wu Qing,RM,tends to be lazy,3,3
+Wu Qing,RM,"is relaxed, handles stress well",4,3
+Wu Qing,RM,has few artistic interests,5,3
+Wu Qing,RM,"is outgoing, sociable",6,4
+Wu Qing,RM,tends to find fault with others,7,2
+Wu Qing,RM,does a thorough job,8,5
+Wu Qing,RM,gets nervous easily,9,5
+Wu Qing,RM,has an active imagination,10,5
+Shigeharu Matsumoto,RM,is reserved,1,4
+Shigeharu Matsumoto,RM,is generally trusting,2,4
+Shigeharu Matsumoto,RM,tends to be lazy,3,3
+Shigeharu Matsumoto,RM,"is relaxed, handles stress well",4,4
+Shigeharu Matsumoto,RM,has few artistic interests,5,1
+Shigeharu Matsumoto,RM,"is outgoing, sociable",6,4
+Shigeharu Matsumoto,RM,tends to find fault with others,7,2
+Shigeharu Matsumoto,RM,does a thorough job,8,5
+Shigeharu Matsumoto,RM,gets nervous easily,9,4
+Shigeharu Matsumoto,RM,has an active imagination,10,5
+Tri Mumpuni,RM,is reserved,1,2
+Tri Mumpuni,RM,is generally trusting,2,5
+Tri Mumpuni,RM,tends to be lazy,3,2
+Tri Mumpuni,RM,"is relaxed, handles stress well",4,4
+Tri Mumpuni,RM,has few artistic interests,5,2
+Tri Mumpuni,RM,"is outgoing, sociable",6,4
+Tri Mumpuni,RM,tends to find fault with others,7,2
+Tri Mumpuni,RM,does a thorough job,8,5
+Tri Mumpuni,RM,gets nervous easily,9,3
+Tri Mumpuni,RM,has an active imagination,10,5
+Deep Joshi,RM,is reserved,1,4
+Deep Joshi,RM,is generally trusting,2,4
+Deep Joshi,RM,tends to be lazy,3,3
+Deep Joshi,RM,"is relaxed, handles stress well",4,4
+Deep Joshi,RM,has few artistic interests,5,2
+Deep Joshi,RM,"is outgoing, sociable",6,4
+Deep Joshi,RM,tends to find fault with others,7,3
+Deep Joshi,RM,does a thorough job,8,5
+Deep Joshi,RM,gets nervous easily,9,5
+Deep Joshi,RM,has an active imagination,10,5
+Adeebul Hasan Rizvi,RM,is reserved,1,4
+Adeebul Hasan Rizvi,RM,is generally trusting,2,4
+Adeebul Hasan Rizvi,RM,tends to be lazy,3,3
+Adeebul Hasan Rizvi,RM,"is relaxed, handles stress well",4,4
+Adeebul Hasan Rizvi,RM,has few artistic interests,5,2
+Adeebul Hasan Rizvi,RM,"is outgoing, sociable",6,4
+Adeebul Hasan Rizvi,RM,tends to find fault with others,7,2
+Adeebul Hasan Rizvi,RM,does a thorough job,8,5
+Adeebul Hasan Rizvi,RM,gets nervous easily,9,5
+Adeebul Hasan Rizvi,RM,has an active imagination,10,5
+B. G. Verghese,RM,is reserved,1,4
+B. G. Verghese,RM,is generally trusting,2,4
+B. G. Verghese,RM,tends to be lazy,3,3
+B. G. Verghese,RM,"is relaxed, handles stress well",4,4
+B. G. Verghese,RM,has few artistic interests,5,3
+B. G. Verghese,RM,"is outgoing, sociable",6,4
+B. G. Verghese,RM,tends to find fault with others,7,2
+B. G. Verghese,RM,does a thorough job,8,5
+B. G. Verghese,RM,gets nervous easily,9,3
+B. G. Verghese,RM,has an active imagination,10,5
+Bezwada Wilson,RM,is reserved,1,3
+Bezwada Wilson,RM,is generally trusting,2,4
+Bezwada Wilson,RM,tends to be lazy,3,3
+Bezwada Wilson,RM,"is relaxed, handles stress well",4,4
+Bezwada Wilson,RM,has few artistic interests,5,2
+Bezwada Wilson,RM,"is outgoing, sociable",6,4
+Bezwada Wilson,RM,tends to find fault with others,7,2
+Bezwada Wilson,RM,does a thorough job,8,5
+Bezwada Wilson,RM,gets nervous easily,9,3
+Bezwada Wilson,RM,has an active imagination,10,5
+Genevieve Caulfield,RM,is reserved,1,2
+Genevieve Caulfield,RM,is generally trusting,2,4
+Genevieve Caulfield,RM,tends to be lazy,3,3
+Genevieve Caulfield,RM,"is relaxed, handles stress well",4,4
+Genevieve Caulfield,RM,has few artistic interests,5,2
+Genevieve Caulfield,RM,"is outgoing, sociable",6,4
+Genevieve Caulfield,RM,tends to find fault with others,7,4
+Genevieve Caulfield,RM,does a thorough job,8,5
+Genevieve Caulfield,RM,gets nervous easily,9,3
+Genevieve Caulfield,RM,has an active imagination,10,5
+Manibhai Desai,RM,is reserved,1,4
+Manibhai Desai,RM,is generally trusting,2,4
+Manibhai Desai,RM,tends to be lazy,3,2
+Manibhai Desai,RM,"is relaxed, handles stress well",4,4
+Manibhai Desai,RM,has few artistic interests,5,3
+Manibhai Desai,RM,"is outgoing, sociable",6,4
+Manibhai Desai,RM,tends to find fault with others,7,2
+Manibhai Desai,RM,does a thorough job,8,5
+Manibhai Desai,RM,gets nervous easily,9,3
+Manibhai Desai,RM,has an active imagination,10,5
+Ta-You Wu,RM,is reserved,1,4
+Ta-You Wu,RM,is generally trusting,2,5
+Ta-You Wu,RM,tends to be lazy,3,3
+Ta-You Wu,RM,"is relaxed, handles stress well",4,3
+Ta-You Wu,RM,has few artistic interests,5,3
+Ta-You Wu,RM,"is outgoing, sociable",6,4
+Ta-You Wu,RM,tends to find fault with others,7,3
+Ta-You Wu,RM,does a thorough job,8,5
+Ta-You Wu,RM,gets nervous easily,9,3
+Ta-You Wu,RM,has an active imagination,10,5
+Prateep Ungsongtham Hata,RM,is reserved,1,2
+Prateep Ungsongtham Hata,RM,is generally trusting,2,5
+Prateep Ungsongtham Hata,RM,tends to be lazy,3,2
+Prateep Ungsongtham Hata,RM,"is relaxed, handles stress well",4,3
+Prateep Ungsongtham Hata,RM,has few artistic interests,5,2
+Prateep Ungsongtham Hata,RM,"is outgoing, sociable",6,4
+Prateep Ungsongtham Hata,RM,tends to find fault with others,7,2
+Prateep Ungsongtham Hata,RM,does a thorough job,8,5
+Prateep Ungsongtham Hata,RM,gets nervous easily,9,3
+Prateep Ungsongtham Hata,RM,has an active imagination,10,5
+LaSalle Ishii,RM,is reserved,1,4
+LaSalle Ishii,RM,is generally trusting,2,4
+LaSalle Ishii,RM,tends to be lazy,3,3
+LaSalle Ishii,RM,"is relaxed, handles stress well",4,4
+LaSalle Ishii,RM,has few artistic interests,5,3
+LaSalle Ishii,RM,"is outgoing, sociable",6,4
+LaSalle Ishii,RM,tends to find fault with others,7,2
+LaSalle Ishii,RM,does a thorough job,8,5
+LaSalle Ishii,RM,gets nervous easily,9,5
+LaSalle Ishii,RM,has an active imagination,10,5
+Arturo Alcaraz,RM,is reserved,1,4
+Arturo Alcaraz,RM,is generally trusting,2,4
+Arturo Alcaraz,RM,tends to be lazy,3,3
+Arturo Alcaraz,RM,"is relaxed, handles stress well",4,4
+Arturo Alcaraz,RM,has few artistic interests,5,2
+Arturo Alcaraz,RM,"is outgoing, sociable",6,4
+Arturo Alcaraz,RM,tends to find fault with others,7,3
+Arturo Alcaraz,RM,does a thorough job,8,5
+Arturo Alcaraz,RM,gets nervous easily,9,4
+Arturo Alcaraz,RM,has an active imagination,10,5
+Dita Indah Sari,RM,is reserved,1,2
+Dita Indah Sari,RM,is generally trusting,2,4
+Dita Indah Sari,RM,tends to be lazy,3,2
+Dita Indah Sari,RM,"is relaxed, handles stress well",4,4
+Dita Indah Sari,RM,has few artistic interests,5,2
+Dita Indah Sari,RM,"is outgoing, sociable",6,4
+Dita Indah Sari,RM,tends to find fault with others,7,2
+Dita Indah Sari,RM,does a thorough job,8,5
+Dita Indah Sari,RM,gets nervous easily,9,5
+Dita Indah Sari,RM,has an active imagination,10,5
+Laxminarayan Ramdas,RM,is reserved,1,4
+Laxminarayan Ramdas,RM,is generally trusting,2,5
+Laxminarayan Ramdas,RM,tends to be lazy,3,3
+Laxminarayan Ramdas,RM,"is relaxed, handles stress well",4,4
+Laxminarayan Ramdas,RM,has few artistic interests,5,2
+Laxminarayan Ramdas,RM,"is outgoing, sociable",6,4
+Laxminarayan Ramdas,RM,tends to find fault with others,7,2
+Laxminarayan Ramdas,RM,does a thorough job,8,5
+Laxminarayan Ramdas,RM,gets nervous easily,9,5
+Laxminarayan Ramdas,RM,has an active imagination,10,5
+Yoshiaki Ishizawa,RM,is reserved,1,3
+Yoshiaki Ishizawa,RM,is generally trusting,2,4
+Yoshiaki Ishizawa,RM,tends to be lazy,3,3
+Yoshiaki Ishizawa,RM,"is relaxed, handles stress well",4,4
+Yoshiaki Ishizawa,RM,has few artistic interests,5,2
+Yoshiaki Ishizawa,RM,"is outgoing, sociable",6,4
+Yoshiaki Ishizawa,RM,tends to find fault with others,7,2
+Yoshiaki Ishizawa,RM,does a thorough job,8,5
+Yoshiaki Ishizawa,RM,gets nervous easily,9,5
+Yoshiaki Ishizawa,RM,has an active imagination,10,5
+Yasuji Hanamori,RM,is reserved,1,4
+Yasuji Hanamori,RM,is generally trusting,2,4
+Yasuji Hanamori,RM,tends to be lazy,3,3
+Yasuji Hanamori,RM,"is relaxed, handles stress well",4,4
+Yasuji Hanamori,RM,has few artistic interests,5,2
+Yasuji Hanamori,RM,"is outgoing, sociable",6,4
+Yasuji Hanamori,RM,tends to find fault with others,7,2
+Yasuji Hanamori,RM,does a thorough job,8,5
+Yasuji Hanamori,RM,gets nervous easily,9,5
+Yasuji Hanamori,RM,has an active imagination,10,5
+Hiroshi Kuroki,RM,is reserved,1,4
+Hiroshi Kuroki,RM,is generally trusting,2,4
+Hiroshi Kuroki,RM,tends to be lazy,3,3
+Hiroshi Kuroki,RM,"is relaxed, handles stress well",4,4
+Hiroshi Kuroki,RM,has few artistic interests,5,1
+Hiroshi Kuroki,RM,"is outgoing, sociable",6,4
+Hiroshi Kuroki,RM,tends to find fault with others,7,3
+Hiroshi Kuroki,RM,does a thorough job,8,5
+Hiroshi Kuroki,RM,gets nervous easily,9,4
+Hiroshi Kuroki,RM,has an active imagination,10,5
+Teten Masduki,RM,is reserved,1,4
+Teten Masduki,RM,is generally trusting,2,4
+Teten Masduki,RM,tends to be lazy,3,2
+Teten Masduki,RM,"is relaxed, handles stress well",4,4
+Teten Masduki,RM,has few artistic interests,5,2
+Teten Masduki,RM,"is outgoing, sociable",6,4
+Teten Masduki,RM,tends to find fault with others,7,2
+Teten Masduki,RM,does a thorough job,8,5
+Teten Masduki,RM,gets nervous easily,9,3
+Teten Masduki,RM,has an active imagination,10,4
+Pomnyun,RM,is reserved,1,3
+Pomnyun,RM,is generally trusting,2,4
+Pomnyun,RM,tends to be lazy,3,3
+Pomnyun,RM,"is relaxed, handles stress well",4,3
+Pomnyun,RM,has few artistic interests,5,3
+Pomnyun,RM,"is outgoing, sociable",6,4
+Pomnyun,RM,tends to find fault with others,7,3
+Pomnyun,RM,does a thorough job,8,5
+Pomnyun,RM,gets nervous easily,9,5
+Pomnyun,RM,has an active imagination,10,5
+Ananda Galappatti,RM,is reserved,1,3
+Ananda Galappatti,RM,is generally trusting,2,4
+Ananda Galappatti,RM,tends to be lazy,3,3
+Ananda Galappatti,RM,"is relaxed, handles stress well",4,4
+Ananda Galappatti,RM,has few artistic interests,5,2
+Ananda Galappatti,RM,"is outgoing, sociable",6,4
+Ananda Galappatti,RM,tends to find fault with others,7,2
+Ananda Galappatti,RM,does a thorough job,8,5
+Ananda Galappatti,RM,gets nervous easily,9,3
+Ananda Galappatti,RM,has an active imagination,10,4
+Anshu Gupta,RM,is reserved,1,4
+Anshu Gupta,RM,is generally trusting,2,4
+Anshu Gupta,RM,tends to be lazy,3,3
+Anshu Gupta,RM,"is relaxed, handles stress well",4,4
+Anshu Gupta,RM,has few artistic interests,5,3
+Anshu Gupta,RM,"is outgoing, sociable",6,4
+Anshu Gupta,RM,tends to find fault with others,7,2
+Anshu Gupta,RM,does a thorough job,8,5
+Anshu Gupta,RM,gets nervous easily,9,4
+Anshu Gupta,RM,has an active imagination,10,5
+Ligaya Fernando-Amilbangsa,RM,is reserved,1,3
+Ligaya Fernando-Amilbangsa,RM,is generally trusting,2,4
+Ligaya Fernando-Amilbangsa,RM,tends to be lazy,3,2
+Ligaya Fernando-Amilbangsa,RM,"is relaxed, handles stress well",4,4
+Ligaya Fernando-Amilbangsa,RM,has few artistic interests,5,1
+Ligaya Fernando-Amilbangsa,RM,"is outgoing, sociable",6,4
+Ligaya Fernando-Amilbangsa,RM,tends to find fault with others,7,3
+Ligaya Fernando-Amilbangsa,RM,does a thorough job,8,5
+Ligaya Fernando-Amilbangsa,RM,gets nervous easily,9,3
+Ligaya Fernando-Amilbangsa,RM,has an active imagination,10,5
+Jirō Kawakita,RM,is reserved,1,4
+Jirō Kawakita,RM,is generally trusting,2,4
+Jirō Kawakita,RM,tends to be lazy,3,3
+Jirō Kawakita,RM,"is relaxed, handles stress well",4,4
+Jirō Kawakita,RM,has few artistic interests,5,2
+Jirō Kawakita,RM,"is outgoing, sociable",6,4
+Jirō Kawakita,RM,tends to find fault with others,7,2
+Jirō Kawakita,RM,does a thorough job,8,5
+Jirō Kawakita,RM,gets nervous easily,9,5
+Jirō Kawakita,RM,has an active imagination,10,5
+Kyaw Thu,RM,is reserved,1,4
+Kyaw Thu,RM,is generally trusting,2,4
+Kyaw Thu,RM,tends to be lazy,3,3
+Kyaw Thu,RM,"is relaxed, handles stress well",4,4
+Kyaw Thu,RM,has few artistic interests,5,3
+Kyaw Thu,RM,"is outgoing, sociable",6,4
+Kyaw Thu,RM,tends to find fault with others,7,3
+Kyaw Thu,RM,does a thorough job,8,5
+Kyaw Thu,RM,gets nervous easily,9,5
+Kyaw Thu,RM,has an active imagination,10,5
+Yu Xiaogang,RM,is reserved,1,4
+Yu Xiaogang,RM,is generally trusting,2,4
+Yu Xiaogang,RM,tends to be lazy,3,2
+Yu Xiaogang,RM,"is relaxed, handles stress well",4,4
+Yu Xiaogang,RM,has few artistic interests,5,2
+Yu Xiaogang,RM,"is outgoing, sociable",6,4
+Yu Xiaogang,RM,tends to find fault with others,7,2
+Yu Xiaogang,RM,does a thorough job,8,5
+Yu Xiaogang,RM,gets nervous easily,9,4
+Yu Xiaogang,RM,has an active imagination,10,4
+Angela Gomes,RM,is reserved,1,3
+Angela Gomes,RM,is generally trusting,2,4
+Angela Gomes,RM,tends to be lazy,3,3
+Angela Gomes,RM,"is relaxed, handles stress well",4,4
+Angela Gomes,RM,has few artistic interests,5,3
+Angela Gomes,RM,"is outgoing, sociable",6,4
+Angela Gomes,RM,tends to find fault with others,7,2
+Angela Gomes,RM,does a thorough job,8,5
+Angela Gomes,RM,gets nervous easily,9,4
+Angela Gomes,RM,has an active imagination,10,5
+Angkhana Neelaphaijit,RM,is reserved,1,4
+Angkhana Neelaphaijit,RM,is generally trusting,2,4
+Angkhana Neelaphaijit,RM,tends to be lazy,3,2
+Angkhana Neelaphaijit,RM,"is relaxed, handles stress well",4,4
+Angkhana Neelaphaijit,RM,has few artistic interests,5,2
+Angkhana Neelaphaijit,RM,"is outgoing, sociable",6,3
+Angkhana Neelaphaijit,RM,tends to find fault with others,7,2
+Angkhana Neelaphaijit,RM,does a thorough job,8,5
+Angkhana Neelaphaijit,RM,gets nervous easily,9,3
+Angkhana Neelaphaijit,RM,has an active imagination,10,5
+Bienvenido Lumbera,RM,is reserved,1,3
+Bienvenido Lumbera,RM,is generally trusting,2,4
+Bienvenido Lumbera,RM,tends to be lazy,3,2
+Bienvenido Lumbera,RM,"is relaxed, handles stress well",4,4
+Bienvenido Lumbera,RM,has few artistic interests,5,1
+Bienvenido Lumbera,RM,"is outgoing, sociable",6,4
+Bienvenido Lumbera,RM,tends to find fault with others,7,2
+Bienvenido Lumbera,RM,does a thorough job,8,5
+Bienvenido Lumbera,RM,gets nervous easily,9,4
+Bienvenido Lumbera,RM,has an active imagination,10,5
+Butet Manurung,RM,is reserved,1,4
+Butet Manurung,RM,is generally trusting,2,4
+Butet Manurung,RM,tends to be lazy,3,2
+Butet Manurung,RM,"is relaxed, handles stress well",4,4
+Butet Manurung,RM,has few artistic interests,5,2
+Butet Manurung,RM,"is outgoing, sociable",6,5
+Butet Manurung,RM,tends to find fault with others,7,2
+Butet Manurung,RM,does a thorough job,8,5
+Butet Manurung,RM,gets nervous easily,9,3
+Butet Manurung,RM,has an active imagination,10,5
+Haydee Yorac,RM,is reserved,1,4
+Haydee Yorac,RM,is generally trusting,2,4
+Haydee Yorac,RM,tends to be lazy,3,3
+Haydee Yorac,RM,"is relaxed, handles stress well",4,4
+Haydee Yorac,RM,has few artistic interests,5,1
+Haydee Yorac,RM,"is outgoing, sociable",6,4
+Haydee Yorac,RM,tends to find fault with others,7,2
+Haydee Yorac,RM,does a thorough job,8,5
+Haydee Yorac,RM,gets nervous easily,9,3
+Haydee Yorac,RM,has an active imagination,10,5
+Ibn Abdur Rehman,RM,is reserved,1,4
+Ibn Abdur Rehman,RM,is generally trusting,2,4
+Ibn Abdur Rehman,RM,tends to be lazy,3,3
+Ibn Abdur Rehman,RM,"is relaxed, handles stress well",4,4
+Ibn Abdur Rehman,RM,has few artistic interests,5,4
+Ibn Abdur Rehman,RM,"is outgoing, sociable",6,4
+Ibn Abdur Rehman,RM,tends to find fault with others,7,3
+Ibn Abdur Rehman,RM,does a thorough job,8,5
+Ibn Abdur Rehman,RM,gets nervous easily,9,4
+Ibn Abdur Rehman,RM,has an active imagination,10,5
+James Michael Lyngdoh,RM,is reserved,1,4
+James Michael Lyngdoh,RM,is generally trusting,2,4
+James Michael Lyngdoh,RM,tends to be lazy,3,3
+James Michael Lyngdoh,RM,"is relaxed, handles stress well",4,4
+James Michael Lyngdoh,RM,has few artistic interests,5,3
+James Michael Lyngdoh,RM,"is outgoing, sociable",6,4
+James Michael Lyngdoh,RM,tends to find fault with others,7,2
+James Michael Lyngdoh,RM,does a thorough job,8,5
+James Michael Lyngdoh,RM,gets nervous easily,9,5
+James Michael Lyngdoh,RM,has an active imagination,10,5
+Ka Hsaw Wa,RM,is reserved,1,4
+Ka Hsaw Wa,RM,is generally trusting,2,4
+Ka Hsaw Wa,RM,tends to be lazy,3,3
+Ka Hsaw Wa,RM,"is relaxed, handles stress well",4,4
+Ka Hsaw Wa,RM,has few artistic interests,5,3
+Ka Hsaw Wa,RM,"is outgoing, sociable",6,4
+Ka Hsaw Wa,RM,tends to find fault with others,7,2
+Ka Hsaw Wa,RM,does a thorough job,8,5
+Ka Hsaw Wa,RM,gets nervous easily,9,5
+Ka Hsaw Wa,RM,has an active imagination,10,5
+Lakshmi Chand Jain,RM,is reserved,1,3
+Lakshmi Chand Jain,RM,is generally trusting,2,4
+Lakshmi Chand Jain,RM,tends to be lazy,3,3
+Lakshmi Chand Jain,RM,"is relaxed, handles stress well",4,4
+Lakshmi Chand Jain,RM,has few artistic interests,5,2
+Lakshmi Chand Jain,RM,"is outgoing, sociable",6,4
+Lakshmi Chand Jain,RM,tends to find fault with others,7,2
+Lakshmi Chand Jain,RM,does a thorough job,8,5
+Lakshmi Chand Jain,RM,gets nervous easily,9,5
+Lakshmi Chand Jain,RM,has an active imagination,10,5
+Sithiporn Kridakara,RM,is reserved,1,4
+Sithiporn Kridakara,RM,is generally trusting,2,4
+Sithiporn Kridakara,RM,tends to be lazy,3,2
+Sithiporn Kridakara,RM,"is relaxed, handles stress well",4,4
+Sithiporn Kridakara,RM,has few artistic interests,5,3
+Sithiporn Kridakara,RM,"is outgoing, sociable",6,4
+Sithiporn Kridakara,RM,tends to find fault with others,7,2
+Sithiporn Kridakara,RM,does a thorough job,8,5
+Sithiporn Kridakara,RM,gets nervous easily,9,5
+Sithiporn Kridakara,RM,has an active imagination,10,5
+Noboru Iwamura,RM,is reserved,1,4
+Noboru Iwamura,RM,is generally trusting,2,4
+Noboru Iwamura,RM,tends to be lazy,3,3
+Noboru Iwamura,RM,"is relaxed, handles stress well",4,4
+Noboru Iwamura,RM,has few artistic interests,5,3
+Noboru Iwamura,RM,"is outgoing, sociable",6,4
+Noboru Iwamura,RM,tends to find fault with others,7,2
+Noboru Iwamura,RM,does a thorough job,8,5
+Noboru Iwamura,RM,gets nervous easily,9,4
+Noboru Iwamura,RM,has an active imagination,10,5
+Rosa Rosal,RM,is reserved,1,4
+Rosa Rosal,RM,is generally trusting,2,4
+Rosa Rosal,RM,tends to be lazy,3,3
+Rosa Rosal,RM,"is relaxed, handles stress well",4,4
+Rosa Rosal,RM,has few artistic interests,5,1
+Rosa Rosal,RM,"is outgoing, sociable",6,5
+Rosa Rosal,RM,tends to find fault with others,7,2
+Rosa Rosal,RM,does a thorough job,8,5
+Rosa Rosal,RM,gets nervous easily,9,5
+Rosa Rosal,RM,has an active imagination,10,5
+Sandeep Pandey,RM,is reserved,1,3
+Sandeep Pandey,RM,is generally trusting,2,4
+Sandeep Pandey,RM,tends to be lazy,3,3
+Sandeep Pandey,RM,"is relaxed, handles stress well",4,4
+Sandeep Pandey,RM,has few artistic interests,5,2
+Sandeep Pandey,RM,"is outgoing, sociable",6,4
+Sandeep Pandey,RM,tends to find fault with others,7,2
+Sandeep Pandey,RM,does a thorough job,8,5
+Sandeep Pandey,RM,gets nervous easily,9,4
+Sandeep Pandey,RM,has an active imagination,10,4
+Shoaib Sultan Khan,RM,is reserved,1,4
+Shoaib Sultan Khan,RM,is generally trusting,2,4
+Shoaib Sultan Khan,RM,tends to be lazy,3,3
+Shoaib Sultan Khan,RM,"is relaxed, handles stress well",4,4
+Shoaib Sultan Khan,RM,has few artistic interests,5,2
+Shoaib Sultan Khan,RM,"is outgoing, sociable",6,4
+Shoaib Sultan Khan,RM,tends to find fault with others,7,2
+Shoaib Sultan Khan,RM,does a thorough job,8,5
+Shoaib Sultan Khan,RM,gets nervous easily,9,4
+Shoaib Sultan Khan,RM,has an active imagination,10,5
+B. C. Shekhar,RM,is reserved,1,3
+B. C. Shekhar,RM,is generally trusting,2,4
+B. C. Shekhar,RM,tends to be lazy,3,3
+B. C. Shekhar,RM,"is relaxed, handles stress well",4,4
+B. C. Shekhar,RM,has few artistic interests,5,2
+B. C. Shekhar,RM,"is outgoing, sociable",6,4
+B. C. Shekhar,RM,tends to find fault with others,7,2
+B. C. Shekhar,RM,does a thorough job,8,4
+B. C. Shekhar,RM,gets nervous easily,9,4
+B. C. Shekhar,RM,has an active imagination,10,4
+Rajanikant Arole,RM,is reserved,1,4
+Rajanikant Arole,RM,is generally trusting,2,4
+Rajanikant Arole,RM,tends to be lazy,3,3
+Rajanikant Arole,RM,"is relaxed, handles stress well",4,4
+Rajanikant Arole,RM,has few artistic interests,5,3
+Rajanikant Arole,RM,"is outgoing, sociable",6,4
+Rajanikant Arole,RM,tends to find fault with others,7,2
+Rajanikant Arole,RM,does a thorough job,8,5
+Rajanikant Arole,RM,gets nervous easily,9,5
+Rajanikant Arole,RM,has an active imagination,10,5
+Fu Qiping,RM,is reserved,1,4
+Fu Qiping,RM,is generally trusting,2,4
+Fu Qiping,RM,tends to be lazy,3,3
+Fu Qiping,RM,"is relaxed, handles stress well",4,4
+Fu Qiping,RM,has few artistic interests,5,3
+Fu Qiping,RM,"is outgoing, sociable",6,4
+Fu Qiping,RM,tends to find fault with others,7,3
+Fu Qiping,RM,does a thorough job,8,5
+Fu Qiping,RM,gets nervous easily,9,5
+Fu Qiping,RM,has an active imagination,10,5
+Toshikazu Wakatsuki,RM,is reserved,1,4
+Toshikazu Wakatsuki,RM,is generally trusting,2,4
+Toshikazu Wakatsuki,RM,tends to be lazy,3,3
+Toshikazu Wakatsuki,RM,"is relaxed, handles stress well",4,4
+Toshikazu Wakatsuki,RM,has few artistic interests,5,3
+Toshikazu Wakatsuki,RM,"is outgoing, sociable",6,4
+Toshikazu Wakatsuki,RM,tends to find fault with others,7,3
+Toshikazu Wakatsuki,RM,does a thorough job,8,5
+Toshikazu Wakatsuki,RM,gets nervous easily,9,3
+Toshikazu Wakatsuki,RM,has an active imagination,10,5
+Seiei Tōyama,RM,is reserved,1,4
+Seiei Tōyama,RM,is generally trusting,2,4
+Seiei Tōyama,RM,tends to be lazy,3,2
+Seiei Tōyama,RM,"is relaxed, handles stress well",4,4
+Seiei Tōyama,RM,has few artistic interests,5,2
+Seiei Tōyama,RM,"is outgoing, sociable",6,4
+Seiei Tōyama,RM,tends to find fault with others,7,2
+Seiei Tōyama,RM,does a thorough job,8,5
+Seiei Tōyama,RM,gets nervous easily,9,4
+Seiei Tōyama,RM,has an active imagination,10,4
+Kulandei Francis,RM,is reserved,1,3
+Kulandei Francis,RM,is generally trusting,2,4
+Kulandei Francis,RM,tends to be lazy,3,3
+Kulandei Francis,RM,"is relaxed, handles stress well",4,4
+Kulandei Francis,RM,has few artistic interests,5,2
+Kulandei Francis,RM,"is outgoing, sociable",6,4
+Kulandei Francis,RM,tends to find fault with others,7,3
+Kulandei Francis,RM,does a thorough job,8,5
+Kulandei Francis,RM,gets nervous easily,9,3
+Kulandei Francis,RM,has an active imagination,10,5
+Prayoon Chanyavongs,RM,is reserved,1,4
+Prayoon Chanyavongs,RM,is generally trusting,2,4
+Prayoon Chanyavongs,RM,tends to be lazy,3,3
+Prayoon Chanyavongs,RM,"is relaxed, handles stress well",4,4
+Prayoon Chanyavongs,RM,has few artistic interests,5,3
+Prayoon Chanyavongs,RM,"is outgoing, sociable",6,4
+Prayoon Chanyavongs,RM,tends to find fault with others,7,2
+Prayoon Chanyavongs,RM,does a thorough job,8,5
+Prayoon Chanyavongs,RM,gets nervous easily,9,3
+Prayoon Chanyavongs,RM,has an active imagination,10,5
+Anton Soedjarwo,RM,is reserved,1,4
+Anton Soedjarwo,RM,is generally trusting,2,4
+Anton Soedjarwo,RM,tends to be lazy,3,2
+Anton Soedjarwo,RM,"is relaxed, handles stress well",4,4
+Anton Soedjarwo,RM,has few artistic interests,5,2
+Anton Soedjarwo,RM,"is outgoing, sociable",6,4
+Anton Soedjarwo,RM,tends to find fault with others,7,2
+Anton Soedjarwo,RM,does a thorough job,8,5
+Anton Soedjarwo,RM,gets nervous easily,9,5
+Anton Soedjarwo,RM,has an active imagination,10,4
+Mahesh Chandra Regmi,RM,is reserved,1,3
+Mahesh Chandra Regmi,RM,is generally trusting,2,4
+Mahesh Chandra Regmi,RM,tends to be lazy,3,3
+Mahesh Chandra Regmi,RM,"is relaxed, handles stress well",4,4
+Mahesh Chandra Regmi,RM,has few artistic interests,5,2
+Mahesh Chandra Regmi,RM,"is outgoing, sociable",6,4
+Mahesh Chandra Regmi,RM,tends to find fault with others,7,3
+Mahesh Chandra Regmi,RM,does a thorough job,8,5
+Mahesh Chandra Regmi,RM,gets nervous easily,9,4
+Mahesh Chandra Regmi,RM,has an active imagination,10,5
+Nilawan Pintong,RM,is reserved,1,4
+Nilawan Pintong,RM,is generally trusting,2,4
+Nilawan Pintong,RM,tends to be lazy,3,3
+Nilawan Pintong,RM,"is relaxed, handles stress well",4,4
+Nilawan Pintong,RM,has few artistic interests,5,2
+Nilawan Pintong,RM,"is outgoing, sociable",6,4
+Nilawan Pintong,RM,tends to find fault with others,7,2
+Nilawan Pintong,RM,does a thorough job,8,4
+Nilawan Pintong,RM,gets nervous easily,9,3
+Nilawan Pintong,RM,has an active imagination,10,5
+Antonio Oposa,RM,is reserved,1,3
+Antonio Oposa,RM,is generally trusting,2,4
+Antonio Oposa,RM,tends to be lazy,3,2
+Antonio Oposa,RM,"is relaxed, handles stress well",4,4
+Antonio Oposa,RM,has few artistic interests,5,3
+Antonio Oposa,RM,"is outgoing, sociable",6,4
+Antonio Oposa,RM,tends to find fault with others,7,2
+Antonio Oposa,RM,does a thorough job,8,5
+Antonio Oposa,RM,gets nervous easily,9,3
+Antonio Oposa,RM,has an active imagination,10,5
+Ernesto Domingo,RM,is reserved,1,4
+Ernesto Domingo,RM,is generally trusting,2,4
+Ernesto Domingo,RM,tends to be lazy,3,3
+Ernesto Domingo,RM,"is relaxed, handles stress well",4,4
+Ernesto Domingo,RM,has few artistic interests,5,3
+Ernesto Domingo,RM,"is outgoing, sociable",6,4
+Ernesto Domingo,RM,tends to find fault with others,7,2
+Ernesto Domingo,RM,does a thorough job,8,5
+Ernesto Domingo,RM,gets nervous easily,9,5
+Ernesto Domingo,RM,has an active imagination,10,5
+Hasanain Juaini,RM,is reserved,1,4
+Hasanain Juaini,RM,is generally trusting,2,4
+Hasanain Juaini,RM,tends to be lazy,3,3
+Hasanain Juaini,RM,"is relaxed, handles stress well",4,4
+Hasanain Juaini,RM,has few artistic interests,5,3
+Hasanain Juaini,RM,"is outgoing, sociable",6,4
+Hasanain Juaini,RM,tends to find fault with others,7,2
+Hasanain Juaini,RM,does a thorough job,8,5
+Hasanain Juaini,RM,gets nervous easily,9,5
+Hasanain Juaini,RM,has an active imagination,10,5
+Huo Daishan,RM,is reserved,1,4
+Huo Daishan,RM,is generally trusting,2,4
+Huo Daishan,RM,tends to be lazy,3,3
+Huo Daishan,RM,"is relaxed, handles stress well",4,3
+Huo Daishan,RM,has few artistic interests,5,3
+Huo Daishan,RM,"is outgoing, sociable",6,4
+Huo Daishan,RM,tends to find fault with others,7,2
+Huo Daishan,RM,does a thorough job,8,5
+Huo Daishan,RM,gets nervous easily,9,4
+Huo Daishan,RM,has an active imagination,10,5
+Shiroshi Nasu,RM,is reserved,1,4
+Shiroshi Nasu,RM,is generally trusting,2,4
+Shiroshi Nasu,RM,tends to be lazy,3,3
+Shiroshi Nasu,RM,"is relaxed, handles stress well",4,4
+Shiroshi Nasu,RM,has few artistic interests,5,3
+Shiroshi Nasu,RM,"is outgoing, sociable",6,4
+Shiroshi Nasu,RM,tends to find fault with others,7,3
+Shiroshi Nasu,RM,does a thorough job,8,5
+Shiroshi Nasu,RM,gets nervous easily,9,3
+Shiroshi Nasu,RM,has an active imagination,10,5
+Mandakini Amte,RM,is reserved,1,3
+Mandakini Amte,RM,is generally trusting,2,4
+Mandakini Amte,RM,tends to be lazy,3,2
+Mandakini Amte,RM,"is relaxed, handles stress well",4,4
+Mandakini Amte,RM,has few artistic interests,5,2
+Mandakini Amte,RM,"is outgoing, sociable",6,4
+Mandakini Amte,RM,tends to find fault with others,7,2
+Mandakini Amte,RM,does a thorough job,8,5
+Mandakini Amte,RM,gets nervous easily,9,3
+Mandakini Amte,RM,has an active imagination,10,5
+Gethsie Shanmugam,RM,is reserved,1,4
+Gethsie Shanmugam,RM,is generally trusting,2,4
+Gethsie Shanmugam,RM,tends to be lazy,3,3
+Gethsie Shanmugam,RM,"is relaxed, handles stress well",4,4
+Gethsie Shanmugam,RM,has few artistic interests,5,2
+Gethsie Shanmugam,RM,"is outgoing, sociable",6,4
+Gethsie Shanmugam,RM,tends to find fault with others,7,2
+Gethsie Shanmugam,RM,does a thorough job,8,5
+Gethsie Shanmugam,RM,gets nervous easily,9,5
+Gethsie Shanmugam,RM,has an active imagination,10,5
+Omara Khan Massoudi,RM,is reserved,1,4
+Omara Khan Massoudi,RM,is generally trusting,2,4
+Omara Khan Massoudi,RM,tends to be lazy,3,3
+Omara Khan Massoudi,RM,"is relaxed, handles stress well",4,4
+Omara Khan Massoudi,RM,has few artistic interests,5,2
+Omara Khan Massoudi,RM,"is outgoing, sociable",6,4
+Omara Khan Massoudi,RM,tends to find fault with others,7,3
+Omara Khan Massoudi,RM,does a thorough job,8,5
+Omara Khan Massoudi,RM,gets nervous easily,9,5
+Omara Khan Massoudi,RM,has an active imagination,10,5
+Su Nan-cheng,RM,is reserved,1,4
+Su Nan-cheng,RM,is generally trusting,2,4
+Su Nan-cheng,RM,tends to be lazy,3,3
+Su Nan-cheng,RM,"is relaxed, handles stress well",4,4
+Su Nan-cheng,RM,has few artistic interests,5,3
+Su Nan-cheng,RM,"is outgoing, sociable",6,4
+Su Nan-cheng,RM,tends to find fault with others,7,2
+Su Nan-cheng,RM,does a thorough job,8,5
+Su Nan-cheng,RM,gets nervous easily,9,3
+Su Nan-cheng,RM,has an active imagination,10,4
+Chang Kee-ryo,RM,is reserved,1,4
+Chang Kee-ryo,RM,is generally trusting,2,4
+Chang Kee-ryo,RM,tends to be lazy,3,3
+Chang Kee-ryo,RM,"is relaxed, handles stress well",4,4
+Chang Kee-ryo,RM,has few artistic interests,5,3
+Chang Kee-ryo,RM,"is outgoing, sociable",6,4
+Chang Kee-ryo,RM,tends to find fault with others,7,2
+Chang Kee-ryo,RM,does a thorough job,8,5
+Chang Kee-ryo,RM,gets nervous easily,9,5
+Chang Kee-ryo,RM,has an active imagination,10,5
+Edward Michael Law-Yone,RM,is reserved,1,4
+Edward Michael Law-Yone,RM,is generally trusting,2,4
+Edward Michael Law-Yone,RM,tends to be lazy,3,3
+Edward Michael Law-Yone,RM,"is relaxed, handles stress well",4,4
+Edward Michael Law-Yone,RM,has few artistic interests,5,2
+Edward Michael Law-Yone,RM,"is outgoing, sociable",6,4
+Edward Michael Law-Yone,RM,tends to find fault with others,7,2
+Edward Michael Law-Yone,RM,does a thorough job,8,5
+Edward Michael Law-Yone,RM,gets nervous easily,9,3
+Edward Michael Law-Yone,RM,has an active imagination,10,5
+Horace Kadoorie,RM,is reserved,1,4
+Horace Kadoorie,RM,is generally trusting,2,5
+Horace Kadoorie,RM,tends to be lazy,3,2
+Horace Kadoorie,RM,"is relaxed, handles stress well",4,4
+Horace Kadoorie,RM,has few artistic interests,5,2
+Horace Kadoorie,RM,"is outgoing, sociable",6,4
+Horace Kadoorie,RM,tends to find fault with others,7,2
+Horace Kadoorie,RM,does a thorough job,8,5
+Horace Kadoorie,RM,gets nervous easily,9,3
+Horace Kadoorie,RM,has an active imagination,10,5
+Krasae Chanawongse,RM,is reserved,1,4
+Krasae Chanawongse,RM,is generally trusting,2,4
+Krasae Chanawongse,RM,tends to be lazy,3,3
+Krasae Chanawongse,RM,"is relaxed, handles stress well",4,3
+Krasae Chanawongse,RM,has few artistic interests,5,3
+Krasae Chanawongse,RM,"is outgoing, sociable",6,4
+Krasae Chanawongse,RM,tends to find fault with others,7,2
+Krasae Chanawongse,RM,does a thorough job,8,5
+Krasae Chanawongse,RM,gets nervous easily,9,3
+Krasae Chanawongse,RM,has an active imagination,10,5
+"Lawrence Kadoorie, Baron Kadoorie",RM,is reserved,1,4
+"Lawrence Kadoorie, Baron Kadoorie",RM,is generally trusting,2,4
+"Lawrence Kadoorie, Baron Kadoorie",RM,tends to be lazy,3,2
+"Lawrence Kadoorie, Baron Kadoorie",RM,"is relaxed, handles stress well",4,4
+"Lawrence Kadoorie, Baron Kadoorie",RM,has few artistic interests,5,2
+"Lawrence Kadoorie, Baron Kadoorie",RM,"is outgoing, sociable",6,4
+"Lawrence Kadoorie, Baron Kadoorie",RM,tends to find fault with others,7,3
+"Lawrence Kadoorie, Baron Kadoorie",RM,does a thorough job,8,5
+"Lawrence Kadoorie, Baron Kadoorie",RM,gets nervous easily,9,3
+"Lawrence Kadoorie, Baron Kadoorie",RM,has an active imagination,10,5
+Marcelline Jayakody,RM,is reserved,1,4
+Marcelline Jayakody,RM,is generally trusting,2,4
+Marcelline Jayakody,RM,tends to be lazy,3,3
+Marcelline Jayakody,RM,"is relaxed, handles stress well",4,4
+Marcelline Jayakody,RM,has few artistic interests,5,1
+Marcelline Jayakody,RM,"is outgoing, sociable",6,4
+Marcelline Jayakody,RM,tends to find fault with others,7,2
+Marcelline Jayakody,RM,does a thorough job,8,5
+Marcelline Jayakody,RM,gets nervous easily,9,5
+Marcelline Jayakody,RM,has an active imagination,10,5
+Mohamed Suffian Mohamed Hashim,RM,is reserved,1,4
+Mohamed Suffian Mohamed Hashim,RM,is generally trusting,2,4
+Mohamed Suffian Mohamed Hashim,RM,tends to be lazy,3,3
+Mohamed Suffian Mohamed Hashim,RM,"is relaxed, handles stress well",4,4
+Mohamed Suffian Mohamed Hashim,RM,has few artistic interests,5,3
+Mohamed Suffian Mohamed Hashim,RM,"is outgoing, sociable",6,4
+Mohamed Suffian Mohamed Hashim,RM,tends to find fault with others,7,2
+Mohamed Suffian Mohamed Hashim,RM,does a thorough job,8,5
+Mohamed Suffian Mohamed Hashim,RM,gets nervous easily,9,4
+Mohamed Suffian Mohamed Hashim,RM,has an active imagination,10,5
+Morihiko Hiramatsu,RM,is reserved,1,4
+Morihiko Hiramatsu,RM,is generally trusting,2,4
+Morihiko Hiramatsu,RM,tends to be lazy,3,3
+Morihiko Hiramatsu,RM,"is relaxed, handles stress well",4,4
+Morihiko Hiramatsu,RM,has few artistic interests,5,3
+Morihiko Hiramatsu,RM,"is outgoing, sociable",6,4
+Morihiko Hiramatsu,RM,tends to find fault with others,7,2
+Morihiko Hiramatsu,RM,does a thorough job,8,5
+Morihiko Hiramatsu,RM,gets nervous easily,9,3
+Morihiko Hiramatsu,RM,has an active imagination,10,4
+Tang Xiyang,RM,is reserved,1,4
+Tang Xiyang,RM,is generally trusting,2,4
+Tang Xiyang,RM,tends to be lazy,3,3
+Tang Xiyang,RM,"is relaxed, handles stress well",4,4
+Tang Xiyang,RM,has few artistic interests,5,2
+Tang Xiyang,RM,"is outgoing, sociable",6,4
+Tang Xiyang,RM,tends to find fault with others,7,2
+Tang Xiyang,RM,does a thorough job,8,5
+Tang Xiyang,RM,gets nervous easily,9,5
+Tang Xiyang,RM,has an active imagination,10,5
+Tarzie Vittachi,RM,is reserved,1,4
+Tarzie Vittachi,RM,is generally trusting,2,4
+Tarzie Vittachi,RM,tends to be lazy,3,3
+Tarzie Vittachi,RM,"is relaxed, handles stress well",4,4
+Tarzie Vittachi,RM,has few artistic interests,5,2
+Tarzie Vittachi,RM,"is outgoing, sociable",6,4
+Tarzie Vittachi,RM,tends to find fault with others,7,2
+Tarzie Vittachi,RM,does a thorough job,8,5
+Tarzie Vittachi,RM,gets nervous easily,9,3
+Tarzie Vittachi,RM,has an active imagination,10,5
+Wang Canfa,RM,is reserved,1,4
+Wang Canfa,RM,is generally trusting,2,4
+Wang Canfa,RM,tends to be lazy,3,3
+Wang Canfa,RM,"is relaxed, handles stress well",4,4
+Wang Canfa,RM,has few artistic interests,5,2
+Wang Canfa,RM,"is outgoing, sociable",6,4
+Wang Canfa,RM,tends to find fault with others,7,2
+Wang Canfa,RM,does a thorough job,8,5
+Wang Canfa,RM,gets nervous easily,9,5
+Wang Canfa,RM,has an active imagination,10,5
+Krisana Kraisintu,RM,is reserved,1,3
+Krisana Kraisintu,RM,is generally trusting,2,4
+Krisana Kraisintu,RM,tends to be lazy,3,1
+Krisana Kraisintu,RM,"is relaxed, handles stress well",4,4
+Krisana Kraisintu,RM,has few artistic interests,5,2
+Krisana Kraisintu,RM,"is outgoing, sociable",6,4
+Krisana Kraisintu,RM,tends to find fault with others,7,2
+Krisana Kraisintu,RM,does a thorough job,8,5
+Krisana Kraisintu,RM,gets nervous easily,9,3
+Krisana Kraisintu,RM,has an active imagination,10,5
+Jockin Arputham,RM,is reserved,1,2
+Jockin Arputham,RM,is generally trusting,2,5
+Jockin Arputham,RM,tends to be lazy,3,1
+Jockin Arputham,RM,"is relaxed, handles stress well",4,4
+Jockin Arputham,RM,has few artistic interests,5,3
+Jockin Arputham,RM,"is outgoing, sociable",6,5
+Jockin Arputham,RM,tends to find fault with others,7,2
+Jockin Arputham,RM,does a thorough job,8,5
+Jockin Arputham,RM,gets nervous easily,9,3
+Jockin Arputham,RM,has an active imagination,10,4
+Bharat Koirala,RM,is reserved,1,4
+Bharat Koirala,RM,is generally trusting,2,4
+Bharat Koirala,RM,tends to be lazy,3,3
+Bharat Koirala,RM,"is relaxed, handles stress well",4,4
+Bharat Koirala,RM,has few artistic interests,5,4
+Bharat Koirala,RM,"is outgoing, sociable",6,4
+Bharat Koirala,RM,tends to find fault with others,7,3
+Bharat Koirala,RM,does a thorough job,8,5
+Bharat Koirala,RM,gets nervous easily,9,5
+Bharat Koirala,RM,has an active imagination,10,5
+Prawase Wasi,RM,is reserved,1,4
+Prawase Wasi,RM,is generally trusting,2,4
+Prawase Wasi,RM,tends to be lazy,3,3
+Prawase Wasi,RM,"is relaxed, handles stress well",4,4
+Prawase Wasi,RM,has few artistic interests,5,2
+Prawase Wasi,RM,"is outgoing, sociable",6,4
+Prawase Wasi,RM,tends to find fault with others,7,2
+Prawase Wasi,RM,does a thorough job,8,5
+Prawase Wasi,RM,gets nervous easily,9,4
+Prawase Wasi,RM,has an active imagination,10,5
+Lahpai Seng Raw,RM,is reserved,1,4
+Lahpai Seng Raw,RM,is generally trusting,2,4
+Lahpai Seng Raw,RM,tends to be lazy,3,2
+Lahpai Seng Raw,RM,"is relaxed, handles stress well",4,4
+Lahpai Seng Raw,RM,has few artistic interests,5,2
+Lahpai Seng Raw,RM,"is outgoing, sociable",6,4
+Lahpai Seng Raw,RM,tends to find fault with others,7,2
+Lahpai Seng Raw,RM,does a thorough job,8,5
+Lahpai Seng Raw,RM,gets nervous easily,9,4
+Lahpai Seng Raw,RM,has an active imagination,10,5
+Koul Panha,RM,is reserved,1,4
+Koul Panha,RM,is generally trusting,2,4
+Koul Panha,RM,tends to be lazy,3,3
+Koul Panha,RM,"is relaxed, handles stress well",4,4
+Koul Panha,RM,has few artistic interests,5,2
+Koul Panha,RM,"is outgoing, sociable",6,4
+Koul Panha,RM,tends to find fault with others,7,2
+Koul Panha,RM,does a thorough job,8,4
+Koul Panha,RM,gets nervous easily,9,4
+Koul Panha,RM,has an active imagination,10,5
+Mabelle Arole,RM,is reserved,1,4
+Mabelle Arole,RM,is generally trusting,2,4
+Mabelle Arole,RM,tends to be lazy,3,3
+Mabelle Arole,RM,"is relaxed, handles stress well",4,4
+Mabelle Arole,RM,has few artistic interests,5,3
+Mabelle Arole,RM,"is outgoing, sociable",6,4
+Mabelle Arole,RM,tends to find fault with others,7,2
+Mabelle Arole,RM,does a thorough job,8,5
+Mabelle Arole,RM,gets nervous easily,9,3
+Mabelle Arole,RM,has an active imagination,10,5
+Maria de Lourdes Martins Cruz,RM,is reserved,1,3
+Maria de Lourdes Martins Cruz,RM,is generally trusting,2,4
+Maria de Lourdes Martins Cruz,RM,tends to be lazy,3,3
+Maria de Lourdes Martins Cruz,RM,"is relaxed, handles stress well",4,4
+Maria de Lourdes Martins Cruz,RM,has few artistic interests,5,2
+Maria de Lourdes Martins Cruz,RM,"is outgoing, sociable",6,4
+Maria de Lourdes Martins Cruz,RM,tends to find fault with others,7,2
+Maria de Lourdes Martins Cruz,RM,does a thorough job,8,5
+Maria de Lourdes Martins Cruz,RM,gets nervous easily,9,3
+Maria de Lourdes Martins Cruz,RM,has an active imagination,10,5
+Eduardo Jorge Anzorena,RM,is reserved,1,3
+Eduardo Jorge Anzorena,RM,is generally trusting,2,4
+Eduardo Jorge Anzorena,RM,tends to be lazy,3,3
+Eduardo Jorge Anzorena,RM,"is relaxed, handles stress well",4,4
+Eduardo Jorge Anzorena,RM,has few artistic interests,5,3
+Eduardo Jorge Anzorena,RM,"is outgoing, sociable",6,4
+Eduardo Jorge Anzorena,RM,tends to find fault with others,7,3
+Eduardo Jorge Anzorena,RM,does a thorough job,8,5
+Eduardo Jorge Anzorena,RM,gets nervous easily,9,3
+Eduardo Jorge Anzorena,RM,has an active imagination,10,5
+Patrick James McGlinchey,RM,is reserved,1,4
+Patrick James McGlinchey,RM,is generally trusting,2,4
+Patrick James McGlinchey,RM,tends to be lazy,3,3
+Patrick James McGlinchey,RM,"is relaxed, handles stress well",4,4
+Patrick James McGlinchey,RM,has few artistic interests,5,3
+Patrick James McGlinchey,RM,"is outgoing, sociable",6,4
+Patrick James McGlinchey,RM,tends to find fault with others,7,2
+Patrick James McGlinchey,RM,does a thorough job,8,5
+Patrick James McGlinchey,RM,gets nervous easily,9,3
+Patrick James McGlinchey,RM,has an active imagination,10,4
+A.H.M. Noman Khan,RM,is reserved,1,3
+A.H.M. Noman Khan,RM,is generally trusting,2,5
+A.H.M. Noman Khan,RM,tends to be lazy,3,2
+A.H.M. Noman Khan,RM,"is relaxed, handles stress well",4,4
+A.H.M. Noman Khan,RM,has few artistic interests,5,2
+A.H.M. Noman Khan,RM,"is outgoing, sociable",6,4
+A.H.M. Noman Khan,RM,tends to find fault with others,7,2
+A.H.M. Noman Khan,RM,does a thorough job,8,5
+A.H.M. Noman Khan,RM,gets nervous easily,9,4
+A.H.M. Noman Khan,RM,has an active imagination,10,5
+Sanjiv Chaturvedi,RM,is reserved,1,3
+Sanjiv Chaturvedi,RM,is generally trusting,2,4
+Sanjiv Chaturvedi,RM,tends to be lazy,3,2
+Sanjiv Chaturvedi,RM,"is relaxed, handles stress well",4,4
+Sanjiv Chaturvedi,RM,has few artistic interests,5,2
+Sanjiv Chaturvedi,RM,"is outgoing, sociable",6,4
+Sanjiv Chaturvedi,RM,tends to find fault with others,7,2
+Sanjiv Chaturvedi,RM,does a thorough job,8,5
+Sanjiv Chaturvedi,RM,gets nervous easily,9,3
+Sanjiv Chaturvedi,RM,has an active imagination,10,5
+Atmakusumah Astraatmadja,RM,is reserved,1,4
+Atmakusumah Astraatmadja,RM,is generally trusting,2,4
+Atmakusumah Astraatmadja,RM,tends to be lazy,3,2
+Atmakusumah Astraatmadja,RM,"is relaxed, handles stress well",4,4
+Atmakusumah Astraatmadja,RM,has few artistic interests,5,3
+Atmakusumah Astraatmadja,RM,"is outgoing, sociable",6,4
+Atmakusumah Astraatmadja,RM,tends to find fault with others,7,2
+Atmakusumah Astraatmadja,RM,does a thorough job,8,5
+Atmakusumah Astraatmadja,RM,gets nervous easily,9,4
+Atmakusumah Astraatmadja,RM,has an active imagination,10,4
+Zakiah Hanum Abd Hamid,RM,is reserved,1,4
+Zakiah Hanum Abd Hamid,RM,is generally trusting,2,4
+Zakiah Hanum Abd Hamid,RM,tends to be lazy,3,3
+Zakiah Hanum Abd Hamid,RM,"is relaxed, handles stress well",4,3
+Zakiah Hanum Abd Hamid,RM,has few artistic interests,5,3
+Zakiah Hanum Abd Hamid,RM,"is outgoing, sociable",6,4
+Zakiah Hanum Abd Hamid,RM,tends to find fault with others,7,2
+Zakiah Hanum Abd Hamid,RM,does a thorough job,8,5
+Zakiah Hanum Abd Hamid,RM,gets nervous easily,9,5
+Zakiah Hanum Abd Hamid,RM,has an active imagination,10,4
+Dara Nusserwanji Khurody,RM,is reserved,1,4
+Dara Nusserwanji Khurody,RM,is generally trusting,2,4
+Dara Nusserwanji Khurody,RM,tends to be lazy,3,2
+Dara Nusserwanji Khurody,RM,"is relaxed, handles stress well",4,4
+Dara Nusserwanji Khurody,RM,has few artistic interests,5,2
+Dara Nusserwanji Khurody,RM,"is outgoing, sociable",6,4
+Dara Nusserwanji Khurody,RM,tends to find fault with others,7,2
+Dara Nusserwanji Khurody,RM,does a thorough job,8,5
+Dara Nusserwanji Khurody,RM,gets nervous easily,9,3
+Dara Nusserwanji Khurody,RM,has an active imagination,10,5
+Benjamin Galstaun,RM,is reserved,1,4
+Benjamin Galstaun,RM,is generally trusting,2,4
+Benjamin Galstaun,RM,tends to be lazy,3,3
+Benjamin Galstaun,RM,"is relaxed, handles stress well",4,4
+Benjamin Galstaun,RM,has few artistic interests,5,3
+Benjamin Galstaun,RM,"is outgoing, sociable",6,4
+Benjamin Galstaun,RM,tends to find fault with others,7,3
+Benjamin Galstaun,RM,does a thorough job,8,5
+Benjamin Galstaun,RM,gets nervous easily,9,3
+Benjamin Galstaun,RM,has an active imagination,10,5
+Shahrum bin Yub,RM,is reserved,1,4
+Shahrum bin Yub,RM,is generally trusting,2,4
+Shahrum bin Yub,RM,tends to be lazy,3,3
+Shahrum bin Yub,RM,"is relaxed, handles stress well",4,4
+Shahrum bin Yub,RM,has few artistic interests,5,3
+Shahrum bin Yub,RM,"is outgoing, sociable",6,4
+Shahrum bin Yub,RM,tends to find fault with others,7,2
+Shahrum bin Yub,RM,does a thorough job,8,5
+Shahrum bin Yub,RM,gets nervous easily,9,3
+Shahrum bin Yub,RM,has an active imagination,10,5
+Abdon Nababan,RM,is reserved,1,3
+Abdon Nababan,RM,is generally trusting,2,4
+Abdon Nababan,RM,tends to be lazy,3,2
+Abdon Nababan,RM,"is relaxed, handles stress well",4,4
+Abdon Nababan,RM,has few artistic interests,5,3
+Abdon Nababan,RM,"is outgoing, sociable",6,4
+Abdon Nababan,RM,tends to find fault with others,7,2
+Abdon Nababan,RM,does a thorough job,8,5
+Abdon Nababan,RM,gets nervous easily,9,3
+Abdon Nababan,RM,has an active imagination,10,4
+Hans Westenberg,RM,is reserved,1,4
+Hans Westenberg,RM,is generally trusting,2,4
+Hans Westenberg,RM,tends to be lazy,3,2
+Hans Westenberg,RM,"is relaxed, handles stress well",4,4
+Hans Westenberg,RM,has few artistic interests,5,2
+Hans Westenberg,RM,"is outgoing, sociable",6,4
+Hans Westenberg,RM,tends to find fault with others,7,2
+Hans Westenberg,RM,does a thorough job,8,5
+Hans Westenberg,RM,gets nervous easily,9,4
+Hans Westenberg,RM,has an active imagination,10,4
+Palayil Narayanan,RM,is reserved,1,4
+Palayil Narayanan,RM,is generally trusting,2,4
+Palayil Narayanan,RM,tends to be lazy,3,3
+Palayil Narayanan,RM,"is relaxed, handles stress well",4,4
+Palayil Narayanan,RM,has few artistic interests,5,3
+Palayil Narayanan,RM,"is outgoing, sociable",6,4
+Palayil Narayanan,RM,tends to find fault with others,7,2
+Palayil Narayanan,RM,does a thorough job,8,5
+Palayil Narayanan,RM,gets nervous easily,9,3
+Palayil Narayanan,RM,has an active imagination,10,5
+Tony Tay,RM,is reserved,1,4
+Tony Tay,RM,is generally trusting,2,4
+Tony Tay,RM,tends to be lazy,3,3
+Tony Tay,RM,"is relaxed, handles stress well",4,4
+Tony Tay,RM,has few artistic interests,5,2
+Tony Tay,RM,"is outgoing, sociable",6,4
+Tony Tay,RM,tends to find fault with others,7,2
+Tony Tay,RM,does a thorough job,8,5
+Tony Tay,RM,gets nervous easily,9,3
+Tony Tay,RM,has an active imagination,10,5
+Swe Win,RM,is reserved,1,4
+Swe Win,RM,is generally trusting,2,4
+Swe Win,RM,tends to be lazy,3,3
+Swe Win,RM,"is relaxed, handles stress well",4,4
+Swe Win,RM,has few artistic interests,5,3
+Swe Win,RM,"is outgoing, sociable",6,4
+Swe Win,RM,tends to find fault with others,7,2
+Swe Win,RM,does a thorough job,8,5
+Swe Win,RM,gets nervous easily,9,4
+Swe Win,RM,has an active imagination,10,4
+Pedro Orata,RM,is reserved,1,4
+Pedro Orata,RM,is generally trusting,2,4
+Pedro Orata,RM,tends to be lazy,3,3
+Pedro Orata,RM,"is relaxed, handles stress well",4,3
+Pedro Orata,RM,has few artistic interests,5,4
+Pedro Orata,RM,"is outgoing, sociable",6,4
+Pedro Orata,RM,tends to find fault with others,7,2
+Pedro Orata,RM,does a thorough job,8,5
+Pedro Orata,RM,gets nervous easily,9,5
+Pedro Orata,RM,has an active imagination,10,5
+Chung To,RM,is reserved,1,4
+Chung To,RM,is generally trusting,2,4
+Chung To,RM,tends to be lazy,3,3
+Chung To,RM,"is relaxed, handles stress well",4,4
+Chung To,RM,has few artistic interests,5,3
+Chung To,RM,"is outgoing, sociable",6,4
+Chung To,RM,tends to find fault with others,7,2
+Chung To,RM,does a thorough job,8,5
+Chung To,RM,gets nervous easily,9,5
+Chung To,RM,has an active imagination,10,5
+Ediriweera Sarachchandra,RM,is reserved,1,4
+Ediriweera Sarachchandra,RM,is generally trusting,2,4
+Ediriweera Sarachchandra,RM,tends to be lazy,3,2
+Ediriweera Sarachchandra,RM,"is relaxed, handles stress well",4,4
+Ediriweera Sarachchandra,RM,has few artistic interests,5,1
+Ediriweera Sarachchandra,RM,"is outgoing, sociable",6,4
+Ediriweera Sarachchandra,RM,tends to find fault with others,7,2
+Ediriweera Sarachchandra,RM,does a thorough job,8,5
+Ediriweera Sarachchandra,RM,gets nervous easily,9,3
+Ediriweera Sarachchandra,RM,has an active imagination,10,5
+Gour Kishore Ghosh,RM,is reserved,1,4
+Gour Kishore Ghosh,RM,is generally trusting,2,4
+Gour Kishore Ghosh,RM,tends to be lazy,3,3
+Gour Kishore Ghosh,RM,"is relaxed, handles stress well",4,4
+Gour Kishore Ghosh,RM,has few artistic interests,5,2
+Gour Kishore Ghosh,RM,"is outgoing, sociable",6,4
+Gour Kishore Ghosh,RM,tends to find fault with others,7,2
+Gour Kishore Ghosh,RM,does a thorough job,8,4
+Gour Kishore Ghosh,RM,gets nervous easily,9,4
+Gour Kishore Ghosh,RM,has an active imagination,10,5
+Jon Ungpakorn,RM,is reserved,1,4
+Jon Ungpakorn,RM,is generally trusting,2,4
+Jon Ungpakorn,RM,tends to be lazy,3,3
+Jon Ungpakorn,RM,"is relaxed, handles stress well",4,4
+Jon Ungpakorn,RM,has few artistic interests,5,3
+Jon Ungpakorn,RM,"is outgoing, sociable",6,4
+Jon Ungpakorn,RM,tends to find fault with others,7,3
+Jon Ungpakorn,RM,does a thorough job,8,5
+Jon Ungpakorn,RM,gets nervous easily,9,3
+Jon Ungpakorn,RM,has an active imagination,10,4
+Kim Yong-ki,RM,is reserved,1,3
+Kim Yong-ki,RM,is generally trusting,2,4
+Kim Yong-ki,RM,tends to be lazy,3,2
+Kim Yong-ki,RM,"is relaxed, handles stress well",4,4
+Kim Yong-ki,RM,has few artistic interests,5,2
+Kim Yong-ki,RM,"is outgoing, sociable",6,4
+Kim Yong-ki,RM,tends to find fault with others,7,2
+Kim Yong-ki,RM,does a thorough job,8,5
+Kim Yong-ki,RM,gets nervous easily,9,3
+Kim Yong-ki,RM,has an active imagination,10,5
+Sheila Coronel,RM,is reserved,1,4
+Sheila Coronel,RM,is generally trusting,2,4
+Sheila Coronel,RM,tends to be lazy,3,2
+Sheila Coronel,RM,"is relaxed, handles stress well",4,4
+Sheila Coronel,RM,has few artistic interests,5,2
+Sheila Coronel,RM,"is outgoing, sociable",6,4
+Sheila Coronel,RM,tends to find fault with others,7,2
+Sheila Coronel,RM,does a thorough job,8,5
+Sheila Coronel,RM,gets nervous easily,9,3
+Sheila Coronel,RM,has an active imagination,10,5
+Tahrunessa Abdullah,RM,is reserved,1,4
+Tahrunessa Abdullah,RM,is generally trusting,2,4
+Tahrunessa Abdullah,RM,tends to be lazy,3,3
+Tahrunessa Abdullah,RM,"is relaxed, handles stress well",4,3
+Tahrunessa Abdullah,RM,has few artistic interests,5,3
+Tahrunessa Abdullah,RM,"is outgoing, sociable",6,4
+Tahrunessa Abdullah,RM,tends to find fault with others,7,2
+Tahrunessa Abdullah,RM,does a thorough job,8,5
+Tahrunessa Abdullah,RM,gets nervous easily,9,4
+Tahrunessa Abdullah,RM,has an active imagination,10,5
+Tee Tee Luce,RM,is reserved,1,4
+Tee Tee Luce,RM,is generally trusting,2,5
+Tee Tee Luce,RM,tends to be lazy,3,3
+Tee Tee Luce,RM,"is relaxed, handles stress well",4,4
+Tee Tee Luce,RM,has few artistic interests,5,3
+Tee Tee Luce,RM,"is outgoing, sociable",6,4
+Tee Tee Luce,RM,tends to find fault with others,7,3
+Tee Tee Luce,RM,does a thorough job,8,5
+Tee Tee Luce,RM,gets nervous easily,9,5
+Tee Tee Luce,RM,has an active imagination,10,5
+Vo Tong Xuan,RM,is reserved,1,4
+Vo Tong Xuan,RM,is generally trusting,2,4
+Vo Tong Xuan,RM,tends to be lazy,3,3
+Vo Tong Xuan,RM,"is relaxed, handles stress well",4,4
+Vo Tong Xuan,RM,has few artistic interests,5,3
+Vo Tong Xuan,RM,"is outgoing, sociable",6,4
+Vo Tong Xuan,RM,tends to find fault with others,7,2
+Vo Tong Xuan,RM,does a thorough job,8,5
+Vo Tong Xuan,RM,gets nervous easily,9,4
+Vo Tong Xuan,RM,has an active imagination,10,5
+Welthy Honsinger Fisher,RM,is reserved,1,2
+Welthy Honsinger Fisher,RM,is generally trusting,2,5
+Welthy Honsinger Fisher,RM,tends to be lazy,3,1
+Welthy Honsinger Fisher,RM,"is relaxed, handles stress well",4,4
+Welthy Honsinger Fisher,RM,has few artistic interests,5,1
+Welthy Honsinger Fisher,RM,"is outgoing, sociable",6,4
+Welthy Honsinger Fisher,RM,tends to find fault with others,7,2
+Welthy Honsinger Fisher,RM,does a thorough job,8,5
+Welthy Honsinger Fisher,RM,gets nervous easily,9,3
+Welthy Honsinger Fisher,RM,has an active imagination,10,5
+Yang Saing Koma,RM,is reserved,1,3
+Yang Saing Koma,RM,is generally trusting,2,4
+Yang Saing Koma,RM,tends to be lazy,3,3
+Yang Saing Koma,RM,"is relaxed, handles stress well",4,4
+Yang Saing Koma,RM,has few artistic interests,5,3
+Yang Saing Koma,RM,"is outgoing, sociable",6,4
+Yang Saing Koma,RM,tends to find fault with others,7,3
+Yang Saing Koma,RM,does a thorough job,8,5
+Yang Saing Koma,RM,gets nervous easily,9,3
+Yang Saing Koma,RM,has an active imagination,10,4
+Romulo Davide,RM,is reserved,1,4
+Romulo Davide,RM,is generally trusting,2,4
+Romulo Davide,RM,tends to be lazy,3,3
+Romulo Davide,RM,"is relaxed, handles stress well",4,4
+Romulo Davide,RM,has few artistic interests,5,2
+Romulo Davide,RM,"is outgoing, sociable",6,4
+Romulo Davide,RM,tends to find fault with others,7,3
+Romulo Davide,RM,does a thorough job,8,5
+Romulo Davide,RM,gets nervous easily,9,3
+Romulo Davide,RM,has an active imagination,10,5
+William Masterson,RM,is reserved,1,4
+William Masterson,RM,is generally trusting,2,4
+William Masterson,RM,tends to be lazy,3,2
+William Masterson,RM,"is relaxed, handles stress well",4,4
+William Masterson,RM,has few artistic interests,5,3
+William Masterson,RM,"is outgoing, sociable",6,4
+William Masterson,RM,tends to find fault with others,7,2
+William Masterson,RM,does a thorough job,8,5
+William Masterson,RM,gets nervous easily,9,4
+William Masterson,RM,has an active imagination,10,4
+Yoon Hye-ran,RM,is reserved,1,2
+Yoon Hye-ran,RM,is generally trusting,2,4
+Yoon Hye-ran,RM,tends to be lazy,3,2
+Yoon Hye-ran,RM,"is relaxed, handles stress well",4,4
+Yoon Hye-ran,RM,has few artistic interests,5,2
+Yoon Hye-ran,RM,"is outgoing, sociable",6,4
+Yoon Hye-ran,RM,tends to find fault with others,7,2
+Yoon Hye-ran,RM,does a thorough job,8,5
+Yoon Hye-ran,RM,gets nervous easily,9,4
+Yoon Hye-ran,RM,has an active imagination,10,4
+Ambrosius Ruwindrijarto,RM,is reserved,1,4
+Ambrosius Ruwindrijarto,RM,is generally trusting,2,4
+Ambrosius Ruwindrijarto,RM,tends to be lazy,3,2
+Ambrosius Ruwindrijarto,RM,"is relaxed, handles stress well",4,4
+Ambrosius Ruwindrijarto,RM,has few artistic interests,5,2
+Ambrosius Ruwindrijarto,RM,"is outgoing, sociable",6,4
+Ambrosius Ruwindrijarto,RM,tends to find fault with others,7,3
+Ambrosius Ruwindrijarto,RM,does a thorough job,8,5
+Ambrosius Ruwindrijarto,RM,gets nervous easily,9,3
+Ambrosius Ruwindrijarto,RM,has an active imagination,10,5
+Eleanor Roosevelt,UNHR,is reserved,1,2
+Eleanor Roosevelt,UNHR,is generally trusting,2,4
+Eleanor Roosevelt,UNHR,tends to be lazy,3,2
+Eleanor Roosevelt,UNHR,"is relaxed, handles stress well",4,4
+Eleanor Roosevelt,UNHR,has few artistic interests,5,2
+Eleanor Roosevelt,UNHR,"is outgoing, sociable",6,5
+Eleanor Roosevelt,UNHR,tends to find fault with others,7,2
+Eleanor Roosevelt,UNHR,does a thorough job,8,5
+Eleanor Roosevelt,UNHR,gets nervous easily,9,2
+Eleanor Roosevelt,UNHR,has an active imagination,10,5
+Benazir Bhutto,UNHR,is reserved,1,2
+Benazir Bhutto,UNHR,is generally trusting,2,4
+Benazir Bhutto,UNHR,tends to be lazy,3,2
+Benazir Bhutto,UNHR,"is relaxed, handles stress well",4,4
+Benazir Bhutto,UNHR,has few artistic interests,5,2
+Benazir Bhutto,UNHR,"is outgoing, sociable",6,5
+Benazir Bhutto,UNHR,tends to find fault with others,7,2
+Benazir Bhutto,UNHR,does a thorough job,8,5
+Benazir Bhutto,UNHR,gets nervous easily,9,2
+Benazir Bhutto,UNHR,has an active imagination,10,4
+U Thant,UNHR,is reserved,1,4
+U Thant,UNHR,is generally trusting,2,4
+U Thant,UNHR,tends to be lazy,3,3
+U Thant,UNHR,"is relaxed, handles stress well",4,4
+U Thant,UNHR,has few artistic interests,5,3
+U Thant,UNHR,"is outgoing, sociable",6,4
+U Thant,UNHR,tends to find fault with others,7,3
+U Thant,UNHR,does a thorough job,8,5
+U Thant,UNHR,gets nervous easily,9,3
+U Thant,UNHR,has an active imagination,10,5
+Winnie Madikizela-Mandela,UNHR,is reserved,1,2
+Winnie Madikizela-Mandela,UNHR,is generally trusting,2,4
+Winnie Madikizela-Mandela,UNHR,tends to be lazy,3,1
+Winnie Madikizela-Mandela,UNHR,"is relaxed, handles stress well",4,4
+Winnie Madikizela-Mandela,UNHR,has few artistic interests,5,2
+Winnie Madikizela-Mandela,UNHR,"is outgoing, sociable",6,5
+Winnie Madikizela-Mandela,UNHR,tends to find fault with others,7,4
+Winnie Madikizela-Mandela,UNHR,does a thorough job,8,5
+Winnie Madikizela-Mandela,UNHR,gets nervous easily,9,3
+Winnie Madikizela-Mandela,UNHR,has an active imagination,10,4
+Taha Hussein,UNHR,is reserved,1,3
+Taha Hussein,UNHR,is generally trusting,2,5
+Taha Hussein,UNHR,tends to be lazy,3,2
+Taha Hussein,UNHR,"is relaxed, handles stress well",4,3
+Taha Hussein,UNHR,has few artistic interests,5,1
+Taha Hussein,UNHR,"is outgoing, sociable",6,4
+Taha Hussein,UNHR,tends to find fault with others,7,2
+Taha Hussein,UNHR,does a thorough job,8,5
+Taha Hussein,UNHR,gets nervous easily,9,3
+Taha Hussein,UNHR,has an active imagination,10,5
+Helen Suzman,UNHR,is reserved,1,2
+Helen Suzman,UNHR,is generally trusting,2,4
+Helen Suzman,UNHR,tends to be lazy,3,2
+Helen Suzman,UNHR,"is relaxed, handles stress well",4,4
+Helen Suzman,UNHR,has few artistic interests,5,2
+Helen Suzman,UNHR,"is outgoing, sociable",6,5
+Helen Suzman,UNHR,tends to find fault with others,7,2
+Helen Suzman,UNHR,does a thorough job,8,5
+Helen Suzman,UNHR,gets nervous easily,9,3
+Helen Suzman,UNHR,has an active imagination,10,5
+Sérgio Vieira de Mello,UNHR,is reserved,1,2
+Sérgio Vieira de Mello,UNHR,is generally trusting,2,4
+Sérgio Vieira de Mello,UNHR,tends to be lazy,3,2
+Sérgio Vieira de Mello,UNHR,"is relaxed, handles stress well",4,4
+Sérgio Vieira de Mello,UNHR,has few artistic interests,5,2
+Sérgio Vieira de Mello,UNHR,"is outgoing, sociable",6,4
+Sérgio Vieira de Mello,UNHR,tends to find fault with others,7,2
+Sérgio Vieira de Mello,UNHR,does a thorough job,8,5
+Sérgio Vieira de Mello,UNHR,gets nervous easily,9,3
+Sérgio Vieira de Mello,UNHR,has an active imagination,10,4
+Seewoosagur Ramgoolam,UNHR,is reserved,1,3
+Seewoosagur Ramgoolam,UNHR,is generally trusting,2,4
+Seewoosagur Ramgoolam,UNHR,tends to be lazy,3,3
+Seewoosagur Ramgoolam,UNHR,"is relaxed, handles stress well",4,4
+Seewoosagur Ramgoolam,UNHR,has few artistic interests,5,3
+Seewoosagur Ramgoolam,UNHR,"is outgoing, sociable",6,4
+Seewoosagur Ramgoolam,UNHR,tends to find fault with others,7,2
+Seewoosagur Ramgoolam,UNHR,does a thorough job,8,5
+Seewoosagur Ramgoolam,UNHR,gets nervous easily,9,3
+Seewoosagur Ramgoolam,UNHR,has an active imagination,10,4
+Estela Barnes de Carlotto,UNHR,is reserved,1,2
+Estela Barnes de Carlotto,UNHR,is generally trusting,2,5
+Estela Barnes de Carlotto,UNHR,tends to be lazy,3,1
+Estela Barnes de Carlotto,UNHR,"is relaxed, handles stress well",4,4
+Estela Barnes de Carlotto,UNHR,has few artistic interests,5,1
+Estela Barnes de Carlotto,UNHR,"is outgoing, sociable",6,4
+Estela Barnes de Carlotto,UNHR,tends to find fault with others,7,2
+Estela Barnes de Carlotto,UNHR,does a thorough job,8,5
+Estela Barnes de Carlotto,UNHR,gets nervous easily,9,3
+Estela Barnes de Carlotto,UNHR,has an active imagination,10,5
+Ramsey Clark,UNHR,is reserved,1,4
+Ramsey Clark,UNHR,is generally trusting,2,4
+Ramsey Clark,UNHR,tends to be lazy,3,2
+Ramsey Clark,UNHR,"is relaxed, handles stress well",4,4
+Ramsey Clark,UNHR,has few artistic interests,5,2
+Ramsey Clark,UNHR,"is outgoing, sociable",6,4
+Ramsey Clark,UNHR,tends to find fault with others,7,2
+Ramsey Clark,UNHR,does a thorough job,8,5
+Ramsey Clark,UNHR,gets nervous easily,9,3
+Ramsey Clark,UNHR,has an active imagination,10,4
+Abel Muzorewa,UNHR,is reserved,1,3
+Abel Muzorewa,UNHR,is generally trusting,2,4
+Abel Muzorewa,UNHR,tends to be lazy,3,3
+Abel Muzorewa,UNHR,"is relaxed, handles stress well",4,4
+Abel Muzorewa,UNHR,has few artistic interests,5,3
+Abel Muzorewa,UNHR,"is outgoing, sociable",6,4
+Abel Muzorewa,UNHR,tends to find fault with others,7,3
+Abel Muzorewa,UNHR,does a thorough job,8,5
+Abel Muzorewa,UNHR,gets nervous easily,9,3
+Abel Muzorewa,UNHR,has an active imagination,10,4
+Louise Arbour,UNHR,is reserved,1,4
+Louise Arbour,UNHR,is generally trusting,2,4
+Louise Arbour,UNHR,tends to be lazy,3,2
+Louise Arbour,UNHR,"is relaxed, handles stress well",4,4
+Louise Arbour,UNHR,has few artistic interests,5,3
+Louise Arbour,UNHR,"is outgoing, sociable",6,4
+Louise Arbour,UNHR,tends to find fault with others,7,3
+Louise Arbour,UNHR,does a thorough job,8,5
+Louise Arbour,UNHR,gets nervous easily,9,3
+Louise Arbour,UNHR,has an active imagination,10,4
+John Peters Humphrey,UNHR,is reserved,1,2
+John Peters Humphrey,UNHR,is generally trusting,2,4
+John Peters Humphrey,UNHR,tends to be lazy,3,3
+John Peters Humphrey,UNHR,"is relaxed, handles stress well",4,4
+John Peters Humphrey,UNHR,has few artistic interests,5,3
+John Peters Humphrey,UNHR,"is outgoing, sociable",6,4
+John Peters Humphrey,UNHR,tends to find fault with others,7,2
+John Peters Humphrey,UNHR,does a thorough job,8,5
+John Peters Humphrey,UNHR,gets nervous easily,9,3
+John Peters Humphrey,UNHR,has an active imagination,10,5
+Dorothy Stang,UNHR,is reserved,1,2
+Dorothy Stang,UNHR,is generally trusting,2,5
+Dorothy Stang,UNHR,tends to be lazy,3,2
+Dorothy Stang,UNHR,"is relaxed, handles stress well",4,4
+Dorothy Stang,UNHR,has few artistic interests,5,2
+Dorothy Stang,UNHR,"is outgoing, sociable",6,4
+Dorothy Stang,UNHR,tends to find fault with others,7,2
+Dorothy Stang,UNHR,does a thorough job,8,5
+Dorothy Stang,UNHR,gets nervous easily,9,3
+Dorothy Stang,UNHR,has an active imagination,10,5
+Ra'ana Liaquat Ali Khan,UNHR,is reserved,1,2
+Ra'ana Liaquat Ali Khan,UNHR,is generally trusting,2,4
+Ra'ana Liaquat Ali Khan,UNHR,tends to be lazy,3,2
+Ra'ana Liaquat Ali Khan,UNHR,"is relaxed, handles stress well",4,4
+Ra'ana Liaquat Ali Khan,UNHR,has few artistic interests,5,2
+Ra'ana Liaquat Ali Khan,UNHR,"is outgoing, sociable",6,4
+Ra'ana Liaquat Ali Khan,UNHR,tends to find fault with others,7,2
+Ra'ana Liaquat Ali Khan,UNHR,does a thorough job,8,5
+Ra'ana Liaquat Ali Khan,UNHR,gets nervous easily,9,2
+Ra'ana Liaquat Ali Khan,UNHR,has an active imagination,10,4
+Prince Sadruddin Aga Khan,UNHR,is reserved,1,3
+Prince Sadruddin Aga Khan,UNHR,is generally trusting,2,4
+Prince Sadruddin Aga Khan,UNHR,tends to be lazy,3,2
+Prince Sadruddin Aga Khan,UNHR,"is relaxed, handles stress well",4,4
+Prince Sadruddin Aga Khan,UNHR,has few artistic interests,5,1
+Prince Sadruddin Aga Khan,UNHR,"is outgoing, sociable",6,4
+Prince Sadruddin Aga Khan,UNHR,tends to find fault with others,7,2
+Prince Sadruddin Aga Khan,UNHR,does a thorough job,8,5
+Prince Sadruddin Aga Khan,UNHR,gets nervous easily,9,2
+Prince Sadruddin Aga Khan,UNHR,has an active imagination,10,4
+Julienne Lusenge,UNHR,is reserved,1,3
+Julienne Lusenge,UNHR,is generally trusting,2,4
+Julienne Lusenge,UNHR,tends to be lazy,3,3
+Julienne Lusenge,UNHR,"is relaxed, handles stress well",4,3
+Julienne Lusenge,UNHR,has few artistic interests,5,1
+Julienne Lusenge,UNHR,"is outgoing, sociable",6,4
+Julienne Lusenge,UNHR,tends to find fault with others,7,2
+Julienne Lusenge,UNHR,does a thorough job,8,5
+Julienne Lusenge,UNHR,gets nervous easily,9,3
+Julienne Lusenge,UNHR,has an active imagination,10,5
+Leonidas Proaño,UNHR,is reserved,1,3
+Leonidas Proaño,UNHR,is generally trusting,2,5
+Leonidas Proaño,UNHR,tends to be lazy,3,2
+Leonidas Proaño,UNHR,"is relaxed, handles stress well",4,4
+Leonidas Proaño,UNHR,has few artistic interests,5,3
+Leonidas Proaño,UNHR,"is outgoing, sociable",6,4
+Leonidas Proaño,UNHR,tends to find fault with others,7,2
+Leonidas Proaño,UNHR,does a thorough job,8,5
+Leonidas Proaño,UNHR,gets nervous easily,9,3
+Leonidas Proaño,UNHR,has an active imagination,10,5
+Biram Dah Abeid,UNHR,is reserved,1,3
+Biram Dah Abeid,UNHR,is generally trusting,2,4
+Biram Dah Abeid,UNHR,tends to be lazy,3,2
+Biram Dah Abeid,UNHR,"is relaxed, handles stress well",4,3
+Biram Dah Abeid,UNHR,has few artistic interests,5,3
+Biram Dah Abeid,UNHR,"is outgoing, sociable",6,4
+Biram Dah Abeid,UNHR,tends to find fault with others,7,2
+Biram Dah Abeid,UNHR,does a thorough job,8,5
+Biram Dah Abeid,UNHR,gets nervous easily,9,3
+Biram Dah Abeid,UNHR,has an active imagination,10,5
+Deng Pufang,UNHR,is reserved,1,4
+Deng Pufang,UNHR,is generally trusting,2,3
+Deng Pufang,UNHR,tends to be lazy,3,2
+Deng Pufang,UNHR,"is relaxed, handles stress well",4,4
+Deng Pufang,UNHR,has few artistic interests,5,4
+Deng Pufang,UNHR,"is outgoing, sociable",6,4
+Deng Pufang,UNHR,tends to find fault with others,7,2
+Deng Pufang,UNHR,does a thorough job,8,4
+Deng Pufang,UNHR,gets nervous easily,9,3
+Deng Pufang,UNHR,has an active imagination,10,4
+Joênia Wapichana,UNHR,is reserved,1,3
+Joênia Wapichana,UNHR,is generally trusting,2,4
+Joênia Wapichana,UNHR,tends to be lazy,3,2
+Joênia Wapichana,UNHR,"is relaxed, handles stress well",4,4
+Joênia Wapichana,UNHR,has few artistic interests,5,3
+Joênia Wapichana,UNHR,"is outgoing, sociable",6,4
+Joênia Wapichana,UNHR,tends to find fault with others,7,2
+Joênia Wapichana,UNHR,does a thorough job,8,5
+Joênia Wapichana,UNHR,gets nervous easily,9,3
+Joênia Wapichana,UNHR,has an active imagination,10,4
+Ganesh Man Singh,UNHR,is reserved,1,3
+Ganesh Man Singh,UNHR,is generally trusting,2,4
+Ganesh Man Singh,UNHR,tends to be lazy,3,2
+Ganesh Man Singh,UNHR,"is relaxed, handles stress well",4,4
+Ganesh Man Singh,UNHR,has few artistic interests,5,3
+Ganesh Man Singh,UNHR,"is outgoing, sociable",6,4
+Ganesh Man Singh,UNHR,tends to find fault with others,7,2
+Ganesh Man Singh,UNHR,does a thorough job,8,5
+Ganesh Man Singh,UNHR,gets nervous easily,9,3
+Ganesh Man Singh,UNHR,has an active imagination,10,4
+Khadija Ryadi,UNHR,is reserved,1,3
+Khadija Ryadi,UNHR,is generally trusting,2,4
+Khadija Ryadi,UNHR,tends to be lazy,3,2
+Khadija Ryadi,UNHR,"is relaxed, handles stress well",4,3
+Khadija Ryadi,UNHR,has few artistic interests,5,3
+Khadija Ryadi,UNHR,"is outgoing, sociable",6,4
+Khadija Ryadi,UNHR,tends to find fault with others,7,2
+Khadija Ryadi,UNHR,does a thorough job,8,5
+Khadija Ryadi,UNHR,gets nervous easily,9,3
+Khadija Ryadi,UNHR,has an active imagination,10,4
+Liisa Kauppinen,UNHR,is reserved,1,4
+Liisa Kauppinen,UNHR,is generally trusting,2,4
+Liisa Kauppinen,UNHR,tends to be lazy,3,2
+Liisa Kauppinen,UNHR,"is relaxed, handles stress well",4,4
+Liisa Kauppinen,UNHR,has few artistic interests,5,1
+Liisa Kauppinen,UNHR,"is outgoing, sociable",6,4
+Liisa Kauppinen,UNHR,tends to find fault with others,7,2
+Liisa Kauppinen,UNHR,does a thorough job,8,5
+Liisa Kauppinen,UNHR,gets nervous easily,9,3
+Liisa Kauppinen,UNHR,has an active imagination,10,5
+Anna Šabatová,UNHR,is reserved,1,2
+Anna Šabatová,UNHR,is generally trusting,2,4
+Anna Šabatová,UNHR,tends to be lazy,3,2
+Anna Šabatová,UNHR,"is relaxed, handles stress well",4,4
+Anna Šabatová,UNHR,has few artistic interests,5,2
+Anna Šabatová,UNHR,"is outgoing, sociable",6,4
+Anna Šabatová,UNHR,tends to find fault with others,7,2
+Anna Šabatová,UNHR,does a thorough job,8,5
+Anna Šabatová,UNHR,gets nervous easily,9,3
+Anna Šabatová,UNHR,has an active imagination,10,4
+Mehrangiz Manoochehrian,UNHR,is reserved,1,4
+Mehrangiz Manoochehrian,UNHR,is generally trusting,2,4
+Mehrangiz Manoochehrian,UNHR,tends to be lazy,3,2
+Mehrangiz Manoochehrian,UNHR,"is relaxed, handles stress well",4,4
+Mehrangiz Manoochehrian,UNHR,has few artistic interests,5,2
+Mehrangiz Manoochehrian,UNHR,"is outgoing, sociable",6,4
+Mehrangiz Manoochehrian,UNHR,tends to find fault with others,7,2
+Mehrangiz Manoochehrian,UNHR,does a thorough job,8,5
+Mehrangiz Manoochehrian,UNHR,gets nervous easily,9,4
+Mehrangiz Manoochehrian,UNHR,has an active imagination,10,5
+Sonia Picado Sotela,UNHR,is reserved,1,3
+Sonia Picado Sotela,UNHR,is generally trusting,2,5
+Sonia Picado Sotela,UNHR,tends to be lazy,3,2
+Sonia Picado Sotela,UNHR,"is relaxed, handles stress well",4,4
+Sonia Picado Sotela,UNHR,has few artistic interests,5,2
+Sonia Picado Sotela,UNHR,"is outgoing, sociable",6,4
+Sonia Picado Sotela,UNHR,tends to find fault with others,7,3
+Sonia Picado Sotela,UNHR,does a thorough job,8,5
+Sonia Picado Sotela,UNHR,gets nervous easily,9,3
+Sonia Picado Sotela,UNHR,has an active imagination,10,4
+James P. Grant,UNHR,is reserved,1,4
+James P. Grant,UNHR,is generally trusting,2,4
+James P. Grant,UNHR,tends to be lazy,3,3
+James P. Grant,UNHR,"is relaxed, handles stress well",4,4
+James P. Grant,UNHR,has few artistic interests,5,3
+James P. Grant,UNHR,"is outgoing, sociable",6,4
+James P. Grant,UNHR,tends to find fault with others,7,2
+James P. Grant,UNHR,does a thorough job,8,5
+James P. Grant,UNHR,gets nervous easily,9,3
+James P. Grant,UNHR,has an active imagination,10,5
+Timothy Conigrave,UNHR,is reserved,1,2
+Timothy Conigrave,UNHR,is generally trusting,2,4
+Timothy Conigrave,UNHR,tends to be lazy,3,2
+Timothy Conigrave,UNHR,"is relaxed, handles stress well",4,3
+Timothy Conigrave,UNHR,has few artistic interests,5,2
+Timothy Conigrave,UNHR,"is outgoing, sociable",6,5
+Timothy Conigrave,UNHR,tends to find fault with others,7,2
+Timothy Conigrave,UNHR,does a thorough job,8,4
+Timothy Conigrave,UNHR,gets nervous easily,9,4
+Timothy Conigrave,UNHR,has an active imagination,10,5
+Carolyn Gomes,UNHR,is reserved,1,3
+Carolyn Gomes,UNHR,is generally trusting,2,4
+Carolyn Gomes,UNHR,tends to be lazy,3,3
+Carolyn Gomes,UNHR,"is relaxed, handles stress well",4,3
+Carolyn Gomes,UNHR,has few artistic interests,5,2
+Carolyn Gomes,UNHR,"is outgoing, sociable",6,4
+Carolyn Gomes,UNHR,tends to find fault with others,7,2
+Carolyn Gomes,UNHR,does a thorough job,8,5
+Carolyn Gomes,UNHR,gets nervous easily,9,4
+Carolyn Gomes,UNHR,has an active imagination,10,4
+Hassib Ben Ammar,UNHR,is reserved,1,4
+Hassib Ben Ammar,UNHR,is generally trusting,2,4
+Hassib Ben Ammar,UNHR,tends to be lazy,3,3
+Hassib Ben Ammar,UNHR,"is relaxed, handles stress well",4,4
+Hassib Ben Ammar,UNHR,has few artistic interests,5,2
+Hassib Ben Ammar,UNHR,"is outgoing, sociable",6,4
+Hassib Ben Ammar,UNHR,tends to find fault with others,7,2
+Hassib Ben Ammar,UNHR,does a thorough job,8,5
+Hassib Ben Ammar,UNHR,gets nervous easily,9,5
+Hassib Ben Ammar,UNHR,has an active imagination,10,5
+Wilfred Jenks,UNHR,is reserved,1,3
+Wilfred Jenks,UNHR,is generally trusting,2,4
+Wilfred Jenks,UNHR,tends to be lazy,3,3
+Wilfred Jenks,UNHR,"is relaxed, handles stress well",4,4
+Wilfred Jenks,UNHR,has few artistic interests,5,3
+Wilfred Jenks,UNHR,"is outgoing, sociable",6,4
+Wilfred Jenks,UNHR,tends to find fault with others,7,2
+Wilfred Jenks,UNHR,does a thorough job,8,5
+Wilfred Jenks,UNHR,gets nervous easily,9,5
+Wilfred Jenks,UNHR,has an active imagination,10,5
+José Gregori,UNHR,is reserved,1,3
+José Gregori,UNHR,is generally trusting,2,4
+José Gregori,UNHR,tends to be lazy,3,3
+José Gregori,UNHR,"is relaxed, handles stress well",4,4
+José Gregori,UNHR,has few artistic interests,5,3
+José Gregori,UNHR,"is outgoing, sociable",6,4
+José Gregori,UNHR,tends to find fault with others,7,2
+José Gregori,UNHR,does a thorough job,8,5
+José Gregori,UNHR,gets nervous easily,9,4
+José Gregori,UNHR,has an active imagination,10,5
+Hiljmnijeta Apuk,UNHR,is reserved,1,4
+Hiljmnijeta Apuk,UNHR,is generally trusting,2,4
+Hiljmnijeta Apuk,UNHR,tends to be lazy,3,3
+Hiljmnijeta Apuk,UNHR,"is relaxed, handles stress well",4,4
+Hiljmnijeta Apuk,UNHR,has few artistic interests,5,3
+Hiljmnijeta Apuk,UNHR,"is outgoing, sociable",6,4
+Hiljmnijeta Apuk,UNHR,tends to find fault with others,7,2
+Hiljmnijeta Apuk,UNHR,does a thorough job,8,5
+Hiljmnijeta Apuk,UNHR,gets nervous easily,9,4
+Hiljmnijeta Apuk,UNHR,has an active imagination,10,4
+Erica-Irene Daes,UNHR,is reserved,1,3
+Erica-Irene Daes,UNHR,is generally trusting,2,4
+Erica-Irene Daes,UNHR,tends to be lazy,3,3
+Erica-Irene Daes,UNHR,"is relaxed, handles stress well",4,3
+Erica-Irene Daes,UNHR,has few artistic interests,5,2
+Erica-Irene Daes,UNHR,"is outgoing, sociable",6,4
+Erica-Irene Daes,UNHR,tends to find fault with others,7,3
+Erica-Irene Daes,UNHR,does a thorough job,8,5
+Erica-Irene Daes,UNHR,gets nervous easily,9,3
+Erica-Irene Daes,UNHR,has an active imagination,10,5
+Petr Emelyanovich Nedbailo,UNHR,is reserved,1,4
+Petr Emelyanovich Nedbailo,UNHR,is generally trusting,2,4
+Petr Emelyanovich Nedbailo,UNHR,tends to be lazy,3,2
+Petr Emelyanovich Nedbailo,UNHR,"is relaxed, handles stress well",4,4
+Petr Emelyanovich Nedbailo,UNHR,has few artistic interests,5,4
+Petr Emelyanovich Nedbailo,UNHR,"is outgoing, sociable",6,4
+Petr Emelyanovich Nedbailo,UNHR,tends to find fault with others,7,2
+Petr Emelyanovich Nedbailo,UNHR,does a thorough job,8,5
+Petr Emelyanovich Nedbailo,UNHR,gets nervous easily,9,4
+Petr Emelyanovich Nedbailo,UNHR,has an active imagination,10,4
+Sunila Abeysekera,UNHR,is reserved,1,2
+Sunila Abeysekera,UNHR,is generally trusting,2,4
+Sunila Abeysekera,UNHR,tends to be lazy,3,2
+Sunila Abeysekera,UNHR,"is relaxed, handles stress well",4,4
+Sunila Abeysekera,UNHR,has few artistic interests,5,2
+Sunila Abeysekera,UNHR,"is outgoing, sociable",6,4
+Sunila Abeysekera,UNHR,tends to find fault with others,7,2
+Sunila Abeysekera,UNHR,does a thorough job,8,5
+Sunila Abeysekera,UNHR,gets nervous easily,9,3
+Sunila Abeysekera,UNHR,has an active imagination,10,5
+María Lavalle Urbina,UNHR,is reserved,1,3
+María Lavalle Urbina,UNHR,is generally trusting,2,4
+María Lavalle Urbina,UNHR,tends to be lazy,3,2
+María Lavalle Urbina,UNHR,"is relaxed, handles stress well",4,4
+María Lavalle Urbina,UNHR,has few artistic interests,5,2
+María Lavalle Urbina,UNHR,"is outgoing, sociable",6,4
+María Lavalle Urbina,UNHR,tends to find fault with others,7,2
+María Lavalle Urbina,UNHR,does a thorough job,8,5
+María Lavalle Urbina,UNHR,gets nervous easily,9,5
+María Lavalle Urbina,UNHR,has an active imagination,10,5
+Adam Łopatka,UNHR,is reserved,1,3
+Adam Łopatka,UNHR,is generally trusting,2,4
+Adam Łopatka,UNHR,tends to be lazy,3,3
+Adam Łopatka,UNHR,"is relaxed, handles stress well",4,4
+Adam Łopatka,UNHR,has few artistic interests,5,2
+Adam Łopatka,UNHR,"is outgoing, sociable",6,4
+Adam Łopatka,UNHR,tends to find fault with others,7,3
+Adam Łopatka,UNHR,does a thorough job,8,5
+Adam Łopatka,UNHR,gets nervous easily,9,3
+Adam Łopatka,UNHR,has an active imagination,10,4
+Manuel Bianchi Gundián,UNHR,is reserved,1,4
+Manuel Bianchi Gundián,UNHR,is generally trusting,2,4
+Manuel Bianchi Gundián,UNHR,tends to be lazy,3,3
+Manuel Bianchi Gundián,UNHR,"is relaxed, handles stress well",4,4
+Manuel Bianchi Gundián,UNHR,has few artistic interests,5,2
+Manuel Bianchi Gundián,UNHR,"is outgoing, sociable",6,4
+Manuel Bianchi Gundián,UNHR,tends to find fault with others,7,3
+Manuel Bianchi Gundián,UNHR,does a thorough job,8,5
+Manuel Bianchi Gundián,UNHR,gets nervous easily,9,5
+Manuel Bianchi Gundián,UNHR,has an active imagination,10,5
+Angelina Acheng Atyam,UNHR,is reserved,1,2
+Angelina Acheng Atyam,UNHR,is generally trusting,2,5
+Angelina Acheng Atyam,UNHR,tends to be lazy,3,2
+Angelina Acheng Atyam,UNHR,"is relaxed, handles stress well",4,3
+Angelina Acheng Atyam,UNHR,has few artistic interests,5,3
+Angelina Acheng Atyam,UNHR,"is outgoing, sociable",6,4
+Angelina Acheng Atyam,UNHR,tends to find fault with others,7,2
+Angelina Acheng Atyam,UNHR,does a thorough job,8,5
+Angelina Acheng Atyam,UNHR,gets nervous easily,9,3
+Angelina Acheng Atyam,UNHR,has an active imagination,10,4
+Schulamit König,UNHR,is reserved,1,4
+Schulamit König,UNHR,is generally trusting,2,4
+Schulamit König,UNHR,tends to be lazy,3,3
+Schulamit König,UNHR,"is relaxed, handles stress well",4,4
+Schulamit König,UNHR,has few artistic interests,5,2
+Schulamit König,UNHR,"is outgoing, sociable",6,4
+Schulamit König,UNHR,tends to find fault with others,7,3
+Schulamit König,UNHR,does a thorough job,8,5
+Schulamit König,UNHR,gets nervous easily,9,5
+Schulamit König,UNHR,has an active imagination,10,5
+Julio Tumiri Javier,UNHR,is reserved,1,4
+Julio Tumiri Javier,UNHR,is generally trusting,2,4
+Julio Tumiri Javier,UNHR,tends to be lazy,3,2
+Julio Tumiri Javier,UNHR,"is relaxed, handles stress well",4,4
+Julio Tumiri Javier,UNHR,has few artistic interests,5,1
+Julio Tumiri Javier,UNHR,"is outgoing, sociable",6,4
+Julio Tumiri Javier,UNHR,tends to find fault with others,7,2
+Julio Tumiri Javier,UNHR,does a thorough job,8,5
+Julio Tumiri Javier,UNHR,gets nervous easily,9,4
+Julio Tumiri Javier,UNHR,has an active imagination,10,5
+Václav Havel,GPP,is reserved,1,2
+Václav Havel,GPP,is generally trusting,2,4
+Václav Havel,GPP,tends to be lazy,3,2
+Václav Havel,GPP,"is relaxed, handles stress well",4,4
+Václav Havel,GPP,has few artistic interests,5,1
+Václav Havel,GPP,"is outgoing, sociable",6,3
+Václav Havel,GPP,tends to find fault with others,7,2
+Václav Havel,GPP,does a thorough job,8,5
+Václav Havel,GPP,gets nervous easily,9,3
+Václav Havel,GPP,has an active imagination,10,5
+Julius Nyerere,GPP,is reserved,1,2
+Julius Nyerere,GPP,is generally trusting,2,4
+Julius Nyerere,GPP,tends to be lazy,3,1
+Julius Nyerere,GPP,"is relaxed, handles stress well",4,4
+Julius Nyerere,GPP,has few artistic interests,5,2
+Julius Nyerere,GPP,"is outgoing, sociable",6,4
+Julius Nyerere,GPP,tends to find fault with others,7,3
+Julius Nyerere,GPP,does a thorough job,8,5
+Julius Nyerere,GPP,gets nervous easily,9,2
+Julius Nyerere,GPP,has an active imagination,10,3
+Coretta Scott King,GPP,is reserved,1,3
+Coretta Scott King,GPP,is generally trusting,2,4
+Coretta Scott King,GPP,tends to be lazy,3,2
+Coretta Scott King,GPP,"is relaxed, handles stress well",4,4
+Coretta Scott King,GPP,has few artistic interests,5,1
+Coretta Scott King,GPP,"is outgoing, sociable",6,4
+Coretta Scott King,GPP,tends to find fault with others,7,2
+Coretta Scott King,GPP,does a thorough job,8,5
+Coretta Scott King,GPP,gets nervous easily,9,2
+Coretta Scott King,GPP,has an active imagination,10,5
+Wahiduddin Khan,GPP,is reserved,1,4
+Wahiduddin Khan,GPP,is generally trusting,2,4
+Wahiduddin Khan,GPP,tends to be lazy,3,2
+Wahiduddin Khan,GPP,"is relaxed, handles stress well",4,4
+Wahiduddin Khan,GPP,has few artistic interests,5,2
+Wahiduddin Khan,GPP,"is outgoing, sociable",6,4
+Wahiduddin Khan,GPP,tends to find fault with others,7,2
+Wahiduddin Khan,GPP,does a thorough job,8,5
+Wahiduddin Khan,GPP,gets nervous easily,9,3
+Wahiduddin Khan,GPP,has an active imagination,10,4
+Gerhard Fischer,GPP,is reserved,1,3
+Gerhard Fischer,GPP,is generally trusting,2,4
+Gerhard Fischer,GPP,tends to be lazy,3,3
+Gerhard Fischer,GPP,"is relaxed, handles stress well",4,4
+Gerhard Fischer,GPP,has few artistic interests,5,3
+Gerhard Fischer,GPP,"is outgoing, sociable",6,4
+Gerhard Fischer,GPP,tends to find fault with others,7,2
+Gerhard Fischer,GPP,does a thorough job,8,5
+Gerhard Fischer,GPP,gets nervous easily,9,4
+Gerhard Fischer,GPP,has an active imagination,10,5
