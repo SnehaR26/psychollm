@@ -1,0 +1,546 @@
+,Name,source,Extraversion,Agreeableness,Conscientiousness,Neuroticism,Openness
+0,50 Cent,Entrepreneur,3.354,3.509,3.194,2.885,3.917
+1,A. A. Milne,Author,3.479,3.407,3.454,2.969,3.517
+2,Abdelkader El Djezairi,Scientist,3.312,2.991,3.306,3.062,3.375
+3,Abraham Lincoln,HoS,3.771,3.778,3.574,3.042,4.233
+4,Ada Yonath,Scientist,3.625,3.278,3.435,3.073,3.808
+5,Adele,Singer,3.479,3.731,3.62,2.833,3.825
+6,Agnez Mo,Actor,3.146,3.111,3.278,2.885,3.55
+7,Akbar Hashemi Rafsanjani,Entrepreneur,3.5,3.231,3.231,3.062,3.617
+8,Akebono Tarō,Athlete,3.469,3.074,3.398,3.135,3.8
+9,Akon,Entrepreneur,3.188,3.25,3.546,2.896,3.683
+10,Akshay Kumar,Actor,3.469,3.241,3.472,3.083,3.767
+11,Al Pacino,Actor,3.583,3.37,3.417,2.854,4.167
+12,Alain Badiou,Scientist,3.646,3.343,3.537,2.833,3.908
+13,Alain Delon,Actor,3.635,3.157,3.426,2.969,3.783
+14,Alberto Santos-Dumont,Scientist,3.427,3.269,3.361,3.021,3.867
+15,Alexander Friedmann,Scientist,3.552,3.296,3.435,3.031,4.0
+16,Alexander Hamilton,HoS,3.573,3.463,3.509,2.927,3.95
+17,Alexander Pushkin,Author,3.469,3.306,3.37,2.99,3.883
+18,Alfred Lyttelton,Athlete,3.75,3.444,3.38,2.865,3.5
+19,Alia Bhatt,Actor,3.26,3.315,3.519,2.958,3.708
+20,Alice Bah Kuhnke,Athlete,3.417,3.333,3.306,2.979,3.733
+21,Alla Pugacheva,Entrepreneur,3.396,3.185,3.537,2.99,3.792
+22,Amin Maalouf,Author,3.49,3.241,3.398,3.01,3.742
+23,Amitabh Bachchan,Actor,3.25,3.241,3.454,2.75,3.658
+24,Ana Mendieta,Athlete,3.448,3.5,3.306,2.75,3.733
+25,Anastacia,Author,3.552,3.343,3.231,3.042,3.842
+26,Andre Geim,Scientist,3.719,3.287,3.231,2.865,3.875
+27,Andrea M. Ghez,Scientist,3.292,3.296,3.491,2.969,3.55
+28,Andrea Sestini Hlaváčková,Athlete,3.594,3.185,3.435,2.979,3.7
+29,Andrew Carnegie,Entrepreneur,3.917,3.463,3.583,3.0,3.95
+30,Andrew Garfield,Actor,3.635,3.37,3.444,2.99,3.933
+31,Andy Warhol,Author,3.719,3.509,3.389,2.917,3.992
+32,Angelina Jolie,Actor,3.208,3.25,3.417,3.0,3.667
+33,Anggun,Actor,3.406,3.306,3.231,3.0,3.575
+34,Anna Akhmatova,Author,3.448,3.111,3.5,3.0,3.908
+35,Anna Netrebko,Actor,3.302,3.176,3.565,2.958,3.875
+36,Anton Tkáč,Athlete,3.344,3.093,3.148,2.958,3.492
+37,Ariana Grande,Actor,3.375,3.417,3.454,3.042,3.867
+38,Aristotle Onassis,Entrepreneur,3.542,3.352,3.556,2.99,3.758
+39,Arkady Vorobyov,Athlete,3.375,3.278,3.222,2.958,3.633
+40,Armen Sarkissian,Entrepreneur,3.365,3.509,3.444,2.99,3.825
+41,Arnold Schwarzenegger,Actor,3.573,3.287,3.713,2.74,3.992
+42,Asif Ali Zardari,Entrepreneur,3.667,3.13,3.296,2.875,3.65
+43,Audrey Hepburn,Actor,3.583,3.37,3.519,3.042,3.767
+44,Avril Lavigne,Actor,3.323,3.259,3.528,2.823,3.85
+45,Ayaan Hirsi Ali,Scientist,3.302,3.111,3.398,3.135,3.758
+46,Aziz Sancar,Scientist,3.573,3.407,3.528,2.906,3.775
+47,Bamir Topi,Scientist,3.396,3.222,3.148,2.708,3.883
+48,Barbora Strýcová,Athlete,3.156,3.306,3.472,3.115,3.55
+49,Barry Bonds,Athlete,3.552,3.241,3.639,3.073,4.017
+50,Benjamin Constant,Scientist,3.656,3.194,3.907,3.042,3.933
+51,Benjamin List,Scientist,3.375,3.537,3.435,3.062,3.767
+52,Benoit Mandelbrot,Scientist,3.635,3.463,3.463,3.062,3.958
+53,Bernard Hinault,Athlete,3.635,3.269,3.398,3.104,3.592
+54,Bernardo Bertolucci,Author,3.385,3.278,3.389,3.01,3.808
+55,Bernhard von Bülow,Author,3.542,3.5,3.593,3.156,3.667
+56,Betty White,Author,3.781,3.444,3.528,2.906,3.975
+57,Beyoncé,Actor,3.708,3.435,3.315,2.729,3.833
+58,Bill Clinton,HoS,3.323,3.491,3.454,2.969,3.783
+59,Bill Gates,Entrepreneur,3.677,3.62,3.491,3.01,4.292
+60,Billie Eilish,Singer,3.312,3.481,3.481,2.792,3.917
+61,Billie Holiday,Author,3.635,3.278,3.796,2.76,3.775
+62,Bing Crosby,Actor,3.885,3.565,3.667,2.99,3.975
+63,Bob Dylan,Actor,3.604,3.463,3.259,3.01,4.025
+64,Bob Fosse,Author,3.615,3.481,3.583,3.073,3.842
+65,Bob Marley,Singer,3.5,3.241,3.537,3.0,4.025
+66,Bohumil Němeček,Athlete,3.344,3.194,3.028,2.938,3.75
+67,Bonnie Wright,Author,3.51,3.361,3.204,3.229,3.833
+68,Bono,Entrepreneur,3.573,3.454,3.213,2.865,3.858
+69,Brad Pitt,Actor,3.771,3.407,3.472,2.781,3.758
+70,Bradley Cooper,Actor,3.5,3.222,3.546,2.979,4.042
+71,Brigitte Bardot,Actor,3.302,3.417,3.185,3.177,3.767
+72,Britney Spears,Singer,3.583,3.241,3.481,2.938,3.75
+73,Brock Lesnar,Athlete,3.448,3.278,3.685,2.896,3.933
+74,Bruce Beutler,Scientist,3.823,3.306,3.278,2.833,4.058
+75,Bruce Lee,Actor,3.698,3.463,3.648,3.052,3.95
+76,Bruno Mars,Singer,3.812,3.157,3.602,3.01,3.967
+77,Buckminster Fuller,Scientist,3.698,3.509,3.463,2.948,3.925
+78,Caitlyn Jenner,Athlete,3.458,3.028,3.454,3.229,3.85
+79,Camillo Golgi,Scientist,3.385,3.102,3.093,3.083,3.825
+80,Cardi B,Singer,3.469,3.62,3.593,3.083,3.942
+81,Carl Friedrich Gauss,Scientist,3.5,3.537,3.12,3.115,3.75
+82,Carl Gustaf Emil Mannerheim,Author,3.615,3.213,3.435,3.229,3.692
+83,Carlo Biotti,Athlete,3.51,3.306,3.426,3.104,3.842
+84,Carlos Slim,Entrepreneur,3.771,3.324,3.389,3.312,3.908
+85,Cate Blanchett,Actor,3.656,3.509,3.509,2.99,4.017
+86,Cecil Rhodes,Entrepreneur,3.625,3.389,3.546,2.833,3.883
+87,Charles Barkley,Author,3.604,3.398,3.491,2.917,3.833
+88,Charles Bukowski,Author,3.771,3.407,3.426,3.156,3.833
+89,Charles Dickens,Author,3.604,3.491,3.704,2.823,4.117
+90,Charles III,HoS,3.594,3.463,3.315,2.854,3.792
+91,Charles III of the United Kingdom,Entrepreneur,3.656,3.435,3.435,2.781,3.717
+92,Charles K. Kao,Scientist,3.729,3.389,3.519,3.198,3.667
+93,Charlie Chaplin,Actor,3.698,3.231,3.546,2.854,3.775
+94,Chien-Shiung Wu,Scientist,3.521,3.13,3.213,2.958,3.8
+95,Chinua Achebe,Author,3.385,3.287,3.444,3.073,3.842
+96,Chris Brown,Singer,3.271,3.398,3.398,2.927,3.783
+97,Chris Pratt,Actor,3.656,3.472,3.231,3.073,4.0
+98,Christa Wolf,Author,3.229,3.352,3.278,2.927,3.75
+99,Christian Goldbach,Scientist,3.49,3.231,3.491,3.094,3.433
+100,Christina Aguilera,Actor,3.458,3.111,3.602,3.01,3.85
+101,Chuck Liddell,Athlete,3.656,3.315,3.5,3.156,3.908
+102,Clint Eastwood,Actor,3.479,3.324,3.546,3.156,3.967
+103,Conor McGregor,Athlete,3.542,3.435,3.444,2.833,3.983
+104,Cristiano Ronaldo,Athlete,3.521,3.5,3.5,2.979,3.908
+105,Cyril Ramaphosa,Entrepreneur,3.292,3.481,3.287,2.729,3.642
+106,Czesław Lang,Athlete,3.354,3.278,3.306,2.865,3.4
+107,Dan Millman,Athlete,3.531,3.157,3.546,3.042,3.608
+108,Dana Zátopková,Athlete,3.344,3.269,3.389,3.26,3.725
+109,Daniel Kahneman,Author,3.594,3.463,3.407,3.0,3.692
+110,Daniel Kolář,Athlete,3.51,3.12,3.278,2.906,3.583
+111,Daniel Scioli,Athlete,3.354,3.269,3.435,3.177,3.958
+112,Dave Bautista,Athlete,3.24,3.37,3.574,3.25,3.783
+113,David Beckham,Actor,3.635,3.63,3.306,2.927,4.042
+114,David Bowie,Actor,3.562,3.361,3.398,2.833,3.975
+115,David Limberský,Athlete,3.479,3.259,3.259,3.01,3.642
+116,Debbie Reynolds,Entrepreneur,3.677,3.269,3.463,2.958,3.758
+117,Demi Lovato,Actor,3.469,3.259,3.306,2.938,3.842
+118,Denis Urubko,Athlete,3.552,3.157,3.352,2.719,3.717
+119,"Diana, Princess of Wales",HoS,3.438,3.352,3.398,3.052,3.767
+120,Dick Fosbury,Athlete,3.333,3.13,3.352,2.917,3.833
+121,Diego Maradona,Actor,3.604,3.324,3.333,3.115,3.767
+122,Dominik Hašek,Athlete,3.51,3.278,3.463,2.906,3.542
+123,Donald Rumsfeld,Author,3.333,3.537,3.528,2.906,3.65
+124,Donald Trump,Actor,3.302,3.491,3.37,2.958,3.983
+125,Dr. Dre,Entrepreneur,3.51,3.296,3.583,2.854,4.033
+126,Drake,Entrepreneur,3.521,3.176,3.556,3.031,4.017
+127,Dua Lipa,Singer,3.604,3.287,3.426,3.094,3.842
+128,Dwayne Johnson,Actor,3.49,3.306,3.148,3.031,3.767
+129,Edsger W. Dijkstra,Scientist,3.323,3.185,3.12,2.833,3.758
+130,Edward VIII,HoS,3.552,3.222,3.565,2.844,3.742
+131,Elena Novikova-Belova,Athlete,3.208,3.139,3.287,2.969,3.542
+132,Elizabeth I,HoS,3.667,3.38,3.296,2.927,3.658
+133,Elizabeth II,HoS,3.667,3.25,3.315,2.906,3.983
+134,Elizabeth Taylor,Actor,3.688,3.333,3.537,3.125,3.967
+135,Ellen DeGeneres,Actor,3.573,3.176,3.472,2.969,3.8
+136,Elon Musk,Entrepreneur,3.646,3.407,3.815,3.073,4.25
+137,Elvis Presley,Singer,3.51,3.315,3.5,3.0,3.8
+138,Eminem,Actor,3.885,3.343,3.389,3.052,3.692
+139,Emma Goldman,Author,3.635,3.12,3.537,2.896,3.867
+140,Emma Watson,Actor,3.448,3.38,3.583,2.885,3.767
+141,Emmanuel Swedenborg,Scientist,3.438,3.241,3.306,2.656,3.633
+142,Emmanuelle Charpentier,Scientist,3.625,3.111,3.417,2.958,3.725
+143,Eusébio,Athlete,3.354,3.287,3.167,3.177,3.708
+144,F. Sherwood Rowland,Author,3.5,3.315,3.519,3.198,3.8
+145,Federico Fellini,Author,3.302,3.472,3.37,3.115,3.65
+146,Felipe Drugovich,Athlete,3.333,3.278,3.343,3.167,3.733
+147,Ferdinand Tönnies,Author,3.417,3.324,3.315,3.188,3.583
+148,Filip Jícha,Athlete,3.646,3.194,3.231,3.073,3.833
+149,Finn E. Kydland,Scientist,3.354,3.028,3.37,3.031,3.683
+150,Florence Griffith Joyner,Athlete,3.604,3.157,3.444,2.906,3.558
+151,Florian Munteanu,Athlete,3.562,3.352,3.62,3.031,3.692
+152,Frank Shorter,Athlete,3.531,3.5,3.509,3.0,3.758
+153,Frank Sinatra,Actor,3.469,3.537,3.38,3.135,3.983
+154,Franklin D. Roosevelt,HoS,3.5,3.454,3.556,3.156,3.975
+155,Fred Rogers,Author,3.74,3.435,3.556,3.021,4.142
+156,Freddie Mercury,Singer,3.583,3.519,3.407,3.052,4.0
+157,Frederik X of Denmark,Author,3.083,3.296,3.222,2.833,3.667
+158,Gal Gadot,Actor,3.49,3.593,3.528,3.083,3.867
+159,Gene Hackman,Author,3.667,3.398,3.481,3.021,3.683
+160,George Biddell Airy,Scientist,3.531,3.38,3.38,2.812,3.908
+161,George Clooney,Actor,3.583,3.398,3.657,3.083,3.958
+162,George E. Smith,Scientist,3.323,3.389,3.37,2.958,3.667
+163,George H. W. Bush,Entrepreneur,3.542,3.231,3.231,2.844,3.45
+164,George Harrison,Actor,3.396,3.546,3.528,3.083,4.142
+165,George Lucas,Actor,3.594,3.296,3.704,2.781,4.167
+166,George Sand,Author,3.531,3.639,3.648,2.802,4.0
+167,George Soros,Entrepreneur,3.573,3.287,3.389,2.865,3.933
+168,George VI,HoS,3.667,3.352,3.611,3.042,3.683
+169,George W. Bush,HoS,3.49,3.324,3.519,3.01,3.675
+170,George Washington,HoS,3.521,3.537,3.62,2.958,3.95
+171,Georges St-Pierre,Athlete,3.333,3.343,3.259,3.052,3.867
+172,Gertrude Stein,Author,3.344,3.139,3.417,2.979,3.8
+173,Gherman Titov,Scientist,3.417,3.296,3.148,3.135,3.658
+174,Gilbert Gottfried,Author,3.427,3.231,3.426,3.177,3.75
+175,Giorgio Parisi,Scientist,3.292,3.287,3.426,2.969,3.958
+176,Gore Vidal,Author,3.469,3.352,3.5,3.365,3.992
+177,Gottlieb Daimler,Entrepreneur,3.562,3.306,3.593,2.927,3.842
+178,Guglielmo Marconi,Scientist,3.458,3.315,3.25,3.094,3.817
+179,Gustaf Dalén,Entrepreneur,3.406,3.472,3.343,3.198,3.95
+180,Gustave Eiffel,Entrepreneur,3.948,3.426,3.565,2.979,3.867
+181,Gwyneth Paltrow,Actor,3.323,3.435,3.519,3.042,3.642
+182,Hana Mandlíková,Athlete,3.167,3.065,3.546,3.031,3.617
+183,Hannah Arendt,Author,3.396,3.194,3.407,3.052,3.733
+184,Hans Christian Andersen,Author,3.417,3.435,3.306,3.042,3.792
+185,Hans Geiger,Scientist,3.594,3.167,3.333,2.938,3.808
+186,Hans Günter Winkler,Athlete,3.583,3.389,3.435,3.062,3.758
+187,Harrison Schmitt,Scientist,3.385,3.296,3.528,2.885,3.742
+188,Harry Kroto,Scientist,3.406,3.537,3.537,2.719,3.942
+189,Haruka Kitaguchi,Athlete,3.646,3.343,3.37,3.031,3.617
+190,Hary Gunarto,Scientist,3.375,3.333,3.352,2.865,3.708
+191,Heath Ledger,Actor,3.646,3.204,3.454,3.156,3.975
+192,Heide Rosendahl,Athlete,3.677,3.167,3.398,2.896,3.683
+193,Heidi Klum,Entrepreneur,3.615,3.222,3.417,2.76,3.883
+194,Heike Kamerlingh Onnes,Scientist,3.344,3.185,3.287,2.719,3.358
+195,Heinrich Schliemann,Entrepreneur,3.552,3.287,3.352,2.844,3.675
+196,Henry Ford,Entrepreneur,3.594,3.5,3.426,2.865,3.992
+197,Henry VIII of England,HoS,3.281,3.306,3.417,2.865,3.783
+198,Hilary Duff,Entrepreneur,3.646,3.148,3.426,3.229,3.85
+199,Hiram Bingham III,Scientist,3.25,2.963,3.176,3.094,3.683
+200,Howard Hughes,Entrepreneur,3.562,3.324,3.556,3.292,3.867
+201,Hugh Hefner,Entrepreneur,3.49,3.407,3.602,2.927,3.683
+202,Ian McEwan,Author,3.531,3.222,3.509,3.021,3.708
+203,Imelda Marcos,Entrepreneur,3.667,2.806,3.398,3.031,3.433
+204,Ingmar Bergman,Actor,3.469,3.12,3.222,3.073,3.775
+205,Ingrid Bergman,Actor,3.292,3.37,3.352,2.854,3.883
+206,Ivan Hlinka,Athlete,3.573,3.269,3.324,3.073,4.025
+207,Ivan Poddubny,Athlete,3.49,3.222,3.583,3.292,3.658
+208,Ivar Giaever,Scientist,3.542,3.343,3.324,3.0,3.75
+209,J. K. Rowling,Author,3.208,3.528,3.324,2.771,3.792
+210,J. P. Morgan,Entrepreneur,3.625,3.315,3.759,2.844,3.858
+211,J. R. R. Tolkien,Author,3.365,3.685,3.213,2.917,3.808
+212,Jack Ma,Entrepreneur,3.542,3.537,3.463,3.198,4.05
+213,Jack Nicholson,Actor,3.531,3.287,3.398,2.958,3.842
+214,Jackie Chan,Actor,3.458,3.435,3.519,2.917,3.725
+215,Jackie Joyner-Kersee,Athlete,3.708,3.231,3.426,3.062,3.792
+216,Jacob Burckhardt,Author,3.594,3.167,3.472,3.031,3.642
+217,James Joyce,Author,3.49,3.352,3.537,2.802,3.983
+218,James Lovelock,Scientist,3.271,3.343,3.046,2.823,3.908
+219,James Watt,Entrepreneur,3.542,3.454,3.546,3.01,3.892
+220,Jan Jindra,Athlete,3.229,3.454,3.454,2.833,3.842
+221,Janusz Korczak,Author,3.75,3.315,3.407,2.812,3.85
+222,Jarmila Kratochvílová,Athlete,3.604,3.176,3.25,2.948,3.625
+223,Jaroslav Hašek,Author,3.385,3.269,3.38,2.948,3.6
+224,Jaroslav Heyrovský,Scientist,3.344,3.213,3.176,3.198,3.575
+225,Jaroslav Holík,Athlete,3.385,3.213,3.176,2.958,3.725
+226,Jaroslav Šilhavý,Athlete,3.344,3.333,3.37,3.146,3.5
+227,Jason Statham,Actor,3.333,3.306,3.454,3.0,3.783
+228,Jay-Z,Entrepreneur,3.531,3.426,3.565,2.938,4.108
+229,Jean Cocteau,Actor,3.531,3.426,3.417,3.135,3.692
+230,Jean Renoir,Author,3.406,3.222,3.546,3.031,3.758
+231,Jean-Baptiste Biot,Scientist,3.604,3.222,3.435,2.854,3.758
+232,Jean-Baptiste Charcot,Athlete,3.417,3.491,3.343,3.073,3.683
+233,Jeff Bezos,Entrepreneur,3.688,3.37,3.481,3.125,4.083
+234,Jefferson Pérez,Athlete,3.635,3.407,3.537,3.073,3.508
+235,Jennie,Singer,3.396,3.389,3.639,2.927,3.958
+236,Jennifer Aniston,Actor,3.542,3.426,3.454,2.667,3.875
+237,Jennifer Lawrence,Actor,3.312,3.491,3.389,3.021,3.725
+238,Jennifer Lopez,Singer,3.635,3.306,3.287,3.156,3.875
+239,Jet Li,Athlete,3.594,3.417,3.5,3.156,3.858
+240,Jill Biden,Author,3.625,3.157,3.398,3.021,3.8
+241,Jim Carrey,Actor,3.594,3.37,3.519,2.833,3.758
+242,Jim Morrison,Actor,3.542,3.25,3.407,2.938,3.908
+243,Jimmy Fallon,Actor,3.75,3.343,3.546,2.792,3.817
+244,Jimmy Wales,Entrepreneur,3.542,3.463,3.417,3.167,3.908
+245,Jiří Holík,Athlete,3.219,3.361,3.065,3.104,3.858
+246,Joe Biden,HoS,3.604,3.454,3.38,3.219,3.767
+247,Johann Heinrich Lambert,Scientist,3.333,3.296,3.333,2.906,3.75
+248,John Cena,Athlete,3.562,3.556,3.12,2.958,3.692
+249,John D. Rockefeller,Entrepreneur,3.76,3.602,3.611,2.802,4.033
+250,John F. Kennedy,HoS,3.635,3.278,3.389,2.833,4.008
+251,John Howard Northrop,Scientist,3.573,3.296,3.537,3.01,3.6
+252,John Lennon,Actor,3.562,3.333,3.537,2.833,3.742
+253,John Logie Baird,Entrepreneur,3.208,3.204,3.241,3.021,3.867
+254,John Maynard Keynes,Author,3.802,3.454,3.417,2.938,3.808
+255,John McCain,Author,3.802,3.315,3.435,2.604,3.858
+256,John O'Keefe,Scientist,3.448,3.167,3.343,3.083,3.842
+257,John Updike,Author,3.531,3.38,3.37,3.01,4.0
+258,John von Neumann,Scientist,3.604,3.37,3.426,2.948,4.133
+259,Johnny Depp,Actor,3.438,3.12,3.38,2.917,3.85
+260,Joko Widodo,Entrepreneur,3.51,3.463,3.333,2.812,4.017
+261,Joris-Karl Huysmans,Author,3.458,3.139,3.472,3.031,3.725
+262,Joseph Rantz,Athlete,3.406,3.417,3.407,2.896,3.808
+263,Jozef Adamec,Athlete,3.281,3.315,3.38,3.115,3.742
+264,Juan Manuel Fangio,Entrepreneur,3.49,3.361,3.287,3.094,3.883
+265,Judy Garland,Actor,3.583,3.278,3.315,3.042,3.775
+266,Julia Roberts,Actor,3.5,3.333,3.231,2.604,3.883
+267,Juliette Binoche,Author,3.188,3.204,3.574,2.948,3.7
+268,Julius Axelrod,Scientist,3.469,3.306,3.352,3.094,3.858
+269,Justin Bieber,Singer,3.51,3.306,3.444,2.729,3.95
+270,Justin Timberlake,Singer,3.677,3.333,3.583,2.979,3.575
+271,Kamala Harris,HoS,3.438,3.352,3.352,2.906,3.833
+272,Kanye West,Entrepreneur,3.458,3.343,3.167,2.979,4.067
+273,Kareem Abdul-Jabbar,Author,3.688,3.5,3.25,3.073,4.017
+274,Karel Rada,Athlete,3.552,3.37,3.148,2.719,3.933
+275,Kate Winslet,Actor,3.677,3.241,3.315,3.104,3.958
+276,Katerina Tikhonova,Athlete,3.51,3.111,3.389,2.979,3.658
+277,Kateřina Emmons,Athlete,3.406,3.296,3.12,2.854,3.667
+278,Katharine Hepburn,Actor,3.406,3.333,3.241,3.083,3.875
+279,Kathryn D. Sullivan,Scientist,3.396,3.12,3.306,3.0,3.717
+280,Katy Perry,Actor,3.458,3.352,3.389,3.052,3.933
+281,Kazuo Ishiguro,Author,3.281,3.296,2.917,3.052,3.625
+282,Keanu Reeves,Actor,3.594,3.306,3.602,2.906,3.825
+283,Kendall Jenner,Actor,3.635,3.602,3.546,3.26,3.867
+284,Kenny Rogers,Author,3.552,3.389,3.463,3.115,3.617
+285,Kevin Hart,Author,3.865,3.546,3.333,2.76,3.883
+286,Kevin Peter Hall,Athlete,3.625,3.417,3.574,3.135,4.033
+287,Khloé Kardashian,Actor,3.375,3.287,3.333,3.281,3.825
+288,Kianoush Rostami,Athlete,3.448,3.222,3.417,3.25,3.75
+289,Kim Kardashian,Entrepreneur,3.625,3.38,3.37,3.083,3.783
+290,Kirk Douglas,Author,3.833,3.213,3.398,3.031,3.933
+291,Kobe Bryant,Athlete,3.698,3.602,3.565,3.135,4.042
+292,Konstantin Stanislavski,Entrepreneur,3.333,3.269,3.574,3.083,3.583
+293,Konstantin Tsiolkovskii,Scientist,3.219,3.167,3.13,3.208,3.708
+294,Kourtney Kardashian,Actor,3.781,3.204,3.352,3.042,3.792
+295,Kristen Stewart,Actor,3.385,3.046,3.278,3.188,3.808
+296,Krzysztof Kieślowski,Author,3.479,3.454,3.361,3.198,3.617
+297,Kurt Gödel,Scientist,3.26,3.278,3.417,3.146,3.667
+298,Kylian Mbappé,Athlete,3.562,3.213,3.389,3.094,3.667
+299,Kylie Jenner,Actor,3.583,3.611,3.5,2.812,3.883
+300,Kylie Minogue,Entrepreneur,3.438,3.176,3.222,3.062,3.7
+301,Lady Gaga,Singer,3.552,3.231,3.296,3.073,3.625
+302,Lali Espósito,Singer,3.021,3.278,3.463,3.229,3.55
+303,Larry Ellison,Entrepreneur,3.5,3.389,3.444,2.948,4.067
+304,Larry Page,Entrepreneur,3.635,3.398,3.593,3.083,4.042
+305,Lazare Carnot,Scientist,3.354,3.389,3.426,2.979,3.883
+306,LeBron James,Athlete,3.396,3.657,3.787,2.906,3.942
+307,Leonard Cohen,Author,3.615,3.296,3.259,2.885,3.925
+308,Leonardo DiCaprio,Actor,3.521,3.454,3.37,3.083,3.85
+309,Leonhard Euler,Scientist,3.646,3.491,3.648,3.167,3.833
+310,Leó Szilárd,Scientist,3.312,3.574,3.278,2.979,3.65
+311,Lil Wayne,Entrepreneur,3.521,3.556,3.296,3.052,3.825
+312,Lionel Messi,Athlete,3.406,3.38,3.417,3.167,3.933
+313,Lisa,Singer,3.646,3.426,3.5,2.823,3.767
+314,Louis Armstrong,Actor,3.594,3.583,3.509,2.979,3.883
+315,Luchino Visconti,Author,3.167,3.324,3.278,3.062,3.625
+316,Madonna,Actor,3.396,3.417,3.324,3.104,3.883
+317,Magdalena Aicega,Athlete,3.635,3.194,3.333,3.01,3.542
+318,Magdalena Neuner,Athlete,3.677,3.25,3.093,3.177,3.608
+319,Magic Johnson,Entrepreneur,3.49,3.435,3.389,3.0,3.808
+320,Magnús Scheving,Athlete,3.479,3.352,3.361,2.958,3.525
+321,Mahatma Gandhi,HoS,3.646,3.426,3.528,2.979,3.958
+322,Malcolm Turnbull,Entrepreneur,3.51,3.278,3.407,3.031,3.833
+323,Manny Pacquiao,Athlete,3.656,3.5,3.426,3.01,3.883
+324,Margaret Thatcher,HoS,3.531,3.278,3.444,3.052,3.767
+325,Maria Goeppert Mayer,Scientist,3.438,3.426,3.352,3.01,3.85
+326,Mariah Carey,Actor,3.5,3.315,3.463,2.958,4.008
+327,Marileidy Paulino,Athlete,3.281,3.12,3.167,3.083,3.558
+328,Marilyn Monroe,Actor,3.323,3.343,3.602,3.052,3.958
+329,Mark Wahlberg,Actor,3.417,3.509,3.102,3.083,3.725
+330,Mark Zuckerberg,Entrepreneur,3.677,3.583,3.537,2.833,4.033
+331,Marlee Matlin,Author,3.802,3.37,3.361,3.104,3.742
+332,Marlene Dietrich,Actor,3.312,3.361,3.481,3.062,3.825
+333,Martin Heinrich Klaproth,Scientist,3.26,3.278,3.269,2.719,3.592
+334,Martin Jakš,Athlete,3.281,3.157,3.398,2.938,3.55
+335,Martin Karplus,Scientist,3.49,3.361,3.361,3.094,3.667
+336,Mary Somerville,Scientist,3.354,3.287,3.296,3.146,3.733
+337,María Julia Mantilla,Athlete,3.521,3.157,3.306,2.885,3.7
+338,Matt Groening,Author,3.562,3.167,3.398,2.906,3.783
+339,Matti Nykänen,Athlete,3.323,3.398,3.296,3.156,3.925
+340,Matúš Kozáčik,Athlete,3.26,3.213,3.324,2.927,3.525
+341,Max Born,Scientist,3.312,3.157,3.343,3.188,3.825
+342,Megan Fox,Actor,3.688,3.454,3.398,2.719,3.958
+343,Meghan Markle,Actor,3.615,3.454,3.491,2.99,3.85
+344,"Meghan, Duchess of Sussex",HoS,3.469,3.38,3.417,3.146,3.775
+345,Melinda Gates,Entrepreneur,3.625,3.435,3.333,2.896,3.892
+346,Meryl Streep,Actor,3.49,3.185,3.528,3.208,3.867
+347,Michael Cherry,Athlete,3.729,3.231,3.287,2.969,3.867
+348,Michael Collins,Entrepreneur,3.635,3.343,3.435,3.177,4.017
+349,Michael Jackson,Actor,3.615,3.583,3.528,3.396,3.8
+350,Michael Jordan,Entrepreneur,3.5,3.454,3.463,2.729,4.025
+351,Michael Oher,Athlete,3.573,3.315,3.269,3.188,3.808
+352,Michael Phelps,Athlete,3.729,3.287,3.38,2.802,3.925
+353,Michael Spence,Scientist,3.635,3.472,3.528,2.854,4.017
+354,Michal Bílek,Athlete,3.312,3.472,3.509,3.24,3.833
+355,Mike Tyson,Athlete,3.677,3.62,3.37,3.135,3.717
+356,Mikhail Bulgakov,Author,3.49,3.324,3.426,3.146,3.783
+357,Mikhail Khodorkovsky,Entrepreneur,3.354,2.917,3.296,2.875,3.7
+358,Mikhail Lomonosov,Scientist,3.5,3.463,3.315,2.885,4.05
+359,Mila Kunis,Actor,3.333,3.306,3.352,2.865,3.825
+360,Miley Cyrus,Actor,3.604,3.176,3.389,3.156,3.75
+361,Morgan Freeman,Actor,3.542,3.435,3.463,2.948,4.0
+362,Muhammad Ali,Athlete,3.646,3.417,3.481,3.062,4.025
+363,Mukesh Ambani,Entrepreneur,3.625,3.278,3.463,3.01,3.85
+364,Narendra Modi,HoS,3.542,3.213,3.472,3.146,3.975
+365,Natalie Portman,Actor,3.177,3.435,3.491,2.927,3.683
+366,Nawaz Sharif,Entrepreneur,3.417,3.176,3.222,2.99,3.575
+367,Neymar,Athlete,3.646,3.287,3.361,2.958,3.967
+368,Niall Horan,Singer,3.573,3.361,3.398,3.031,3.933
+369,Nicki Minaj,Singer,3.344,3.287,3.528,2.927,3.875
+370,Nicole Kidman,Actor,3.333,3.38,3.278,2.969,3.725
+371,Niels Ryberg Finsen,Scientist,3.375,3.204,2.991,3.385,3.575
+372,Niki Lauda,Entrepreneur,3.542,3.361,3.231,2.906,3.808
+373,Nikolai Pirogov,Scientist,3.458,3.389,3.602,2.792,3.7
+374,Nina Dobrev,Entrepreneur,3.417,3.259,3.343,2.812,3.6
+375,Novak Djokovic,Athlete,3.312,3.157,3.315,3.094,3.6
+376,O. J. Simpson,Athlete,3.49,3.537,3.546,2.802,3.7
+377,Oldřich Machač,Athlete,3.292,3.389,3.296,2.927,3.433
+378,Oleg Taktarov,Athlete,3.469,3.278,3.426,3.219,3.483
+379,Olga Fikotová,Athlete,3.542,3.093,3.269,3.01,3.633
+380,Olympe de Gouges,Author,3.667,3.287,3.426,2.979,3.658
+381,Oprah Winfrey,Actor,3.625,3.537,3.5,3.24,3.942
+382,Oscar Wilde,Author,3.719,3.574,3.648,2.948,3.917
+383,Osip Mandelstam,Author,3.542,3.38,3.25,3.0,3.725
+384,Oskar Schindler,Entrepreneur,3.5,3.333,3.481,2.885,3.95
+385,Oszkár Gerde,Athlete,3.219,3.111,3.481,2.865,3.642
+386,Parviz Nasibov,Athlete,3.281,3.194,3.417,3.042,3.658
+387,Paul Allen,Entrepreneur,3.927,3.519,3.546,3.083,3.892
+388,Paul Dirac,Scientist,3.448,3.296,3.407,3.073,3.983
+389,Paul McCartney,Actor,3.625,3.315,3.454,2.896,3.967
+390,Paul Newman,Entrepreneur,3.51,3.463,3.491,3.01,3.942
+391,Paulo Coelho,Actor,3.531,3.278,3.454,2.854,3.833
+392,Pavel Horváth,Athlete,3.656,3.204,3.324,3.135,3.767
+393,Pavel Nedvěd,Athlete,3.458,3.194,3.352,2.812,3.592
+394,Pelé,Actor,3.635,3.519,3.185,3.042,3.958
+395,Peter Debye,Scientist,3.552,3.194,3.5,2.958,3.867
+396,Peter O'Toole,Author,3.344,3.139,3.157,2.938,3.633
+397,Petr Čech,Athlete,3.573,3.287,3.204,3.052,3.792
+398,Petro Poroshenko,Entrepreneur,3.333,3.352,3.185,3.188,3.6
+399,Peyton Manning,Athlete,3.458,3.407,3.407,3.021,4.017
+400,Philip Reeve,Author,3.479,3.454,3.657,2.927,3.842
+401,Pierre de Marivaux,Author,3.375,3.222,3.454,3.146,3.708
+402,Pierre-Louis Moreau de Maupertuis,Scientist,3.156,3.324,3.074,3.135,3.725
+403,Pierre-Simon Laplace,Scientist,3.573,3.352,3.352,3.146,3.633
+404,Prince,Singer,3.719,3.565,3.528,3.031,3.783
+405,"Prince Philip, Duke of Edinburgh",HoS,3.396,3.333,3.213,3.052,3.692
+406,"Princess Margaret, Countess of Snowdon",HoS,3.354,3.111,3.38,3.094,3.608
+407,Priyanka Chopra,Actor,3.396,3.37,3.352,3.156,3.533
+408,Queen Victoria,HoS,3.719,3.343,3.296,2.812,3.8
+409,Quentin Tarantino,Actor,3.438,3.269,3.37,3.031,3.967
+410,Rabindranath Tagore,Actor,3.458,3.093,3.435,2.906,3.783
+411,Rachel Carson,Author,3.667,3.454,3.62,3.135,4.0
+412,Rafael Nadal,Athlete,3.635,3.454,3.611,3.0,3.725
+413,Raymond Kurzweil,Scientist,3.552,3.435,3.435,3.01,4.108
+414,Reinhard Genzel,Scientist,3.51,3.287,3.306,3.333,3.6
+415,Richard Branson,Entrepreneur,3.469,3.519,3.454,2.698,4.033
+416,Richard Dawkins,Actor,3.594,3.176,3.509,3.219,3.8
+417,Richard Feynman,Author,3.646,3.398,3.25,3.302,3.992
+418,Richard Smalley,Scientist,3.448,3.13,3.444,3.354,3.642
+419,Rihanna,Singer,3.177,3.472,3.398,2.979,3.817
+420,Rita Levi-Montalcini,Scientist,3.406,3.019,3.278,3.062,3.675
+421,Rob Schneider,Author,3.604,3.296,3.38,3.083,3.908
+422,Robert De Niro,Actor,3.406,3.296,3.287,3.021,3.717
+423,Robert Fulton,Scientist,3.552,3.231,3.454,2.906,3.892
+424,Robert Hübner,Athlete,3.646,3.157,3.491,2.99,3.683
+425,Robert Lang,Athlete,3.417,3.259,3.435,3.021,3.933
+426,Robert Owen,Entrepreneur,3.635,3.565,3.398,3.094,3.833
+427,Robin Williams,Actor,3.594,3.25,3.417,2.833,3.875
+428,Roger Bannister,Athlete,3.51,3.537,3.435,2.875,3.825
+429,Roger Federer,Athlete,3.271,3.25,3.139,2.917,3.733
+430,Roman Kreuziger,Athlete,3.49,3.296,3.324,3.198,3.7
+431,Ronald Reagan,Actor,3.5,3.389,3.667,2.844,3.875
+432,Ronaldinho,Athlete,3.51,3.213,3.62,2.896,3.817
+433,Ronaldo,Athlete,3.219,3.398,3.593,2.719,3.95
+434,Ronda Rousey,Athlete,3.354,3.222,3.565,3.01,3.667
+435,Rory Stewart,Athlete,3.677,3.435,3.315,2.885,3.725
+436,Rudolf Diesel,Entrepreneur,3.396,3.352,3.324,3.042,3.933
+437,Rupert Murdoch,Entrepreneur,3.49,3.324,3.657,3.0,3.875
+438,Russell Crowe,Actor,3.458,3.435,3.648,2.771,3.725
+439,Ryan Reynolds,Actor,3.594,3.296,3.38,3.062,4.083
+440,Sacha Guitry,Author,3.625,3.065,3.37,2.865,3.875
+441,Sachin Tendulkar,Athlete,3.542,3.361,3.454,2.896,3.925
+442,Salman Khan,Actor,3.51,3.046,3.315,2.979,3.658
+443,Salman Rushdie,Actor,3.5,3.009,3.306,2.854,3.95
+444,Salvador Dalí,Actor,3.531,3.241,3.463,3.01,3.783
+445,Sandra Bullock,Actor,3.604,3.426,3.259,2.979,3.792
+446,Sarah Bernhardt,Actor,3.583,3.491,3.407,2.958,3.783
+447,Saul Bellow,Author,3.49,3.287,3.454,2.969,3.833
+448,Scarlett Johansson,Actor,3.323,3.426,3.213,3.229,3.925
+449,Seamus Heaney,Author,3.26,3.204,3.287,2.896,3.783
+450,Sean Connery,Actor,3.5,3.435,3.556,2.906,3.833
+451,Sebastián Piñera,Entrepreneur,3.302,3.343,3.38,3.167,3.833
+452,Selena,Actor,3.594,3.157,3.62,2.719,3.817
+453,Selena Gomez,Actor,3.49,3.204,3.306,3.156,3.642
+454,Selma Lagerlöf,Author,3.292,3.139,3.157,2.875,3.667
+455,Serena Williams,Athlete,3.229,3.537,3.472,3.031,4.042
+456,Serge Haroche,Scientist,3.271,3.231,3.398,3.021,3.558
+457,Sergei Korolev,Scientist,3.427,3.222,3.278,3.208,3.992
+458,Shah Rukh Khan,Actor,3.479,3.167,3.324,3.042,3.875
+459,Shakira,Actor,3.719,3.444,3.426,3.031,3.692
+460,Shaquille O'Neal,Athlete,3.385,3.25,3.426,2.823,3.792
+461,Sheldon Glashow,Scientist,3.573,3.565,3.648,2.812,3.783
+462,Shraddha Kapoor,Actor,3.625,3.463,3.389,2.875,3.792
+463,Sidney Poitier,Author,3.479,3.37,3.389,2.938,3.733
+464,Sigourney Weaver,Actor,3.521,3.204,3.5,2.875,3.883
+465,Silvio Berlusconi,Entrepreneur,3.208,3.056,3.111,3.177,3.533
+466,Simone Veil,Author,3.583,3.398,3.426,2.875,3.842
+467,Simone de Beauvoir,Author,3.458,3.481,3.426,2.948,3.625
+468,Snoop Dogg,Entrepreneur,3.427,3.324,3.528,2.906,3.925
+469,Sofia Rotaru,Entrepreneur,3.531,3.25,3.361,3.01,3.783
+470,Sophia Loren,Actor,3.438,3.389,3.537,2.875,3.858
+471,Stan Mikita,Athlete,3.583,3.333,3.463,3.104,3.667
+472,Stephen Curry,Athlete,3.667,3.352,3.537,2.979,4.008
+473,Stephen King,Actor,3.698,3.454,3.556,2.958,4.158
+474,Stephenie Meyer,Entrepreneur,3.562,3.602,3.565,2.99,3.975
+475,Steve Jobs,Entrepreneur,3.802,3.685,3.519,2.969,4.217
+476,Steven Seagal,Actor,3.417,3.417,3.352,2.938,3.842
+477,Steven Spielberg,Actor,3.573,3.333,3.333,3.062,4.033
+478,Sung Jae-gi,Entrepreneur,3.448,3.5,3.361,2.885,3.7
+479,Susumu Tonegawa,Scientist,3.365,3.259,3.574,2.938,3.542
+480,Sylvester Stallone,Actor,3.573,3.444,3.731,3.146,3.85
+481,Tadeusz Reichstein,Scientist,3.396,3.287,3.269,3.229,3.608
+482,Tarō Asō,Entrepreneur,3.448,3.435,3.361,2.917,3.55
+483,Taylor Swift,Actor,3.802,3.509,3.611,3.073,3.933
+484,Terry Pratchett,Author,3.562,3.296,3.231,3.073,4.025
+485,Thaksin Shinawatra,Entrepreneur,3.229,3.12,3.204,3.073,3.642
+486,The Undertaker,Actor,3.656,3.343,3.398,2.927,3.992
+487,Theodore von Kármán,Scientist,3.26,3.444,3.537,3.021,3.883
+488,Thomas Edison,Entrepreneur,3.729,3.5,3.657,2.896,4.125
+489,Thomas Lipton,Athlete,3.708,3.398,3.38,2.979,3.992
+490,Thomas Paine,Entrepreneur,3.667,3.25,3.583,2.635,3.933
+491,Tiger Woods,Athlete,3.604,3.204,3.519,2.698,3.858
+492,Toghrul Asgarov,Athlete,3.417,3.028,3.296,3.031,3.625
+493,Tom Brady,Athlete,3.667,3.528,3.454,3.021,3.8
+494,Tom Cruise,Actor,3.448,3.454,3.602,3.073,3.817
+495,Tom Danielson,Athlete,3.479,3.333,3.407,2.927,3.983
+496,Tom Hanks,Actor,3.698,3.407,3.333,2.927,3.85
+497,Tom Hardy,Actor,3.458,3.417,3.491,3.031,3.992
+498,Tomáš Pospíchal,Athlete,3.469,3.204,3.454,3.073,3.65
+499,Tomáš Šmíd,Athlete,3.312,3.333,3.37,3.042,3.5
+500,Toni Schumacher,Athlete,3.49,3.398,3.176,3.073,3.783
+501,Toshirō Mifune,Actor,3.469,3.25,3.472,3.073,3.575
+502,Triple H,Athlete,3.458,3.287,3.676,2.792,3.85
+503,Tupac Shakur,Actor,3.625,3.37,3.537,3.104,3.925
+504,Tyra Banks,Entrepreneur,3.333,3.324,3.296,3.115,3.683
+505,Tyson Fury,Athlete,3.479,3.407,3.417,3.094,3.85
+506,Ursula K. Le Guin,Author,3.448,3.38,3.194,2.833,3.733
+507,Usain Bolt,Athlete,3.677,3.435,3.333,3.01,3.725
+508,Valery Leontiev,Actor,3.323,3.269,3.324,2.969,3.608
+509,Venus Williams,Entrepreneur,3.604,3.481,3.444,3.094,4.025
+510,Vera Rubin,Scientist,3.604,3.481,3.472,3.0,3.983
+511,Victoria Beckham,Entrepreneur,3.458,3.602,3.426,2.75,3.942
+512,Vin Diesel,Actor,3.542,3.222,3.463,3.281,3.617
+513,Virat Kohli,Athlete,3.74,3.509,3.37,3.021,3.825
+514,Virginia Woolf,Author,3.521,3.509,3.398,3.167,3.967
+515,Vitaly Ginzburg,Scientist,3.375,3.278,3.481,3.198,3.625
+516,Vladimir Korolenko,Author,3.104,3.38,3.426,3.031,3.625
+517,Vladimir Mayakovsky,Actor,3.49,3.278,3.361,3.104,3.758
+518,Vladimir Putin,HoS,3.458,3.472,3.324,3.052,3.758
+519,Vladimír Darida,Athlete,3.583,3.185,3.435,3.083,3.742
+520,Věra Čáslavská,Athlete,3.469,3.352,3.324,3.167,3.808
+521,Walt Disney,Actor,3.802,3.231,3.37,3.01,4.017
+522,Warren Buffett,Entrepreneur,3.667,3.667,3.824,3.031,4.067
+523,Wayne Rooney,Athlete,3.687,3.435,3.472,2.948,3.842
+524,Werner Herzog,Author,3.562,3.269,3.296,3.219,3.842
+525,Whitney Houston,Actor,3.521,3.509,3.361,3.198,3.825
+526,Wilhelm II,Author,3.583,3.167,3.241,2.969,3.775
+527,Will Smith,Actor,3.604,3.398,3.472,3.021,4.067
+528,Willard Boyle,Scientist,3.5,3.324,3.667,3.125,3.992
+529,Willie Nelson,Author,3.26,3.417,3.259,2.896,3.8
+530,Wim Hof,Athlete,3.594,3.333,3.676,2.927,3.917
+531,Winston Churchill,HoS,3.552,3.25,3.472,3.01,4.033
+532,Wladimir Klitschko,Athlete,3.417,3.139,3.407,3.281,3.858
+533,Woody Allen,Actor,3.646,3.583,3.602,2.885,4.092
+534,Yevgeny Prigozhin,Entrepreneur,3.333,3.333,3.231,2.99,3.692
+535,Yingluck Shinawatra,Entrepreneur,3.104,3.241,3.389,2.573,3.592
+536,Yulia Tymoshenko,Entrepreneur,3.417,3.065,3.148,2.885,3.567
+537,Yuliia Paievska,Athlete,3.438,3.37,3.417,2.906,3.808
+538,Yury Luzhkov,Scientist,3.5,3.213,3.185,2.938,3.683
+539,Zack Snyder,Scientist,3.656,3.444,3.602,3.042,3.917
+540,Zbigniew Brzezinski,Author,3.323,3.417,3.148,2.938,3.5
+541,Zendaya,Actor,3.542,3.333,3.269,2.729,3.992
+542,Zhan Beleniuk,Athlete,3.292,3.546,3.37,2.979,3.55
+543,Zlatan Ibrahimovic,Athlete,3.5,3.444,3.389,3.156,3.758
+544,Édith Piaf,Actor,3.719,3.343,3.537,3.021,3.875

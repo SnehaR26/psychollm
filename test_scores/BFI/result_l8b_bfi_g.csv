@@ -1,0 +1,428 @@
+,Name,source,Extraversion,Agreeableness,Conscientiousness,Neuroticism,Openness
+0,A. T. Ariyaratne,RM,3.646,3.769,3.713,2.583,3.875
+1,A.H.M. Noman Khan,RM,3.594,3.537,3.731,2.802,3.817
+2,Abdon Nababan,RM,3.521,3.565,3.657,2.823,3.75
+3,Abdul Razak Hussein,RM,3.49,3.704,3.722,2.688,3.517
+4,Abdul Samad Ismail,RM,3.552,3.315,3.63,2.812,3.725
+5,Abdul Sattar Edhi,RM,3.354,3.972,3.917,2.542,3.442
+6,Abdullah Abu Sayeed,RM,3.469,3.75,3.741,2.74,3.808
+7,Abdurrahman Wahid,RM,3.51,3.556,3.491,2.812,3.758
+8,Abel Muzorewa,UNHR,3.302,3.537,3.639,2.948,3.717
+9,Abiy Ahmed Ali,NPP,3.583,3.731,3.796,2.615,3.783
+10,Adam Łopatka,UNHR,3.5,3.509,3.769,2.812,3.733
+11,Adeebul Hasan Rizvi,RM,3.562,3.546,3.75,2.708,3.792
+12,Adolfo Pérez Esquivel,NPP,3.656,3.87,3.667,2.844,3.792
+13,Ahmad Syafi'i Maarif,RM,3.479,3.481,3.769,2.812,3.792
+14,Akhtar Hameed Khan,RM,3.479,3.528,3.796,2.635,3.85
+15,Akira Kurosawa,RM,3.146,3.213,3.352,3.177,3.783
+16,Al Gore,NPP,3.469,3.676,3.843,2.844,3.7
+17,Albert John Mvumbi Luthuli,NPP,3.438,3.63,3.685,3.042,3.733
+18,Albert Schweitzer,NPP,3.271,3.787,3.676,2.802,3.792
+19,Ales Bialiatski,NPP,3.229,3.602,3.556,2.875,3.808
+20,Alfonso García Robles,NPP,3.479,3.556,3.741,2.812,3.842
+21,Alfred Hermann Fried,NPP,3.406,3.778,3.731,2.771,3.758
+22,Alfredo Bengzon,RM,3.469,3.463,3.685,2.948,3.917
+23,Ali Sadikin,RM,3.531,3.472,3.731,2.812,3.767
+24,Aloysius Schwartz,RM,3.552,3.148,3.602,3.01,3.8
+25,Alva Myrdal,NPP,3.479,3.657,3.685,2.75,3.908
+26,Ambrosius Ruwindrijarto,RM,3.427,3.398,3.602,2.938,3.75
+27,Amitabha Chowdhury,RM,3.552,3.593,3.722,2.635,3.817
+28,Anand Panyarachun,RM,3.396,3.574,3.759,2.573,3.817
+29,Ananda Galappatti,RM,3.542,3.583,3.556,2.812,3.767
+30,Andrei Sakharov,NPP,3.25,3.676,3.63,2.833,3.858
+31,Angel Alcala,RM,3.531,3.509,3.583,2.875,3.825
+32,Angela Gomes,RM,3.698,3.546,3.759,2.812,3.892
+33,Angelina Acheng Atyam,UNHR,3.542,3.685,3.685,3.125,3.9
+34,Angkhana Neelaphaijit,RM,3.438,3.556,3.685,2.865,3.658
+35,Aniceto Guterres Lopes,RM,3.594,3.361,3.676,2.917,3.725
+36,Anna Šabatová,UNHR,3.615,3.537,3.657,2.865,3.733
+37,Anshu Gupta,RM,3.635,4.083,3.917,2.552,3.992
+38,Anton Soedjarwo,RM,3.625,3.556,3.694,2.844,3.858
+39,Antonio Fortich,RM,3.667,3.417,3.75,2.906,3.842
+40,Antonio Oposa,RM,3.49,3.676,3.852,2.75,3.908
+41,Anwar Sadat,NPP,3.625,3.75,3.63,2.865,3.917
+42,Aristide Briand,NPP,3.542,3.519,3.639,2.833,3.783
+43,Arthur Henderson,NPP,3.542,3.685,3.648,2.823,3.667
+44,Arturo Alcaraz,RM,3.604,3.565,3.639,2.927,3.783
+45,Arun Shourie,RM,3.344,3.009,3.667,2.927,3.6
+46,Aruna Roy,RM,3.562,3.639,3.741,2.719,3.808
+47,Arvind Kejriwal,RM,3.708,3.796,3.87,2.646,3.75
+48,Asma Jahangir,RM,3.438,3.565,3.648,2.979,3.6
+49,Atmakusumah Astraatmadja,RM,3.552,3.583,3.528,2.74,3.825
+50,Auguste Beernaert,NPP,3.438,3.5,3.713,2.854,3.775
+51,Augustine Joung Kang,RM,3.542,3.38,3.62,2.958,3.783
+52,Aung San Suu Kyi,NPP,3.302,3.454,3.685,2.812,3.85
+53,Austen Chamberlain,NPP,3.167,3.565,3.574,2.812,3.567
+54,B. C. Shekhar,RM,3.615,3.565,3.583,2.833,3.9
+55,B. G. Verghese,RM,3.417,3.491,3.593,2.833,3.817
+56,Baba Amte,RM,3.542,3.898,3.704,2.792,3.792
+57,Banoo Jehangir Coyaji,RM,3.438,3.389,3.648,2.708,3.683
+58,Barack Obama,NPP,3.396,3.731,3.824,2.562,3.658
+59,Benazir Bhutto,UNHR,3.531,3.63,3.648,2.948,3.8
+60,Benjamin Abadiano,RM,3.51,3.593,3.648,2.677,3.758
+61,Benjamin Galstaun,RM,3.573,3.611,3.667,2.75,3.883
+62,Bertha von Suttner,NPP,3.458,3.63,3.602,2.833,3.725
+63,Betty Williams,NPP,3.656,3.546,3.824,2.812,3.858
+64,Bezwada Wilson,RM,3.396,3.843,3.741,2.917,3.742
+65,Bharat Koirala,RM,3.594,3.574,3.685,2.698,3.708
+66,Bharat Vatwani,RM,3.656,3.898,4.009,2.656,4.042
+67,Bienvenido Lumbera,RM,3.479,3.657,3.546,2.938,3.958
+68,Bilquis Edhi,RM,3.469,3.898,3.861,2.719,3.667
+69,Biram Dah Abeid,UNHR,3.719,3.778,3.722,2.917,3.775
+70,Butet Manurung,RM,3.646,3.713,3.796,2.76,4.067
+71,Carl von Ossietzky,NPP,3.167,3.435,3.481,3.104,3.75
+72,Carlos Filipe Ximenes Belo,NPP,3.323,3.741,3.546,2.667,3.775
+73,Carlos Saavedra Lamas,NPP,3.438,3.602,3.731,2.615,3.783
+74,Carolyn Gomes,UNHR,3.5,3.759,3.806,2.76,3.867
+75,Chamlong Srimuang,RM,3.542,3.713,3.926,2.531,3.833
+76,Chandi Prasad Bhatt,RM,3.531,3.769,3.787,2.656,3.833
+77,Chang Chun-ha,RM,3.479,3.407,3.648,2.854,3.658
+78,Chang Kee-ryo,RM,3.469,3.306,3.731,2.917,3.775
+79,Charles Albert Gobat,NPP,3.427,3.694,3.769,2.667,3.733
+80,Charles G. Dawes,NPP,3.458,3.815,3.769,2.646,3.867
+81,Chen Guangcheng,RM,3.573,3.796,3.852,2.979,4.092
+82,Chen Shu-chu,RM,3.51,3.417,3.694,2.812,3.917
+83,Cheng Yen,RM,3.333,3.815,3.741,2.698,3.725
+84,Chintaman Dwarkanath Deshmukh,RM,3.438,3.398,3.444,2.823,3.725
+85,Christian Lous Lange,NPP,3.448,3.667,3.639,2.812,3.925
+86,Christopher Bernido,RM,3.615,4.037,4.056,2.417,4.125
+87,Chung To,RM,3.573,3.491,3.685,2.885,3.775
+88,Conchita Carpio-Morales,RM,3.583,3.63,3.843,2.781,3.775
+89,Corazon Aquino,RM,3.469,3.722,3.935,2.667,3.658
+90,Cordell Hull,NPP,3.521,3.667,3.704,2.948,3.617
+91,Coretta Scott King,GPP,3.302,3.722,3.778,2.938,3.942
+92,Cynthia Maung,RM,3.5,3.713,3.722,2.792,3.85
+93,Dag Hammarskjöld,NPP,3.146,3.648,3.574,2.865,3.633
+94,Dara Nusserwanji Khurody,RM,3.302,3.454,3.667,2.792,3.717
+95,David Trimble,NPP,3.469,3.667,3.75,2.833,3.6
+96,Deep Joshi,RM,3.719,3.574,3.713,2.771,3.85
+97,Deng Pufang,UNHR,3.427,3.472,3.815,3.021,4.075
+98,Denis Mukwege,NPP,3.51,3.898,3.741,2.812,3.775
+99,Desmond Tutu,NPP,3.677,3.861,3.722,2.688,4.058
+100,Dita Indah Sari,RM,3.552,3.472,3.722,2.76,3.958
+101,Dmitry Muratov,NPP,3.469,3.491,3.657,3.094,3.667
+102,Dominique Pire,NPP,3.333,3.926,3.815,2.667,3.792
+103,Dorothy Stang,UNHR,3.333,4.12,3.806,3.146,3.933
+104,Ediriweera Sarachchandra,RM,3.531,3.704,3.713,2.896,3.867
+105,Eduardo Jorge Anzorena,RM,3.562,3.537,3.685,2.76,3.775
+106,Edward Michael Law-Yone,RM,3.177,3.472,3.75,2.979,3.783
+107,Eisaku Satō,NPP,3.396,3.435,3.852,2.833,3.642
+108,Ela Bhatt,RM,3.708,3.944,3.824,2.573,3.883
+109,Eleanor Roosevelt,UNHR,3.531,3.528,3.593,2.844,3.817
+110,Elie Wiesel,NPP,3.219,3.426,3.333,3.24,3.458
+111,Elihu Root,NPP,3.5,3.546,3.62,2.729,3.692
+112,Ellen Johnson Sirleaf,NPP,3.625,3.806,3.769,2.656,3.883
+113,Elsie Tu,RM,3.417,3.648,3.796,2.76,3.842
+114,Emily Greene Balch,NPP,3.354,3.75,3.741,2.844,3.792
+115,Erica-Irene Daes,UNHR,3.51,3.454,3.778,2.927,3.783
+116,Ernesto Domingo,RM,3.656,3.667,3.657,2.76,3.842
+117,Ernesto Teodoro Moneta,NPP,3.469,3.667,3.731,2.812,3.75
+118,Estela Barnes de Carlotto,UNHR,3.552,3.685,3.667,2.885,3.692
+119,Eugenia Apostol,RM,3.615,3.593,3.685,2.781,3.9
+120,F. Sionil José,RM,3.49,3.25,3.611,3.094,3.608
+121,F. W. de Klerk,NPP,3.083,3.426,3.62,2.833,3.325
+122,Fazle Hasan Abed,RM,3.552,3.87,3.889,2.562,3.692
+123,Fe del Mundo,RM,3.458,3.75,3.88,2.708,3.983
+124,Fei Xiaotong,RM,3.438,3.463,3.648,2.833,3.717
+125,Ferdinand Buisson,NPP,3.24,3.769,3.63,2.812,3.842
+126,Firdausi Qadri,RM,3.375,3.657,3.481,2.854,3.667
+127,Francisca Reyes-Aquino,RM,3.635,3.556,3.722,2.771,3.992
+128,Frank B. Kellogg,NPP,3.469,3.741,3.75,2.781,3.808
+129,Fredrik Bajer,NPP,3.76,3.694,3.722,2.75,3.767
+130,Fridtjof Nansen,NPP,3.438,3.833,3.889,2.698,3.883
+131,Frédéric Passy,NPP,3.438,3.722,3.676,2.75,3.867
+132,Fu Qiping,RM,3.573,3.472,3.657,2.865,3.875
+133,Fua Haripitak,RM,3.615,3.361,3.62,2.854,3.9
+134,Fusae Ichikawa,RM,3.531,3.778,3.722,2.938,3.908
+135,Ganesh Man Singh,UNHR,3.51,3.759,3.722,2.75,3.775
+136,Gao Yaojie,RM,3.271,3.491,3.694,3.083,3.708
+137,Genevieve Caulfield,RM,3.635,3.565,3.657,2.875,3.883
+138,George Marshall,NPP,3.521,3.593,3.824,2.708,3.592
+139,Gerhard Fischer,GPP,3.5,3.75,3.769,2.729,3.925
+140,Gethsie Shanmugam,RM,3.427,3.602,3.602,2.792,3.858
+141,Goh Keng Swee,RM,3.417,3.741,3.833,2.646,3.65
+142,Gour Kishore Ghosh,RM,3.531,3.519,3.694,2.781,3.7
+143,Grace Padaca,RM,3.615,3.741,3.861,2.771,3.867
+144,Gus Borgeest,RM,3.458,3.398,3.685,3.031,3.85
+145,Gustav Stresemann,NPP,3.333,3.63,3.556,2.896,3.583
+146,HB Jassin,RM,3.604,3.435,3.62,2.917,3.892
+147,Habiba Sarābi,RM,3.573,3.417,3.657,2.875,3.892
+148,Hans Westenberg,RM,3.552,3.5,3.657,2.896,3.842
+149,Harish Hande,RM,3.635,3.88,3.972,2.469,3.808
+150,Harold Ray Watson,RM,3.604,3.491,3.694,2.823,3.808
+151,Hasanain Juaini,RM,3.458,3.509,3.713,2.875,3.775
+152,Hassib Ben Ammar,UNHR,3.562,3.417,3.667,2.823,3.717
+153,Haydee Yorac,RM,3.542,3.546,3.806,2.792,3.917
+154,Helen Kim,RM,3.656,3.509,3.676,2.75,3.933
+155,Helen Suzman,UNHR,3.448,3.546,3.898,2.917,3.825
+156,Henning Holck-Larsen,RM,3.594,3.583,3.898,2.698,3.9
+157,Henri La Fontaine,NPP,3.417,3.593,3.667,2.802,3.917
+158,Henry Dunant,NPP,3.323,3.694,3.722,2.885,3.675
+159,Henry Holland,RM,3.635,3.556,3.667,2.812,3.842
+160,Henry Kissinger,NPP,3.302,3.231,3.519,2.927,3.592
+161,"Hilario Davide, Jr.",RM,3.521,3.63,3.75,2.719,3.783
+162,Hiljmnijeta Apuk,UNHR,3.542,3.574,3.639,2.76,3.683
+163,Hiroshi Kuroki,RM,3.552,3.472,3.611,2.833,3.758
+164,Hjalmar Branting,NPP,3.438,3.546,3.667,2.948,3.875
+165,Horace Kadoorie,RM,3.396,3.519,3.935,2.771,3.842
+166,Howard Dee,RM,3.844,3.676,3.796,2.833,3.867
+167,Hsu Shih-chu,RM,3.458,3.37,3.639,3.0,3.842
+168,Hu Shuli,RM,3.49,3.509,3.75,2.823,3.858
+169,Huo Daishan,RM,3.625,3.213,3.62,2.875,3.875
+170,Ibn Abdur Rehman,RM,3.469,3.426,3.491,2.812,3.625
+171,Ikuo Hirayama,RM,3.562,3.574,3.685,2.844,3.958
+172,James B. Reuter,RM,3.646,3.537,3.75,2.875,3.75
+173,James Michael Lyngdoh,RM,3.531,3.713,3.713,2.688,3.575
+174,James P. Grant,UNHR,3.479,3.704,3.88,2.781,3.783
+175,Jane Addams,NPP,3.323,3.62,3.63,2.729,3.708
+176,Jayaprakash Narayan,RM,3.604,3.815,3.796,2.76,3.808
+177,Jesse Robredo,RM,3.583,3.991,3.981,2.49,3.967
+178,Jiang Yanyong,RM,3.365,3.648,3.741,2.958,3.8
+179,Jimmy Carter,NPP,3.01,4.083,3.824,2.615,3.733
+180,Jirō Kawakita,RM,3.438,3.537,3.546,2.854,3.825
+181,Jockin Arputham,RM,3.76,3.519,3.769,2.823,3.892
+182,Jody Williams,NPP,3.448,3.954,3.907,2.688,3.75
+183,John Boyd Orr,NPP,3.406,3.796,3.676,2.76,3.708
+184,John Hume,NPP,3.427,3.87,3.824,2.74,3.875
+185,John Mott,NPP,3.688,3.972,3.852,2.562,3.775
+186,John Peters Humphrey,UNHR,3.604,3.75,3.731,2.75,3.767
+187,Jon Ungpakorn,RM,3.583,3.546,3.704,2.823,3.7
+188,Jose Vasquez Aguilar,RM,3.677,3.528,3.722,2.812,3.783
+189,Joseph Rotblat,NPP,3.229,3.611,3.63,2.677,3.442
+190,José Gregori,UNHR,3.521,3.556,3.704,2.823,3.833
+191,José Ramos-Horta,NPP,3.542,3.75,3.852,2.677,3.75
+192,Jovito R. Salonga,RM,3.531,3.657,3.796,2.594,3.733
+193,Joênia Wapichana,UNHR,3.771,3.917,3.972,2.74,3.933
+194,Juan Manuel Santos,NPP,3.51,3.75,3.935,2.688,3.8
+195,Julienne Lusenge,UNHR,3.562,3.537,3.741,2.885,3.842
+196,Julio Tumiri Javier,UNHR,3.604,3.574,3.75,2.896,3.85
+197,Julius Nyerere,GPP,3.302,3.685,3.639,2.708,3.667
+198,K. V. Subbanna,RM,3.542,3.537,3.667,2.771,3.933
+199,Ka Hsaw Wa,RM,3.458,3.565,3.657,2.854,3.667
+200,Kailash Satyarthi,NPP,3.542,4.065,3.944,2.802,3.7
+201,Kamaladevi Chattopadhyay,RM,3.552,3.426,3.537,2.792,3.992
+202,Kayser Sung,RM,3.521,3.546,3.787,2.802,3.85
+203,Keo Viphakone,RM,3.573,3.481,3.787,2.792,3.792
+204,Khadija Ryadi,UNHR,3.531,3.565,3.759,2.979,3.883
+205,Kim Dae-jung,NPP,3.625,3.815,3.88,2.646,3.792
+206,Kim Sun-tae,RM,3.458,3.361,3.722,2.792,3.825
+207,Kim Yong-ki,RM,3.448,3.5,3.722,2.823,3.717
+208,Kiran Bedi,RM,3.938,4.009,4.194,2.448,3.783
+209,Klas Pontus Arnoldson,NPP,3.531,3.704,3.481,2.74,3.75
+210,Kofi Annan,NPP,3.25,3.722,3.843,2.719,3.525
+211,Kommaly Chanthavong,RM,3.542,3.741,3.657,2.823,4.067
+212,Koul Panha,RM,3.354,3.463,3.704,2.812,3.5
+213,Krasae Chanawongse,RM,3.615,3.639,3.676,2.885,3.75
+214,Krisana Kraisintu,RM,3.625,3.824,3.796,2.594,3.892
+215,Kulandei Francis,RM,3.583,4.0,3.833,2.615,3.775
+216,Kwoh-Ting Li,RM,3.49,3.676,3.769,2.625,3.883
+217,Kyaw Thu,RM,3.5,3.556,3.676,2.792,3.7
+218,LaSalle Ishii,RM,3.531,3.454,3.713,2.823,3.933
+219,Lahpai Seng Raw,RM,3.615,3.583,3.667,2.76,3.883
+220,Lakshmi Chand Jain,RM,3.417,3.528,3.713,2.688,3.675
+221,"Lawrence Kadoorie, Baron Kadoorie",RM,3.458,3.63,3.769,2.667,3.808
+222,Laxminarayan Ramdas,RM,3.51,3.546,3.759,2.75,3.8
+223,Le Duc Tho,NPP,3.052,3.38,3.426,2.99,3.542
+224,Lech Wałęsa,NPP,3.562,3.574,3.926,2.844,3.7
+225,Lee Tai-young,RM,3.615,3.426,3.769,2.854,3.9
+226,Leonidas Proaño,UNHR,3.271,3.528,3.583,2.771,3.817
+227,Lester B. Pearson,NPP,3.458,3.657,3.704,2.698,3.717
+228,Leymah Roberta Gbowee,NPP,3.688,3.815,3.741,2.885,3.767
+229,Liang Congjie,RM,3.323,3.556,3.722,2.729,3.8
+230,Ligaya Fernando-Amilbangsa,RM,3.542,3.574,3.741,2.802,3.883
+231,Liisa Kauppinen,UNHR,3.521,3.602,3.676,2.729,3.75
+232,Lim Kim San,RM,3.583,3.694,3.685,2.802,3.775
+233,Lin Hwai-min,RM,3.438,3.602,3.648,2.948,4.0
+234,Lino Brocka,RM,3.438,3.5,3.602,3.104,3.758
+235,Linus Pauling,NPP,3.344,3.63,3.704,2.854,4.183
+236,Liu Xiaobo,NPP,3.281,3.62,3.454,3.229,3.5
+237,Louis Renault,NPP,3.531,3.315,3.519,2.979,4.017
+238,Louise Arbour,UNHR,3.375,3.75,3.731,2.823,3.658
+239,Ludwig Quidde,NPP,3.312,3.352,3.491,2.969,3.742
+240,Léon Bourgeois,NPP,3.208,3.769,3.769,2.875,3.725
+241,Léon Jouhaux,NPP,3.417,3.546,3.806,2.823,3.875
+242,M. S. Subbulakshmi,RM,3.562,3.713,3.731,2.594,4.0
+243,M. S. Swaminathan,RM,3.552,3.926,3.935,2.615,3.775
+244,Ma Jun,RM,3.531,3.352,3.87,2.781,3.858
+245,Mabelle Arole,RM,3.625,3.556,3.556,2.812,3.85
+246,Mahabir Pun,RM,3.802,3.685,3.88,2.5,3.975
+247,Mahasweta Devi,RM,3.323,3.463,3.667,3.177,3.942
+248,Mahesh Chandra Mehta,RM,3.583,3.602,3.787,2.729,3.892
+249,Mahesh Chandra Regmi,RM,3.5,3.574,3.75,2.677,3.742
+250,Mairead Maguire,NPP,3.49,3.935,3.491,2.615,3.533
+251,Malala Yousafzai,NPP,3.656,3.843,3.944,2.958,3.692
+252,Mandakini Amte,RM,3.698,3.991,3.935,2.479,3.892
+253,Manibhai Desai,RM,3.604,3.417,3.639,2.615,3.867
+254,Manna Dey,RM,3.25,3.593,3.713,2.781,3.833
+255,Manuel Bianchi Gundián,UNHR,3.552,3.435,3.565,2.906,3.817
+256,Marcelline Jayakody,RM,3.646,3.481,3.62,2.927,3.858
+257,Maria Ressa,NPP,3.667,3.38,3.769,2.958,3.625
+258,Maria de Lourdes Martins Cruz,RM,3.354,3.519,3.704,2.906,3.892
+259,Martin Luther King Jr.,NPP,3.531,3.639,3.62,2.823,3.733
+260,Martti Ahtisaari,NPP,3.385,3.852,3.759,2.479,3.842
+261,Mary Rutnam,RM,3.625,3.509,3.657,2.802,3.833
+262,María Lavalle Urbina,UNHR,3.594,3.565,3.565,2.917,3.9
+263,Masanobu Fukuoka,RM,3.01,3.5,3.556,2.719,3.55
+264,Matiur Rahman,RM,3.573,3.611,3.685,2.76,3.808
+265,Mechai Viravaidya,RM,3.708,3.889,3.889,2.677,3.775
+266,Mehrangiz Manoochehrian,UNHR,3.667,3.648,3.657,2.812,3.875
+267,Menachem Begin,NPP,3.594,3.306,3.806,2.99,3.775
+268,Michiko Ishimure,RM,3.135,3.231,3.5,3.073,3.65
+269,Mikhail Gorbachev,NPP,3.354,3.481,3.426,2.74,3.525
+270,Miriam Defensor Santiago,RM,3.75,3.454,3.796,2.792,3.942
+271,Mochtar Lubis,RM,3.26,3.537,3.5,2.958,3.767
+272,Mohamed ElBaradei,NPP,3.094,3.769,3.639,2.823,3.358
+273,Mohamed Suffian Mohamed Hashim,RM,3.5,3.556,3.694,2.635,3.775
+274,Morihiko Hiramatsu,RM,3.438,3.38,3.574,2.906,3.783
+275,Mother Teresa,NPP,3.094,3.694,3.537,2.938,3.375
+276,Muhammad Yunus,NPP,3.583,3.759,3.769,2.594,3.858
+277,Nadia Murad Basee,NPP,3.281,3.787,3.722,2.927,3.65
+278,Narges Mohammadi,NPP,3.427,3.639,3.75,3.083,3.725
+279,Nathan Söderblom,NPP,3.365,3.685,3.759,2.792,3.933
+280,Ne Win,RM,3.219,3.194,3.519,2.969,3.6
+281,Nelson Mandela,NPP,3.438,3.639,3.75,2.719,3.775
+282,Nelson Rockefeller,RM,3.677,3.657,3.833,2.833,3.983
+283,Nguyen Lac Hoa,RM,3.583,3.38,3.704,2.781,3.858
+284,Nicholas Murray Butler,NPP,3.427,3.722,3.62,2.688,3.658
+285,Nick Joaquin,RM,3.552,3.333,3.602,3.062,3.742
+286,Nilawan Pintong,RM,3.562,3.62,3.685,2.885,3.742
+287,Nileema Mishra,RM,3.51,3.639,3.852,2.698,3.917
+288,Noboru Iwamura,RM,3.49,3.38,3.62,2.958,3.717
+289,Norman Angell,NPP,3.26,3.593,3.593,2.802,3.7
+290,Norman Borlaug,NPP,3.354,3.685,3.981,2.74,3.517
+291,Omara Khan Massoudi,RM,3.302,3.407,3.713,2.771,3.617
+292,Oung Chanthol,RM,3.573,3.417,3.676,2.875,3.775
+293,P. K. Sethi,RM,3.646,3.713,3.704,2.75,3.833
+294,Pablo Torres Tapia,RM,3.542,3.5,3.676,2.875,3.85
+295,Palagummi Sainath,RM,3.542,3.546,3.519,3.042,3.6
+296,Palayil Narayanan,RM,3.677,3.574,3.759,2.76,3.767
+297,Pan Yue,RM,3.573,3.361,3.583,2.906,3.817
+298,Pandurang Shastri Athavale,RM,3.615,3.713,3.787,2.729,3.958
+299,Park Won-soon,RM,3.531,3.435,3.824,2.906,3.925
+300,Patrick James McGlinchey,RM,3.615,3.426,3.537,2.885,3.675
+301,Paul-Henri-Benjamin d'Estournelles de Constant,NPP,3.458,3.519,3.694,2.771,3.8
+302,Pedro Orata,RM,3.667,3.435,3.704,2.823,3.925
+303,Petr Emelyanovich Nedbailo,UNHR,3.385,3.213,3.583,2.906,3.667
+304,"Philip Noel-Baker, Baron Noel-Baker",NPP,3.417,3.981,3.907,2.656,3.892
+305,Phon Sangsingkeo,RM,3.604,3.537,3.741,2.802,3.883
+306,Pomnyun,RM,3.406,3.537,3.704,2.792,3.75
+307,Prakash Amte,RM,3.583,4.139,4.093,2.458,4.0
+308,Pramoedya Ananta Toer,RM,3.302,3.472,3.481,3.167,3.875
+309,Prateep Ungsongtham Hata,RM,3.615,3.722,3.824,2.708,3.875
+310,Prawase Wasi,RM,3.573,3.546,3.685,2.792,3.767
+311,Prayoon Chanyavongs,RM,3.479,3.444,3.676,2.865,3.825
+312,Prince Sadruddin Aga Khan,UNHR,3.49,3.685,3.667,2.74,3.808
+313,Puey Ungpakorn,RM,3.427,3.417,3.639,2.979,3.867
+314,R. K. Laxman,RM,3.094,3.241,3.481,3.083,3.658
+315,Ra'ana Liaquat Ali Khan,UNHR,3.49,3.38,3.611,2.865,3.833
+316,Raden Kodijat,RM,3.573,3.426,3.657,2.719,3.767
+317,Raja Muhammad Alias,RM,3.552,3.62,3.713,2.771,3.808
+318,Rajanikant Arole,RM,3.604,3.796,3.981,2.583,4.017
+319,Rajendra Singh,RM,3.76,3.824,3.907,2.531,3.942
+320,Ralph Bunche,NPP,3.354,3.815,3.843,2.906,3.883
+321,Ramsey Clark,UNHR,3.333,3.472,3.75,2.896,3.483
+322,Randal Cremer,NPP,3.583,3.583,3.556,2.885,3.767
+323,Randy Halasan,RM,3.646,3.472,3.759,2.781,3.667
+324,Ravi Shankar,RM,3.573,3.694,3.731,2.646,4.125
+325,Ravish Kumar,RM,3.385,3.361,3.648,2.885,3.642
+326,René Cassin,NPP,3.51,3.796,3.722,2.812,3.725
+327,Richard William Timm,RM,3.51,3.389,3.759,2.875,3.742
+328,Rigoberta Menchú,NPP,3.49,3.741,3.519,3.229,3.7
+329,Rizwana Hasan,RM,3.677,3.694,3.843,2.75,3.958
+330,Robert Cecil,NPP,3.281,3.38,3.667,2.865,3.625
+331,Romulo Davide,RM,3.583,3.398,3.75,2.948,3.867
+332,Rosa Rosal,RM,3.573,3.509,3.667,2.948,3.9
+333,Ruth Pfau,RM,3.458,3.926,3.889,2.812,3.875
+334,Saburo Okita,RM,3.302,3.463,3.574,2.823,3.7
+335,Sadako Ogata,RM,3.219,3.444,3.667,2.896,3.567
+336,Sandeep Pandey,RM,3.635,3.676,3.796,2.604,3.792
+337,Sanduk Ruit,RM,3.542,3.935,4.0,2.677,3.892
+338,Sanjiv Chaturvedi,RM,3.562,3.991,4.093,2.521,3.892
+339,Satyajit Ray,RM,3.208,3.481,3.583,2.927,3.967
+340,Schulamit König,UNHR,3.458,3.528,3.676,2.938,3.808
+341,Seewoosagur Ramgoolam,UNHR,3.604,3.472,3.676,2.677,3.8
+342,Seiei Tōyama,RM,3.344,3.287,3.565,2.99,3.767
+343,Seiichi Tobata,RM,3.385,3.444,3.528,3.083,3.75
+344,Seán MacBride,NPP,3.323,3.639,3.713,2.854,3.742
+345,Shahrum bin Yub,RM,3.458,3.231,3.593,2.927,3.7
+346,Shantha Sinha,RM,3.729,3.694,3.917,2.688,3.883
+347,Sheila Coronel,RM,3.625,3.565,3.639,2.896,3.917
+348,Shigeharu Matsumoto,RM,3.323,3.435,3.63,2.948,3.733
+349,Shimon Peres,NPP,3.458,3.843,3.806,2.667,3.95
+350,Shirin Ebadi,NPP,3.448,3.676,3.824,2.896,3.842
+351,Shiroshi Nasu,RM,3.365,3.287,3.62,2.885,3.775
+352,Shoaib Sultan Khan,RM,3.656,3.796,3.806,2.594,3.917
+353,Sima Samar,RM,3.5,3.722,3.87,2.74,3.858
+354,"Sirindhorn, Princess Royal",RM,3.49,3.833,3.861,2.594,3.933
+355,Sithiporn Kridakara,RM,3.469,3.213,3.574,2.865,3.817
+356,Soedjatmoko,RM,3.448,3.63,3.546,2.74,3.767
+357,Sombath Somphone,RM,3.115,3.602,3.62,2.844,3.808
+358,Sombhu Mitra,RM,3.417,3.324,3.657,2.917,3.875
+359,Sonam Wangchuk,RM,3.562,3.981,4.046,2.562,4.058
+360,Sonia Picado Sotela,UNHR,3.406,3.463,3.62,2.938,3.858
+361,Sophon Supapong,RM,3.531,3.407,3.676,2.875,3.867
+362,Su Nan-cheng,RM,3.656,3.38,3.722,2.812,3.908
+363,Sunila Abeysekera,UNHR,3.625,3.593,3.667,3.031,3.95
+364,Swe Win,RM,3.479,3.509,3.667,2.865,3.833
+365,Sérgio Vieira de Mello,UNHR,3.51,3.713,3.917,2.833,3.992
+366,T. M. Krishna,RM,3.333,3.778,3.657,2.667,3.908
+367,T. N. Seshan,RM,3.677,3.657,3.833,2.646,3.675
+368,Ta-You Wu,RM,3.562,3.417,3.713,2.74,3.958
+369,Tadatoshi Akiba,RM,3.479,3.463,3.602,2.812,3.758
+370,Taha Hussein,UNHR,3.396,3.417,3.602,3.031,3.792
+371,Tahrunessa Abdullah,RM,3.448,3.565,3.602,2.854,3.967
+372,Tang Xiyang,RM,3.542,3.509,3.704,2.896,3.875
+373,Tarzie Vittachi,RM,3.458,3.426,3.62,2.938,3.692
+374,Tawakkol Karman,NPP,3.458,3.796,3.759,2.865,3.75
+375,Tee Tee Luce,RM,3.677,3.463,3.694,2.792,3.858
+376,Tenzin Gyatso,NPP,3.26,3.861,3.769,2.594,3.858
+377,Teten Masduki,RM,3.469,3.472,3.694,2.854,3.767
+378,Tetsu Nakamura,RM,3.49,3.75,3.75,3.052,3.742
+379,Theodore Roosevelt,NPP,3.969,3.546,3.796,2.958,3.858
+380,Therdchai Jivacate,RM,3.677,3.731,3.889,2.75,3.925
+381,Timothy Conigrave,UNHR,3.469,3.481,3.435,3.26,4.067
+382,Tobias Asser,NPP,3.312,3.546,3.574,2.917,3.575
+383,Ton That Thien,RM,3.458,3.343,3.694,2.854,3.708
+384,Tony Meloto,RM,3.813,3.944,3.88,2.667,3.95
+385,Tony Tay,RM,3.771,3.463,3.759,2.74,3.808
+386,Toshihiro Takami,RM,3.344,3.241,3.639,2.854,3.6
+387,Toshikazu Wakatsuki,RM,3.448,3.361,3.583,2.656,3.667
+388,Tri Mumpuni,RM,3.583,3.407,3.639,2.604,3.867
+389,Tribhuvandas Kishibhai Patel,RM,3.542,3.769,3.87,2.594,3.933
+390,Tunku Abdul Rahman,RM,3.51,3.657,3.676,2.823,3.75
+391,U Thant,UNHR,3.25,3.694,3.62,2.781,3.6
+392,V Shanta,RM,3.677,3.5,3.704,2.812,3.875
+393,Verghese Kurien,RM,3.573,3.861,4.037,2.406,3.683
+394,Vinoba Bhave,RM,3.219,3.87,3.713,2.604,3.875
+395,Vo Tong Xuan,RM,3.604,3.426,3.676,2.729,3.717
+396,Václav Havel,GPP,3.26,3.713,3.574,3.094,3.908
+397,W. D. Amaradeva,RM,3.573,3.685,3.759,2.823,4.083
+398,Wahiduddin Khan,GPP,3.333,3.676,3.657,2.719,3.675
+399,Wang Canfa,RM,3.51,3.398,3.657,2.792,3.767
+400,Wangari Muta Maathai,NPP,3.583,3.685,3.713,2.896,4.0
+401,Washington SyCip,RM,3.562,3.667,3.787,2.615,3.825
+402,Welthy Honsinger Fisher,RM,3.594,3.556,3.639,2.917,3.858
+403,Wilfred Jenks,UNHR,3.51,3.417,3.574,2.969,3.683
+404,William Masterson,RM,3.531,3.417,3.694,2.698,3.808
+405,Willy Brandt,NPP,3.562,3.815,3.667,2.854,3.883
+406,Winnie Madikizela-Mandela,UNHR,3.458,3.417,3.38,3.229,3.742
+407,Woodrow Wilson,NPP,3.448,3.648,3.639,2.854,3.733
+408,Wu Qing,RM,3.562,3.352,3.63,2.875,3.85
+409,Y. C. James Yen,RM,3.625,3.787,3.889,2.656,3.767
+410,Yang Saing Koma,RM,3.5,3.417,3.611,2.958,3.858
+411,Yasser Arafat,NPP,3.25,3.231,3.259,3.104,3.608
+412,Yasuji Hanamori,RM,3.417,3.278,3.611,3.083,3.742
+413,Yi Cheol-seung,RM,3.5,3.398,3.704,2.875,3.858
+414,Ying Ruocheng,RM,3.437,3.667,3.667,2.792,3.767
+415,Yizhak Rabin,NPP,3.615,3.991,3.889,2.708,3.783
+416,Yoon Hye-ran,RM,3.479,3.435,3.611,3.021,3.858
+417,Yoshiaki Ishizawa,RM,3.427,3.556,3.602,2.854,3.733
+418,Youk Chhang,RM,3.396,3.565,3.75,2.792,3.833
+419,Yu Xiaogang,RM,3.594,3.463,3.75,2.865,3.8
+420,Yuan Longping,RM,3.385,3.63,3.944,2.625,3.875
+421,Yukiharu Miki,RM,3.396,3.343,3.565,2.938,3.65
+422,Zacarias Sarian,RM,3.594,3.5,3.704,2.771,3.992
+423,Zafrullah Chowdhury,RM,3.771,3.769,3.824,2.771,3.8
+424,Zakiah Hanum Abd Hamid,RM,3.542,3.435,3.62,2.875,3.817
+425,Élie Ducommun,NPP,3.219,3.806,3.824,2.76,3.742
+426,Óscar Arias Sánchez,NPP,3.573,3.833,3.815,2.708,3.8

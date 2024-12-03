@@ -1,0 +1,448 @@
+,Name,source,Extraversion,Agreeableness,Conscientiousness,Neuroticism,Openness
+0,2 Pistols,Druglord,3.646,3.213,3.491,2.979,3.975
+1,Abdelhamid Abaaoud,Terrorist,3.177,2.481,3.463,3.562,3.633
+2,Abdolmalek Rigi,Terrorist,3.427,3.13,3.833,3.188,3.725
+3,Abdulaziz al-Omari,Terrorist,3.031,3.176,3.417,3.021,3.358
+4,Abdullah Ahmed Abdullah,Terrorist,3.302,3.241,3.657,2.823,3.517
+5,Abner Zwillman,Gangster,3.469,3.102,3.648,2.854,3.967
+6,Abu Ali al-Anbari,Terrorist,3.542,3.204,3.546,2.76,3.567
+7,Abu Bakr al-Baghdadi,Terrorist,3.052,2.247,3.519,3.104,3.125
+8,Abu Muslim al-Turkmani,Terrorist,3.219,3.112,3.435,2.833,3.35
+9,Abu Qatada,Terrorist,3.052,3.266,3.218,3.156,3.733
+10,Abu Salem,Gangster,3.677,3.194,3.352,2.948,3.658
+11,Abu Suleiman al-Naser,Terrorist,3.438,3.231,3.583,2.771,3.55
+12,Abu Waheeb,Terrorist,3.5,2.963,3.37,3.01,3.575
+13,Adolf Hitler,Dictator,3.677,1.833,3.639,3.885,3.267
+14,Adolfo Constanzo,Druglord,3.562,2.907,3.398,3.292,4.2
+15,Ahmad Suradji,SerialKiller,3.219,3.185,3.463,3.062,3.642
+16,Ahmed al-Nami,Terrorist,3.073,3.139,3.454,3.094,3.758
+17,Aileen Wuornos,SerialKiller,3.073,2.278,3.185,4.083,3.3
+18,Akmal Shaikh,Druglord,3.594,3.491,3.343,2.927,3.508
+19,Al Capone,Gangster,3.74,2.454,3.37,3.26,3.575
+20,Albert Anastasia,Gangster,3.604,2.648,3.657,3.302,3.625
+21,Albert Fish,SerialKiller,2.938,2.426,3.204,3.792,3.801
+22,Alberto Franceschini,Terrorist,3.458,3.287,3.519,3.01,3.592
+23,Alexander Pichushkin,SerialKiller,3.031,2.065,3.185,3.708,3.408
+24,Alexandros Giotopoulos,Terrorist,3.427,3.417,3.685,2.906,3.783
+25,Alfredo Stroessner,Dictator,3.562,3.028,3.769,3.198,3.492
+26,Amado Carrillo ( el señor de los cielos),Druglord,3.594,2.907,3.417,3.115,3.675
+27,Amedy Coulibaly,Terrorist,3.25,2.646,3.426,3.49,3.55
+28,Amelia Dyer,SerialKiller,3.042,3.028,3.583,3.479,3.608
+29,An Jung-geun,Terrorist,3.406,3.222,3.657,2.948,3.858
+30,Anastasia Bitsenko,Terrorist,3.615,3.611,3.722,2.927,3.858
+31,Anastasio Somoza Debayle,Dictator,3.469,2.88,3.435,3.406,3.708
+32,Anatoly Onoprienko,SerialKiller,3.052,2.148,3.315,3.562,3.575
+33,Anders Behring Breivik,Terrorist,2.844,1.411,3.669,3.458,3.533
+34,Andreas Baader,Terrorist,3.375,2.315,3.546,3.375,4.125
+35,Andrew Chan,Druglord,3.406,3.519,3.75,2.802,3.692
+36,Andrew Cunanan,SerialKiller,3.594,2.519,3.093,3.698,4.567
+37,Andréi Chikatilo,SerialKiller,2.979,2.139,3.194,3.729,3.492
+38,Angelo Bruno,Gangster,3.406,3.343,3.62,2.875,3.775
+39,Angie  Sanclemente,Druglord,3.656,3.509,3.694,2.729,3.833
+40,Anthony Casso,Druglord,3.219,2.833,3.389,3.26,3.475
+41,Anthony Corallo,Gangster,3.552,3.093,3.583,2.865,3.633
+42,Anthony Spilotro,Gangster,3.542,2.917,3.667,3.146,3.658
+43,Antonio Cárdenas Guillén,Druglord,3.448,3.148,3.565,2.948,3.558
+44,António Sampaio da Nóvoa,Terrorist,3.406,3.63,3.583,2.74,3.817
+45,António de Oliveira Salazar,Dictator,2.99,3.324,3.861,3.0,3.433
+46,Aquilino Ribeiro,Terrorist,3.458,3.509,3.435,3.01,3.983
+47,Arthur Shawcross,SerialKiller,2.771,2.009,3.102,3.812,3.342
+48,Arturo Beltrán Leyva,Druglord,3.406,3.019,3.38,3.052,3.75
+49,Arturo Guzmán Decena,Druglord,3.198,2.907,3.426,3.042,3.575
+50,Aslan Usoyan,Gangster,3.573,3.213,3.583,2.646,3.7
+51,Assata Shakur,Terrorist,3.292,3.287,3.5,3.125,3.892
+52,Atique Ahmed,Gangster,3.656,3.407,3.676,2.729,3.8
+53,Atiyah Abd al-Rahman,Terrorist,3.021,3.139,3.343,2.927,3.558
+54,Augusto Pinochet,Dictator,3.312,2.657,3.639,3.042,3.442
+55,Avraham Stern,Terrorist,3.458,3.343,3.62,3.125,3.783
+56,Azahari Husin,Terrorist,3.542,3.546,3.722,2.854,3.792
+57,Baba Anujka,SerialKiller,3.74,3.333,3.685,2.771,3.833
+58,Baby Face Nelson,SerialKiller,3.74,2.63,3.62,3.344,3.792
+59,Barbara Balzerani,Terrorist,3.646,3.546,3.694,2.792,3.858
+60,Barry Mills,Druglord,3.677,3.583,3.778,2.771,3.717
+61,Barry Seal,Druglord,3.844,3.259,3.611,3.042,3.992
+62,Beate Zschäpe,Terrorist,2.896,2.611,3.361,3.427,3.767
+63,Belle Gunness,SerialKiller,2.802,2.537,3.5,3.25,4.017
+64,Benito Mussolini,Dictator,3.938,2.5,4.148,3.083,3.333
+65,Benjamín Arellano Félix,Druglord,3.448,2.898,3.583,2.948,3.767
+66,Beverley Allitt,SerialKiller,3.177,2.056,3.241,3.979,3.633
+67,Bijeh,SerialKiller,3.771,3.324,3.722,2.854,3.808
+68,Billy the Kid,SerialKiller,3.458,3.296,3.37,3.115,3.625
+69,Bobby Joe Long,SerialKiller,3.354,2.139,3.111,3.677,3.767
+70,Boris Savinkov,Terrorist,3.49,3.213,3.648,3.302,4.025
+71,Bruce Edwards Ivins,Terrorist,3.188,3.333,3.491,3.438,4.0
+72,Bruno Lüdke,SerialKiller,3.115,2.63,3.269,3.417,3.525
+73,Bugs Moran,Gangster,3.26,2.944,3.13,3.135,3.533
+74,Bugsy Siegel,Gangster,3.729,2.944,3.556,3.073,3.917
+75,Béla Kiss,SerialKiller,3.344,2.981,3.324,3.24,3.808
+76,Cameron Douglas,Druglord,3.635,3.398,3.648,3.042,3.825
+77,Carl Großmann,SerialKiller,3.031,2.657,3.333,3.406,3.667
+78,Carl Panzram,SerialKiller,3.25,1.463,2.769,3.865,2.858
+79,Carlos Lehder,Druglord,3.5,2.769,3.556,3.01,3.925
+80,Carlos the Jackal,Terrorist,3.219,2.222,3.407,3.375,3.842
+81,Carmine Galante,Druglord,3.469,2.917,3.463,3.219,3.775
+82,Carmine Persico,Gangster,3.531,2.519,3.454,3.042,3.683
+83,Carmine Tramunti,Gangster,3.51,3.204,3.63,2.979,3.725
+84,Cesare Battisti,Terrorist,3.427,3.074,3.398,3.365,4.2
+85,"Charles ""Tex"" Watson",SerialKiller,3.396,2.352,3.204,3.604,3.425
+86,Charles Manson,SerialKiller,3.438,2.204,3.12,3.708,3.65
+87,Charles Ng,SerialKiller,2.865,2.5,3.241,3.396,3.125
+88,Charles Sobhraj,SerialKiller,3.406,2.731,3.38,2.927,4.225
+89,Charles Starkweather,SerialKiller,3.615,2.037,2.963,4.042,3.475
+90,Cheung Tze-keung,Gangster,3.552,3.0,3.546,2.917,3.708
+91,Chhota Shakeel,Gangster,3.406,2.843,3.62,2.719,3.533
+92,Christopher Coke,Druglord,3.729,3.231,3.639,2.979,3.742
+93,Ciro Terranova,Gangster,3.667,3.185,3.722,2.958,3.683
+94,Cleveland Torso Murderer,SerialKiller,3.156,2.731,3.296,3.438,3.558
+95,Comrade Artemio,Terrorist,3.625,3.278,3.62,2.99,3.783
+96,Dagmar Overby,SerialKiller,3.698,3.602,3.694,2.708,3.733
+97,Dairo Antonio Úsuga David,Terrorist,3.521,3.111,3.491,3.01,3.75
+98,Daniel Camargo Barbosa,SerialKiller,3.396,2.778,3.287,3.208,3.617
+99,Danny Rolling,SerialKiller,2.896,2.213,3.176,3.823,3.447
+100,Darya Nikolayevna Saltykova,SerialKiller,3.542,2.852,3.556,3.219,3.583
+101,David Berkowitz,SerialKiller,3.01,1.889,2.87,4.281,3.325
+102,David Berman,Gangster,2.885,3.352,3.287,3.354,3.775
+103,David Jenkins,Druglord,3.688,3.519,3.741,2.844,3.833
+104,Dawood Ibrahim,Terrorist,3.562,2.88,3.583,2.958,3.667
+105,Dean Corll,SerialKiller,3.104,2.389,2.907,3.656,3.65
+106,Dean O'Banion,Gangster,3.677,3.083,3.648,3.031,3.808
+107,Delphine LaLaurie,SerialKiller,3.417,2.694,3.454,3.51,3.983
+108,Deniz Seki,Druglord,3.604,3.583,3.75,2.688,4.075
+109,Dennis Nilsen,SerialKiller,2.562,2.583,3.046,3.698,3.375
+110,Dennis Rader,SerialKiller,3.052,2.796,3.787,3.396,3.942
+111,Diego Murillo Bejarano,Druglord,3.635,3.231,3.491,2.958,3.633
+112,Diego Osorio,Druglord,3.677,3.509,3.694,2.844,3.925
+113,Dominick Napolitano,Gangster,3.604,3.306,3.843,2.812,3.825
+114,Donato Bilancia,SerialKiller,3.458,2.889,3.389,3.26,3.708
+115,Du Yuesheng,Gangster,3.5,3.343,3.602,2.875,3.808
+116,Dzhokhar Tsarnaev,Terrorist,2.936,2.474,3.255,3.703,3.556
+117,Eazy-E,Druglord,3.812,3.185,3.713,3.344,3.817
+118,Ed Gein,SerialKiller,2.448,2.0,2.787,4.042,3.133
+119,Edgar Valdez Villarreal,Druglord,3.312,3.0,3.324,3.219,3.675
+120,Edith Lagos,Terrorist,3.542,3.5,3.741,3.0,3.833
+121,Edmund Kemper,SerialKiller,2.281,1.491,2.667,4.312,3.15
+122,Eduardo Ravelo,Druglord,3.562,3.398,3.593,2.927,3.775
+123,Edward Bunker,Druglord,2.948,2.741,3.574,3.25,3.5
+124,Elena Iparraguirre Revoredo,Terrorist,3.604,3.611,3.667,2.938,3.892
+125,Ellsworth Raymond Johnson,Druglord,3.594,3.38,3.667,2.865,3.758
+126,Emma Luciana Aispuro,Druglord,3.604,3.481,3.741,2.885,3.825
+127,Emmett Dalton,Gangster,3.719,3.204,3.546,3.031,3.392
+128,Enoch L. Johnson,Gangster,3.562,3.287,3.472,2.99,3.817
+129,Enrique Plancarte Solís,Druglord,3.583,3.509,3.648,2.885,3.842
+130,Eric Rudolph,Terrorist,2.562,2.407,3.532,3.396,3.693
+131,Ernesto Fonseca Carrillo,Druglord,3.458,2.991,3.306,3.281,3.725
+132,Eugen Weidmann,SerialKiller,3.385,3.093,3.398,3.229,3.625
+133,Fabio Ochoa Vásquez,Druglord,3.333,3.093,3.62,2.969,3.475
+134,Fanny Kaplan,Terrorist,3.438,3.065,3.435,3.115,3.733
+135,Fayez Banihammad,Terrorist,3.177,3.12,3.241,3.26,3.733
+136,Ferdinand Marcos,Dictator,3.615,3.185,3.741,2.865,3.967
+137,Fidel Castro,Dictator,3.594,3.556,3.843,2.906,3.8
+138,Francesco Di Carlo,Druglord,3.49,3.444,3.75,2.927,3.733
+139,Francisco Franco,Dictator,3.271,2.907,3.806,2.969,3.333
+140,Francisco Javier Arellano Félix,Druglord,3.396,3.083,3.731,2.969,3.733
+141,Francisco Javier López Peña,Terrorist,3.594,3.546,3.657,2.99,3.683
+142,Frank Capone,Gangster,3.281,3.0,3.5,2.958,3.433
+143,Frank Cullotta,Gangster,3.438,2.991,3.648,3.052,3.55
+144,Frank James,Gangster,3.573,3.537,3.704,2.875,3.808
+145,Frank Lucas,Druglord,3.469,3.0,3.454,2.885,3.783
+146,Frank Scalice,Gangster,3.562,3.13,3.694,3.115,3.733
+147,František Mrázek,Gangster,3.469,3.481,3.667,2.812,3.783
+148,François Marcantoni,Gangster,3.594,3.537,3.75,2.76,3.983
+149,François Spirito,Druglord,3.688,3.417,3.602,2.948,3.992
+150,Fred Burke,Gangster,3.604,3.102,3.509,3.073,3.708
+151,Fred West,SerialKiller,3.229,2.778,3.231,3.604,3.642
+152,Fritz Honka,SerialKiller,3.698,3.287,3.731,2.823,3.817
+153,Fulgencio Batista,Dictator,3.562,2.991,3.759,2.885,3.508
+154,Gaetano Reina,Gangster,3.677,3.361,3.472,2.906,3.842
+155,Gary M. Heidnik,SerialKiller,2.708,2.269,3.222,3.844,3.642
+156,Gary Ray Bowles,SerialKiller,3.073,2.444,3.176,3.75,3.35
+157,Gary Ridgway,SerialKiller,2.177,2.333,3.204,3.396,2.508
+158,Gene Gotti,Druglord,3.49,3.139,3.5,3.052,3.583
+159,George Jung,Druglord,3.365,3.065,3.38,3.083,3.758
+160,Georgios Papadopoulos,Dictator,3.594,3.231,3.565,3.042,3.675
+161,Gerlando Alberti,Gangster,3.573,3.463,3.63,2.917,3.708
+162,Gilberto Rodríguez Orejuela,Druglord,3.312,2.889,3.444,2.906,3.392
+163,Gonzalo Gaviria,Druglord,3.656,3.509,3.62,2.75,3.708
+164,"Greg ""Cadillac"" Anderson",Druglord,3.958,3.407,3.722,2.938,3.925
+165,Grim Sleeper,SerialKiller,2.583,2.241,3.111,3.302,3.283
+166,Griselda Blanco,Druglord,3.5,2.5,3.565,3.167,3.817
+167,Gudrun Ensslin,Terrorist,3.323,2.537,3.444,3.583,4.275
+168,H. H. Holmes,SerialKiller,3.198,2.509,3.593,3.469,4.1
+169,Hagop Hagopian,Terrorist,3.385,3.343,3.639,2.854,3.858
+170,Harold Shipman,SerialKiller,2.844,3.306,3.63,3.125,3.592
+171,Henri Désiré Landru,SerialKiller,3.042,2.907,3.204,3.24,3.75
+172,Henry Hill,Druglord,3.25,2.88,3.287,3.427,3.492
+173,Henry Lee Lucas,SerialKiller,3.073,2.648,3.0,3.406,3.442
+174,Herbert Mullin,SerialKiller,3.188,2.463,3.287,3.927,3.6
+175,Heriberto Lazcano Lazcano,Druglord,3.479,2.802,3.37,2.771,3.658
+176,Hiroshi Maeue,SerialKiller,3.688,3.407,3.648,2.76,3.783
+177,Horst Söhnlein,Terrorist,3.552,3.648,3.667,2.854,3.7
+178,Hosni Mubarak,Dictator,3.292,3.074,3.759,2.771,3.117
+179,Howard Marks,Druglord,3.26,3.38,3.694,2.896,3.483
+180,Huang Jinrong,Gangster,3.469,3.157,3.491,2.948,3.65
+181,Héctor Beltrán Leyva,Druglord,3.292,2.991,3.528,3.073,3.792
+182,Héctor Luis Palma Salazar Hueco,Druglord,3.479,3.093,3.472,2.917,3.533
+183,Hélmer Herrera Buitrago,Druglord,3.615,3.361,3.611,2.875,3.725
+184,Idi Amin,Dictator,4.125,2.102,3.37,3.281,3.383
+185,Ignacio Coronel Villarreal,Druglord,3.583,3.111,3.639,2.75,4.067
+186,Ignacy Hryniewiecki,Terrorist,3.417,3.407,3.602,3.021,3.733
+187,Ignazio Lupo,Gangster,3.75,3.065,3.546,3.177,3.85
+188,Inge Viett,Terrorist,3.635,3.435,3.815,2.802,4.158
+189,Ismael Zambada Garcia,Druglord,3.646,3.074,3.463,3.104,3.775
+190,Iñaki de Juana Chaos,Terrorist,3.719,3.315,3.602,2.844,3.858
+191,Jack McGurn,Gangster,3.573,3.13,3.648,2.927,3.867
+192,Jack Unterweger,SerialKiller,3.521,2.667,3.231,3.469,3.975
+193,Jack the Ripper,SerialKiller,3.073,2.37,3.009,3.458,3.792
+194,Jackie D'Amico,Gangster,3.792,3.657,3.713,2.823,3.925
+195,Jackie DiNorscio,Gangster,3.385,3.333,3.546,3.094,3.783
+196,James Burke,Druglord,3.625,3.444,3.676,2.833,3.733
+197,James Coonan,Gangster,3.521,3.454,3.741,2.958,3.817
+198,Jane Toppan,SerialKiller,3.271,2.907,3.38,3.458,3.783
+199,Javed Iqbal,SerialKiller,3.219,3.093,3.602,3.104,3.55
+200,Jean-Claude Duvalier,Dictator,3.365,2.796,3.528,3.083,3.608
+201,Jeffrey Dahmer,SerialKiller,2.208,2.0,2.593,4.271,3.6
+202,Jegor Sozonov,Terrorist,3.594,3.611,3.713,2.812,3.867
+203,Jerome Bettis,Druglord,3.74,3.796,3.833,2.719,3.533
+204,Jerry Brudos,SerialKiller,2.729,1.928,3.57,3.708,3.703
+205,Jesse James Hollywood,Druglord,3.396,2.537,3.389,3.49,3.8
+206,Jhon Jairo Velásquez,Druglord,3.333,2.861,3.491,3.281,3.542
+207,Jim Younger,Gangster,3.604,3.556,3.611,2.917,3.883
+208,Jimmy Chérizier,Gangster,3.76,2.898,3.491,2.823,3.6
+209,Joaquín Guzmán Loera,Druglord,3.5,2.926,3.491,2.875,3.883
+210,Joe Adonis,Gangster,3.656,3.167,3.5,3.062,3.6
+211,Joe Profaci,Druglord,3.385,3.111,3.5,2.958,3.725
+212,Joel Rifkin,SerialKiller,2.99,2.444,3.065,3.469,3.242
+213,John A. Gotti,Gangster,3.583,2.889,3.731,3.094,3.667
+214,John Bodkin Adams,SerialKiller,3.188,3.269,3.565,3.073,4.042
+215,John Christie,SerialKiller,3.135,2.991,3.537,3.156,3.783
+216,John Franzese,Gangster,3.365,3.231,3.574,2.875,3.608
+217,John Gotti,Gangster,3.75,2.574,3.565,3.042,3.475
+218,John Haigh,SerialKiller,3.417,3.361,3.63,2.792,3.875
+219,John Holmes,Druglord,3.781,3.546,3.676,3.062,3.825
+220,"John Paul, Sr.",Druglord,3.719,3.417,3.713,2.896,3.842
+221,John Roselli,Gangster,3.344,3.13,3.481,2.958,3.783
+222,John Scalise,Gangster,3.625,3.565,3.685,2.885,3.758
+223,John Wayne Gacy,SerialKiller,3.49,2.093,3.324,3.552,3.017
+224,Johnny Stompanato,Gangster,3.615,2.954,3.213,3.25,3.767
+225,Jorge Eduardo Costilla Sánchez,Druglord,3.24,3.207,3.259,2.917,3.65
+226,Jorge Rafael Videla,Dictator,3.156,2.694,3.444,3.219,3.567
+227,Joseph Aiuppa,Gangster,3.604,3.009,3.435,2.979,3.742
+228,Joseph Colombo,Gangster,3.573,3.509,3.63,2.854,3.842
+229,Joseph James DeAngelo,SerialKiller,3.021,3.056,3.417,3.083,3.467
+230,Joseph Kony,Terrorist,3.396,2.481,3.287,3.229,3.608
+231,Joseph Lanza,Gangster,3.708,3.352,3.657,2.958,3.725
+232,Joseph Paul Franklin,Terrorist,2.855,1.898,3.0,3.906,3.161
+233,Joseph Stalin,Dictator,3.26,1.815,3.954,3.448,3.3
+234,Joseph Valachi,Druglord,3.354,2.806,3.556,3.208,3.367
+235,José Macias Villamar,Terrorist,3.573,3.528,3.667,2.771,3.725
+236,José Santacruz Londoños,Druglord,3.344,3.093,3.657,3.0,3.75
+237,Juan David Ochoa Vásquez,Druglord,3.469,3.435,3.685,2.792,3.725
+238,Juan García Ábrego,Druglord,3.448,2.889,3.417,2.844,3.792
+239,Juan Nepomuceno Guerra Cárdenas,Druglord,3.583,3.306,3.519,2.906,3.7
+240,Juan Orlando Hernández,Druglord,3.583,3.398,3.667,2.667,3.625
+241,Juan Vallejo Corona,SerialKiller,3.552,3.269,3.593,3.083,3.575
+242,Karl Denke,SerialKiller,3.083,2.778,3.343,3.448,3.508
+243,Kenichi Yamamoto,Gangster,3.552,3.454,3.694,2.844,3.692
+244,Kenneth Bianchi,SerialKiller,2.969,2.398,3.259,3.625,3.383
+245,Khalid Sheikh Mohammed,Terrorist,3.264,2.088,3.383,3.535,3.739
+246,Khalid al-Mihdhar,Terrorist,3.229,3.037,3.565,3.146,3.875
+247,Khalil al-Wazir,Terrorist,3.198,3.185,3.528,2.99,3.5
+248,Khun Sa,Druglord,3.385,3.083,3.574,2.917,3.575
+249,Kim Il-sung,Dictator,3.771,3.5,3.963,2.667,3.992
+250,Kim Jong-il,Dictator,3.396,2.824,3.704,2.958,4.225
+251,Kiyoshi Takayama,Gangster,3.312,3.5,3.806,2.812,3.85
+252,Klaas Bruinsma,Druglord,3.604,3.306,3.556,2.896,3.758
+253,Larry Hoover,Gangster,3.583,3.037,3.611,3.156,3.983
+254,Leo Sharp,Druglord,3.656,3.454,3.833,2.75,3.9
+255,Leonarda Cianciulli,SerialKiller,3.479,2.981,3.306,3.583,3.617
+256,Lo Hsing Han,Druglord,3.479,3.139,3.62,2.865,3.85
+257,Louis Buchalter,Gangster,3.458,2.926,3.426,3.375,3.708
+258,Louis Capone,Gangster,3.615,3.194,3.75,3.115,3.775
+259,Lucky Luciano,Druglord,3.406,3.194,3.602,2.812,3.833
+260,Lucy Letby,SerialKiller,3.438,3.417,3.519,3.062,3.592
+261,Luigi Lucheni,Terrorist,2.729,2.852,3.176,3.375,3.508
+262,Luis Alfredo Garavito,SerialKiller,3.083,3.074,3.389,3.229,3.567
+263,Luis Posada Carriles,Terrorist,3.76,2.407,3.556,3.115,3.725
+264,Luke Helder,Terrorist,2.948,2.931,3.352,3.531,3.808
+265,Machine Gun Kelly,Gangster,4.042,3.231,3.509,3.427,4.35
+266,Mad Dog Coll,Gangster,3.583,2.694,3.472,3.49,3.692
+267,Magdalena Kopp,Terrorist,3.469,3.343,3.63,2.927,3.708
+268,Manuel Noriega,Dictator,3.333,2.75,3.454,3.219,3.567
+269,Manuel Pardiñas,Terrorist,3.427,3.417,3.611,2.844,3.725
+270,Manya Surve,Gangster,3.458,2.75,3.648,3.021,3.9
+271,Mao Zedong,Dictator,3.406,3.287,3.593,3.115,3.808
+272,Marcel Francisci,Gangster,3.604,3.556,3.685,2.938,3.875
+273,Marco Camenisch,Terrorist,3.208,3.426,3.731,2.906,3.75
+274,Margherita Cagol,Terrorist,3.438,3.333,3.667,2.906,3.633
+275,Maria Swanenburg,SerialKiller,3.479,3.481,3.722,3.01,3.767
+276,Mario Moretti,Terrorist,3.354,3.093,3.472,3.052,3.45
+277,Marshall Joseph Caifano,Gangster,3.531,3.259,3.602,2.854,3.617
+278,Marwan al-Shehhi,Terrorist,3.333,3.025,3.676,3.167,3.967
+279,Mary Ann Cotton,SerialKiller,3.219,2.611,3.306,3.646,3.392
+280,Masood Azhar,Terrorist,3.448,2.312,3.602,3.198,3.059
+281,Meyer Lansky,Gangster,3.271,3.176,3.769,2.917,3.95
+282,Michael Nunn,Druglord,3.625,3.528,3.741,2.75,4.008
+283,Michel Fourniret,SerialKiller,3.028,2.907,3.549,3.407,3.775
+284,Michele Greco,Druglord,3.333,3.13,3.528,2.917,3.717
+285,Miguel Emmanuel Figueroa Pérez,Druglord,3.573,3.639,3.602,2.792,3.817
+286,Miguel Garikoitz Aspiazu Rubina,Terrorist,3.219,3.12,3.398,3.01,3.717
+287,Miguel Rodríguez Orejuela,Druglord,3.208,2.935,3.556,3.198,3.517
+288,Miguel Treviño Morales,Druglord,3.427,2.843,3.583,3.25,3.825
+289,Mikhail Popkov,SerialKiller,3.323,2.843,3.509,3.438,3.725
+290,Mobutu Sese Seko,Dictator,3.479,2.963,3.537,3.083,3.675
+291,Mohamed Atta,Terrorist,2.917,2.291,3.87,3.583,3.4
+292,Mohamed Lahouaiej-Bouhlel,Terrorist,2.792,2.241,3.065,3.667,2.975
+293,Monster of Florence,SerialKiller,3.26,2.944,3.407,3.323,3.733
+294,Morris Levy,Gangster,3.615,3.278,3.704,3.0,3.975
+295,Moses Sithole,SerialKiller,3.144,2.713,3.111,3.562,3.114
+296,Mounir el-Motassadeq,Terrorist,3.083,2.963,3.269,3.104,3.292
+297,Muammar Gaddafi,Dictator,3.771,2.796,3.593,2.948,3.967
+298,Murray Riley,Druglord,3.562,3.62,3.704,2.906,3.708
+299,Myuran Sukumaran,Druglord,3.458,3.491,3.546,2.865,4.283
+300,Nancy Spungen,Druglord,3.604,2.583,3.231,3.76,3.875
+301,Nazario Moreno Rodríguez,Druglord,3.323,3.157,3.519,3.198,3.817
+302,Nemesio Oseguera Cervantes,Druglord,3.365,2.954,3.602,2.896,3.733
+303,Nicholas Corozzo,Gangster,3.615,3.111,3.454,2.979,3.725
+304,Nicky Barnes,Druglord,3.333,3.083,3.417,2.958,3.733
+305,Nicodemo Scarfo,Gangster,3.469,2.546,3.417,3.156,3.642
+306,Nicolae Ceaușescu,Dictator,3.833,2.583,4.046,2.812,3.842
+307,Nigel Farage,Terrorist,3.76,2.537,3.435,3.281,3.25
+308,Nipsey Hussle,Gangster,3.667,3.537,3.667,2.875,4.167
+309,Noordin Mohammad Top,Terrorist,2.844,2.25,3.435,3.344,3.475
+310,Nur-Pashi Kulayev,Terrorist,3.219,3.009,3.389,3.104,3.542
+311,Olive Yang,Druglord,3.635,3.565,3.759,2.875,4.083
+312,Omar al-Bashir,Dictator,3.469,2.796,3.731,3.042,3.525
+313,Osama bin Laden,Terrorist,3.276,2.12,3.455,3.291,3.701
+314,Osiel Cárdenas Guillén,Druglord,3.354,3.046,3.444,3.125,3.717
+315,Otelo Saraiva de Carvalho,Terrorist,3.76,3.537,3.806,3.083,3.858
+316,Ottis Toole,SerialKiller,2.708,2.38,2.722,3.635,3.492
+317,Oury Jalloh,Druglord,3.135,3.296,3.315,3.198,3.383
+318,Ovidio Guzmán López,Druglord,3.438,2.954,3.481,3.302,3.942
+319,Owney Madden,Gangster,3.833,3.343,3.639,3.125,3.85
+320,Pablo Acosta Villarreal,Druglord,3.417,3.093,3.491,3.104,3.733
+321,Pablo Escobar,Druglord,3.781,2.63,3.509,3.167,3.867
+322,Park Choon-Geum,Gangster,3.406,3.37,3.713,2.771,3.817
+323,Paul Carbone,Druglord,3.688,3.472,3.741,2.74,3.817
+324,Paul Ricca,Gangster,3.542,3.25,3.574,2.885,3.617
+325,Pedro Avilés Pérez,Druglord,3.385,3.389,3.537,3.031,3.633
+326,Pedro López,SerialKiller,3.115,2.806,3.343,2.917,3.442
+327,Pedro Rodrigues Filho,SerialKiller,3.583,2.537,3.62,3.219,3.517
+328,Pellegrino Morano,Gangster,3.573,3.454,3.583,2.865,3.875
+329,Peter Arshinov,Terrorist,3.542,3.407,3.63,2.792,3.917
+330,Peter Gotti,Gangster,3.344,2.556,3.361,3.271,3.683
+331,Peter Kürten,SerialKiller,3.083,1.944,2.741,3.812,3.4
+332,Peter Milano,Gangster,3.698,3.38,3.75,2.844,3.842
+333,Pierre François Lacenaire,SerialKiller,3.438,2.5,3.204,3.385,3.933
+334,Pierre Loutrel,Gangster,3.542,3.398,3.611,2.958,3.75
+335,Pol Pot,Dictator,2.76,1.889,3.306,3.75,2.583
+336,Pretty Boy Floyd,Gangster,3.51,3.185,3.306,2.906,3.692
+337,Rafael Aguilar Guajardo,Druglord,3.542,3.389,3.537,2.875,3.775
+338,Rafael Caro Quintero,Druglord,3.458,3.065,3.444,3.0,3.975
+339,Rafael Trujillo,Dictator,3.698,3.037,3.593,2.948,4.108
+340,Rajendra Sadashiv Nikalje,Gangster,3.448,3.361,3.556,2.927,3.683
+341,Ralph Capone,Gangster,3.656,2.972,3.509,3.177,3.692
+342,Ramzi Yousef,Terrorist,3.29,2.3,3.222,3.229,3.804
+343,Ramzi bin al-Shibh,Terrorist,3.083,2.833,3.296,3.49,3.558
+344,Ramón Arellano Félix,Druglord,3.552,2.491,3.481,3.062,3.833
+345,Raymond Washington,Gangster,3.292,3.241,3.611,3.135,3.467
+346,Renato Curcio,Terrorist,3.25,2.861,3.343,3.229,3.992
+347,Renato Vallanzasca,Gangster,3.698,2.88,3.537,3.083,3.817
+348,Ricardo Londoño,Druglord,3.573,3.352,3.657,2.885,3.75
+349,Richard Chase,SerialKiller,3.271,2.843,3.38,3.365,3.717
+350,Richard G. Gotti,Gangster,3.542,2.843,3.694,3.073,3.608
+351,Richard Ramirez,SerialKiller,3.333,1.796,3.065,3.719,3.55
+352,Richard Reid,Terrorist,3.24,3.093,3.417,3.135,3.592
+353,Richard V. Gotti,Gangster,3.573,3.222,3.463,2.969,3.55
+354,Robert Berdella,SerialKiller,2.877,2.133,3.327,3.646,3.792
+355,Robert Hansen,SerialKiller,3.323,2.704,3.481,3.052,3.517
+356,Robert Mugabe,Dictator,3.677,2.806,3.444,3.125,3.675
+357,Robert Pickton,SerialKiller,2.635,2.269,3.315,3.49,3.008
+358,Rodney Alcala,SerialKiller,3.5,2.676,3.167,3.417,4.117
+359,Rodolfo Walsh,Terrorist,3.438,3.509,3.704,3.167,4.05
+360,Rosemary West,SerialKiller,2.771,2.5,3.315,3.688,3.467
+361,Roy Daugherty,Gangster,3.552,3.426,3.731,2.948,3.825
+362,Roy DeMeo,Druglord,3.396,3.028,3.602,3.083,3.933
+363,Russell Bufalino,Gangster,3.312,3.222,3.574,2.948,3.683
+364,Rédoine Faïd,Gangster,3.323,2.972,3.352,3.156,3.683
+365,Saddam Hussein,Dictator,3.354,2.352,3.861,3.458,3.583
+366,Said Buryatsky,Terrorist,3.198,2.827,3.491,3.125,3.825
+367,Sajida Mubarak Atrous al-Rishawi,Terrorist,3.198,3.12,3.444,3.438,3.617
+368,Salah Abdeslam,Terrorist,2.812,2.824,3.009,3.365,3.125
+369,Salvatore D'Aquila,Gangster,3.625,3.083,3.583,3.0,3.733
+370,Salvatore Montagna,Gangster,3.271,3.13,3.602,3.031,3.825
+371,Salvatore Riina,SerialKiller,3.312,2.306,3.667,3.26,3.683
+372,Sam Giancana,Gangster,3.594,2.935,3.583,3.229,3.833
+373,Sam Jones,Druglord,3.625,3.5,3.639,2.719,3.975
+374,Samuel Byck,Terrorist,3.51,2.778,3.491,3.969,3.592
+375,Samuel Little,SerialKiller,2.927,2.556,3.25,3.042,3.3
+376,Santo Trafficante,Gangster,3.458,3.083,3.435,3.042,3.758
+377,"Santo Trafficante, Sr.",Gangster,3.406,3.046,3.435,2.958,3.792
+378,Satoshi Kirishima,Terrorist,3.458,3.444,3.63,2.969,3.808
+379,Schapelle Corby,Druglord,3.229,3.361,3.407,3.396,3.533
+380,Sergey Golovkin,SerialKiller,3.542,3.537,3.861,2.75,3.75
+381,Sergey Stepnyak-Kravchinsky,Terrorist,3.531,3.519,3.676,2.833,3.908
+382,Serhiy Tkach,SerialKiller,3.635,3.556,3.694,2.76,3.783
+383,Servando Gómez Martínez,Druglord,3.323,2.889,3.231,3.104,3.392
+384,Shoko Asahara,Terrorist,3.292,2.907,3.352,3.479,4.183
+385,Slobodan Milošević,Dictator,3.177,2.491,3.519,3.354,3.433
+386,Soapy Smith,Gangster,3.74,2.796,3.481,2.885,3.617
+387,Souhaila Andrawes,Terrorist,3.708,3.546,3.907,2.792,3.783
+388,South Park Mexican,Druglord,3.615,2.981,3.417,3.26,3.742
+389,"Stanley ""Tookie"" Williamp",Gangster,3.333,3.324,3.491,3.052,3.533
+390,Stefano Delle Chiaie,Terrorist,3.417,2.657,3.398,3.062,3.792
+391,Stepan Bandera,Terrorist,3.792,2.981,3.639,3.146,3.925
+392,Stepan Khalturin,Terrorist,3.479,3.296,3.602,2.938,3.767
+393,Steve Francis,Druglord,3.906,3.565,3.676,2.896,3.675
+394,Suharto,Dictator,3.385,3.157,3.667,2.917,3.533
+395,Sun Xiaoguo,Gangster,3.698,3.519,3.806,2.812,3.825
+396,Susan Atkins,SerialKiller,3.427,2.815,3.435,3.25,3.7
+397,Tadamasa Goto,Gangster,3.302,3.176,3.704,2.812,3.525
+398,Tamerlan Tsarnaev,Terrorist,3.042,2.103,3.364,3.615,3.322
+399,Ted Bundy,SerialKiller,3.448,2.38,3.241,3.417,3.992
+400,Ted Kaczynski,Terrorist,2.365,1.63,2.593,3.844,2.825
+401,Terry Nichols,Terrorist,2.635,2.602,3.13,3.323,3.208
+402,The Axeman of New Orleans,SerialKiller,3.167,2.528,3.324,3.49,4.025
+403,Thenmozhi Rajaratnam,Terrorist,3.625,3.62,3.731,2.896,4.017
+404,Thomas DeSimone,Gangster,3.708,3.037,3.444,3.167,3.758
+405,Thomas Eboli,Gangster,3.604,3.389,3.556,2.917,3.858
+406,Thomas Neill Cream,SerialKiller,3.438,2.296,3.315,3.688,3.717
+407,Thug Behram,SerialKiller,3.49,2.796,3.556,3.052,3.542
+408,Timothy McVeigh,Terrorist,2.639,1.492,3.399,3.524,2.672
+409,Tommaso Buscetta,Druglord,3.438,3.13,3.491,3.177,3.933
+410,Tsutomu Miyazaki,SerialKiller,3.292,3.37,3.722,2.896,3.692
+411,Txutxi,Druglord,3.594,3.537,3.63,2.75,3.833
+412,Umar Farouk Abdulmutallab,Terrorist,2.76,2.089,3.037,3.646,3.483
+413,Urke Nachalnik,Gangster,3.562,3.157,3.444,3.115,3.558
+414,Valerio Fioravanti,Terrorist,3.667,3.287,3.602,2.75,3.708
+415,Van Tuong Nguyen,Druglord,3.156,3.333,3.37,3.062,3.675
+416,Velma Barfield,SerialKiller,2.823,2.731,3.704,3.479,3.708
+417,Velupillai Prabhakaran,Terrorist,3.354,2.824,3.759,3.271,3.917
+418,Victor Amuso,Druglord,3.312,3.065,3.537,3.135,3.692
+419,Vikas Dubey,Gangster,3.562,2.88,3.611,3.312,3.7
+420,Vito Cascioferro,Gangster,3.417,3.185,3.583,3.083,3.875
+421,Vito Genovese,Druglord,3.406,3.111,3.667,3.021,3.725
+422,Vito Rizzuto,Druglord,3.219,3.306,3.648,2.917,3.842
+423,Vladimir Arutyunian,Terrorist,3.396,3.343,3.676,3.344,3.733
+424,Vlado Taneski,SerialKiller,3.25,3.231,3.574,3.135,3.758
+425,Víctor Polay,Terrorist,3.531,3.481,3.731,2.823,3.683
+426,Wail al-Shehri,Terrorist,3.021,2.843,3.287,3.417,3.517
+427,Waleed al-Shehri,Terrorist,3.604,3.528,3.806,2.969,3.825
+428,Wayne Williams,SerialKiller,3.292,3.389,3.685,3.01,3.75
+429,Whitey Bulger,Gangster,3.323,2.176,3.407,3.24,3.808
+430,Wilfried Böse,Terrorist,3.365,2.898,3.352,3.365,3.767
+431,William Bedford,Druglord,3.562,3.593,3.648,2.938,3.933
+432,William Bentvena,Gangster,3.646,3.528,3.731,2.833,3.775
+433,William Bonin,SerialKiller,3.177,2.167,3.111,3.406,3.497
+434,William Leonard Pickard,Druglord,3.292,3.278,3.676,2.979,4.383
+435,William Palmer,SerialKiller,3.469,3.139,3.556,3.146,3.675
+436,William T. Anderson,Gangster,3.375,3.241,3.519,2.958,3.542
+437,Willie Moretti,Gangster,3.583,3.0,3.639,2.906,3.708
+438,Yahya Sinwar,Terrorist,3.271,3.343,3.454,2.771,3.717
+439,Yakov Blumkin,Terrorist,3.417,3.306,3.639,3.083,3.883
+440,Yang Xinhai,SerialKiller,3.438,3.111,3.407,3.083,3.692
+441,Yasin Malik,Terrorist,3.49,3.537,3.583,3.177,3.675
+442,Yevno Azef,Terrorist,3.385,3.028,3.565,3.115,3.725
+443,Yoo Young-chul,SerialKiller,3.521,2.657,3.565,3.271,3.683
+444,Yoshio Kodama,Druglord,3.531,3.167,3.528,2.948,3.833
+445,Zodiac Killer,SerialKiller,3.198,2.528,3.231,3.385,3.675
+446,Ángel Maturino Reséndiz,SerialKiller,3.062,2.815,3.315,3.521,3.658
