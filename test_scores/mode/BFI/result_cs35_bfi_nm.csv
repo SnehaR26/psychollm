@@ -1,0 +1,401 @@
+,Name,source,Extraversion,Agreeableness,Conscientiousness,Neuroticism,Openness
+0,50 Cent,Entrepreneur,4.5,3.5,4.5,1.5,4.0
+1,A. A. Milne,Author,2.5,4.0,4.5,2.0,5.0
+2,Abdelkader El Djezairi,Scientist,4.0,4.0,4.5,2.0,4.0
+3,Abraham Lincoln,HoS,4.0,4.0,4.5,2.0,4.0
+4,Ada Yonath,Scientist,4.0,4.0,4.5,2.0,4.0
+5,Adele,Singer,4.0,4.0,4.5,3.5,5.0
+6,Agnez Mo,Actor,4.5,4.0,5.0,2.0,5.0
+7,Akbar Hashemi Rafsanjani,Entrepreneur,4.0,3.0,4.5,2.0,4.0
+8,Akon,Entrepreneur,4.0,4.0,4.0,2.0,4.0
+9,Akshay Kumar,Actor,4.5,4.0,4.5,2.0,4.0
+10,Alain Badiou,Scientist,4.0,4.0,4.5,2.5,5.0
+11,Alberto Santos-Dumont,Scientist,4.0,4.0,4.5,2.0,4.5
+12,Alexander Friedmann,Scientist,4.0,4.0,4.0,2.5,4.5
+13,Alexander Hamilton,HoS,4.5,2.0,5.0,3.0,5.0
+14,Alexander Pushkin,Author,4.0,3.5,4.5,2.0,5.0
+15,Alia Bhatt,Actor,4.5,4.0,4.5,2.0,5.0
+16,Alla Pugacheva,Entrepreneur,4.5,4.0,4.5,2.0,5.0
+17,Amin Maalouf,Author,4.0,4.0,4.5,2.5,5.0
+18,Anastacia,Author,3.0,4.0,4.0,3.0,4.0
+19,Andre Geim,Scientist,3.5,4.0,4.5,2.0,4.5
+20,Andrea M. Ghez,Scientist,4.0,4.0,4.5,2.0,4.0
+21,Andrea Sestini Hlaváčková,Athlete,4.0,4.0,4.0,2.5,4.0
+22,Andrew Carnegie,Entrepreneur,4.5,4.0,5.0,2.0,4.0
+23,Andy Warhol,Author,4.0,3.5,4.0,3.0,5.0
+24,Angelina Jolie,Actor,4.5,4.0,4.5,2.0,5.0
+25,Anggun,Actor,4.0,4.0,4.5,2.0,5.0
+26,Anna Akhmatova,Author,3.5,4.0,4.0,3.5,5.0
+27,Anna Netrebko,Actor,4.5,4.0,4.5,2.0,5.0
+28,Aristotle Onassis,Entrepreneur,4.5,2.0,5.0,2.0,4.0
+29,Arnold Schwarzenegger,Actor,4.5,4.0,5.0,1.0,4.5
+30,Asif Ali Zardari,Entrepreneur,4.0,2.5,4.0,2.0,4.0
+31,Ayaan Hirsi Ali,Scientist,4.0,3.0,5.0,2.0,4.0
+32,Aziz Sancar,Scientist,4.0,4.0,4.5,2.0,4.0
+33,Bamir Topi,Scientist,4.0,4.0,4.5,2.0,4.0
+34,Barbora Strýcová,Athlete,4.0,4.0,4.5,2.0,4.0
+35,Barry Bonds,Athlete,4.0,3.0,4.5,2.0,4.0
+36,Benjamin Constant,Scientist,4.0,4.0,4.5,2.0,4.5
+37,Benjamin List,Scientist,4.0,4.0,4.0,2.0,4.5
+38,Benoit Mandelbrot,Scientist,3.5,4.0,4.0,2.0,5.0
+39,Bernard Hinault,Athlete,4.0,4.0,5.0,1.5,4.0
+40,Bernardo Bertolucci,Author,4.0,4.0,3.5,2.0,5.0
+41,Betty White,Author,4.5,4.5,4.5,2.0,4.5
+42,Beyoncé,Actor,4.5,4.0,5.0,2.0,5.0
+43,Bill Clinton,HoS,4.5,4.0,4.5,2.0,4.0
+44,Bill Gates,Entrepreneur,4.0,4.0,4.5,2.0,4.5
+45,Billie Eilish,Singer,2.0,3.0,4.5,4.0,5.0
+46,Billie Holiday,Author,4.0,4.0,4.5,4.0,5.0
+47,Bob Dylan,Actor,2.5,3.5,3.5,3.0,5.0
+48,Bob Marley,Singer,4.5,4.5,5.0,1.5,5.0
+49,Bono,Entrepreneur,4.5,4.0,4.5,2.0,5.0
+50,Brad Pitt,Actor,4.0,4.0,4.5,2.0,4.5
+51,Britney Spears,Singer,4.5,4.0,4.5,4.0,5.0
+52,Brock Lesnar,Athlete,3.0,2.0,5.0,1.0,3.5
+53,Bruce Beutler,Scientist,3.5,4.0,4.5,2.0,4.0
+54,Bruce Lee,Actor,4.5,4.0,5.0,1.0,5.0
+55,Bruno Mars,Singer,4.5,4.0,4.5,2.0,5.0
+56,Buckminster Fuller,Scientist,4.0,4.0,5.0,2.0,5.0
+57,Caitlyn Jenner,Athlete,4.0,4.0,4.5,2.0,4.0
+58,Camillo Golgi,Scientist,3.5,4.0,4.0,2.5,3.5
+59,Cardi B,Singer,5.0,3.0,5.0,1.5,5.0
+60,Carl Friedrich Gauss,Scientist,2.0,4.0,4.0,2.5,4.5
+61,Carl Gustaf Emil Mannerheim,Author,3.0,4.0,5.0,2.0,4.0
+62,Carlos Slim,Entrepreneur,4.0,4.0,5.0,2.0,4.0
+63,Cecil Rhodes,Entrepreneur,4.5,3.0,5.0,2.0,4.5
+64,Charles Barkley,Author,4.5,4.0,4.0,2.0,4.0
+65,Charles Bukowski,Author,3.0,2.0,3.0,3.0,5.0
+66,Charles Dickens,Author,4.0,4.0,4.5,3.0,5.0
+67,Charles III,HoS,3.0,4.0,4.0,2.0,4.0
+68,Charles III of the United Kingdom,Entrepreneur,4.0,4.0,4.5,2.0,4.5
+69,Charles K. Kao,Scientist,2.5,4.0,4.0,2.0,4.0
+70,Charlie Chaplin,Actor,4.0,4.0,4.5,2.0,5.0
+71,Chien-Shiung Wu,Scientist,3.5,4.0,4.5,2.0,4.0
+72,Chinua Achebe,Author,4.0,4.0,4.5,2.0,4.0
+73,Chris Brown,Singer,4.5,3.5,4.5,2.0,5.0
+74,Christa Wolf,Author,3.5,4.0,4.5,3.5,5.0
+75,Conor McGregor,Athlete,5.0,3.0,5.0,1.0,5.0
+76,Cristiano Ronaldo,Athlete,4.5,4.0,5.0,1.0,4.5
+77,Cyril Ramaphosa,Entrepreneur,4.0,4.0,4.5,2.0,4.0
+78,Dana Zátopková,Athlete,4.0,4.0,4.5,2.0,4.0
+79,Daniel Kahneman,Author,3.5,3.5,3.5,3.0,4.0
+80,Daniel Kolář,Athlete,4.0,4.0,4.0,3.0,4.0
+81,Dave Bautista,Athlete,4.0,4.0,4.5,2.0,4.0
+82,David Limberský,Athlete,4.0,4.0,4.0,2.0,4.0
+83,Debbie Reynolds,Entrepreneur,4.5,4.0,4.5,2.0,5.0
+84,"Diana, Princess of Wales",HoS,4.5,4.0,4.5,4.0,5.0
+85,Dick Fosbury,Athlete,4.0,4.0,4.5,2.0,4.5
+86,Diego Maradona,Actor,4.5,3.0,5.0,2.0,4.5
+87,Dominik Hašek,Athlete,4.0,4.0,5.0,2.0,4.0
+88,Donald Rumsfeld,Author,4.0,3.5,4.5,2.0,4.0
+89,Donald Trump,Actor,5.0,2.5,5.0,1.0,5.0
+90,Dr. Dre,Entrepreneur,4.0,4.0,4.0,2.0,5.0
+91,Drake,Entrepreneur,4.5,4.0,4.5,2.0,5.0
+92,Dua Lipa,Singer,4.5,4.0,4.5,2.0,5.0
+93,Dwayne Johnson,Actor,4.5,4.0,5.0,1.5,4.0
+94,Edsger W. Dijkstra,Scientist,2.0,3.5,5.0,1.5,4.0
+95,Edward VIII,HoS,4.5,4.0,4.0,2.0,4.0
+96,Elizabeth I,HoS,4.5,3.0,5.0,2.0,5.0
+97,Elizabeth II,HoS,3.0,4.0,5.0,1.5,4.0
+98,Ellen DeGeneres,Actor,4.5,4.0,4.5,2.0,4.5
+99,Elon Musk,Entrepreneur,4.0,4.0,5.0,2.0,4.5
+100,Elvis Presley,Singer,4.5,4.0,4.5,2.0,5.0
+101,Eminem,Actor,4.0,2.5,4.5,3.0,5.0
+102,Emma Goldman,Author,4.5,3.0,5.0,2.0,5.0
+103,Emmanuel Swedenborg,Scientist,3.0,4.0,4.0,2.0,4.5
+104,Emmanuelle Charpentier,Scientist,3.5,4.0,4.5,2.0,4.0
+105,Eusébio,Athlete,4.0,4.0,4.5,2.0,3.5
+106,Federico Fellini,Author,4.0,4.0,4.5,2.0,5.0
+107,Filip Jícha,Athlete,4.0,4.0,4.5,2.0,4.0
+108,Finn E. Kydland,Scientist,4.0,4.0,4.5,2.0,4.0
+109,Florence Griffith Joyner,Athlete,4.5,4.0,5.0,2.0,5.0
+110,Franklin D. Roosevelt,HoS,4.5,4.0,4.5,2.0,4.0
+111,Fred Rogers,Author,4.0,4.5,4.5,2.0,4.5
+112,Freddie Mercury,Singer,5.0,4.0,5.0,2.0,5.0
+113,Frederik X of Denmark,Author,4.0,4.0,4.5,2.0,4.0
+114,Gal Gadot,Actor,4.5,4.0,4.5,2.0,4.0
+115,Gene Hackman,Author,4.0,4.0,4.0,2.0,4.0
+116,George Biddell Airy,Scientist,3.5,4.0,4.5,2.0,4.0
+117,George E. Smith,Scientist,4.0,4.0,3.5,2.0,4.0
+118,George H. W. Bush,Entrepreneur,4.0,4.0,4.5,2.0,3.5
+119,George Sand,Author,4.0,4.0,4.5,3.0,5.0
+120,George Soros,Entrepreneur,4.0,4.0,4.5,2.0,4.5
+121,George VI,HoS,2.0,4.0,4.5,3.5,4.0
+122,George W. Bush,HoS,4.5,4.0,4.0,2.0,3.0
+123,George Washington,HoS,3.0,4.0,5.0,2.0,4.0
+124,Georges St-Pierre,Athlete,4.0,4.0,5.0,2.0,4.0
+125,Gertrude Stein,Author,4.0,3.5,4.0,2.0,5.0
+126,Gherman Titov,Scientist,4.0,4.0,4.5,2.0,4.0
+127,Gilbert Gottfried,Author,4.5,3.5,3.5,3.0,3.5
+128,Giorgio Parisi,Scientist,3.0,4.0,4.0,2.0,4.0
+129,Gore Vidal,Author,4.0,2.0,4.5,2.0,5.0
+130,Guglielmo Marconi,Scientist,3.0,4.0,4.5,2.0,4.5
+131,Gustaf Dalén,Entrepreneur,3.5,4.0,4.5,2.0,4.0
+132,Gustave Eiffel,Entrepreneur,4.0,4.0,5.0,2.0,5.0
+133,Hana Mandlíková,Athlete,4.0,4.0,4.0,2.0,4.0
+134,Hannah Arendt,Author,3.5,4.0,4.5,2.0,4.0
+135,Hans Christian Andersen,Author,3.0,4.0,4.0,3.5,5.0
+136,Hans Geiger,Scientist,4.0,4.0,4.0,2.0,4.0
+137,Harry Kroto,Scientist,4.0,4.0,4.5,2.0,5.0
+138,Heath Ledger,Actor,4.0,4.0,4.5,2.0,5.0
+139,Heidi Klum,Entrepreneur,4.5,4.0,5.0,2.0,5.0
+140,Heike Kamerlingh Onnes,Scientist,2.5,4.0,4.0,2.5,4.0
+141,Henry Ford,Entrepreneur,4.0,4.0,5.0,2.0,4.0
+142,Henry VIII of England,HoS,5.0,1.0,5.0,1.0,4.5
+143,Hilary Duff,Entrepreneur,4.5,4.0,4.5,2.0,4.0
+144,Hugh Hefner,Entrepreneur,4.5,4.0,4.5,1.5,5.0
+145,Ian McEwan,Author,2.5,4.0,4.5,2.0,5.0
+146,Imelda Marcos,Entrepreneur,4.5,4.0,5.0,1.0,5.0
+147,Ingmar Bergman,Actor,2.0,4.0,4.5,3.0,5.0
+148,Ivan Poddubny,Athlete,4.0,4.0,5.0,2.0,4.0
+149,Ivar Giaever,Scientist,4.0,4.0,4.5,2.0,3.0
+150,J. K. Rowling,Author,4.0,4.0,4.5,2.0,5.0
+151,J. P. Morgan,Entrepreneur,4.5,4.0,5.0,2.0,4.0
+152,J. R. R. Tolkien,Author,3.0,4.0,4.5,2.0,5.0
+153,Jack Ma,Entrepreneur,4.5,4.0,5.0,2.0,4.5
+154,Jackie Chan,Actor,4.0,4.0,4.5,2.0,4.5
+155,Jackie Joyner-Kersee,Athlete,4.5,4.0,5.0,2.0,4.0
+156,James Joyce,Author,4.0,3.5,4.0,3.0,5.0
+157,James Lovelock,Scientist,4.0,4.0,4.5,2.0,4.5
+158,James Watt,Entrepreneur,4.0,4.0,4.0,2.0,4.5
+159,Janusz Korczak,Author,4.0,4.0,4.5,2.0,5.0
+160,Jarmila Kratochvílová,Athlete,4.0,4.0,4.5,2.0,4.0
+161,Jaroslav Hašek,Author,4.0,3.0,3.0,3.0,5.0
+162,Jaroslav Heyrovský,Scientist,2.5,4.0,4.5,2.0,4.0
+163,Jason Statham,Actor,4.0,4.0,5.0,1.0,4.0
+164,Jay-Z,Entrepreneur,4.0,4.0,5.0,1.5,5.0
+165,Jean Renoir,Author,4.0,4.0,4.5,2.0,5.0
+166,Jean-Baptiste Biot,Scientist,3.0,4.0,4.5,2.0,4.0
+167,Jean-Baptiste Charcot,Athlete,4.0,4.0,4.5,2.0,4.0
+168,Jeff Bezos,Entrepreneur,4.0,4.0,5.0,1.5,4.5
+169,Jefferson Pérez,Athlete,4.0,4.0,5.0,2.0,4.0
+170,Jennie,Singer,4.0,4.0,4.5,3.0,4.0
+171,Jennifer Lawrence,Actor,4.5,4.0,4.5,3.0,4.5
+172,Jennifer Lopez,Singer,4.5,4.0,5.0,2.0,5.0
+173,Jet Li,Athlete,4.0,4.0,4.5,2.0,4.0
+174,Jill Biden,Author,4.0,4.0,4.5,2.0,4.0
+175,Jim Morrison,Actor,4.0,4.0,4.0,3.5,5.0
+176,Jimmy Fallon,Actor,4.5,4.0,4.0,2.5,4.5
+177,Jimmy Wales,Entrepreneur,4.0,4.0,4.0,2.5,4.0
+178,Joe Biden,HoS,4.0,4.0,4.5,2.0,4.0
+179,Johann Heinrich Lambert,Scientist,2.0,4.0,5.0,2.0,4.5
+180,John Cena,Athlete,4.5,3.5,5.0,1.5,3.5
+181,John D. Rockefeller,Entrepreneur,3.0,3.0,5.0,1.0,3.0
+182,John F. Kennedy,HoS,4.5,4.0,4.5,2.0,4.0
+183,John Howard Northrop,Scientist,4.0,4.0,4.5,2.0,3.5
+184,John Lennon,Actor,4.0,3.0,4.0,2.5,5.0
+185,John Logie Baird,Entrepreneur,2.0,4.0,4.5,2.0,4.5
+186,John Maynard Keynes,Author,4.0,4.0,4.5,2.0,4.5
+187,John McCain,Author,4.0,4.0,4.5,2.0,3.5
+188,John O'Keefe,Scientist,4.0,4.0,3.5,2.5,4.0
+189,John Updike,Author,4.0,4.0,4.0,2.5,5.0
+190,John von Neumann,Scientist,4.0,4.0,5.0,2.0,4.5
+191,Johnny Depp,Actor,4.0,4.0,4.5,2.0,5.0
+192,Joko Widodo,Entrepreneur,4.0,4.0,4.5,2.0,4.0
+193,Judy Garland,Actor,4.5,3.0,4.5,4.0,5.0
+194,Juliette Binoche,Author,4.0,4.0,4.5,2.0,5.0
+195,Julius Axelrod,Scientist,4.0,4.0,4.0,2.5,4.0
+196,Justin Bieber,Singer,4.5,4.0,4.5,2.0,4.5
+197,Justin Timberlake,Singer,4.5,4.0,4.5,2.0,5.0
+198,Kamala Harris,HoS,4.5,4.0,5.0,2.0,4.0
+199,Kanye West,Entrepreneur,5.0,3.0,5.0,1.0,5.0
+200,Kareem Abdul-Jabbar,Author,4.0,4.0,4.5,2.0,4.0
+201,Kazuo Ishiguro,Author,2.5,4.0,3.5,2.5,4.0
+202,Keanu Reeves,Actor,2.5,4.0,4.5,2.0,4.5
+203,Kendall Jenner,Actor,4.5,4.0,4.5,2.0,4.5
+204,Kenny Rogers,Author,4.0,3.5,3.5,2.5,4.0
+205,Kevin Peter Hall,Athlete,4.0,3.5,3.5,2.5,4.0
+206,Khloé Kardashian,Actor,4.5,4.0,5.0,2.0,4.0
+207,Kim Kardashian,Entrepreneur,4.5,4.0,5.0,2.0,5.0
+208,Kirk Douglas,Author,4.5,4.0,5.0,2.0,5.0
+209,Kobe Bryant,Athlete,4.0,4.0,5.0,1.0,4.5
+210,Konstantin Stanislavski,Entrepreneur,4.0,4.0,4.0,2.0,5.0
+211,Konstantin Tsiolkovskii,Scientist,3.0,4.0,5.0,2.0,4.5
+212,Kourtney Kardashian,Actor,3.5,3.5,5.0,2.0,4.0
+213,Kristen Stewart,Actor,2.0,3.5,4.0,3.5,4.5
+214,Krzysztof Kieślowski,Author,2.0,4.0,4.0,2.5,5.0
+215,Kurt Gödel,Scientist,1.5,3.5,4.0,2.5,4.5
+216,Kylian Mbappé,Athlete,4.5,4.0,5.0,2.0,4.0
+217,Kylie Jenner,Actor,4.5,3.5,5.0,2.0,5.0
+218,Kylie Minogue,Entrepreneur,4.5,4.0,4.5,2.0,5.0
+219,Lady Gaga,Singer,5.0,4.0,5.0,3.0,5.0
+220,Lali Espósito,Singer,4.5,4.0,4.5,2.5,5.0
+221,Larry Page,Entrepreneur,4.0,4.0,4.5,2.0,4.5
+222,Lazare Carnot,Scientist,4.0,4.0,4.5,2.0,4.0
+223,LeBron James,Athlete,4.5,4.0,5.0,2.0,4.5
+224,Leonard Cohen,Author,2.0,4.0,4.0,2.5,5.0
+225,Leonardo DiCaprio,Actor,4.0,4.0,4.5,2.0,5.0
+226,Leonhard Euler,Scientist,3.5,4.0,4.0,2.0,4.0
+227,Leó Szilárd,Scientist,3.5,4.0,4.5,2.5,4.5
+228,Lionel Messi,Athlete,4.0,4.0,5.0,2.0,4.0
+229,Lisa,Singer,3.0,3.5,3.5,3.0,4.0
+230,Louis Armstrong,Actor,4.5,4.5,4.5,2.0,5.0
+231,Luchino Visconti,Author,4.0,4.0,4.5,2.0,5.0
+232,Madonna,Actor,4.5,3.0,5.0,2.0,5.0
+233,Magdalena Neuner,Athlete,4.0,4.0,4.5,2.0,4.0
+234,Magic Johnson,Entrepreneur,4.5,4.0,4.5,2.0,4.0
+235,Magnús Scheving,Athlete,4.5,4.0,5.0,1.5,4.5
+236,Mahatma Gandhi,HoS,4.0,4.5,5.0,1.5,4.5
+237,Manny Pacquiao,Athlete,4.5,4.0,5.0,2.0,4.0
+238,Margaret Thatcher,HoS,4.0,3.0,5.0,1.5,3.0
+239,Maria Goeppert Mayer,Scientist,4.0,4.0,5.0,2.0,4.5
+240,Marilyn Monroe,Actor,4.5,4.0,4.5,4.0,5.0
+241,Mark Wahlberg,Actor,4.0,4.0,5.0,2.0,4.0
+242,Mark Zuckerberg,Entrepreneur,3.5,4.0,5.0,2.0,4.0
+243,Marlee Matlin,Author,4.0,4.0,4.5,2.0,4.5
+244,Marlene Dietrich,Actor,4.5,4.0,4.5,2.0,5.0
+245,Martin Karplus,Scientist,4.0,4.0,4.5,2.0,4.5
+246,Mary Somerville,Scientist,4.0,4.0,4.5,2.0,4.5
+247,Matt Groening,Author,4.0,4.0,4.0,2.0,5.0
+248,Matti Nykänen,Athlete,4.5,4.0,4.5,2.0,4.0
+249,Max Born,Scientist,4.0,4.0,4.0,2.0,4.0
+250,Megan Fox,Actor,4.0,4.0,4.5,2.0,5.0
+251,Meghan Markle,Actor,4.0,3.5,4.5,3.5,4.5
+252,"Meghan, Duchess of Sussex",HoS,4.0,4.0,4.5,2.0,4.5
+253,Melinda Gates,Entrepreneur,4.0,4.0,4.5,2.0,4.0
+254,Michael Collins,Entrepreneur,4.0,4.0,4.5,2.0,4.0
+255,Michael Jackson,Actor,4.5,4.0,5.0,3.5,5.0
+256,Michael Jordan,Entrepreneur,4.5,4.0,5.0,1.0,4.0
+257,Michael Oher,Athlete,2.0,4.0,4.0,2.0,2.5
+258,Michael Phelps,Athlete,4.0,4.0,5.0,2.0,4.0
+259,Mike Tyson,Athlete,4.5,3.0,4.0,1.5,4.5
+260,Mikhail Bulgakov,Author,3.5,4.0,4.5,2.0,5.0
+261,Mikhail Lomonosov,Scientist,4.0,4.0,5.0,2.0,5.0
+262,Mila Kunis,Actor,4.0,4.0,4.0,2.0,4.0
+263,Muhammad Ali,Athlete,4.5,4.0,5.0,1.0,4.5
+264,Mukesh Ambani,Entrepreneur,4.5,4.0,5.0,1.5,4.0
+265,Narendra Modi,HoS,4.5,4.0,5.0,1.0,4.0
+266,Nawaz Sharif,Entrepreneur,4.0,3.5,4.5,2.0,4.0
+267,Neymar,Athlete,4.5,4.0,5.0,2.0,4.5
+268,Niall Horan,Singer,4.5,4.0,4.5,2.0,4.0
+269,Nicki Minaj,Singer,4.5,4.0,5.0,2.0,5.0
+270,Niels Ryberg Finsen,Scientist,2.5,4.0,4.5,2.5,4.0
+271,Nikolai Pirogov,Scientist,4.0,4.0,4.5,2.5,4.0
+272,Novak Djokovic,Athlete,4.0,4.0,5.0,2.0,4.0
+273,O. J. Simpson,Athlete,4.5,2.0,4.5,1.0,4.0
+274,Olympe de Gouges,Author,4.5,4.0,5.0,2.0,5.0
+275,Oscar Wilde,Author,4.5,3.0,4.5,2.0,5.0
+276,Osip Mandelstam,Author,4.0,4.0,4.0,3.0,5.0
+277,Oskar Schindler,Entrepreneur,4.0,4.0,4.5,2.0,4.0
+278,Paul Allen,Entrepreneur,4.0,4.0,4.5,2.0,5.0
+279,Paul Dirac,Scientist,1.0,3.5,4.0,3.0,3.0
+280,Paul McCartney,Actor,4.5,4.0,4.5,2.0,5.0
+281,Paul Newman,Entrepreneur,4.0,4.0,4.5,2.0,4.0
+282,Pavel Horváth,Athlete,4.0,4.0,4.0,2.0,4.0
+283,Pavel Nedvěd,Athlete,4.0,4.0,5.0,2.0,4.0
+284,Pelé,Actor,4.5,4.5,5.0,2.0,4.5
+285,Peter Debye,Scientist,4.0,4.0,4.5,2.0,4.0
+286,Peter O'Toole,Author,4.5,4.0,4.5,2.0,5.0
+287,Petr Čech,Athlete,4.0,4.0,4.5,2.0,4.0
+288,Petro Poroshenko,Entrepreneur,4.0,4.0,4.5,2.0,4.0
+289,Peyton Manning,Athlete,4.5,4.0,4.5,2.0,3.5
+290,Philip Reeve,Author,4.0,4.0,4.0,2.5,5.0
+291,Pierre-Louis Moreau de Maupertuis,Scientist,3.0,4.0,4.0,2.0,4.0
+292,Pierre-Simon Laplace,Scientist,3.5,3.5,4.0,2.5,4.0
+293,Prince,Singer,4.0,3.5,4.5,2.5,5.0
+294,"Prince Philip, Duke of Edinburgh",HoS,4.0,2.5,5.0,1.5,3.5
+295,"Princess Margaret, Countess of Snowdon",HoS,4.5,3.0,4.5,2.0,4.5
+296,Priyanka Chopra,Actor,4.5,4.0,5.0,2.0,5.0
+297,Queen Victoria,HoS,3.0,4.0,5.0,1.5,3.5
+298,Rabindranath Tagore,Actor,4.0,4.0,4.5,2.0,5.0
+299,Rachel Carson,Author,3.0,4.0,4.5,2.5,4.5
+300,Rafael Nadal,Athlete,4.0,4.0,5.0,2.0,4.0
+301,Raymond Kurzweil,Scientist,4.0,4.0,5.0,2.0,5.0
+302,Reinhard Genzel,Scientist,4.0,4.0,4.5,2.0,4.0
+303,Richard Branson,Entrepreneur,4.5,4.0,5.0,2.0,5.0
+304,Richard Feynman,Author,4.0,4.0,4.5,2.0,4.5
+305,Richard Smalley,Scientist,4.0,4.0,4.5,2.0,4.5
+306,Rihanna,Singer,4.5,4.0,5.0,2.0,5.0
+307,Rita Levi-Montalcini,Scientist,4.0,4.0,5.0,2.0,4.5
+308,Robert De Niro,Actor,4.0,3.5,4.0,2.0,4.0
+309,Robert Fulton,Scientist,4.0,4.0,4.0,2.0,5.0
+310,Robert Hübner,Athlete,2.0,3.5,4.5,2.0,4.0
+311,Robert Owen,Entrepreneur,4.5,4.5,5.0,2.0,5.0
+312,Robin Williams,Actor,4.5,4.0,4.5,4.0,5.0
+313,Roger Bannister,Athlete,4.0,4.0,5.0,2.5,4.0
+314,Roger Federer,Athlete,4.0,4.0,5.0,2.0,4.0
+315,Ronald Reagan,Actor,4.5,4.0,4.5,2.0,4.0
+316,Ronaldinho,Athlete,4.5,4.0,4.5,2.0,4.5
+317,Ronaldo,Athlete,4.5,4.0,5.0,2.0,4.5
+318,Ronda Rousey,Athlete,4.0,3.5,5.0,1.5,4.0
+319,Rudolf Diesel,Entrepreneur,3.0,3.5,4.0,2.0,4.0
+320,Rupert Murdoch,Entrepreneur,4.0,2.0,5.0,2.0,4.0
+321,Ryan Reynolds,Actor,4.5,4.0,4.5,2.0,4.5
+322,Sacha Guitry,Author,4.5,3.0,4.5,2.0,5.0
+323,Sachin Tendulkar,Athlete,4.0,4.0,5.0,2.0,4.0
+324,Salman Khan,Actor,4.5,4.0,5.0,2.0,4.0
+325,Salvador Dalí,Actor,4.5,4.0,5.0,2.5,5.0
+326,Sarah Bernhardt,Actor,4.5,4.0,5.0,2.0,5.0
+327,Saul Bellow,Author,4.0,4.0,4.5,2.0,5.0
+328,Scarlett Johansson,Actor,4.0,4.0,4.5,2.0,5.0
+329,Seamus Heaney,Author,3.5,4.0,4.0,2.0,4.5
+330,Sebastián Piñera,Entrepreneur,4.0,4.0,4.5,2.0,4.0
+331,Selena Gomez,Actor,4.0,4.0,4.5,3.5,5.0
+332,Selma Lagerlöf,Author,4.0,4.0,4.5,2.0,5.0
+333,Serena Williams,Athlete,4.5,4.0,5.0,2.0,4.0
+334,Serge Haroche,Scientist,4.0,4.0,4.0,2.0,4.0
+335,Sergei Korolev,Scientist,4.0,4.0,4.0,2.0,4.0
+336,Shakira,Actor,4.5,4.0,5.0,2.0,5.0
+337,Shaquille O'Neal,Athlete,4.5,4.0,5.0,1.5,4.0
+338,Sheldon Glashow,Scientist,3.0,3.5,4.5,2.5,4.0
+339,Shraddha Kapoor,Actor,4.0,4.0,4.5,2.0,4.0
+340,Sidney Poitier,Author,4.0,4.0,4.5,2.0,4.0
+341,Silvio Berlusconi,Entrepreneur,5.0,4.0,5.0,1.0,4.5
+342,Simone Veil,Author,4.0,4.0,4.5,2.0,4.0
+343,Simone de Beauvoir,Author,4.0,4.0,4.5,2.0,4.5
+344,Snoop Dogg,Entrepreneur,4.5,4.0,4.5,1.0,5.0
+345,Sofia Rotaru,Entrepreneur,4.0,4.0,4.5,2.0,5.0
+346,Stephen Curry,Athlete,4.5,4.0,5.0,2.0,4.0
+347,Stephen King,Actor,3.0,4.0,4.5,4.0,5.0
+348,Steve Jobs,Entrepreneur,4.0,4.0,5.0,2.0,5.0
+349,Steven Spielberg,Actor,4.0,4.0,4.5,2.0,5.0
+350,Sung Jae-gi,Entrepreneur,4.0,3.0,4.0,3.0,4.5
+351,Susumu Tonegawa,Scientist,3.5,4.0,4.0,2.0,4.5
+352,Sylvester Stallone,Actor,4.0,4.0,5.0,2.0,4.5
+353,Tadeusz Reichstein,Scientist,3.5,4.0,4.5,2.5,4.0
+354,Tarō Asō,Entrepreneur,4.0,4.0,4.5,2.0,4.0
+355,Taylor Swift,Actor,4.5,4.0,4.5,3.5,5.0
+356,Terry Pratchett,Author,4.0,4.0,4.5,2.0,4.5
+357,The Undertaker,Actor,1.5,2.5,4.0,1.5,3.5
+358,Thomas Edison,Entrepreneur,4.0,4.0,5.0,2.0,4.5
+359,Thomas Lipton,Athlete,4.5,4.0,5.0,2.0,4.0
+360,Thomas Paine,Entrepreneur,4.0,4.0,4.0,2.0,4.5
+361,Tiger Woods,Athlete,4.0,4.0,5.0,2.0,4.0
+362,Tom Brady,Athlete,4.0,4.0,5.0,1.5,4.0
+363,Tom Cruise,Actor,4.5,4.0,5.0,1.0,5.0
+364,Tom Hardy,Actor,4.0,4.0,4.5,2.0,4.5
+365,Toni Schumacher,Athlete,4.0,3.5,4.5,2.0,4.0
+366,Triple H,Athlete,4.0,3.5,4.0,2.0,3.5
+367,Tyson Fury,Athlete,5.0,4.0,5.0,1.0,4.5
+368,Ursula K. Le Guin,Author,4.0,4.0,4.5,2.0,5.0
+369,Usain Bolt,Athlete,4.5,4.0,5.0,1.5,4.5
+370,Venus Williams,Entrepreneur,4.0,4.0,5.0,2.0,4.0
+371,Vera Rubin,Scientist,4.0,4.0,4.5,2.5,4.0
+372,Victoria Beckham,Entrepreneur,4.0,4.0,5.0,2.0,4.5
+373,Vin Diesel,Actor,4.5,4.0,4.0,1.0,4.0
+374,Virat Kohli,Athlete,4.5,4.0,5.0,2.0,4.0
+375,Virginia Woolf,Author,2.0,4.0,4.5,4.0,5.0
+376,Vitaly Ginzburg,Scientist,4.0,4.0,4.5,2.0,4.5
+377,Vladimir Putin,HoS,4.0,3.0,5.0,1.0,4.0
+378,Vladimír Darida,Athlete,4.0,4.0,4.0,2.0,4.0
+379,Věra Čáslavská,Athlete,4.0,4.0,5.0,2.0,4.0
+380,Walt Disney,Actor,4.5,4.0,5.0,2.0,5.0
+381,Warren Buffett,Entrepreneur,4.0,4.0,5.0,1.5,4.0
+382,Wayne Rooney,Athlete,4.0,4.0,4.0,2.0,4.0
+383,Werner Herzog,Author,3.0,4.0,4.0,2.5,5.0
+384,Wilhelm II,Author,4.5,3.0,5.0,2.0,4.5
+385,Willard Boyle,Scientist,4.0,4.0,4.5,2.0,4.0
+386,Willie Nelson,Author,4.5,4.0,4.5,1.5,5.0
+387,Wim Hof,Athlete,5.0,4.5,5.0,1.0,5.0
+388,Winston Churchill,HoS,4.5,4.0,5.0,2.0,4.5
+389,Wladimir Klitschko,Athlete,4.0,4.0,5.0,2.0,4.0
+390,Woody Allen,Actor,2.0,2.0,4.5,4.0,5.0
+391,Yevgeny Prigozhin,Entrepreneur,4.0,2.0,5.0,2.0,4.0
+392,Yingluck Shinawatra,Entrepreneur,4.0,3.5,4.5,2.5,4.0
+393,Yulia Tymoshenko,Entrepreneur,4.5,3.0,5.0,2.0,4.0
+394,Yury Luzhkov,Scientist,4.0,3.0,4.5,2.0,4.0
+395,Zack Snyder,Scientist,4.0,4.0,5.0,2.0,5.0
+396,Zbigniew Brzezinski,Author,4.0,3.5,4.5,2.0,4.0
+397,Zendaya,Actor,4.0,4.0,4.5,2.0,5.0
+398,Zlatan Ibrahimovic,Athlete,5.0,5.0,5.0,1.0,5.0
+399,Édith Piaf,Actor,4.5,4.0,4.5,4.0,5.0

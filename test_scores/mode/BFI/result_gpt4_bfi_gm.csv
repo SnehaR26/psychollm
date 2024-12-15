@@ -1,0 +1,401 @@
+,Name,source,Extraversion,Agreeableness,Conscientiousness,Neuroticism,Openness
+0,A. T. Ariyaratne,RM,3.5,4.0,5.0,2.0,4.5
+1,A.H.M. Noman Khan,RM,3.0,3.5,5.0,2.5,3.0
+2,Abdon Nababan,RM,3.5,3.0,4.5,3.0,4.5
+3,Abdul Razak Hussein,RM,3.0,3.5,4.5,3.0,3.0
+4,Abdul Samad Ismail,RM,3.0,3.0,4.5,3.5,5.0
+5,Abdul Sattar Edhi,RM,3.0,4.5,5.0,2.0,2.5
+6,Abdullah Abu Sayeed,RM,3.5,3.5,4.0,3.0,4.5
+7,Abdurrahman Wahid,RM,3.5,3.5,3.5,2.5,4.0
+8,Abel Muzorewa,UNHR,3.5,3.5,3.5,3.0,4.0
+9,Abiy Ahmed Ali,NPP,3.5,4.5,5.0,2.5,5.0
+10,Adam Łopatka,UNHR,3.5,3.0,4.0,2.5,5.0
+11,Adeebul Hasan Rizvi,RM,3.0,3.5,5.0,2.5,4.5
+12,Adolfo Pérez Esquivel,NPP,3.0,4.0,5.0,2.5,5.0
+13,Ahmad Syafi'i Maarif,RM,3.5,4.5,4.0,2.5,4.0
+14,Akhtar Hameed Khan,RM,3.5,3.5,5.0,2.5,4.0
+15,Akira Kurosawa,RM,2.0,3.5,5.0,2.5,5.0
+16,Al Gore,NPP,3.0,4.0,5.0,2.5,4.5
+17,Albert John Mvumbi Luthuli,NPP,3.5,4.5,5.0,2.5,4.0
+18,Albert Schweitzer,NPP,3.0,4.0,5.0,2.5,5.0
+19,Ales Bialiatski,NPP,2.5,3.5,5.0,3.0,4.5
+20,Alfonso García Robles,NPP,2.5,4.0,5.0,1.5,3.0
+21,Alfred Hermann Fried,NPP,2.5,4.5,5.0,2.5,5.0
+22,Ali Sadikin,RM,2.5,3.5,4.5,3.0,4.0
+23,Aloysius Schwartz,RM,2.5,3.0,5.0,3.0,3.5
+24,Alva Myrdal,NPP,2.5,4.0,5.0,3.0,4.5
+25,Ambrosius Ruwindrijarto,RM,3.5,4.0,5.0,2.0,5.0
+26,Amitabha Chowdhury,RM,3.0,3.5,4.5,3.5,3.5
+27,Anand Panyarachun,RM,3.5,4.0,5.0,2.0,4.5
+28,Ananda Galappatti,RM,3.5,3.5,3.5,3.0,3.5
+29,Andrei Sakharov,NPP,2.0,3.5,5.0,3.5,5.0
+30,Angel Alcala,RM,3.0,3.0,4.5,3.0,4.5
+31,Angela Gomes,RM,3.5,3.5,5.0,2.5,5.0
+32,Angelina Acheng Atyam,UNHR,3.0,4.5,5.0,1.5,4.5
+33,Angkhana Neelaphaijit,RM,3.5,4.0,5.0,3.0,4.0
+34,Aniceto Guterres Lopes,RM,3.0,4.5,4.5,3.0,4.5
+35,Anna Šabatová,UNHR,3.0,4.0,4.5,3.0,5.0
+36,Anshu Gupta,RM,3.5,3.0,3.5,3.0,3.5
+37,Anton Soedjarwo,RM,3.5,3.0,3.5,2.5,4.5
+38,Antonio Fortich,RM,3.0,3.0,4.0,2.5,4.5
+39,Antonio Oposa,RM,3.5,4.0,5.0,3.0,5.0
+40,Anwar Sadat,NPP,4.0,4.5,4.5,2.5,4.5
+41,Aristide Briand,NPP,3.5,4.0,4.5,2.5,4.0
+42,Arthur Henderson,NPP,3.0,3.5,4.5,3.0,4.5
+43,Arturo Alcaraz,RM,3.5,3.5,5.0,3.0,4.5
+44,Arun Shourie,RM,2.0,3.5,5.0,2.5,4.0
+45,Aruna Roy,RM,3.5,4.0,5.0,3.0,5.0
+46,Arvind Kejriwal,RM,4.0,4.0,5.0,2.5,4.0
+47,Asma Jahangir,RM,4.5,5.0,5.0,3.0,4.5
+48,Atmakusumah Astraatmadja,RM,3.0,4.0,4.5,3.0,4.0
+49,Auguste Beernaert,NPP,3.0,4.0,5.0,3.0,3.0
+50,Aung San Suu Kyi,NPP,2.5,4.0,5.0,2.5,4.5
+51,Austen Chamberlain,NPP,2.5,3.5,4.5,3.0,3.5
+52,B. C. Shekhar,RM,3.0,3.0,4.5,3.0,3.5
+53,B. G. Verghese,RM,3.5,3.5,4.0,2.5,4.5
+54,Baba Amte,RM,3.0,4.0,5.0,1.5,4.0
+55,Banoo Jehangir Coyaji,RM,3.5,4.0,5.0,2.5,5.0
+56,Barack Obama,NPP,4.5,4.0,5.0,2.0,4.5
+57,Benazir Bhutto,UNHR,4.0,4.0,5.0,3.0,4.0
+58,Benjamin Galstaun,RM,3.5,3.5,4.0,3.0,4.5
+59,Bertha von Suttner,NPP,2.5,4.0,5.0,3.5,5.0
+60,Betty Williams,NPP,3.0,3.5,4.5,3.0,3.5
+61,Bezwada Wilson,RM,3.0,4.0,5.0,3.0,3.5
+62,Bharat Koirala,RM,3.5,3.5,4.0,2.5,4.0
+63,Bienvenido Lumbera,RM,3.0,3.5,5.0,3.0,5.0
+64,Bilquis Edhi,RM,3.0,4.5,5.0,2.5,4.5
+65,Biram Dah Abeid,UNHR,4.0,4.0,5.0,2.0,4.0
+66,Butet Manurung,RM,3.5,4.0,5.0,2.5,5.0
+67,Carl von Ossietzky,NPP,1.5,4.5,5.0,4.5,5.0
+68,Carlos Filipe Ximenes Belo,NPP,2.5,4.0,5.0,2.5,4.0
+69,Carlos Saavedra Lamas,NPP,3.5,4.0,4.5,2.5,4.0
+70,Carolyn Gomes,UNHR,3.0,4.0,4.0,2.5,4.0
+71,Chamlong Srimuang,RM,3.0,3.5,5.0,3.0,4.5
+72,Chandi Prasad Bhatt,RM,2.5,4.5,5.0,2.0,4.5
+73,Chang Chun-ha,RM,3.0,3.0,4.5,3.0,5.0
+74,Chang Kee-ryo,RM,3.0,3.5,5.0,2.5,4.0
+75,Charles Albert Gobat,NPP,3.0,3.0,5.0,3.0,4.0
+76,Charles G. Dawes,NPP,3.5,4.0,5.0,2.0,3.5
+77,Chen Guangcheng,RM,1.5,4.0,5.0,3.0,5.0
+78,Chen Shu-chu,RM,2.0,4.5,5.0,3.0,2.0
+79,Cheng Yen,RM,3.0,3.5,5.0,3.0,4.0
+80,Chintaman Dwarkanath Deshmukh,RM,3.0,4.0,5.0,2.5,5.0
+81,Christian Lous Lange,NPP,2.5,4.0,4.5,3.0,3.5
+82,Chung To,RM,2.5,3.0,5.0,2.5,4.5
+83,Conchita Carpio-Morales,RM,2.5,3.5,5.0,2.0,3.5
+84,Corazon Aquino,RM,3.5,4.0,5.0,3.0,4.0
+85,Cordell Hull,NPP,3.0,4.0,5.0,3.0,3.5
+86,Coretta Scott King,GPP,3.5,4.0,5.0,2.0,4.5
+87,Cynthia Maung,RM,3.0,4.0,5.0,3.0,4.5
+88,Dag Hammarskjöld,NPP,2.5,4.0,5.0,2.5,4.0
+89,Dara Nusserwanji Khurody,RM,3.5,4.5,5.0,1.5,5.0
+90,David Trimble,NPP,3.5,3.5,4.0,2.5,4.0
+91,Deep Joshi,RM,3.0,3.5,5.0,2.5,5.0
+92,Deng Pufang,UNHR,2.5,3.5,4.5,3.0,3.0
+93,Denis Mukwege,NPP,3.0,4.0,5.0,3.0,3.5
+94,Desmond Tutu,NPP,4.0,4.5,5.0,2.0,5.0
+95,Dita Indah Sari,RM,3.0,3.5,5.0,3.5,4.5
+96,Dmitry Muratov,NPP,3.0,3.5,4.5,2.5,4.5
+97,Dominique Pire,NPP,3.0,4.5,4.5,2.5,5.0
+98,Dorothy Stang,UNHR,4.0,5.0,5.0,2.0,4.5
+99,Ediriweera Sarachchandra,RM,2.5,3.0,5.0,3.0,5.0
+100,Eduardo Jorge Anzorena,RM,2.5,3.5,4.5,2.5,5.0
+101,Edward Michael Law-Yone,RM,3.5,3.5,5.0,3.0,5.0
+102,Eisaku Satō,NPP,2.5,4.0,5.0,3.0,3.5
+103,Ela Bhatt,RM,3.5,4.0,5.0,2.5,4.5
+104,Eleanor Roosevelt,UNHR,4.0,4.0,5.0,2.5,5.0
+105,Elie Wiesel,NPP,2.0,4.0,5.0,3.5,5.0
+106,Elihu Root,NPP,2.5,4.5,5.0,3.0,4.5
+107,Ellen Johnson Sirleaf,NPP,4.0,4.0,5.0,2.0,4.0
+108,Elsie Tu,RM,3.5,3.0,5.0,3.0,4.5
+109,Emily Greene Balch,NPP,2.0,4.5,5.0,3.0,5.0
+110,Erica-Irene Daes,UNHR,3.5,3.5,5.0,3.0,5.0
+111,Ernesto Domingo,RM,3.0,3.5,4.5,3.0,4.0
+112,Ernesto Teodoro Moneta,NPP,3.5,3.0,4.5,3.0,4.5
+113,Estela Barnes de Carlotto,UNHR,3.5,4.0,5.0,3.5,4.0
+114,Eugenia Apostol,RM,3.0,3.0,4.5,2.5,4.5
+115,F. Sionil José,RM,3.0,3.5,4.5,2.5,5.0
+116,F. W. de Klerk,NPP,3.0,3.5,4.5,2.5,3.0
+117,Fazle Hasan Abed,RM,3.5,4.0,5.0,2.5,4.5
+118,Fe del Mundo,RM,3.5,3.5,5.0,3.0,5.0
+119,Fei Xiaotong,RM,2.5,3.5,3.5,3.0,4.5
+120,Ferdinand Buisson,NPP,3.5,3.0,5.0,3.0,4.0
+121,Firdausi Qadri,RM,3.5,4.0,5.0,2.0,3.0
+122,Francisca Reyes-Aquino,RM,4.0,4.0,5.0,3.0,5.0
+123,Frank B. Kellogg,NPP,3.0,4.5,5.0,1.5,3.0
+124,Fredrik Bajer,NPP,3.5,3.5,5.0,3.0,5.0
+125,Fridtjof Nansen,NPP,3.0,4.0,5.0,2.0,5.0
+126,Frédéric Passy,NPP,3.0,4.5,5.0,2.5,4.5
+127,Fu Qiping,RM,3.0,3.0,4.5,3.0,4.5
+128,Fua Haripitak,RM,3.0,3.5,4.0,2.5,4.0
+129,Fusae Ichikawa,RM,3.5,3.5,4.5,2.5,4.5
+130,Ganesh Man Singh,UNHR,3.5,3.5,4.0,3.0,4.5
+131,Gao Yaojie,RM,2.0,3.5,5.0,3.5,5.0
+132,Genevieve Caulfield,RM,3.5,4.0,5.0,2.5,5.0
+133,George Marshall,NPP,3.5,3.5,4.0,3.0,5.0
+134,Gerhard Fischer,GPP,3.5,3.5,5.0,3.0,4.0
+135,Gethsie Shanmugam,RM,2.5,4.5,5.0,2.5,5.0
+136,Goh Keng Swee,RM,2.5,3.5,5.0,3.0,3.0
+137,Gour Kishore Ghosh,RM,3.0,3.0,3.5,3.0,5.0
+138,Grace Padaca,RM,3.5,4.0,4.5,2.5,4.5
+139,Gustav Stresemann,NPP,3.5,4.0,5.0,3.0,4.0
+140,HB Jassin,RM,3.5,3.0,4.5,3.0,5.0
+141,Habiba Sarābi,RM,3.0,4.5,5.0,2.5,4.5
+142,Hans Westenberg,RM,3.5,3.0,4.0,3.0,4.5
+143,Harish Hande,RM,3.5,4.0,5.0,2.5,4.5
+144,Hasanain Juaini,RM,3.0,4.0,4.0,3.0,4.5
+145,Hassib Ben Ammar,UNHR,3.5,3.5,5.0,3.0,5.0
+146,Haydee Yorac,RM,3.5,3.5,5.0,3.0,4.0
+147,Helen Kim,RM,3.5,4.5,4.5,3.5,5.0
+148,Helen Suzman,UNHR,3.5,4.0,5.0,2.5,4.5
+149,Henning Holck-Larsen,RM,4.0,4.0,5.0,2.5,4.5
+150,Henri La Fontaine,NPP,3.0,4.0,5.0,3.0,5.0
+151,Henry Dunant,NPP,2.5,4.0,5.0,2.0,4.5
+152,Henry Kissinger,NPP,2.0,2.5,5.0,2.5,3.5
+153,"Hilario Davide, Jr.",RM,3.0,4.0,5.0,2.5,4.5
+154,Hiljmnijeta Apuk,UNHR,2.5,4.0,4.5,3.0,5.0
+155,Hiroshi Kuroki,RM,3.0,3.5,4.5,2.5,4.0
+156,Hjalmar Branting,NPP,4.0,4.0,5.0,2.5,4.0
+157,Horace Kadoorie,RM,3.0,4.0,4.0,2.5,4.5
+158,Hu Shuli,RM,3.5,4.0,5.0,2.0,4.5
+159,Huo Daishan,RM,2.5,4.0,4.5,3.0,4.5
+160,Ibn Abdur Rehman,RM,3.0,3.0,4.0,3.0,5.0
+161,Ikuo Hirayama,RM,2.5,3.5,5.0,2.5,4.5
+162,James B. Reuter,RM,4.0,3.5,5.0,3.0,3.5
+163,James Michael Lyngdoh,RM,2.5,4.0,3.5,2.5,3.0
+164,James P. Grant,UNHR,3.5,3.0,5.0,3.0,3.5
+165,Jane Addams,NPP,4.0,4.0,5.0,3.0,5.0
+166,Jayaprakash Narayan,RM,3.5,3.0,5.0,2.5,3.5
+167,Jesse Robredo,RM,3.5,4.0,5.0,2.0,3.5
+168,Jiang Yanyong,RM,2.0,4.0,4.5,3.5,4.5
+169,Jimmy Carter,NPP,3.0,4.5,5.0,2.0,4.5
+170,Jirō Kawakita,RM,3.0,3.5,4.5,3.0,4.5
+171,Jockin Arputham,RM,4.0,4.0,4.5,2.5,4.5
+172,Jody Williams,NPP,3.0,3.5,5.0,3.0,4.5
+173,John Boyd Orr,NPP,2.5,4.5,5.0,2.0,4.5
+174,John Hume,NPP,3.5,3.5,4.0,3.0,3.5
+175,John Mott,NPP,3.0,3.5,4.0,2.5,4.0
+176,John Peters Humphrey,UNHR,3.0,4.5,5.0,3.0,4.5
+177,Jon Ungpakorn,RM,3.0,4.0,4.5,3.0,5.0
+178,Joseph Rotblat,NPP,3.0,4.0,5.0,3.0,3.5
+179,José Gregori,UNHR,3.0,3.0,5.0,3.0,5.0
+180,José Ramos-Horta,NPP,4.0,4.5,5.0,2.0,4.5
+181,Jovito R. Salonga,RM,3.5,4.0,5.0,2.0,4.0
+182,Joênia Wapichana,UNHR,3.5,4.0,5.0,2.5,5.0
+183,Juan Manuel Santos,NPP,4.0,4.0,5.0,2.0,4.0
+184,Julienne Lusenge,UNHR,3.5,4.0,5.0,2.5,4.5
+185,Julio Tumiri Javier,UNHR,3.5,3.5,5.0,2.5,2.5
+186,Julius Nyerere,GPP,3.5,4.0,5.0,2.5,4.5
+187,K. V. Subbanna,RM,2.5,3.5,5.0,2.5,5.0
+188,Ka Hsaw Wa,RM,2.0,3.5,5.0,3.0,5.0
+189,Kailash Satyarthi,NPP,4.0,4.0,5.0,2.0,4.0
+190,Kamaladevi Chattopadhyay,RM,4.0,4.0,5.0,2.5,5.0
+191,Khadija Ryadi,UNHR,3.5,3.5,5.0,3.5,4.5
+192,Kim Dae-jung,NPP,3.0,4.0,5.0,2.5,4.0
+193,Kim Yong-ki,RM,3.5,3.0,3.5,3.0,4.5
+194,Kiran Bedi,RM,4.0,4.0,5.0,2.0,5.0
+195,Klas Pontus Arnoldson,NPP,3.0,5.0,5.0,2.5,4.0
+196,Kofi Annan,NPP,3.5,4.0,4.5,2.0,4.0
+197,Koul Panha,RM,3.0,3.5,5.0,3.0,4.0
+198,Krasae Chanawongse,RM,3.5,3.5,4.0,2.5,4.5
+199,Krisana Kraisintu,RM,3.0,4.0,5.0,2.0,4.0
+200,Kulandei Francis,RM,3.5,4.0,5.0,2.5,4.5
+201,Kwoh-Ting Li,RM,3.0,3.5,4.5,3.0,3.5
+202,Kyaw Thu,RM,2.5,3.5,4.5,3.0,5.0
+203,LaSalle Ishii,RM,3.5,3.5,4.0,2.5,5.0
+204,Lahpai Seng Raw,RM,3.0,4.0,5.0,2.5,4.5
+205,Lakshmi Chand Jain,RM,3.5,3.5,5.0,3.0,4.0
+206,"Lawrence Kadoorie, Baron Kadoorie",RM,4.0,4.0,5.0,2.0,4.0
+207,Laxminarayan Ramdas,RM,3.0,3.5,4.0,2.5,4.5
+208,Le Duc Tho,NPP,3.0,3.0,3.5,2.5,3.0
+209,Lech Wałęsa,NPP,4.0,4.0,5.0,2.5,4.0
+210,Lee Tai-young,RM,3.0,4.5,5.0,2.5,4.5
+211,Leonidas Proaño,UNHR,3.5,3.5,4.0,2.5,5.0
+212,Lester B. Pearson,NPP,3.5,4.0,4.5,2.5,3.5
+213,Leymah Roberta Gbowee,NPP,4.0,4.0,5.0,3.5,5.0
+214,Liang Congjie,RM,2.5,3.5,4.0,3.0,4.0
+215,Ligaya Fernando-Amilbangsa,RM,3.5,4.0,5.0,3.0,5.0
+216,Liisa Kauppinen,UNHR,2.0,4.5,5.0,2.0,4.5
+217,Lim Kim San,RM,3.0,3.5,4.0,2.5,3.0
+218,Lin Hwai-min,RM,2.5,4.0,5.0,2.5,5.0
+219,Lino Brocka,RM,3.5,3.0,5.0,3.0,5.0
+220,Linus Pauling,NPP,3.5,4.5,5.0,2.0,5.0
+221,Liu Xiaobo,NPP,2.5,3.0,5.0,3.0,4.5
+222,Louis Renault,NPP,3.5,3.0,5.0,3.0,3.0
+223,Louise Arbour,UNHR,3.0,4.0,4.5,2.5,3.0
+224,Ludwig Quidde,NPP,2.0,4.5,4.5,2.5,4.0
+225,Léon Bourgeois,NPP,2.5,4.0,5.0,2.5,4.5
+226,Léon Jouhaux,NPP,3.0,4.0,5.0,3.5,4.0
+227,M. S. Subbulakshmi,RM,3.5,4.5,5.0,2.5,5.0
+228,M. S. Swaminathan,RM,3.0,4.0,5.0,2.0,3.5
+229,Ma Jun,RM,3.0,3.0,4.5,3.5,4.5
+230,Mabelle Arole,RM,3.5,3.0,5.0,3.0,4.5
+231,Mahabir Pun,RM,4.0,4.0,5.0,2.0,4.5
+232,Mahasweta Devi,RM,3.0,3.0,5.0,4.0,5.0
+233,Mahesh Chandra Mehta,RM,3.5,3.5,5.0,3.0,4.5
+234,Mahesh Chandra Regmi,RM,3.5,3.0,4.5,3.0,4.5
+235,Mairead Maguire,NPP,3.0,4.0,5.0,1.5,4.5
+236,Malala Yousafzai,NPP,4.0,4.5,5.0,2.0,4.5
+237,Mandakini Amte,RM,3.5,3.5,5.0,3.0,4.5
+238,Manibhai Desai,RM,3.0,3.0,4.5,3.0,3.5
+239,Manna Dey,RM,3.0,3.5,5.0,2.5,5.0
+240,Manuel Bianchi Gundián,UNHR,3.5,3.5,4.0,3.0,4.5
+241,Marcelline Jayakody,RM,3.5,3.0,4.5,3.0,4.5
+242,Maria Ressa,NPP,4.0,4.0,5.0,3.0,5.0
+243,Maria de Lourdes Martins Cruz,RM,3.0,4.0,5.0,2.5,4.5
+244,Martin Luther King Jr.,NPP,5.0,4.5,5.0,2.5,5.0
+245,Martti Ahtisaari,NPP,3.0,4.0,5.0,2.5,4.0
+246,Mary Rutnam,RM,3.0,4.0,4.5,3.0,4.5
+247,María Lavalle Urbina,UNHR,3.0,4.0,5.0,3.0,5.0
+248,Masanobu Fukuoka,RM,1.5,4.5,5.0,1.5,5.0
+249,Matiur Rahman,RM,3.0,3.0,4.0,3.0,4.0
+250,Mechai Viravaidya,RM,4.5,4.0,5.0,2.0,3.5
+251,Mehrangiz Manoochehrian,UNHR,3.0,3.5,4.5,3.5,4.5
+252,Menachem Begin,NPP,2.5,3.0,5.0,3.0,3.5
+253,Michiko Ishimure,RM,3.0,4.0,4.5,3.0,4.5
+254,Mikhail Gorbachev,NPP,4.0,4.0,5.0,2.0,4.0
+255,Miriam Defensor Santiago,RM,2.5,3.0,5.0,2.0,5.0
+256,Mochtar Lubis,RM,3.0,3.0,4.5,3.0,5.0
+257,Mohamed ElBaradei,NPP,3.0,4.5,4.5,2.5,3.5
+258,Mohamed Suffian Mohamed Hashim,RM,3.0,4.0,4.5,3.0,4.0
+259,Morihiko Hiramatsu,RM,3.5,3.0,3.5,3.0,5.0
+260,Mother Teresa,NPP,2.5,5.0,5.0,2.0,4.0
+261,Muhammad Yunus,NPP,3.5,4.0,5.0,2.5,4.5
+262,Nadia Murad Basee,NPP,3.0,3.0,5.0,4.0,4.5
+263,Narges Mohammadi,NPP,3.5,3.0,5.0,3.0,4.5
+264,Nathan Söderblom,NPP,3.0,4.0,4.5,2.5,3.5
+265,Ne Win,RM,3.0,3.0,4.5,3.0,3.5
+266,Nelson Mandela,NPP,4.5,4.5,5.0,2.0,4.5
+267,Nelson Rockefeller,RM,5.0,4.0,5.0,2.5,4.0
+268,Nguyen Lac Hoa,RM,3.5,3.5,3.5,3.0,4.5
+269,Nicholas Murray Butler,NPP,3.5,4.5,5.0,1.5,4.5
+270,Nick Joaquin,RM,3.5,3.0,5.0,3.0,5.0
+271,Nilawan Pintong,RM,3.0,4.0,4.0,2.5,4.5
+272,Nileema Mishra,RM,3.5,4.0,4.5,2.5,5.0
+273,Noboru Iwamura,RM,3.5,3.5,5.0,3.0,3.5
+274,Norman Angell,NPP,3.0,4.0,5.0,3.0,3.5
+275,Norman Borlaug,NPP,3.5,4.0,5.0,2.0,2.5
+276,Omara Khan Massoudi,RM,3.5,3.0,4.5,3.0,4.5
+277,P. K. Sethi,RM,3.0,3.0,5.0,2.5,4.5
+278,Palagummi Sainath,RM,3.0,3.0,5.0,3.0,5.0
+279,Palayil Narayanan,RM,3.5,3.0,3.5,3.0,3.5
+280,Pan Yue,RM,3.0,3.5,4.0,2.5,4.0
+281,Pandurang Shastri Athavale,RM,3.5,3.5,5.0,2.5,5.0
+282,Park Won-soon,RM,3.5,4.0,4.5,2.5,4.5
+283,Patrick James McGlinchey,RM,3.5,3.5,4.0,2.5,4.5
+284,Paul-Henri-Benjamin d'Estournelles de Constant,NPP,3.0,4.0,5.0,2.5,4.0
+285,Pedro Orata,RM,3.5,3.0,4.5,3.0,5.0
+286,Petr Emelyanovich Nedbailo,UNHR,3.0,3.0,3.5,3.0,5.0
+287,"Philip Noel-Baker, Baron Noel-Baker",NPP,3.0,4.0,5.0,3.0,5.0
+288,Pomnyun,RM,3.5,3.5,3.5,3.0,3.5
+289,Prakash Amte,RM,3.5,4.0,5.0,2.5,4.5
+290,Pramoedya Ananta Toer,RM,3.0,3.0,4.5,3.0,5.0
+291,Prateep Ungsongtham Hata,RM,3.5,3.5,3.5,3.0,5.0
+292,Prawase Wasi,RM,3.5,4.0,5.0,2.5,4.5
+293,Prayoon Chanyavongs,RM,2.5,3.5,4.0,2.5,4.5
+294,Prince Sadruddin Aga Khan,UNHR,3.5,4.0,4.5,2.0,5.0
+295,Puey Ungpakorn,RM,3.5,3.0,4.5,3.0,4.5
+296,R. K. Laxman,RM,2.0,3.0,3.5,3.0,5.0
+297,Ra'ana Liaquat Ali Khan,UNHR,3.5,4.5,5.0,2.5,5.0
+298,Rajanikant Arole,RM,3.0,3.5,5.0,2.5,3.5
+299,Rajendra Singh,RM,3.5,3.5,4.0,2.5,3.5
+300,Ralph Bunche,NPP,3.0,4.5,5.0,1.5,4.5
+301,Ramsey Clark,UNHR,3.0,3.0,4.0,3.0,4.0
+302,Randal Cremer,NPP,3.5,3.5,4.5,2.5,3.5
+303,Ravi Shankar,RM,3.5,3.5,5.0,3.0,3.5
+304,Ravish Kumar,RM,3.0,3.0,3.5,3.0,4.0
+305,René Cassin,NPP,3.5,4.5,5.0,2.5,4.5
+306,Richard William Timm,RM,3.0,3.5,4.5,2.5,5.0
+307,Rigoberta Menchú,NPP,2.5,3.5,5.0,3.0,5.0
+308,Rizwana Hasan,RM,3.0,3.0,4.5,3.5,4.5
+309,Robert Cecil,NPP,3.0,3.0,5.0,3.0,4.5
+310,Romulo Davide,RM,3.5,3.0,4.5,3.0,3.5
+311,Rosa Rosal,RM,3.5,3.5,5.0,3.0,4.5
+312,Ruth Pfau,RM,3.0,4.5,5.0,2.0,4.5
+313,Saburo Okita,RM,3.0,3.0,4.5,3.0,4.0
+314,Sadako Ogata,RM,3.0,4.0,5.0,2.5,3.5
+315,Sandeep Pandey,RM,3.5,3.5,4.0,3.0,3.5
+316,Sanduk Ruit,RM,3.5,4.0,5.0,2.0,3.0
+317,Sanjiv Chaturvedi,RM,2.5,3.5,5.0,3.0,5.0
+318,Satyajit Ray,RM,2.5,4.0,5.0,2.5,5.0
+319,Schulamit König,UNHR,3.5,4.0,4.5,2.5,5.0
+320,Seewoosagur Ramgoolam,UNHR,3.5,3.5,4.5,2.5,5.0
+321,Seiei Tōyama,RM,2.5,3.0,4.5,2.5,5.0
+322,Seiichi Tobata,RM,2.5,3.0,4.5,3.0,4.5
+323,Seán MacBride,NPP,3.5,4.0,5.0,3.0,5.0
+324,Shahrum bin Yub,RM,3.5,4.5,4.5,3.0,5.0
+325,Shantha Sinha,RM,3.5,4.0,5.0,2.5,5.0
+326,Sheila Coronel,RM,3.5,3.0,4.0,2.5,5.0
+327,Shigeharu Matsumoto,RM,3.0,3.5,4.0,3.0,4.5
+328,Shimon Peres,NPP,4.0,4.0,5.0,2.0,4.5
+329,Shirin Ebadi,NPP,3.0,4.5,5.0,1.5,5.0
+330,Shiroshi Nasu,RM,3.0,3.5,3.5,3.0,5.0
+331,Shoaib Sultan Khan,RM,3.5,4.0,5.0,2.5,4.0
+332,Sima Samar,RM,3.5,3.5,5.0,2.5,4.0
+333,"Sirindhorn, Princess Royal",RM,3.0,4.0,5.0,2.5,5.0
+334,Sithiporn Kridakara,RM,3.5,3.0,4.0,3.0,4.5
+335,Soedjatmoko,RM,3.0,3.5,3.5,3.0,4.5
+336,Sombath Somphone,RM,2.5,4.0,4.5,3.0,4.5
+337,Sombhu Mitra,RM,2.5,3.0,5.0,3.0,5.0
+338,Sonam Wangchuk,RM,3.0,4.0,5.0,2.0,5.0
+339,Sonia Picado Sotela,UNHR,3.5,4.0,5.0,2.0,5.0
+340,Su Nan-cheng,RM,3.0,3.5,5.0,2.5,3.5
+341,Sunila Abeysekera,UNHR,3.5,4.0,4.5,2.5,5.0
+342,Swe Win,RM,3.5,4.5,4.5,2.5,5.0
+343,Sérgio Vieira de Mello,UNHR,3.5,4.0,5.0,2.5,4.0
+344,T. M. Krishna,RM,3.5,4.0,5.0,2.5,5.0
+345,T. N. Seshan,RM,3.0,3.0,4.0,3.0,4.0
+346,Ta-You Wu,RM,3.0,4.0,5.0,2.5,4.5
+347,Tadatoshi Akiba,RM,3.0,4.0,5.0,3.0,4.0
+348,Taha Hussein,UNHR,4.0,3.0,3.5,3.0,5.0
+349,Tahrunessa Abdullah,RM,3.5,3.5,4.0,3.0,4.5
+350,Tang Xiyang,RM,3.0,3.0,4.0,3.0,4.5
+351,Tarzie Vittachi,RM,3.0,3.0,3.0,3.0,5.0
+352,Tawakkol Karman,NPP,4.5,4.0,5.0,2.0,5.0
+353,Tee Tee Luce,RM,3.0,3.5,5.0,2.5,4.5
+354,Tenzin Gyatso,NPP,3.0,4.5,4.5,2.5,5.0
+355,Teten Masduki,RM,3.5,3.5,4.5,2.5,4.5
+356,Tetsu Nakamura,RM,3.0,3.5,4.0,2.5,4.5
+357,Theodore Roosevelt,NPP,5.0,4.0,5.0,2.0,5.0
+358,Timothy Conigrave,UNHR,4.0,4.0,4.0,4.0,5.0
+359,Tobias Asser,NPP,3.5,3.5,5.0,2.5,3.5
+360,Ton That Thien,RM,3.0,3.0,4.0,3.0,4.5
+361,Tony Tay,RM,3.5,3.5,4.5,3.0,5.0
+362,Toshikazu Wakatsuki,RM,3.5,3.0,4.5,3.0,4.5
+363,Tri Mumpuni,RM,4.0,4.0,5.0,1.5,5.0
+364,Tribhuvandas Kishibhai Patel,RM,3.0,3.0,4.5,3.0,4.0
+365,Tunku Abdul Rahman,RM,4.0,4.0,5.0,2.5,3.5
+366,U Thant,UNHR,2.5,4.5,4.5,2.5,4.5
+367,V Shanta,RM,2.5,4.0,5.0,3.0,4.5
+368,Verghese Kurien,RM,4.5,4.5,5.0,2.0,4.5
+369,Vinoba Bhave,RM,2.5,5.0,5.0,2.5,5.0
+370,Vo Tong Xuan,RM,3.5,4.0,5.0,2.0,2.5
+371,Václav Havel,GPP,2.5,4.0,5.0,3.5,5.0
+372,W. D. Amaradeva,RM,3.0,3.5,4.5,3.0,5.0
+373,Wahiduddin Khan,GPP,3.0,3.0,3.5,3.0,4.5
+374,Wang Canfa,RM,2.5,3.0,4.5,2.5,3.0
+375,Wangari Muta Maathai,NPP,4.0,4.0,5.0,2.5,5.0
+376,Washington SyCip,RM,3.0,4.0,5.0,2.0,4.0
+377,Welthy Honsinger Fisher,RM,3.0,4.0,5.0,1.5,5.0
+378,Wilfred Jenks,UNHR,3.0,3.0,4.5,3.0,4.5
+379,William Masterson,RM,3.5,4.0,4.0,2.5,4.0
+380,Willy Brandt,NPP,3.5,4.0,5.0,2.5,4.0
+381,Winnie Madikizela-Mandela,UNHR,4.0,3.0,5.0,3.0,4.0
+382,Woodrow Wilson,NPP,2.5,4.0,5.0,3.0,4.0
+383,Wu Qing,RM,2.5,3.0,4.5,3.0,3.5
+384,Y. C. James Yen,RM,2.5,3.5,5.0,2.5,4.5
+385,Yang Saing Koma,RM,3.5,4.0,5.0,2.0,4.0
+386,Yasser Arafat,NPP,3.5,3.5,4.5,3.5,4.0
+387,Yasuji Hanamori,RM,3.0,3.5,4.0,3.0,4.5
+388,Yi Cheol-seung,RM,3.0,3.0,4.5,3.0,4.5
+389,Ying Ruocheng,RM,3.5,4.0,5.0,2.5,5.0
+390,Yizhak Rabin,NPP,3.0,4.0,5.0,2.0,3.5
+391,Yoon Hye-ran,RM,2.5,3.0,5.0,3.0,4.5
+392,Yoshiaki Ishizawa,RM,3.0,4.0,4.0,3.0,4.5
+393,Yu Xiaogang,RM,2.5,3.0,3.5,3.0,3.5
+394,Yuan Longping,RM,3.0,4.0,5.0,2.0,2.0
+395,Yukiharu Miki,RM,2.5,3.0,5.0,3.0,4.5
+396,Zafrullah Chowdhury,RM,3.0,4.5,4.5,2.5,4.5
+397,Zakiah Hanum Abd Hamid,RM,3.0,3.5,3.5,3.0,4.5
+398,Élie Ducommun,NPP,3.0,4.0,5.0,3.0,4.5
+399,Óscar Arias Sánchez,NPP,3.5,4.0,4.5,2.5,4.5

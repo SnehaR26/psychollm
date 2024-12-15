@@ -1,0 +1,401 @@
+,Name,source,Extraversion,Agreeableness,Conscientiousness,Neuroticism,Openness
+0,2 Pistols,Druglord,3.5,3.0,4.5,2.5,4.5
+1,Abdelhamid Abaaoud,Terrorist,1.0,1.0,3.0,3.0,3.0
+2,Abdolmalek Rigi,Terrorist,2.5,3.0,5.0,4.0,3.0
+3,Abdulaziz al-Omari,Terrorist,3.0,3.0,5.0,3.0,3.5
+4,Abdullah Ahmed Abdullah,Terrorist,3.0,3.0,4.0,3.0,4.5
+5,Abner Zwillman,Gangster,3.5,3.0,5.0,2.0,5.0
+6,Abu Ali al-Anbari,Terrorist,3.0,3.0,5.0,3.0,3.5
+7,Abu Bakr al-Baghdadi,Terrorist,2.0,2.0,5.0,2.0,2.0
+8,Abu Muslim al-Turkmani,Terrorist,2.0,3.0,5.0,2.0,2.5
+9,Abu Qatada,Terrorist,3.0,3.0,5.0,3.0,4.5
+10,Abu Salem,Gangster,3.0,3.0,4.5,3.0,4.5
+11,Abu Suleiman al-Naser,Terrorist,3.0,3.0,5.0,3.0,3.5
+12,Adolf Hitler,Dictator,1.5,1.5,5.0,3.0,5.0
+13,Adolfo Constanzo,Druglord,3.0,3.0,5.0,3.0,5.0
+14,Ahmed al-Nami,Terrorist,3.5,3.5,4.5,3.0,4.5
+15,Aileen Wuornos,SerialKiller,3.0,2.0,4.0,5.0,2.0
+16,Akmal Shaikh,Druglord,3.0,3.0,3.5,3.0,4.0
+17,Al Capone,Gangster,5.0,1.5,4.5,3.0,4.0
+18,Albert Anastasia,Gangster,3.0,3.0,5.0,3.0,5.0
+19,Albert Fish,SerialKiller,1.5,3.0,4.5,3.0,4.0
+20,Alberto Franceschini,Terrorist,3.0,3.0,4.5,3.0,4.5
+21,Alexander Pichushkin,SerialKiller,3.0,1.0,5.0,3.0,5.0
+22,Alfredo Stroessner,Dictator,3.0,2.0,5.0,2.5,4.0
+23,Amado Carrillo ( el señor de los cielos),Druglord,3.5,2.5,5.0,2.5,5.0
+24,Amelia Dyer,SerialKiller,3.0,3.0,3.5,4.0,4.0
+25,An Jung-geun,Terrorist,3.0,3.5,5.0,2.5,5.0
+26,Anastasia Bitsenko,Terrorist,3.0,3.0,5.0,3.0,5.0
+27,Anastasio Somoza Debayle,Dictator,3.5,2.0,5.0,2.0,2.5
+28,Anatoly Onoprienko,SerialKiller,1.0,1.0,5.0,3.0,4.0
+29,Anders Behring Breivik,Terrorist,1.0,1.0,5.0,3.0,2.0
+30,Andreas Baader,Terrorist,3.0,1.5,4.0,3.0,5.0
+31,Andrew Chan,Druglord,3.0,3.0,4.5,3.0,4.5
+32,Andrew Cunanan,SerialKiller,4.5,2.5,4.0,3.0,5.0
+33,Andréi Chikatilo,SerialKiller,1.0,1.0,4.0,4.0,3.5
+34,Angelo Bruno,Gangster,3.5,3.0,5.0,3.0,4.0
+35,Anthony Casso,Druglord,2.0,2.0,5.0,3.0,3.5
+36,Anthony Corallo,Gangster,2.5,3.5,5.0,3.0,3.0
+37,Anthony Spilotro,Gangster,3.0,2.5,5.0,4.0,5.0
+38,António Sampaio da Nóvoa,Terrorist,3.5,4.0,5.0,2.5,4.5
+39,António de Oliveira Salazar,Dictator,1.0,3.0,5.0,3.0,3.5
+40,Aquilino Ribeiro,Terrorist,3.5,3.0,4.5,3.0,5.0
+41,Arturo Beltrán Leyva,Druglord,3.5,2.5,5.0,2.0,4.0
+42,Arturo Guzmán Decena,Druglord,3.0,3.0,5.0,3.0,4.5
+43,Aslan Usoyan,Gangster,3.0,3.0,4.5,3.0,3.5
+44,Assata Shakur,Terrorist,2.5,2.5,5.0,3.0,5.0
+45,Atique Ahmed,Gangster,3.0,3.0,3.5,3.0,3.5
+46,Atiyah Abd al-Rahman,Terrorist,3.5,3.0,5.0,3.0,4.5
+47,Augusto Pinochet,Dictator,2.5,2.0,5.0,3.0,2.5
+48,Avraham Stern,Terrorist,3.0,3.0,4.5,3.0,4.0
+49,Baba Anujka,SerialKiller,3.0,3.0,3.5,3.0,4.0
+50,Baby Face Nelson,SerialKiller,4.5,2.5,4.0,4.0,4.0
+51,Barbara Balzerani,Terrorist,3.0,3.0,5.0,3.0,5.0
+52,Barry Seal,Druglord,3.5,4.0,4.0,3.0,3.0
+53,Beate Zschäpe,Terrorist,2.0,2.0,3.0,3.5,3.0
+54,Belle Gunness,SerialKiller,2.0,2.0,4.5,3.0,4.5
+55,Benito Mussolini,Dictator,4.5,1.5,5.0,2.5,4.0
+56,Benjamín Arellano Félix,Druglord,3.0,2.0,4.5,3.0,2.5
+57,Beverley Allitt,SerialKiller,2.0,2.0,3.0,4.0,3.0
+58,Bijeh,SerialKiller,2.5,3.0,4.5,3.0,4.5
+59,Billy the Kid,SerialKiller,2.5,2.5,4.5,3.0,5.0
+60,Bobby Joe Long,SerialKiller,1.5,2.0,5.0,5.0,2.5
+61,Boris Savinkov,Terrorist,2.0,3.0,4.5,3.0,4.5
+62,Bruce Edwards Ivins,Terrorist,2.0,3.0,5.0,3.5,4.5
+63,Bruno Lüdke,SerialKiller,2.0,3.0,4.0,3.0,2.0
+64,Bugs Moran,Gangster,2.5,2.5,4.5,3.0,3.5
+65,Bugsy Siegel,Gangster,4.0,2.5,5.0,2.5,4.5
+66,Béla Kiss,SerialKiller,2.0,2.5,5.0,3.0,4.5
+67,Cameron Douglas,Druglord,3.5,4.0,4.0,3.0,4.5
+68,Carl Großmann,SerialKiller,3.0,3.0,3.5,3.0,4.5
+69,Carl Panzram,SerialKiller,1.0,1.0,3.0,3.0,1.0
+70,Carlos Lehder,Druglord,3.0,3.0,4.0,3.0,3.5
+71,Carlos the Jackal,Terrorist,3.0,3.0,4.0,3.0,5.0
+72,Carmine Galante,Druglord,3.0,2.5,5.0,3.0,4.0
+73,Carmine Persico,Gangster,2.5,3.0,5.0,3.0,3.5
+74,Carmine Tramunti,Gangster,3.0,3.0,5.0,3.0,3.0
+75,Cesare Battisti,Terrorist,3.0,3.0,4.5,3.0,4.0
+76,"Charles ""Tex"" Watson",SerialKiller,3.0,3.0,4.0,4.0,4.0
+77,Charles Manson,SerialKiller,4.0,1.0,3.0,4.0,5.0
+78,Charles Ng,SerialKiller,3.0,3.0,4.5,3.0,3.5
+79,Charles Sobhraj,SerialKiller,2.5,2.0,3.5,3.0,3.5
+80,Charles Starkweather,SerialKiller,2.0,1.5,3.0,4.5,2.5
+81,Cheung Tze-keung,Gangster,4.5,2.0,4.5,3.5,4.5
+82,Chhota Shakeel,Gangster,3.0,3.0,4.5,3.0,3.5
+83,Christopher Coke,Druglord,3.5,3.5,5.0,3.0,4.0
+84,Ciro Terranova,Gangster,3.0,3.0,4.5,3.0,4.5
+85,Cleveland Torso Murderer,SerialKiller,1.0,2.0,5.0,4.0,5.0
+86,Comrade Artemio,Terrorist,3.0,3.0,4.5,3.0,4.5
+87,Dagmar Overby,SerialKiller,1.0,2.0,3.0,5.0,2.0
+88,Dairo Antonio Úsuga David,Terrorist,3.0,3.0,5.0,2.0,3.0
+89,Danny Rolling,SerialKiller,3.0,3.0,3.0,3.5,4.5
+90,Darya Nikolayevna Saltykova,SerialKiller,1.0,1.0,5.0,3.0,1.0
+91,David Berkowitz,SerialKiller,2.0,2.5,3.5,3.5,5.0
+92,David Berman,Gangster,3.0,3.5,4.5,3.0,4.5
+93,David Jenkins,Druglord,3.5,4.0,4.0,2.5,4.0
+94,Dawood Ibrahim,Terrorist,3.0,2.0,5.0,3.0,3.0
+95,Dean Corll,SerialKiller,2.5,2.0,4.5,4.0,3.0
+96,Dean O'Banion,Gangster,4.0,3.0,5.0,3.0,3.5
+97,Delphine LaLaurie,SerialKiller,3.0,1.0,5.0,4.0,4.0
+98,Deniz Seki,Druglord,4.0,4.0,5.0,3.0,5.0
+99,Dennis Nilsen,SerialKiller,1.5,2.0,3.5,3.5,3.0
+100,Dennis Rader,SerialKiller,2.0,2.0,5.0,4.0,2.5
+101,Diego Murillo Bejarano,Druglord,3.0,3.0,3.5,3.0,5.0
+102,Diego Osorio,Druglord,3.5,3.5,4.0,3.0,5.0
+103,Dominick Napolitano,Gangster,3.5,2.5,5.0,2.5,4.0
+104,Donato Bilancia,SerialKiller,1.0,2.0,3.5,4.0,2.0
+105,Du Yuesheng,Gangster,3.5,2.5,5.0,2.5,4.0
+106,Dzhokhar Tsarnaev,Terrorist,2.5,3.0,3.0,4.0,3.0
+107,Eazy-E,Druglord,4.5,3.0,5.0,3.0,4.0
+108,Ed Gein,SerialKiller,1.0,2.0,3.5,3.5,5.0
+109,Edgar Valdez Villarreal,Druglord,4.0,2.5,5.0,3.0,3.5
+110,Edith Lagos,Terrorist,3.0,3.0,4.5,3.0,5.0
+111,Edmund Kemper,SerialKiller,1.0,2.0,5.0,3.0,3.0
+112,Eduardo Ravelo,Druglord,3.0,3.0,4.5,3.0,5.0
+113,Edward Bunker,Druglord,3.0,3.0,5.0,3.0,4.5
+114,Ellsworth Raymond Johnson,Druglord,3.5,3.5,5.0,3.0,4.5
+115,Emma Luciana Aispuro,Druglord,3.5,3.5,4.0,3.0,5.0
+116,Emmett Dalton,Gangster,3.0,3.0,4.5,3.0,4.0
+117,Enoch L. Johnson,Gangster,3.5,3.0,4.5,3.0,3.5
+118,Eric Rudolph,Terrorist,2.5,3.0,4.0,3.0,3.5
+119,Ernesto Fonseca Carrillo,Druglord,3.0,3.0,4.5,3.0,4.0
+120,Eugen Weidmann,SerialKiller,2.0,3.0,5.0,3.0,3.5
+121,Fabio Ochoa Vásquez,Druglord,3.0,3.0,5.0,3.0,5.0
+122,Fanny Kaplan,Terrorist,1.5,2.5,4.5,4.0,4.5
+123,Fayez Banihammad,Terrorist,3.5,3.0,5.0,3.0,4.0
+124,Ferdinand Marcos,Dictator,4.0,3.0,5.0,2.0,3.0
+125,Fidel Castro,Dictator,4.0,3.0,5.0,2.5,5.0
+126,Francesco Di Carlo,Druglord,3.5,3.5,4.5,3.0,4.0
+127,Francisco Franco,Dictator,2.0,2.0,5.0,2.0,4.0
+128,Francisco Javier López Peña,Terrorist,3.0,3.0,4.0,3.0,3.0
+129,Frank Capone,Gangster,3.0,3.0,4.5,3.0,3.0
+130,Frank Cullotta,Gangster,3.5,2.0,5.0,3.5,2.5
+131,Frank James,Gangster,3.5,3.0,4.5,3.0,4.5
+132,Frank Lucas,Druglord,3.0,3.0,4.5,3.0,3.0
+133,Frank Scalice,Gangster,3.5,3.0,3.5,2.5,3.5
+134,František Mrázek,Gangster,3.0,3.0,3.5,3.0,4.0
+135,François Marcantoni,Gangster,3.0,3.0,5.0,3.0,4.5
+136,Fred West,SerialKiller,3.0,3.0,4.5,3.0,4.0
+137,Fritz Honka,SerialKiller,1.5,1.0,3.0,4.0,2.0
+138,Fulgencio Batista,Dictator,4.0,2.5,4.5,3.0,3.0
+139,Gaetano Reina,Gangster,2.5,3.0,4.5,2.5,4.5
+140,Gary Ridgway,SerialKiller,1.0,2.0,4.5,3.0,2.0
+141,George Jung,Druglord,4.0,3.0,5.0,3.0,5.0
+142,Georgios Papadopoulos,Dictator,3.0,3.0,4.0,3.0,4.5
+143,Gerlando Alberti,Gangster,3.0,3.0,4.5,3.0,4.5
+144,Gilberto Rodríguez Orejuela,Druglord,3.0,2.5,5.0,3.0,3.0
+145,Gonzalo Gaviria,Druglord,3.0,3.0,4.5,3.0,4.0
+146,"Greg ""Cadillac"" Anderson",Druglord,3.5,4.0,4.5,2.0,4.5
+147,Griselda Blanco,Druglord,2.0,2.0,5.0,4.0,4.5
+148,Gudrun Ensslin,Terrorist,3.0,2.5,5.0,3.0,5.0
+149,H. H. Holmes,SerialKiller,2.0,2.0,5.0,3.5,4.5
+150,Hagop Hagopian,Terrorist,2.5,3.0,4.0,3.0,4.5
+151,Harold Shipman,SerialKiller,1.5,1.0,5.0,4.0,3.0
+152,Henri Désiré Landru,SerialKiller,2.5,2.0,4.5,3.0,5.0
+153,Henry Hill,Druglord,3.5,3.0,4.5,3.0,3.0
+154,Henry Lee Lucas,SerialKiller,2.0,1.0,3.0,4.0,2.0
+155,Herbert Mullin,SerialKiller,2.0,1.0,4.0,4.5,5.0
+156,Heriberto Lazcano Lazcano,Druglord,3.0,3.0,5.0,2.0,3.0
+157,Hiroshi Maeue,SerialKiller,2.0,3.0,4.0,3.0,3.5
+158,Horst Söhnlein,Terrorist,3.0,4.0,5.0,3.0,4.5
+159,Hosni Mubarak,Dictator,3.0,3.0,5.0,2.5,3.0
+160,Howard Marks,Druglord,3.0,3.5,5.0,3.0,4.5
+161,Huang Jinrong,Gangster,3.0,3.0,5.0,3.0,3.5
+162,Héctor Beltrán Leyva,Druglord,3.0,2.0,5.0,2.0,5.0
+163,Héctor Luis Palma Salazar Hueco,Druglord,3.0,3.0,4.5,3.0,4.0
+164,Hélmer Herrera Buitrago,Druglord,3.5,3.0,5.0,3.0,4.0
+165,Idi Amin,Dictator,4.5,4.0,5.0,3.0,3.5
+166,Ignacio Coronel Villarreal,Druglord,3.5,3.0,4.5,3.0,4.0
+167,Ignacy Hryniewiecki,Terrorist,3.0,3.0,5.0,3.0,4.0
+168,Ignazio Lupo,Gangster,2.5,3.0,4.5,3.0,3.0
+169,Ismael Zambada Garcia,Druglord,3.0,2.0,5.0,2.0,3.0
+170,Iñaki de Juana Chaos,Terrorist,1.5,3.0,5.0,2.5,5.0
+171,Jack McGurn,Gangster,3.5,3.0,4.0,3.0,4.5
+172,Jack Unterweger,SerialKiller,3.0,3.0,4.5,3.0,4.0
+173,Jack the Ripper,SerialKiller,1.0,1.0,4.5,4.0,5.0
+174,Jackie D'Amico,Gangster,3.5,3.5,4.0,3.0,4.5
+175,Jackie DiNorscio,Gangster,5.0,3.5,4.0,1.5,4.5
+176,James Burke,Druglord,3.0,3.0,4.5,3.0,4.5
+177,James Coonan,Gangster,3.5,3.0,4.5,3.0,5.0
+178,Jane Toppan,SerialKiller,3.5,2.0,5.0,3.0,4.0
+179,Javed Iqbal,SerialKiller,3.0,3.0,5.0,3.0,4.0
+180,Jean-Claude Duvalier,Dictator,3.0,3.0,4.0,3.0,3.0
+181,Jeffrey Dahmer,SerialKiller,1.0,2.0,3.5,3.5,2.0
+182,Jegor Sozonov,Terrorist,3.5,3.0,4.0,3.0,4.0
+183,Jerome Bettis,Druglord,4.5,4.0,5.0,2.0,3.0
+184,Jerry Brudos,SerialKiller,1.0,1.5,3.0,3.0,2.0
+185,Jesse James Hollywood,Druglord,3.0,2.5,3.5,3.5,2.5
+186,Jhon Jairo Velásquez,Druglord,4.0,3.0,5.0,3.5,3.0
+187,Jim Younger,Gangster,2.0,3.5,4.5,3.0,4.5
+188,Jimmy Chérizier,Gangster,3.0,2.0,5.0,2.0,2.5
+189,Joaquín Guzmán Loera,Druglord,4.0,2.0,5.0,3.5,4.0
+190,Joe Adonis,Gangster,3.5,3.0,4.5,3.0,3.5
+191,Joe Profaci,Druglord,3.0,3.0,5.0,3.0,4.5
+192,John A. Gotti,Gangster,3.5,2.5,5.0,2.0,3.5
+193,John Bodkin Adams,SerialKiller,2.0,3.0,5.0,3.0,2.5
+194,John Christie,SerialKiller,2.5,3.0,4.0,2.5,4.0
+195,John Franzese,Gangster,3.0,3.0,4.5,3.0,4.0
+196,John Gotti,Gangster,4.0,3.0,5.0,2.5,2.5
+197,John Haigh,SerialKiller,3.0,3.5,4.0,3.0,3.5
+198,John Holmes,Druglord,3.0,3.0,4.5,3.0,4.5
+199,"John Paul, Sr.",Druglord,2.5,4.0,5.0,3.0,4.5
+200,John Roselli,Gangster,3.0,3.0,4.0,3.0,3.5
+201,John Wayne Gacy,SerialKiller,3.5,2.5,5.0,3.0,5.0
+202,Johnny Stompanato,Gangster,3.5,3.0,4.5,3.0,4.0
+203,Jorge Rafael Videla,Dictator,2.5,3.0,5.0,3.0,2.0
+204,Joseph Aiuppa,Gangster,1.5,3.0,5.0,3.0,3.0
+205,Joseph Colombo,Gangster,3.0,3.0,5.0,3.0,4.0
+206,Joseph James DeAngelo,SerialKiller,1.0,1.5,4.5,3.0,2.5
+207,Joseph Kony,Terrorist,3.0,2.0,3.0,3.0,2.5
+208,Joseph Paul Franklin,Terrorist,2.0,3.0,4.0,3.0,3.0
+209,Joseph Stalin,Dictator,2.5,1.0,5.0,3.0,3.5
+210,Joseph Valachi,Druglord,3.0,2.5,4.5,3.0,2.5
+211,José Santacruz Londoños,Druglord,3.0,3.0,5.0,3.0,4.5
+212,Juan David Ochoa Vásquez,Druglord,3.0,3.0,4.5,3.0,4.5
+213,Juan García Ábrego,Druglord,3.0,2.5,3.5,3.0,3.5
+214,Juan Nepomuceno Guerra Cárdenas,Druglord,3.5,3.0,5.0,3.0,4.0
+215,Juan Orlando Hernández,Druglord,3.0,3.0,5.0,2.5,3.0
+216,Juan Vallejo Corona,SerialKiller,1.0,3.0,5.0,4.0,2.0
+217,Karl Denke,SerialKiller,1.0,3.0,5.0,3.0,3.0
+218,Kenichi Yamamoto,Gangster,3.0,3.0,4.5,3.0,4.5
+219,Kenneth Bianchi,SerialKiller,3.0,3.0,4.5,4.0,3.5
+220,Khalid Sheikh Mohammed,Terrorist,2.5,2.0,5.0,3.0,4.0
+221,Khalid al-Mihdhar,Terrorist,2.5,3.0,4.0,3.0,3.0
+222,Khalil al-Wazir,Terrorist,3.0,3.5,5.0,3.0,4.5
+223,Khun Sa,Druglord,3.0,3.0,5.0,3.0,5.0
+224,Kim Il-sung,Dictator,4.5,3.5,5.0,1.5,4.5
+225,Kim Jong-il,Dictator,3.5,3.5,5.0,2.0,5.0
+226,Klaas Bruinsma,Druglord,3.0,3.0,4.5,3.0,3.5
+227,Larry Hoover,Gangster,3.0,3.0,5.0,3.0,3.0
+228,Leo Sharp,Druglord,2.5,3.5,4.0,2.5,5.0
+229,Leonarda Cianciulli,SerialKiller,3.0,2.5,5.0,4.0,5.0
+230,Lo Hsing Han,Druglord,3.0,3.0,4.0,3.0,5.0
+231,Louis Buchalter,Gangster,3.0,3.0,5.0,3.0,4.5
+232,Louis Capone,Gangster,3.0,3.0,5.0,3.0,4.0
+233,Lucky Luciano,Druglord,3.5,3.0,5.0,2.5,4.0
+234,Lucy Letby,SerialKiller,2.5,3.5,4.5,3.0,3.0
+235,Luigi Lucheni,Terrorist,1.5,2.0,4.0,3.0,5.0
+236,Luis Alfredo Garavito,SerialKiller,1.0,2.0,3.0,3.0,2.0
+237,Luis Posada Carriles,Terrorist,3.0,2.0,4.5,2.0,2.0
+238,Luke Helder,Terrorist,3.0,4.0,4.0,3.0,5.0
+239,Machine Gun Kelly,Gangster,5.0,3.0,4.0,3.5,5.0
+240,Mad Dog Coll,Gangster,2.0,2.0,5.0,4.0,4.0
+241,Magdalena Kopp,Terrorist,2.5,3.5,4.0,4.0,4.5
+242,Manuel Noriega,Dictator,3.0,3.0,4.5,3.0,3.0
+243,Manya Surve,Gangster,3.5,3.0,5.0,3.0,4.5
+244,Mao Zedong,Dictator,3.0,2.5,5.0,3.0,4.5
+245,Marcel Francisci,Gangster,3.5,3.0,4.5,2.5,3.0
+246,Margherita Cagol,Terrorist,3.0,4.0,5.0,3.5,5.0
+247,Maria Swanenburg,SerialKiller,1.5,3.0,5.0,3.0,4.0
+248,Mario Moretti,Terrorist,3.0,3.5,4.5,3.0,4.5
+249,Marwan al-Shehhi,Terrorist,3.0,3.0,4.5,3.0,3.5
+250,Mary Ann Cotton,SerialKiller,2.0,3.0,4.0,3.0,2.5
+251,Masood Azhar,Terrorist,3.0,3.0,5.0,3.0,3.0
+252,Meyer Lansky,Gangster,2.0,2.5,5.0,2.5,3.0
+253,Michael Nunn,Druglord,3.0,3.5,4.5,2.5,4.0
+254,Michel Fourniret,SerialKiller,1.0,1.0,4.0,5.0,2.0
+255,Michele Greco,Druglord,3.0,3.0,4.5,3.0,4.0
+256,Miguel Emmanuel Figueroa Pérez,Druglord,3.5,3.5,4.0,3.0,5.0
+257,Miguel Garikoitz Aspiazu Rubina,Terrorist,1.5,4.0,5.0,3.5,4.5
+258,Miguel Rodríguez Orejuela,Druglord,3.0,3.0,5.0,3.0,3.5
+259,Miguel Treviño Morales,Druglord,2.5,2.0,5.0,3.0,3.0
+260,Mikhail Popkov,SerialKiller,1.0,3.0,5.0,4.0,4.0
+261,Mobutu Sese Seko,Dictator,4.5,3.0,5.0,2.0,4.5
+262,Mohamed Atta,Terrorist,1.5,3.5,5.0,4.0,2.5
+263,Mohamed Lahouaiej-Bouhlel,Terrorist,2.0,2.5,3.0,4.0,2.0
+264,Monster of Florence,SerialKiller,2.5,3.0,5.0,3.0,4.5
+265,Morris Levy,Gangster,3.5,3.5,4.5,3.0,3.0
+266,Moses Sithole,SerialKiller,2.0,2.0,5.0,4.0,2.5
+267,Mounir el-Motassadeq,Terrorist,3.0,3.0,3.5,3.0,3.5
+268,Muammar Gaddafi,Dictator,4.5,3.5,5.0,3.0,4.5
+269,Murray Riley,Druglord,3.5,3.5,4.0,3.0,4.0
+270,Nancy Spungen,Druglord,4.0,2.5,4.0,4.5,5.0
+271,Nazario Moreno Rodríguez,Druglord,3.0,3.0,5.0,3.0,5.0
+272,Nemesio Oseguera Cervantes,Druglord,2.5,2.0,5.0,2.0,4.0
+273,Nicholas Corozzo,Gangster,4.0,3.0,5.0,2.0,3.0
+274,Nicky Barnes,Druglord,3.5,3.0,5.0,3.0,5.0
+275,Nicodemo Scarfo,Gangster,2.5,3.0,5.0,3.0,3.0
+276,Nicolae Ceaușescu,Dictator,4.0,3.0,5.0,2.0,4.0
+277,Nigel Farage,Terrorist,4.5,2.5,4.5,2.0,2.5
+278,Nipsey Hussle,Gangster,4.5,3.5,5.0,2.0,5.0
+279,Noordin Mohammad Top,Terrorist,3.0,3.0,5.0,3.0,4.0
+280,Nur-Pashi Kulayev,Terrorist,3.0,3.0,3.0,4.0,4.0
+281,Olive Yang,Druglord,3.0,3.5,4.5,3.0,4.5
+282,Omar al-Bashir,Dictator,3.0,2.5,4.5,3.0,3.0
+283,Osama bin Laden,Terrorist,1.0,2.0,5.0,3.0,5.0
+284,Osiel Cárdenas Guillén,Druglord,3.0,3.0,5.0,2.0,4.0
+285,Otelo Saraiva de Carvalho,Terrorist,3.0,3.0,5.0,3.0,4.0
+286,Ottis Toole,SerialKiller,3.0,2.5,3.0,4.0,3.0
+287,Ovidio Guzmán López,Druglord,3.0,3.0,4.5,3.0,3.0
+288,Owney Madden,Gangster,3.0,2.5,4.5,2.5,3.5
+289,Pablo Acosta Villarreal,Druglord,3.0,3.5,4.5,3.0,4.5
+290,Pablo Escobar,Druglord,5.0,2.5,5.0,2.5,5.0
+291,Paul Carbone,Druglord,2.5,3.5,4.5,3.0,4.5
+292,Paul Ricca,Gangster,3.0,3.0,5.0,3.0,3.5
+293,Pedro Avilés Pérez,Druglord,4.0,3.5,4.5,3.0,4.5
+294,Pedro López,SerialKiller,3.5,3.5,4.5,3.0,4.0
+295,Pedro Rodrigues Filho,SerialKiller,3.5,3.0,5.0,1.5,4.0
+296,Pellegrino Morano,Gangster,3.0,3.0,5.0,3.0,4.5
+297,Peter Arshinov,Terrorist,2.5,3.0,5.0,3.0,5.0
+298,Peter Gotti,Gangster,3.0,3.0,4.0,3.0,4.0
+299,Peter Kürten,SerialKiller,3.0,1.0,4.0,3.0,4.0
+300,Peter Milano,Gangster,3.0,3.0,4.5,2.5,4.5
+301,Pierre François Lacenaire,SerialKiller,1.0,1.0,5.0,5.0,5.0
+302,Pol Pot,Dictator,1.0,1.0,4.0,3.0,2.0
+303,Pretty Boy Floyd,Gangster,4.0,3.5,5.0,3.0,5.0
+304,Rafael Aguilar Guajardo,Druglord,3.0,3.0,4.5,3.0,4.0
+305,Rafael Caro Quintero,Druglord,3.0,3.0,5.0,3.0,3.5
+306,Rafael Trujillo,Dictator,4.5,2.5,5.0,3.0,3.5
+307,Rajendra Sadashiv Nikalje,Gangster,3.0,3.0,5.0,3.0,4.5
+308,Ralph Capone,Gangster,3.0,3.0,5.0,3.0,3.0
+309,Ramzi Yousef,Terrorist,1.0,2.0,5.0,3.0,4.0
+310,Ramzi bin al-Shibh,Terrorist,2.0,3.0,3.5,4.5,3.5
+311,Ramón Arellano Félix,Druglord,3.5,2.0,5.0,3.0,2.0
+312,Raymond Washington,Gangster,3.0,3.0,5.0,3.0,4.0
+313,Renato Curcio,Terrorist,2.5,3.0,3.5,3.0,5.0
+314,Renato Vallanzasca,Gangster,4.5,2.5,4.5,3.5,5.0
+315,Ricardo Londoño,Druglord,3.5,3.0,4.5,3.0,5.0
+316,Richard Chase,SerialKiller,3.0,3.0,4.5,3.5,4.5
+317,Richard Ramirez,SerialKiller,2.0,2.0,3.0,4.0,3.0
+318,Richard Reid,Terrorist,3.0,3.0,5.0,3.0,5.0
+319,Robert Berdella,SerialKiller,1.5,1.5,4.5,4.0,5.0
+320,Robert Hansen,SerialKiller,3.0,3.5,4.5,2.5,4.0
+321,Robert Mugabe,Dictator,3.5,3.0,5.0,2.5,3.0
+322,Robert Pickton,SerialKiller,1.5,2.0,4.0,3.0,2.0
+323,Rodney Alcala,SerialKiller,3.0,4.0,5.0,3.0,5.0
+324,Rodolfo Walsh,Terrorist,3.0,3.0,4.0,3.0,5.0
+325,Roy Daugherty,Gangster,2.5,4.0,5.0,2.5,4.5
+326,Roy DeMeo,Druglord,3.5,2.5,5.0,3.0,2.5
+327,Russell Bufalino,Gangster,2.0,2.5,5.0,2.5,3.0
+328,Saddam Hussein,Dictator,3.0,2.0,5.0,3.0,3.0
+329,Sajida Mubarak Atrous al-Rishawi,Terrorist,1.5,1.5,4.5,5.0,2.0
+330,Salah Abdeslam,Terrorist,1.0,2.0,4.0,5.0,2.0
+331,Salvatore D'Aquila,Gangster,3.0,3.0,4.5,3.0,4.5
+332,Salvatore Montagna,Gangster,3.0,3.0,4.5,3.0,3.5
+333,Salvatore Riina,SerialKiller,3.0,1.0,5.0,3.0,2.0
+334,Sam Giancana,Gangster,3.5,3.0,5.0,3.0,4.5
+335,Sam Jones,Druglord,3.0,3.5,4.0,3.0,4.5
+336,Samuel Byck,Terrorist,2.5,2.0,3.0,4.0,4.5
+337,Samuel Little,SerialKiller,1.5,2.0,4.5,3.0,4.5
+338,Santo Trafficante,Gangster,2.5,3.0,4.5,3.0,3.0
+339,"Santo Trafficante, Sr.",Gangster,3.0,2.5,5.0,3.0,2.0
+340,Satoshi Kirishima,Terrorist,3.0,3.5,4.0,3.0,4.0
+341,Schapelle Corby,Druglord,3.0,3.0,4.0,4.0,4.5
+342,Sergey Stepnyak-Kravchinsky,Terrorist,3.5,3.5,5.0,3.0,5.0
+343,Serhiy Tkach,SerialKiller,1.5,3.0,5.0,3.0,4.0
+344,Shoko Asahara,Terrorist,2.5,3.0,4.0,3.0,5.0
+345,Slobodan Milošević,Dictator,3.0,2.5,5.0,4.0,4.0
+346,Soapy Smith,Gangster,4.0,3.0,4.0,3.0,3.5
+347,Souhaila Andrawes,Terrorist,2.5,3.0,5.0,4.0,5.0
+348,South Park Mexican,Druglord,3.5,3.0,3.5,3.0,5.0
+349,"Stanley ""Tookie"" Williamp",Gangster,3.0,3.5,4.5,3.5,4.5
+350,Stefano Delle Chiaie,Terrorist,3.5,2.0,5.0,2.0,5.0
+351,Stepan Bandera,Terrorist,3.0,3.0,5.0,3.0,4.0
+352,Stepan Khalturin,Terrorist,3.0,3.5,5.0,3.0,4.5
+353,Steve Francis,Druglord,3.0,3.0,4.0,3.0,4.0
+354,Suharto,Dictator,3.0,3.0,4.5,3.0,3.5
+355,Susan Atkins,SerialKiller,3.5,4.0,4.5,3.0,5.0
+356,Tadamasa Goto,Gangster,3.0,3.0,4.5,3.0,4.0
+357,Tamerlan Tsarnaev,Terrorist,2.0,3.0,4.5,2.0,4.5
+358,Ted Bundy,SerialKiller,3.0,2.0,5.0,3.0,4.0
+359,Ted Kaczynski,Terrorist,1.0,1.0,5.0,4.0,5.0
+360,Terry Nichols,Terrorist,2.0,2.5,4.5,4.0,3.0
+361,The Axeman of New Orleans,SerialKiller,2.0,2.5,5.0,3.0,4.0
+362,Thomas DeSimone,Gangster,5.0,2.5,4.5,3.5,4.5
+363,Thomas Eboli,Gangster,3.0,3.0,4.5,3.0,3.5
+364,Thug Behram,SerialKiller,3.0,2.0,4.5,2.0,4.5
+365,Timothy McVeigh,Terrorist,1.5,1.0,5.0,3.0,3.0
+366,Tommaso Buscetta,Druglord,2.5,2.5,5.0,3.5,4.0
+367,Tsutomu Miyazaki,SerialKiller,1.0,1.5,3.0,5.0,5.0
+368,Umar Farouk Abdulmutallab,Terrorist,1.0,3.0,5.0,5.0,5.0
+369,Urke Nachalnik,Gangster,3.0,3.0,3.5,3.0,4.5
+370,Van Tuong Nguyen,Druglord,3.0,3.0,4.5,3.0,4.0
+371,Velma Barfield,SerialKiller,1.0,3.0,5.0,5.0,3.0
+372,Velupillai Prabhakaran,Terrorist,2.0,2.5,5.0,3.0,4.5
+373,Victor Amuso,Druglord,3.0,3.0,4.0,3.0,3.5
+374,Vito Cascioferro,Gangster,3.0,3.0,5.0,3.0,3.5
+375,Vito Genovese,Druglord,3.0,3.0,4.5,2.5,3.0
+376,Vito Rizzuto,Druglord,3.5,3.5,5.0,2.5,3.5
+377,Vladimir Arutyunian,Terrorist,2.0,3.0,5.0,2.5,4.5
+378,Vlado Taneski,SerialKiller,2.5,3.0,4.5,3.0,4.5
+379,Víctor Polay,Terrorist,2.0,2.5,5.0,4.0,5.0
+380,Wail al-Shehri,Terrorist,3.5,4.0,5.0,3.0,5.0
+381,Waleed al-Shehri,Terrorist,3.0,3.0,4.5,2.5,3.0
+382,Wayne Williams,SerialKiller,3.0,3.0,4.0,3.0,4.5
+383,Whitey Bulger,Gangster,3.5,2.0,4.5,3.0,2.5
+384,Wilfried Böse,Terrorist,2.5,3.0,5.0,3.0,5.0
+385,William Bedford,Druglord,3.0,3.0,4.0,3.0,4.0
+386,William Bentvena,Gangster,3.5,3.0,4.5,3.0,3.5
+387,William Bonin,SerialKiller,2.0,1.0,4.0,3.0,2.5
+388,William Leonard Pickard,Druglord,3.0,3.0,5.0,3.0,4.5
+389,William T. Anderson,Gangster,2.5,3.5,4.5,3.0,4.5
+390,Willie Moretti,Gangster,4.5,3.0,4.5,3.0,4.0
+391,Yahya Sinwar,Terrorist,2.5,2.0,5.0,3.0,3.0
+392,Yakov Blumkin,Terrorist,3.0,3.0,5.0,3.0,5.0
+393,Yang Xinhai,SerialKiller,3.0,3.0,4.5,3.0,4.0
+394,Yasin Malik,Terrorist,3.0,3.0,4.5,3.0,4.0
+395,Yevno Azef,Terrorist,3.0,3.0,4.0,3.0,4.0
+396,Yoo Young-chul,SerialKiller,1.5,2.5,4.0,3.0,4.0
+397,Yoshio Kodama,Druglord,3.0,3.0,4.5,3.0,4.5
+398,Zodiac Killer,SerialKiller,1.5,1.5,5.0,3.0,5.0
+399,Ángel Maturino Reséndiz,SerialKiller,1.0,1.0,4.0,5.0,2.5
