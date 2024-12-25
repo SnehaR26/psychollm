@@ -1,0 +1,37 @@
+Model,group,test,Itemnum,times_unanswered,total_unanswered,entries_dropped,std
+GPT 4o,Good,BFI,9,4,8,0,0.5941509926
+GPT 4o,Good,SD3,26,66,72,0,0.57222
+GPT 4o,Bad,BFI,8,14,87,0,0.7584974
+GPT 4o,Bad,SD3,26,138,611,0,0.71542
+GPT 4o,Neutral,BFI,9,4,8,0,0.487768
+GPT 4o,Neutral,SD3,26,11,11,0,0.55082
+Claude,Good,BFI,0,0,0,0,0.3423724
+Claude,Good,SD3,26,177,757,0,0.39463388
+Claude,Bad,BFI,7,677,6279,76,0.52433
+Claude,Bad,SD3,26,1796,23827,85,0.419481688
+Claude,Neutral,BFI,7,1,1,0,0.301939
+Claude,Neutral,SD3,26,57,106,0,0.3858
+Llama 70B,Good,BFI,4,29,34,0,0.697917
+Llama 70B,Good,SD3,26,3565,3674,1,0.81944
+Llama 70B,Bad,BFI,4,359,5122,21,0.936212
+Llama 70B,Bad,SD3,26,4825,16730,137,0.686249
+Llama 70B,Neutral,BFI,4,16,21,0,0.69438
+Llama 70B,Neutral,SD3,26,4892,4943,2,0.7239
+Llama 8B,Good,BFI,0,0,0,0,0.662
+Llama 8B,Good,SD3,26,2575,2575,0,0.9898
+Llama 8B,Bad,BFI,32,45,447,6,0.93617
+Llama 8B,Bad,SD3,26,2716,2742,0,0.93834
+Llama 8B,Neutral,BFI,0,0,0,0,0.728257
+Llama 8B,Neutral,SD3,26,3556,3574,0,0.88639
+Falcon 11B,Good,BFI,39,2,4,0,1.62329
+Falcon 11B,Good,SD3,0,0,0,0,1.5857
+Falcon 11B,Bad,BFI,0,0,0,0,1.6195
+Falcon 11B,Bad,SD3,0,0,0,0,1.588
+Falcon 11B,Neutral,BFI,6,4,4,0,1.6101
+Falcon 11B,Neutral,SD3,0,0,0,0,1.565
+Falcon 7B,Good,BFI,0,0,0,0,1.286
+Falcon 7B,Good,SD3,0,0,0,0,1.4041
+Falcon 7B,Bad,BFI,0,0,0,0,1.2853
+Falcon 7B,Bad,SD3,0,0,0,0,1.4547
+Falcon 7B,Neutral,BFI,0,0,0,0,1.2318
+Falcon 7B,Neutral,SD3,0,0,0,0,1.45821
