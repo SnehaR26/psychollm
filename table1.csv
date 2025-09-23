@@ -1,0 +1,7 @@
+Model,Avg. standard deviation
+Claude 3.5 Sonnet,0.394
+GPT 4o,0.613
+Llama 70B,0.759
+Llama 8B I,0.856
+Falcon 11B,1.598
+Falcon 7B I,1.353
