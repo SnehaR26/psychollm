@@ -1,0 +1,20 @@
+Model,Group,Mach.,Narc.,Psych.
+Claude 3.5 Sonnet,Bad,4.1,4.022,3.849
+Claude 3.5 Sonnet,Good,2.652,3.373,1.834
+Claude 3.5 Sonnet,Neutral,2.923,3.957,2.279
+Falcon 11B,Bad,2.91,3.079,2.84
+Falcon 11B,Good,2.93,3.078,2.82
+Falcon 11B,Neutral,2.932,3.107,2.845
+Falcon 7B I,Bad,3.484,3.383,3.207
+Falcon 7B I,Good,3.53,3.411,3.214
+Falcon 7B I,Neutral,3.525,3.448,3.222
+GPT 4o,Bad,3.507,2.908,2.564
+GPT 4o,Good,3.566,2.994,3.282
+GPT 4o,Neutral,3.54,2.949,3.08
+Llama 70B,Bad,4.209,4.135,4.169
+Llama 70B,Good,3.152,3.784,2.672
+Llama 70B,Neutral,3.441,4.043,3.044
+Llama 8B I,Bad,4.383,3.731,3.837
+Llama 8B I,Good,3.54,3.607,2.978
+Llama 8B I,Neutral,3.759,3.774,3.234
+Study Avg.,,2.96,2.97,2.09
