@@ -1,4 +1,4 @@
-Model,Group,Mach.,Narc.,Psych.
+Model,Group,Machiavellianism,Narcissism,Psychopathy
 Claude 3.5 Sonnet,Bad,4.1,4.022,3.849
 Claude 3.5 Sonnet,Good,2.652,3.373,1.834
 Claude 3.5 Sonnet,Neutral,2.923,3.957,2.279
