@@ -1,20 +1,21 @@
-Model,Group,Ext.,Agr.,Con.,Neu.,Ope.
+Model,Group,Extraversion,Agreeableness,Conscientiousness,Neuroticism,Openness
 Claude 3.5 Sonnet,Bad,3.571,2.578,4.35,2.555,4.029
 Claude 3.5 Sonnet,Good,3.675,3.989,4.358,2.466,4.151
 Claude 3.5 Sonnet,Neutral,3.97,3.817,4.56,2.221,4.436
 Falcon 11B,Bad,3.062,3.135,3.141,2.807,3.025
 Falcon 11B,Good,3.057,3.177,3.173,2.778,3.052
 Falcon 11B,Neutral,3.054,3.163,3.174,2.791,3.028
-Falcon 7B,Bad,3.438,3.278,3.367,2.99,3.707
-Falcon 7B,Good,3.429,3.301,3.363,2.984,3.689
-Falcon 7B,Neutral,3.502,3.334,3.412,2.996,3.809
+Falcon 7B I,Bad,3.438,3.278,3.367,2.99,3.707
+Falcon 7B I,Good,3.429,3.301,3.363,2.984,3.689
+Falcon 7B I,Neutral,3.502,3.334,3.412,2.996,3.809
 GPT 4o,Bad,2.89,2.909,4.392,3.064,3.828
 GPT 4o,Good,3.179,3.83,4.617,2.667,4.27
 GPT 4o,Neutral,3.502,3.697,4.714,2.576,4.363
 Llama 70B,Bad,3.284,2.51,3.655,3.071,3.514
 Llama 70B,Good,3.438,4.119,4.086,2.59,4.147
 Llama 70B,Neutral,3.628,3.811,4.047,2.608,4.111
-Llama 8B,Bad,3.387,2.981,3.504,3.14,3.692
-Llama 8B,Good,3.492,3.599,3.71,2.811,3.797
-Llama 8B,Neutral,3.568,3.561,3.731,2.869,3.909
+Llama 8B I,Bad,3.387,2.981,3.504,3.14,3.692
+Llama 8B I,Good,3.492,3.599,3.71,2.811,3.797
+Llama 8B I,Neutral,3.568,3.561,3.731,2.869,3.909
 US avg.,,3.39,3.78,3.59,2.9,3.67
+
